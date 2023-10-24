@@ -1,0 +1,259 @@
+
+function drawMapAndTraces(svg, width, height) {
+
+  var mapContainer = svg.append("g").attr("class", "map-container")
+  var raster = mapContainer.append("g");
+
+  var initialScale = 1 / (2 * Math.PI);
+
+  var projection = d3.geoMercator().scale(initialScale).translate([0, 0]);
+
+  var path = d3.geoPath().projection(projection);
+
+  var tile = d3.tile().size([width, height]);
+
+  var zoom = d3.zoom().scaleExtent([1 << 11, 16000000]).on("zoom", zoomed);
+  var initialZoom = 24000;
+
+  var center = projection([3.25, 46.5]); // Initial center
+
+  //navigator.geolocation.getCurrentPosition(position => console.log(position));
+
+  var traceLine = d3.line()
+      .x(d => projection([d.fromLongitude, d.fromLatitude])[0])
+      .y(d => projection([d.fromLongitude, d.fromLatitude])[1]);
+
+  // Draw hike traces:
+  function drawHikes(hikeToSlices) {
+    mapContainer
+      .selectAll("path.line")
+      .data(data.hikes)
+      .join(
+        enter =>
+          enter
+            .append("path")
+            .attr("class", "line")
+            .attr("id", hike => `hike-trace-${hike.name}`)
+            .attr("d", hike => traceLine(hikeToSlices(hike)))
+            .style("stroke", "black") // #008EFC
+            .style("fill", "transparent")
+            .style("stroke-width", 2 / initialZoom),
+        update =>
+          update
+            .attr("d", hike => traceLine(hikeToSlices(hike))),
+        exit =>
+          exit.remove()
+      );
+  }
+
+  function drawScaleBar(zoomLevel, x, y) {
+    mapContainer.selectAll("g.scale").remove();
+    mapContainer
+      .append("g")
+      .attr("class", "scale")
+      .call(
+        d3.geoScaleBar()
+          .zoomClamp(false)
+          .projection(d3.geoMercator().translate([x, y]).scale(initialScale * zoomLevel))
+          .size([width, height])
+          .left(.02)
+          .top(.96)
+          .orient(d3.geoScaleTop)
+          .label(null)
+          .tickPadding(3)
+          .tickSize(0)
+          .tickFormat((d, i, e) => i === e.length - 1 ? `${d} km` : "")
+      )
+      .call(g =>
+        // Put the "xxx km" text in the middle:
+        g.selectAll("text")
+          .attr("transform", `translate(-${g.select("path.domain").node().getBoundingClientRect().width / 2})`)
+          .style("font-size", 12)
+      )
+      .call(g => g.selectAll("path").style("stroke-width", 2));
+  }
+
+  // Draw pictures:
+  function drawPictures(activate) {
+
+    mapContainer
+      .selectAll("image.picture-icon")
+      .data(data.photos.filter(photo => activate && photo.longitude && photo.latitude))
+      .join(
+        enter =>
+          enter
+            .append("svg:image")
+            .attr("class", "picture-icon")
+            .attr("id", photo => photo.name)
+            .attr("x", photo => projection([photo.longitude, photo.latitude])[0] - 8)
+            .attr("y", photo => projection([photo.longitude, photo.latitude])[1] - 8)
+            .attr("width", 16)
+            .attr("height", 16)
+            .style("cursor", "pointer")
+            .attr("xlink:href", "img/picture.png")
+            .on("click", (_, photo) => {
+              if (d3.selectAll(".photo-on-map-holder").empty()) {
+                displayPhoto(photo);
+              } else {
+                d3.selectAll(".photo-on-map-holder").remove();
+              }
+            }),
+        update =>
+          update,
+        exit =>
+          exit.remove()
+      );
+  }
+
+  function photoViewingDimensions(photo) {
+    var photoDisplayHeight = height;
+    var photoDisplayWidth = photo.width * height / photo.height;
+    if (photoDisplayWidth > width) {
+      photoDisplayWidth = width;
+      photoDisplayHeight = photo.height * width / photo.width;
+    }
+    return { width: photoDisplayWidth, height: photoDisplayHeight };
+  }
+
+  function displayPhoto(photo) {
+
+    var photoContainer = mapContainer.append("g").attr("class", "photo-on-map-holder");
+
+    photoContainer
+      .append("g")
+      .attr("class", "photo-click-exit-background")
+      .append("rect")
+      .style("fill", "grey")
+      .attr("x", 0)
+      .attr("y", 0)
+      .attr("width", width)
+      .attr("height", height)
+      .style("opacity", 0.6)
+      .on("click", _ => mapContainer.select(".photo-on-map-holder").remove());
+
+    var photoDimensions = photoViewingDimensions(photo);
+
+    photoContainer
+      .append("svg:image")
+      .attr("class", "photo-view-thumbnail")
+      .attr("x", (width - photoDimensions.width) / 2)
+      .attr("y", (height - photoDimensions.height) / 2)
+      .attr("width", photoDimensions.width)
+      .attr("height", photoDimensions.height)
+      .style("cursor", "pointer")
+      //.attr("xlink:href", `https://drive.google.com/uc?id=${photo.googleDriveId}&export=view`)
+      .attr("xlink:href", _ => {
+        if (photo.cameraMaker == "Panasonic") {
+          return `https://drive.google.com/thumbnail?id=${photo.googleDriveId}&export=download&sz=w${photoDimensions.width}`;
+        } else {
+          return `https://drive.google.com/thumbnail?id=${photo.googleDriveId}&export=download&sz=h${photoDimensions.height}`;
+        }
+      })
+      .on("click", _ => mapContainer.select(".photo-on-map-holder").remove());
+
+    photoContainer
+      .append("svg:image")
+      .attr("class", "photo-view-high-res")
+      .attr("x", (width - photoDimensions.width) / 2)
+      .attr("y", (height - photoDimensions.height) / 2)
+      .attr("width", photoDimensions.width)
+      .attr("height", photoDimensions.height)
+      .style("cursor", "pointer")
+      .attr("xlink:href", `https://drive.google.com/uc?id=${photo.googleDriveId}&export=view`)
+      .on("click", _ => mapContainer.select(".photo-on-map-holder").remove());
+  }
+
+  drawHikes(d => d.kilometerSlices);
+  drawPictures(false);
+
+  // Apply a zoom transform equivalent to projection.{scale,translate,center}.
+  mapContainer
+    .call(zoom)
+    .call(
+      zoom.transform,
+      d3.zoomIdentity
+        .translate(width / 2, height / 2)
+        .scale(initialZoom)
+        .translate(-center[0], -center[1])
+    );
+
+  var previousZoom = initialZoom;
+
+  function zoomed(event, d) {
+    var transform = event.transform;
+
+    // Redraw traces based on smaller or bigger distance slices depending on the level of zoom:
+    if (transform.k >= 47000 && previousZoom < 47000) {
+      drawHikes(d => d.hundredMeterSlices)
+    }
+    else if (transform.k >= 600000 && previousZoom < 600000) {
+      drawHikes(d => d.tenMeterSlices)
+    }
+    else if (transform.k < 600000 && previousZoom >= 600000) {
+      drawHikes(d => d.hundredMeterSlices)
+    }
+    else if (transform.k < 47000 && previousZoom >= 47000) {
+      drawHikes(d => d.kilometerSlices)
+    }
+
+    if (transform.k >= 300000 && previousZoom < 300000) {
+      drawPictures(true);
+    }
+    else if (transform.k < 300000 && previousZoom >= 300000) {
+      drawPictures(false); // i.e. remove pictures
+    }
+
+    previousZoom = transform.k;
+
+    var tiles = tile.scale(transform.k).translate([transform.x, transform.y])();
+
+    // Adapt the position and the size of hikes (gpx trace) to the new zoom/position:
+    mapContainer
+      .selectAll("path.line")
+      .attr("transform", transform)
+      .style("stroke-width", 2 / transform.k);
+
+    // Adapt the position and the size of pictures to the new zoom/position:
+    mapContainer
+      .selectAll("image.picture-icon")
+      .attr("transform", transform)
+      .attr("width", 16 / transform.k)
+      .attr("height", 16 / transform.k)
+      .attr("x", photo => projection([photo.longitude, photo.latitude])[0] - 8 / transform.k)
+      .attr("y", photo => projection([photo.longitude, photo.latitude])[1] - 8 / transform.k);
+
+    var image =
+      raster
+        .attr("transform", stringify(tiles.scale, tiles.translate))
+        .selectAll("image")
+        .data(tiles, d => d);
+
+    image.exit().remove();
+
+    image.enter().append("image")
+          // IGN:
+          //.attr("xlink:href", d => "https://igngp.geoapi.fr/tile.php/plan-ignv2/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
+          //.attr("xlink:href", d => "https://igngp.geoapi.fr/tile.php/cartes/qh80mpsn21g85yxnd8pv2t4s/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
+          // Thunderforest:
+          .attr("xlink:href", d => "https://tile.thunderforest.com/outdoors/" + d[2] + "/" + d[0] + "/" + d[1] + ".png?apikey=d21c3cd8bdf04051988c503abac1b038")
+          // Others:
+          //.attr("xlink:href", d => "https://" + "abc"[d[1] % 3] + ".tile.opentopomap.org/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
+          //.attr("xlink:href", d => "https://" + "tile.opentopomap.org/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
+          //.attr("xlink:href", d => "http://" + "abc"[d[1] % 3] + ".tile.openstreetmap.org/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
+        .attr("x", d => d[0] * 256)
+        .attr("y", d => d[1] * 256)
+        .attr("width", 256)
+        .attr("height", 256);
+
+    drawScaleBar(transform.k, transform.x, transform.y);
+  }
+
+  function stringify(scale, translate) {
+    var k = scale / 256, r = scale % 1 ? Number : Math.round;
+    return "translate(" + r(translate[0] * scale) + "," + r(translate[1] * scale) + ") scale(" + k + ")";
+  }
+}
+
+function cleanMapPage(svg) {
+  svg.select(".map-container").remove();
+}

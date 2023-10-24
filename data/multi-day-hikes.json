@@ -1,0 +1,3284 @@
+[
+  {
+    "name": "GR34 - Sentier des Douaniers (Brest => Pont l'Abbé)",
+    "contiguousHikes": [
+      "2023-10-22T16:32:51",
+      "2023-10-22T14:47:55",
+      "2023-10-22T08:42:40",
+      "2023-10-21T08:24:47",
+      "2023-10-19T17:03:10",
+      "2023-10-18T19:45:13",
+      "2023-10-18T16:08:25",
+      "2023-10-17T16:10:23",
+      "2023-10-15T16:24:19",
+      "2023-10-15T07:04:03",
+      "2023-10-14T07:33:45",
+      "2023-10-11T16:50:50",
+      "2023-10-09T17:12:47",
+      "2023-10-09T08:02:08",
+      "2023-10-08T19:15",
+      "2023-10-08T07:43:54",
+      "2023-10-07T18:51:33",
+      "2023-10-07T07:49:51",
+      "2023-10-06T19:36:53",
+      "2023-10-05T17:06:33",
+      "2023-10-03T19:05:52",
+      "2023-10-02T11:37:25",
+      "2023-10-01T18:35:33",
+      "2023-10-01T07:46:21",
+      "2023-09-30T07:38:03",
+      "2023-09-29T11:35:35",
+      "2023-09-27T17:12:30",
+      "2023-09-26T18:04:51",
+      "2023-09-25T19:27:37",
+      "2023-09-25T08:16:11",
+      "2023-09-24T19:42:04",
+      "2023-09-24T18:29:21",
+      "2023-09-24T08:01:19",
+      "2023-09-23T20:04:50",
+      "2023-09-23T18:30:42",
+      "2023-09-23T16:55:33",
+      "2023-09-23T08:45:08",
+      "2023-09-21T10:49:28",
+      "2023-09-19T15:57:03",
+      "2023-09-17T08:08:05",
+      "2023-09-16T20:11:54",
+      "2023-09-16T19:04:16",
+      "2023-09-16T08:01:38",
+      "2023-09-15T16:48:57",
+      "2023-09-15T11:22:36",
+      "2023-09-14T17:12:41",
+      "2023-09-13T16:48:55",
+      "2023-09-12T16:12:42",
+      "2023-09-11T10:45:46",
+      "2023-09-10T18:57:18",
+      "2023-09-10T18:14:21",
+      "2023-09-10T08:00:43",
+      "2023-09-09T07:19",
+      "2023-09-08T16:27:43"
+    ],
+    "start": "2023-09-08T16:27:43",
+    "end": "2023-10-22T18:21:16",
+    "days": 45,
+    "walkingDays": 31,
+    "distance": 670.0261390708605,
+    "elevation": 12951,
+    "durationInSeconds": 577240,
+    "idleTimeInSeconds": 73579,
+    "coordinates": {
+      "centerLatitude": 48.09487596619874,
+      "centerLongitude": -4.416439700871706,
+      "widthInKm": 48,
+      "heightInKm": 67
+    },
+    "timeline": [
+      {
+        "date": "2023-09-08",
+        "distance": 10.083424571875186,
+        "elevation": 117
+      },
+      {
+        "date": "2023-09-09",
+        "distance": 37.83618429678213,
+        "elevation": 820
+      },
+      {
+        "date": "2023-09-10",
+        "distance": 34.453647963787965,
+        "elevation": 436
+      },
+      {
+        "date": "2023-09-11",
+        "distance": 1.3879468662724483,
+        "elevation": 17
+      },
+      {
+        "date": "2023-09-12",
+        "distance": 7.20673509172788,
+        "elevation": 187
+      },
+      {
+        "date": "2023-09-13",
+        "distance": 13.021380655426922,
+        "elevation": 266
+      },
+      {
+        "date": "2023-09-14",
+        "distance": 8.211146394856389,
+        "elevation": 188
+      },
+      {
+        "date": "2023-09-15",
+        "distance": 7.951563177948628,
+        "elevation": 129
+      },
+      {
+        "date": "2023-09-16",
+        "distance": 30.854871251980214,
+        "elevation": 526
+      },
+      {
+        "date": "2023-09-17",
+        "distance": 38.75735798211707,
+        "elevation": 845
+      },
+      {
+        "date": "2023-09-18",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-09-19",
+        "distance": 13.361874267134766,
+        "elevation": 250
+      },
+      {
+        "date": "2023-09-20",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-09-21",
+        "distance": 10.135046452053357,
+        "elevation": 136
+      },
+      {
+        "date": "2023-09-22",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-09-23",
+        "distance": 28.467773478752783,
+        "elevation": 512
+      },
+      {
+        "date": "2023-09-24",
+        "distance": 34.776571896323034,
+        "elevation": 874
+      },
+      {
+        "date": "2023-09-25",
+        "distance": 5.901465813994142,
+        "elevation": 132
+      },
+      {
+        "date": "2023-09-26",
+        "distance": 11.041009465062677,
+        "elevation": 243
+      },
+      {
+        "date": "2023-09-27",
+        "distance": 13.815272118510057,
+        "elevation": 345
+      },
+      {
+        "date": "2023-09-28",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-09-29",
+        "distance": 2.9916821584231172,
+        "elevation": 56
+      },
+      {
+        "date": "2023-09-30",
+        "distance": 33.445239482879714,
+        "elevation": 916
+      },
+      {
+        "date": "2023-10-01",
+        "distance": 37.14606876829791,
+        "elevation": 856
+      },
+      {
+        "date": "2023-10-02",
+        "distance": 10.237107121655802,
+        "elevation": 94
+      },
+      {
+        "date": "2023-10-03",
+        "distance": 5.033829038588402,
+        "elevation": 102
+      },
+      {
+        "date": "2023-10-04",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-10-05",
+        "distance": 10.248908755679718,
+        "elevation": 86
+      },
+      {
+        "date": "2023-10-06",
+        "distance": 1.169664624113916,
+        "elevation": 40
+      },
+      {
+        "date": "2023-10-07",
+        "distance": 31.137171043812568,
+        "elevation": 612
+      },
+      {
+        "date": "2023-10-08",
+        "distance": 39.40528246859164,
+        "elevation": 1452
+      },
+      {
+        "date": "2023-10-09",
+        "distance": 13.022253246164166,
+        "elevation": 229
+      },
+      {
+        "date": "2023-10-10",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-10-11",
+        "distance": 10.858068935911357,
+        "elevation": 246
+      },
+      {
+        "date": "2023-10-12",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-10-13",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-10-14",
+        "distance": 37.03838402876449,
+        "elevation": 931
+      },
+      {
+        "date": "2023-10-15",
+        "distance": 38.731862875107225,
+        "elevation": 258
+      },
+      {
+        "date": "2023-10-16",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-10-17",
+        "distance": 10.046674088212322,
+        "elevation": 121
+      },
+      {
+        "date": "2023-10-18",
+        "distance": 15.886644115711913,
+        "elevation": 255
+      },
+      {
+        "date": "2023-10-19",
+        "distance": 4.377004719069213,
+        "elevation": 73
+      },
+      {
+        "date": "2023-10-20",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-10-21",
+        "distance": 28.390918067038598,
+        "elevation": 346
+      },
+      {
+        "date": "2023-10-22",
+        "distance": 33.59610378823245,
+        "elevation": 235
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 48.398975930885214,
+        "longitude": -4.4083781449320965
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.365145736354435,
+        "longitude": -4.374484503660527
+      },
+      {
+        "type": "gite",
+        "latitude": 48.32376320746085,
+        "longitude": -4.294304966030481
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.29762043837434,
+        "longitude": -4.186002990605082
+      },
+      {
+        "type": "gite",
+        "latitude": 48.26324401694037,
+        "longitude": -4.358253479416152
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.293063293089745,
+        "longitude": -4.52359476916721
+      },
+      {
+        "type": "gite",
+        "latitude": 48.27251952802692,
+        "longitude": -4.583821062963338
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.22611257668925,
+        "longitude": -4.504269560458325
+      },
+      {
+        "type": "gite",
+        "latitude": 48.16831001736872,
+        "longitude": -4.286701936603306
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.10046791906045,
+        "longitude": -4.3471480131345945
+      },
+      {
+        "type": "gite",
+        "latitude": 48.056649340042874,
+        "longitude": -4.639947789799029
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.01266655170505,
+        "longitude": -4.547911477620908
+      },
+      {
+        "type": "gite",
+        "latitude": 47.83630595194566,
+        "longitude": -4.339530135417758
+      },
+      {
+        "type": "hotel",
+        "latitude": 47.797639501942456,
+        "longitude": -4.215230008103182
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/q1jr2z",
+    "photo": "P1055224.JPG",
+    "type": "Télétravail en gites",
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
+    "name": "Tour des Combins",
+    "contiguousHikes": [
+      "2023-09-01T08:26:20",
+      "2023-08-31T07:53:12",
+      "2023-08-30T06:59:43",
+      "2023-08-29T10:28:06",
+      "2023-08-29T07:25:58",
+      "2023-08-28T11:58:31",
+      "2023-08-28T08:14:59",
+      "2023-08-27T14:36:26",
+      "2023-08-27T08:16:03",
+      "2023-08-26T17:01:49"
+    ],
+    "overridenHikes": [
+      "2023-09-01T08:26:20",
+      "2023-08-31T07:53:12",
+      "2023-08-30T06:59:43",
+      "2023-08-29T10:28:06",
+      "2023-08-29T07:25:58",
+      "2023-08-28T11:58:31",
+      "2023-08-28T08:14:59",
+      "2023-08-27T14:36:26",
+      "2023-08-27T08:16:03"
+    ],
+    "start": "2023-08-27T08:16:03",
+    "end": "2023-09-01T15:35:22",
+    "days": 6,
+    "walkingDays": 6,
+    "distance": 110.44175159801914,
+    "elevation": 6230,
+    "durationInSeconds": 153759,
+    "idleTimeInSeconds": 24973,
+    "coordinates": {
+      "centerLatitude": 45.92958948109299,
+      "centerLongitude": 7.269615484401584,
+      "widthInKm": 17,
+      "heightInKm": 23
+    },
+    "timeline": [
+      {
+        "date": "2023-08-27",
+        "distance": 15.224266307537434,
+        "elevation": 1262
+      },
+      {
+        "date": "2023-08-28",
+        "distance": 14.737416088360476,
+        "elevation": 1141
+      },
+      {
+        "date": "2023-08-29",
+        "distance": 17.718081445884415,
+        "elevation": 964
+      },
+      {
+        "date": "2023-08-30",
+        "distance": 23.445856151781147,
+        "elevation": 1164
+      },
+      {
+        "date": "2023-08-31",
+        "distance": 17.48539927414171,
+        "elevation": 582
+      },
+      {
+        "date": "2023-09-01",
+        "distance": 21.83073233031396,
+        "elevation": 1113
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 45.95198531844047,
+        "longitude": 7.208085602980233
+      },
+      {
+        "type": "refuge",
+        "latitude": 46.01371556838183,
+        "longitude": 7.2067314113566505,
+        "name": "Cabane de Mille"
+      },
+      {
+        "type": "refuge",
+        "latitude": 45.99874843466857,
+        "longitude": 7.299774755834402,
+        "name": "Cabane de Panossière"
+      },
+      {
+        "type": "refuge",
+        "latitude": 45.93918155529519,
+        "longitude": 7.3809377893363015,
+        "name": "Cabane de Chanrion"
+      },
+      {
+        "type": "refuge",
+        "latitude": 45.84996918780354,
+        "longitude": 7.269190254590149,
+        "name": "Rifugio Champillon"
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.82209150178659,
+        "longitude": 7.172343006587718
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.95131235738403,
+        "longitude": 7.2094723842341795
+      }
+    ],
+    "descriptionFR": "Pour ce qui est devenu notre tradition de fin d'été avec Alice, nous partons pour notre 3ème itinérance, cette fois-ci à la frontière entre la Suisse et l'Italie, sur le Tour des Combins<br><br><span style=\"font-weight:bold;\">Récit par Alice:</span><br><br>Arrivés sous un soleil timide au village de Bourg-Saint-Pierre, nous voilà donc en Suisse pour un périple de 6 jours autour des Combins.<br>Première soirée à l’auberge des Charmettes, ne donnant pas le change, où nous avons cassé la fameuse \"croûte\" locale sur plusieurs \"étages\", pour bien recharger les batteries avant le départ! Hôtes fort sympathiques, tout comme leur \"Service !\".<br><br><span style=\"font-weight:bold;\">1ère étape</span> - Bourg-Saint-Pierre > Cabane de Mille:<br>De Bourg-Saint-Pierre, direction la cabane de Mille, sous le Mont Brûlé. Ce dernier n’aura pas trop brûlé de chaud lors de notre passage cependant, bien emmitouflé dans un épais brouillard, qui nous a laissé goûter à la pluie pendant presque toute cette première journée. Heureusement, bien équipée d’un parapluie, l’une de nous sera arrivée presque au sec au refuge!<br>Première nuit bien solitaire mais finalement au chaud dans le refuge. Nous qui avions prévu tout le matériel pour dormir en tente, nous voilà bien moins téméraires en voyant le temps se dégrader... Les nuages nous ont quand même laissé apercevoir des femelles Tétras, bien installées en haut du Mont Brûlé.<br><br><span style=\"font-weight:bold;\">2ème étape</span> - Cabane de Mille > Cabane de Panossière:<br>Quelle surprise en se levant en ouvrant les rideaux! La neige estivale est arrivée pendant la nuit. Nous sommes pris d'un fou rire en repensant à notre hésitation la veille entre dormir en tente ou au refuge! Ambiance chalet avec feu de bois et café bien chaud ce matin pour se préparer à la journée. Premieres sensations de fraîcheur en prenant quelques photos au pied du refuge, sous le vent du col de Mille, qui annoncent une journée de marche sans raquettes et dans la neige, plutôt intéressante... Direction la cabane de Brunet, rapidement pour redescendre sous la limite pluie/neige et aller manger au sec, et surtout boire un bon chocolat chaud. Peu de gens croisés sur le chemin, seulement beaucoup de vaches, qui ne resterons finalement pas plus longtemps dans les alpages!<br>Suivis par nos camarades suédoises et néerlandaises (que nous recroiserons presque tous les jours), nous voilà repartis vers la neige des hauteurs en sortant de la cabane. Après une première traversée d'un pont suspendu, nous arrivons à la Passerelle de Corbassière, qui aujourd'hui ne laisse pas voir sa fin, engloutie dans les nuages. Le glacier de Corbassière dont la passerelle surplombait auparavant l'extrêmité est recouvert de neige, tout comme le chemin, qui avec l’altitude s’efface de plus en plus. C’est l occasion de faire ma première chute. Finalement plus de rire que de mal! Dommage pour la vue sur le glacier, mais nous sommes probablement peu à avoir eu l'occasion de voir la passerelle au milieu d'autant de neige en cette saison!<br>L’arrivée à la Panossière se corse progressivement avec de plus en plus de neige. Chaque pas valant sa peine, nous arrivons les premiers au refuge.<br>Quelques parties d’échec nous ont fait passé le temps jusqu'au repas, encore une fois très sympathique.<br><br><span style=\"font-weight:bold;\">3ème étape</span> - Cabane de Panossière > Cabane de Chanrion:<br>Ce matin c’est bien 20cm de neige que nous avons sous nos chaussures en débutant la marche! Nous partons en tête du groupe pour faire les premières traces. Malheureusement, nos pas nous referont descendre dans la vallée, sans passer par le col des Otanes, trop dangereux sans matériel adapté à la quantité de neige tombée.<br>Peu importe, nous voilà partis pour 1200m de dénivelé négatif, que nous attaquons à pleine dent, sans nous arrêter au sarcastique \"Mont Repos\" pour admirer sa vue sur les tables de pique nique! Arrivés dans le bas de la vallée, nous embarquons dans un bus direction Mauvoisin pour poursuivre notre route là où la descente du col Otanes nous aurait amenée.<br>Chauffeur narquois comme on les aime. Digne d'un montagnard.<br>A Mauvoisin, hop c’est reparti. Surprenant d’emblée, le chemin nous fait emprunter des tunnels creusés dans la montagne pour arriver en haut du barrage, que nous traversons toujours sous les nuages. Le lac se confond avec les nuages, d’un bleu turquoise fondu dans le blanc. Ambiance feutrée initiale qui se transforme en une ambiance digne de Hitchcock à la fin de la traversée: une alarme retentit, sans que nous ne puissions comprendre d’où elle provient. Ok j’avoue, j’ai paniqué.<br>Une fois traversé, le barrage nous donne accès à une suite de tunnels sur la rive droite du lac. Nous mangeons rapidement en nous abritant du vent puis nous repartons dans la neige. Le chemin est long ce jour là. Fatiguant, sous un vent plus acerbe. Nous recroisons nos amies les vaches, intéressées par notre venue, ce qui nous fait hâter un peu le pas... puis nous arrivons au passage du col de Tsofeiret. Montée impeccable dans une neige immaculée, qui nous fait découvrir dans les nuages quelques bouquetins trônant fièrement sur leur rocher. Mais le plaisir s’arrête assez brutalement à la redescente du col, abrupte et glissante, noyés dans un épais brouillard: bref, flippant. Heureusement aucune encombre à déclarer. Le refuge fut assez long ce jour là à rejoindre, et la douche chaude, incroyable!<br>Nous y voyons quelques marmottes, bien guillerettes dans la neige.<br>Et nous y mangeons une polenta digne des grands chefs dont on se souviendra longtemps...<br><br><span style=\"font-weight:bold;\">4ème étape</span> - Cabane de Chanrion > Refuge de Champillon:<br>Étape encore magnifique sur la neige et sous des nuages de moins en moins couvrants, laissant apercevoir quelques traits de lumière affleurant la neige.<br>Montée incroyable en tête, dans la neige immaculée. Un silence majestueux. Probablement les moments les plus solitaires de la randonnée. Nous voilà contents de prendre en photo le panneau du col de Durand, mais cela passe bien vite, avec le vent glacial provenant de l'autre versant qui nous gèle en quelques minutes. La descente s’annonce compliquée, avec des passages pentus et glacés. La montée d'adrénaline est bien là compensant cette descente légèrement stressante... Bien contente d’arriver dans la vallée et de retrouver le plancher des vaches finalement quelques kilomètres plus loins, dans la vallée d'Aoste, car oui nous venons de traverser la frontière, et avec elle, le soleil est revenu!!<br>Nous soufflons tranquillement et nous voilà parti pour un long sentier en balcon jusqu'au refuge de Champillon, enfin jusqu’à 1 kilomètre de celui-ci et les 300 derniers mètres de dénivelé positif pour bien finir la journée... les 50 derniers mètres n’avaient jamais parus aussi longs!<br>Encore une fois, RIP la tente, nous voilà hébergés pour la nuit dans le refuge, ça ferra des affaires en moins à nettoyer au retour...<br><br><span style=\"font-weight:bold;\">5ème étape</span> - Refuge de Champillon > Saint-Rhémy:<br>Première étage sous le soleil au départ. On découvre un autre paysage, et des bouquetins à nouveau qui se prélassent au soleil. Magie, le Mont Blanc et le Grand Paradis se découvrent et nous offrent un magnifique panorama. Plus qu'à descendre, après une halte pour manger et trouver des toilettes, aux sons des camions et motos jusqu’à Saint Rémy. Bon ok, il y avait ce jour là 2km en trop, mais l’hôtel a été revigorant et nous a permis de goûter au bleu d'Aoste, dont nous gardons un souvenir gustatif assez fameux.<br><br><span style=\"font-weight:bold;\">6ème étape</span> - Saint-Rhémy > Bourg-Saint-Pierre:<br>Dernière étape vers le col du Grand Saint Bernard et sa descente vers Bourg-Saint-Pierre.<br>C’est parti pour 1km de dénivelé positif jusqu'au col. Finalement, facile. Arrivée pour l'heure de manger au col, avec les motards et des chiens (Saint Bernards) que nous ne verrons que de très loin. Redescente rapide vers la vallée par la suite, pour finir cette boucle sous les chapeaux de roue!<br><br><span style=\"font-weight:bold;\">Quelques notes (Xavier):</span><br><br>La présence de la neige a donné une toute autre dimension à ce Tour des Combins. Donnant cette ambiance haute montagne d'hiver mais sans risque d'avalanche. Les sentiers disparaissent sous la neige, nous forçant à choisir notre trace, et nous laissant parfois nous enfoncer à mi-cuisse là où le vent a accumulé la neige. Les luminosités sont différentes et les sons étouffés. Surement rebutés par la neige, d'autres randonneurs ne sont ainsi pas montés, nous laissant apprécier un immense espace de solitude. Inattendu en plein été, ça fera un très bon souvenir!<br><br>Sinon, c'est la premère fois que je vois des Tétras! Un groupe de 5 ou 6. Surprenant de les voir se dandiner dans la brume pour toujours laisser une distance de sécurité d'une dizaine de mètres au moindre de nos mouvements.<br><br>Dans des conditions météo normales, cette itinérance n'a pas de difficultés techniques.<br><br>Les \"Cabanes\" (Cabane de Mille, Cabane de la Panossière, ...) sont en réalité des refuges (luxueux même). \"Cabane\" est utilisé pour signifier refuge en Suisse.",
+    "lighterPack": "https://lighterpack.com/r/0fksbl",
+    "photo": "P1044190.JPG",
+    "type": "Itinérance en refuges",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "Traversée de Belledonne (basée sur le GR738)",
+    "contiguousHikes": [
+      "2023-08-16T04:40:12",
+      "2023-08-15T06:53:02",
+      "2023-08-14T07:15:25",
+      "2023-08-13T07:23:26",
+      "2023-08-12T08:09:58",
+      "2023-08-11T07:35:28",
+      "2023-08-10T07:52:25",
+      "2023-08-09T07:05:28",
+      "2023-08-08T07:52:26",
+      "2023-08-07T08:29:06",
+      "2023-08-06T08:02:53",
+      "2023-08-05T13:06:37",
+      "2023-08-05T12:40:18"
+    ],
+    "overridenHikes": [
+      "2023-08-15T06:53:02",
+      "2023-08-14T07:15:25",
+      "2023-08-13T07:23:26",
+      "2023-08-12T08:09:58",
+      "2023-08-11T07:35:28",
+      "2023-08-10T07:52:25",
+      "2023-08-09T07:05:28",
+      "2023-08-08T07:52:26",
+      "2023-08-07T08:29:06",
+      "2023-08-06T08:02:53"
+    ],
+    "start": "2023-08-06T08:02:53",
+    "end": "2023-08-15T14:29:49",
+    "days": 10,
+    "walkingDays": 10,
+    "distance": 212.79489488864954,
+    "elevation": 16279,
+    "durationInSeconds": 296142,
+    "idleTimeInSeconds": 46148,
+    "coordinates": {
+      "centerLatitude": 45.36991300061345,
+      "centerLongitude": 6.060901754535735,
+      "widthInKm": 54,
+      "heightInKm": 67
+    },
+    "timeline": [
+      {
+        "date": "2023-08-06",
+        "distance": 20.505718084307453,
+        "elevation": 2196
+      },
+      {
+        "date": "2023-08-07",
+        "distance": 22.000727098307404,
+        "elevation": 1139
+      },
+      {
+        "date": "2023-08-08",
+        "distance": 29.933815570491397,
+        "elevation": 2708
+      },
+      {
+        "date": "2023-08-09",
+        "distance": 20.13029978874667,
+        "elevation": 1867
+      },
+      {
+        "date": "2023-08-10",
+        "distance": 13.842715123582783,
+        "elevation": 1365
+      },
+      {
+        "date": "2023-08-11",
+        "distance": 21.93317168426811,
+        "elevation": 1836
+      },
+      {
+        "date": "2023-08-12",
+        "distance": 13.011930215693086,
+        "elevation": 1528
+      },
+      {
+        "date": "2023-08-13",
+        "distance": 16.92563978994312,
+        "elevation": 1332
+      },
+      {
+        "date": "2023-08-14",
+        "distance": 23.164485574060457,
+        "elevation": 1762
+      },
+      {
+        "date": "2023-08-15",
+        "distance": 31.34639195924907,
+        "elevation": 541
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 45.6716382800494,
+        "longitude": 6.386137096516427
+      },
+      {
+        "type": "bivouac",
+        "latitude": 45.589142023041006,
+        "longitude": 6.364578308493795,
+        "name": "Refuge de la Thuile"
+      },
+      {
+        "type": "bivouac",
+        "latitude": 45.54239302433661,
+        "longitude": 6.303188282735251,
+        "name": "Aire de bivouac de l'office du tourisme"
+      },
+      {
+        "type": "bivouac",
+        "latitude": 45.438591712037244,
+        "longitude": 6.217970197868834,
+        "name": "Lac des Grenouilles"
+      },
+      {
+        "type": "bivouac",
+        "latitude": 45.37912237742848,
+        "longitude": 6.142241495512214,
+        "name": "Refuge de la Pierre du Carré"
+      },
+      {
+        "type": "bivouac",
+        "latitude": 45.314562570843165,
+        "longitude": 6.135635681772054,
+        "name": "Refuge de l'Oule"
+      },
+      {
+        "type": "bivouac",
+        "latitude": 45.26459834876597,
+        "longitude": 6.113569925483177,
+        "name": "Refuge de la Combe Madame"
+      },
+      {
+        "type": "bivouac",
+        "latitude": 45.24874140809123,
+        "longitude": 6.078189807401031,
+        "name": "Refuge des Sept Laux"
+      },
+      {
+        "type": "bivouac",
+        "latitude": 45.19331068967548,
+        "longitude": 5.9679720442987945,
+        "name": "Refuge Jean Collet"
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.1135805764719,
+        "longitude": 5.878503706586698
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.16820273473177,
+        "longitude": 5.7119192948836215
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/f1w2ep",
+    "photo": "P1043366.JPG",
+    "type": "Itinérance en bivouac",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "GR34 - Sentier des Douaniers (Paimpol => La Cotentin)",
+    "contiguousHikes": [
+      "2023-07-24T13:09:33",
+      "2023-07-23T15:49:57",
+      "2023-07-22T15:26:23",
+      "2023-07-21T21:25:56",
+      "2023-07-19T14:37:36",
+      "2023-07-18T17:43:54",
+      "2023-07-16T07:00:41",
+      "2023-07-15T08:27:05",
+      "2023-07-14T19:42:12",
+      "2023-07-14T18:52:32",
+      "2023-07-14T06:47:34",
+      "2023-07-13T19:08:08",
+      "2023-07-13T18:26:02"
+    ],
+    "overridenHikes": [
+      "2023-07-16T07:00:41",
+      "2023-07-15T08:27:05",
+      "2023-07-14T19:42:12",
+      "2023-07-14T18:52:32",
+      "2023-07-14T06:47:34"
+    ],
+    "start": "2023-07-14T06:47:34",
+    "end": "2023-07-16T15:26:18",
+    "days": 3,
+    "walkingDays": 3,
+    "distance": 110.45121547193287,
+    "elevation": 3075,
+    "durationInSeconds": 98014,
+    "idleTimeInSeconds": 9749,
+    "coordinates": {
+      "centerLatitude": 48.63458964508027,
+      "centerLongitude": -2.8201123606413603,
+      "widthInKm": 32,
+      "heightInKm": 32
+    },
+    "timeline": [
+      {
+        "date": "2023-07-14",
+        "distance": 41.386946495995396,
+        "elevation": 1342
+      },
+      {
+        "date": "2023-07-15",
+        "distance": 35.45763889186082,
+        "elevation": 1057
+      },
+      {
+        "date": "2023-07-16",
+        "distance": 33.60663008407666,
+        "elevation": 675
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 48.78033151627652,
+        "longitude": -3.044896976677656
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.65190471231359,
+        "longitude": -2.832056060499177
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.51588014660366,
+        "longitude": -2.7632712371875043
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/lueuzm",
+    "photo": "P1020248.JPG",
+    "type": "Randonnée sur le week-end",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "Tour du Beaufortain",
+    "contiguousHikes": [
+      "2023-07-09T07:26:11",
+      "2023-07-08T07:15:23",
+      "2023-07-07T19:32:32",
+      "2023-07-07T10:44:33",
+      "2023-07-06T18:15:52",
+      "2023-07-03T10:25:21",
+      "2023-07-02T07:44:49",
+      "2023-07-01T07:01:03",
+      "2023-06-28T16:12:39",
+      "2023-06-27T11:09:09",
+      "2023-06-25T06:41:57",
+      "2023-06-24T16:10:41",
+      "2023-06-24T06:41:40",
+      "2023-06-23T18:41:18"
+    ],
+    "start": "2023-06-23T18:41:18",
+    "end": "2023-07-09T12:59:35",
+    "days": 17,
+    "walkingDays": 7,
+    "distance": 191.7562934908897,
+    "elevation": 12348,
+    "durationInSeconds": 209348,
+    "idleTimeInSeconds": 23381,
+    "coordinates": {
+      "centerLatitude": 45.677400352433324,
+      "centerLongitude": 6.550754508934915,
+      "widthInKm": 26,
+      "heightInKm": 27
+    },
+    "timeline": [
+      {
+        "date": "2023-06-23",
+        "distance": 0.3437143856595975,
+        "elevation": 0
+      },
+      {
+        "date": "2023-06-24",
+        "distance": 32.124285345608854,
+        "elevation": 1981
+      },
+      {
+        "date": "2023-06-25",
+        "distance": 33.96826412609309,
+        "elevation": 2553
+      },
+      {
+        "date": "2023-06-26",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-06-27",
+        "distance": 2.1707804027458937,
+        "elevation": 50
+      },
+      {
+        "date": "2023-06-28",
+        "distance": 10.047513025147408,
+        "elevation": 361
+      },
+      {
+        "date": "2023-06-29",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-06-30",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-07-01",
+        "distance": 29.87927263655316,
+        "elevation": 2318
+      },
+      {
+        "date": "2023-07-02",
+        "distance": 36.007716936478005,
+        "elevation": 1551
+      },
+      {
+        "date": "2023-07-03",
+        "distance": 0.4380283241903374,
+        "elevation": 24
+      },
+      {
+        "date": "2023-07-04",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-07-05",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-07-06",
+        "distance": 0.5255543329591361,
+        "elevation": 25
+      },
+      {
+        "date": "2023-07-07",
+        "distance": 0.793104032213094,
+        "elevation": 53
+      },
+      {
+        "date": "2023-07-08",
+        "distance": 27.272535364656175,
+        "elevation": 3033
+      },
+      {
+        "date": "2023-07-09",
+        "distance": 18.185524578584932,
+        "elevation": 394
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 45.67167022001976,
+        "longitude": 6.386145148737077
+      },
+      {
+        "type": "gite",
+        "latitude": 45.71653287058798,
+        "longitude": 6.574770786297161
+      },
+      {
+        "type": "refuge",
+        "latitude": 45.78103825366726,
+        "longitude": 6.691869853898917,
+        "name": "Refuge La Roselette"
+      },
+      {
+        "type": "refuge",
+        "latitude": 45.64832960590555,
+        "longitude": 6.66398660879759,
+        "name": "Gite du Presset"
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/nqjos4",
+    "photo": "P1019466.JPG",
+    "type": "Télétravail en gite",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "GR91 - Traversée du Vercors (Grenoble => Die)",
+    "contiguousHikes": [
+      "2023-06-15T06:21:18",
+      "2023-06-14T14:48:51",
+      "2023-06-14T07:39:18",
+      "2023-06-13T07:19:14",
+      "2023-06-12T07:16:53",
+      "2023-06-11T15:34:32",
+      "2023-06-11T06:55:02",
+      "2023-06-10T18:31:01",
+      "2023-06-10T17:15:26"
+    ],
+    "overridenHikes": [
+      "2023-06-14T14:48:51",
+      "2023-06-14T07:39:18",
+      "2023-06-13T07:19:14",
+      "2023-06-12T07:16:53",
+      "2023-06-11T15:34:32",
+      "2023-06-11T06:55:02"
+    ],
+    "start": "2023-06-11T06:55:02",
+    "end": "2023-06-14T14:58:01",
+    "days": 4,
+    "walkingDays": 4,
+    "distance": 103.98958496457894,
+    "elevation": 4454,
+    "durationInSeconds": 116356,
+    "idleTimeInSeconds": 15968,
+    "coordinates": {
+      "centerLatitude": 44.97321546077728,
+      "centerLongitude": 5.544873280450702,
+      "widthInKm": 27,
+      "heightInKm": 48
+    },
+    "timeline": [
+      {
+        "date": "2023-06-11",
+        "distance": 23.2438092999925,
+        "elevation": 1783
+      },
+      {
+        "date": "2023-06-12",
+        "distance": 30.0338520581113,
+        "elevation": 1389
+      },
+      {
+        "date": "2023-06-13",
+        "distance": 28.511298367821066,
+        "elevation": 1107
+      },
+      {
+        "date": "2023-06-14",
+        "distance": 22.20062523865408,
+        "elevation": 174
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 45.192827509592924,
+        "longitude": 5.717223804218827
+      },
+      {
+        "type": "bivouac",
+        "latitude": 45.1259,
+        "longitude": 5.62515
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.031371709451065,
+        "longitude": 5.526840541771775
+      },
+      {
+        "type": "bivouac",
+        "latitude": 44.85754020908282,
+        "longitude": 5.496149412505405
+      },
+      {
+        "type": "hotel",
+        "latitude": 44.75371900603469,
+        "longitude": 5.372136199070101
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/bxks7m",
+    "photo": "P1018072.JPG",
+    "type": "Itinérance en bivouac",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "Crêt de la Neige",
+    "contiguousHikes": [
+      "2023-05-29T16:07:53",
+      "2023-05-29T06:01:47",
+      "2023-05-28T09:20:56",
+      "2023-05-27T13:14:34"
+    ],
+    "overridenHikes": [
+      "2023-05-29T16:07:53",
+      "2023-05-29T06:01:47",
+      "2023-05-28T09:20:56"
+    ],
+    "start": "2023-05-28T09:20:56",
+    "end": "2023-05-29T16:40:03",
+    "days": 2,
+    "walkingDays": 2,
+    "distance": 58.718473796161305,
+    "elevation": 2936,
+    "durationInSeconds": 59627,
+    "idleTimeInSeconds": 5367,
+    "coordinates": {
+      "centerLatitude": 46.23916074167937,
+      "centerLongitude": 5.940550155937672,
+      "widthInKm": 18,
+      "heightInKm": 28
+    },
+    "timeline": [
+      {
+        "date": "2023-05-28",
+        "distance": 22.746351291264723,
+        "elevation": 1627
+      },
+      {
+        "date": "2023-05-29",
+        "distance": 35.97212250489658,
+        "elevation": 1308
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 46.332551026647266,
+        "longitude": 6.060498944174317
+      },
+      {
+        "type": "bivouac",
+        "latitude": 46.29289231157943,
+        "longitude": 5.954467105496979,
+        "name": "Refuge de la Loge"
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/yxrb4g",
+    "photo": "P1017496.JPG",
+    "type": "Randonnée sur le week-end",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "GR2024 - Tour de Paris",
+    "overridenHikes": [
+      "2023-05-14T07:58:40",
+      "2023-05-13T07:36:25"
+    ],
+    "start": "2023-05-13T07:36:25",
+    "end": "2023-05-14T12:43:19",
+    "days": 2,
+    "walkingDays": 2,
+    "distance": 56.01882637634806,
+    "elevation": 381,
+    "durationInSeconds": 37726,
+    "idleTimeInSeconds": 180,
+    "coordinates": {
+      "centerLatitude": 48.85918240528554,
+      "centerLongitude": 2.3278373619541526,
+      "widthInKm": 12,
+      "heightInKm": 9
+    },
+    "timeline": [
+      {
+        "date": "2023-05-13",
+        "distance": 31.031957119077475,
+        "elevation": 225
+      },
+      {
+        "date": "2023-05-14",
+        "distance": 24.986869257270584,
+        "elevation": 155
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "photo": "P1016443.JPG",
+    "type": "Randonnée sur le week-end",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "CWT - Cape Wrath Trail (first half)",
+    "contiguousHikes": [
+      "2023-04-27T07:40:22",
+      "2023-04-26T08:05:42",
+      "2023-04-25T07:52:55",
+      "2023-04-24T08:59:44",
+      "2023-04-23T08:53:54",
+      "2023-04-22T08:57:40",
+      "2023-04-22T07:56:58",
+      "2023-04-21T23:11:59"
+    ],
+    "overridenHikes": [
+      "2023-04-27T07:40:22",
+      "2023-04-26T08:05:42",
+      "2023-04-25T07:52:55",
+      "2023-04-24T08:59:44",
+      "2023-04-23T08:53:54",
+      "2023-04-22T08:57:40",
+      "2023-04-22T07:56:58"
+    ],
+    "start": "2023-04-22T07:56:58",
+    "end": "2023-04-27T13:06:43",
+    "days": 6,
+    "walkingDays": 6,
+    "distance": 172.28703931483884,
+    "elevation": 5362,
+    "durationInSeconds": 202588,
+    "idleTimeInSeconds": 36135,
+    "coordinates": {
+      "centerLatitude": 57.129689496941864,
+      "centerLongitude": -5.317418854683638,
+      "widthInKm": 24,
+      "heightInKm": 80
+    },
+    "timeline": [
+      {
+        "date": "2023-04-22",
+        "distance": 38.63817994583203,
+        "elevation": 693
+      },
+      {
+        "date": "2023-04-23",
+        "distance": 27.874620384036042,
+        "elevation": 937
+      },
+      {
+        "date": "2023-04-24",
+        "distance": 27.5357441704177,
+        "elevation": 988
+      },
+      {
+        "date": "2023-04-25",
+        "distance": 27.99122022247675,
+        "elevation": 1083
+      },
+      {
+        "date": "2023-04-26",
+        "distance": 32.53446105914128,
+        "elevation": 1201
+      },
+      {
+        "date": "2023-04-27",
+        "distance": 17.712813532935055,
+        "elevation": 456
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 56.81527517317321,
+        "longitude": -5.115749064176676
+      },
+      {
+        "type": "bivouac",
+        "latitude": 56.89566487,
+        "longitude": -5.430884091
+      },
+      {
+        "type": "bivouac",
+        "latitude": 56.9973656,
+        "longitude": -5.513005368
+      },
+      {
+        "type": "bivouac",
+        "latitude": 57.1039104,
+        "longitude": -5.3814905416
+      },
+      {
+        "type": "bivouac",
+        "latitude": 57.25572888,
+        "longitude": -5.342937726
+      },
+      {
+        "type": "bivouac",
+        "latitude": 57.43369136,
+        "longitude": -5.2961998153
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/sm1uew",
+    "photo": "P1016052.JPG",
+    "type": "Itinérance en bivouac",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "GR340 - Tour de Belle-Île-en-Mer",
+    "contiguousHikes": [
+      "2023-04-02T08:18:52",
+      "2023-04-01T12:39",
+      "2023-04-01T11:59:07",
+      "2023-04-01T07:30:55",
+      "2023-03-29T17:07:58",
+      "2023-03-28T10:05:41",
+      "2023-03-27T20:06:31",
+      "2023-03-26T08:01",
+      "2023-03-25T08:01:43",
+      "2023-03-24T17:02:10",
+      "2023-03-22T11:22:23",
+      "2023-03-19T18:46:16",
+      "2023-03-19T08:20:14",
+      "2023-03-18T15:37:14",
+      "2023-03-18T10:28:13",
+      "2023-03-18T07:58:03",
+      "2023-03-17T17:38:21"
+    ],
+    "start": "2023-03-17T17:38:21",
+    "end": "2023-04-02T14:53:23",
+    "days": 17,
+    "walkingDays": 7,
+    "distance": 157.01608662779205,
+    "elevation": 4065,
+    "durationInSeconds": 141532,
+    "idleTimeInSeconds": 15025,
+    "coordinates": {
+      "centerLatitude": 47.41364470683038,
+      "centerLongitude": -3.1593990605324507,
+      "widthInKm": 15,
+      "heightInKm": 29
+    },
+    "timeline": [
+      {
+        "date": "2023-03-17",
+        "distance": 1.7822449813668215,
+        "elevation": 16
+      },
+      {
+        "date": "2023-03-18",
+        "distance": 19.676202746286165,
+        "elevation": 618
+      },
+      {
+        "date": "2023-03-19",
+        "distance": 12.775104303454636,
+        "elevation": 262
+      },
+      {
+        "date": "2023-03-20",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-03-21",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-03-22",
+        "distance": 0.9588551468373845,
+        "elevation": 30
+      },
+      {
+        "date": "2023-03-23",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-03-24",
+        "distance": 0.9168350959284213,
+        "elevation": 33
+      },
+      {
+        "date": "2023-03-25",
+        "distance": 26.674499614305244,
+        "elevation": 623
+      },
+      {
+        "date": "2023-03-26",
+        "distance": 30.24570025408889,
+        "elevation": 1378
+      },
+      {
+        "date": "2023-03-27",
+        "distance": 1.8680078393236317,
+        "elevation": 54
+      },
+      {
+        "date": "2023-03-28",
+        "distance": 4.953174326878009,
+        "elevation": 122
+      },
+      {
+        "date": "2023-03-29",
+        "distance": 7.284002385334142,
+        "elevation": 230
+      },
+      {
+        "date": "2023-03-30",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-03-31",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-04-01",
+        "distance": 22.49345272292816,
+        "elevation": 417
+      },
+      {
+        "date": "2023-04-02",
+        "distance": 27.388007211060543,
+        "elevation": 277
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 47.4738070480111,
+        "longitude": -3.1102624754380215
+      },
+      {
+        "type": "gite",
+        "latitude": 47.37200993765439,
+        "longitude": -3.224282619590731
+      },
+      {
+        "type": "hotel",
+        "latitude": 47.30283257839452,
+        "longitude": -3.2304171185717343
+      },
+      {
+        "type": "gite",
+        "latitude": 47.310687115344074,
+        "longitude": -3.080572393298061
+      },
+      {
+        "type": "hotel",
+        "latitude": 47.48423929547892,
+        "longitude": -3.1019688981577938
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/l6wcyl",
+    "photo": "P1004747.JPG",
+    "type": "Télétravail en gites",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "contiguousHikes": [
+      "2023-03-10T09:25:52",
+      "2023-03-09T12:03",
+      "2023-03-08T21:34:31",
+      "2023-03-08T19:24:49",
+      "2023-03-07T22:14:33",
+      "2023-03-07T21:00:50",
+      "2023-03-06T21:28:31",
+      "2023-03-06T18:05:12"
+    ],
+    "start": "2023-03-06T18:05:12",
+    "end": "2023-03-10T09:38:23",
+    "days": 5,
+    "walkingDays": 0,
+    "distance": 5.680021596237885,
+    "elevation": 133,
+    "durationInSeconds": 5100,
+    "idleTimeInSeconds": 574,
+    "coordinates": {
+      "centerLatitude": 45.0904420344159,
+      "centerLongitude": 6.0685245506465435,
+      "widthInKm": 0,
+      "heightInKm": 0
+    },
+    "timeline": [
+      {
+        "date": "2023-03-06",
+        "distance": 1.252386304107484,
+        "elevation": 36
+      },
+      {
+        "date": "2023-03-07",
+        "distance": 1.1836866435366564,
+        "elevation": 28
+      },
+      {
+        "date": "2023-03-08",
+        "distance": 0.6027285269836951,
+        "elevation": 22
+      },
+      {
+        "date": "2023-03-09",
+        "distance": 1.8636984065796955,
+        "elevation": 26
+      },
+      {
+        "date": "2023-03-10",
+        "distance": 0.7775217150303543,
+        "elevation": 21
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "name": "GTJ d'hiver - Grande Traversée du Jura en raquettes",
+    "contiguousHikes": [
+      "2023-02-27T05:55:26",
+      "2023-02-26T09:20:52",
+      "2023-02-25T07:47:36",
+      "2023-02-24T11:14:34",
+      "2023-02-20T10:58:47",
+      "2023-02-19T07:42:40",
+      "2023-02-18T07:44:39",
+      "2023-02-17T16:19:47",
+      "2023-02-15T06:59:38",
+      "2023-02-13T11:06:51",
+      "2023-02-12T18:38:20",
+      "2023-02-12T08:29:32",
+      "2023-02-11T08:00",
+      "2023-02-10T16:56:39"
+    ],
+    "start": "2023-02-10T16:56:39",
+    "end": "2023-02-27T05:57:59",
+    "days": 18,
+    "walkingDays": 7,
+    "distance": 175.04242315749792,
+    "elevation": 5375,
+    "durationInSeconds": 178495,
+    "idleTimeInSeconds": 16483,
+    "coordinates": {
+      "centerLatitude": 46.5161521313712,
+      "centerLongitude": 6.005803104490042,
+      "widthInKm": 53,
+      "heightInKm": 64
+    },
+    "timeline": [
+      {
+        "date": "2023-02-10",
+        "distance": 4.075961694546163,
+        "elevation": 60
+      },
+      {
+        "date": "2023-02-11",
+        "distance": 29.474924225237096,
+        "elevation": 1004
+      },
+      {
+        "date": "2023-02-12",
+        "distance": 31.545305344954496,
+        "elevation": 913
+      },
+      {
+        "date": "2023-02-13",
+        "distance": 3.2325246475139964,
+        "elevation": 58
+      },
+      {
+        "date": "2023-02-14",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-02-15",
+        "distance": 11.909259322285772,
+        "elevation": 497
+      },
+      {
+        "date": "2023-02-16",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-02-17",
+        "distance": 1.0978294970517963,
+        "elevation": 26
+      },
+      {
+        "date": "2023-02-18",
+        "distance": 25.292585344435228,
+        "elevation": 960
+      },
+      {
+        "date": "2023-02-19",
+        "distance": 24.62935993541285,
+        "elevation": 653
+      },
+      {
+        "date": "2023-02-20",
+        "distance": 0.9750134262111629,
+        "elevation": 14
+      },
+      {
+        "date": "2023-02-21",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-02-22",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-02-23",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-02-24",
+        "distance": 1.8954515835701988,
+        "elevation": 18
+      },
+      {
+        "date": "2023-02-25",
+        "distance": 22.65437516932049,
+        "elevation": 641
+      },
+      {
+        "date": "2023-02-26",
+        "distance": 18.055784228468177,
+        "elevation": 521
+      },
+      {
+        "date": "2023-02-27",
+        "distance": 0.20404873849052432,
+        "elevation": 4
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 46.800001261314804,
+        "longitude": 6.305445331340334
+      },
+      {
+        "type": "hotel",
+        "latitude": 46.70677872761586,
+        "longitude": 6.208858842563013
+      },
+      {
+        "type": "gite",
+        "latitude": 46.54373562755121,
+        "longitude": 6.141188481751453
+      },
+      {
+        "type": "hotel",
+        "latitude": 46.4296211275956,
+        "longitude": 6.072952956973063
+      },
+      {
+        "type": "gite",
+        "latitude": 46.32477354886757,
+        "longitude": 5.893329587493758
+      },
+      {
+        "type": "hotel",
+        "latitude": 46.22494122538262,
+        "longitude": 5.779064333060102
+      },
+      {
+        "type": "hotel",
+        "latitude": 46.25902034730793,
+        "longitude": 5.656070691219306
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/dhs06y",
+    "photo": "P1002951.JPG",
+    "type": "Télétravail en gites (raquettes)",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "Molines-en-Queyras",
+    "contiguousHikes": [
+      "2023-02-04T12:57:50",
+      "2023-02-04T10:50:39",
+      "2023-02-04T09:40:03",
+      "2023-02-03T18:24:22",
+      "2023-02-02T14:24:16",
+      "2023-01-30T11:32:57",
+      "2023-01-28T08:24:50",
+      "2023-01-26T11:01:06",
+      "2023-01-25T11:48:57",
+      "2023-01-24T08:19:54",
+      "2023-01-23T20:25:19",
+      "2023-01-22T08:14:28",
+      "2023-01-21T08:17:13",
+      "2023-01-20T11:43:36",
+      "2023-01-19T11:07:42",
+      "2023-01-18T16:52:41",
+      "2023-01-17T09:59:10",
+      "2023-01-15T08:06:15",
+      "2023-01-14T16:46:09",
+      "2023-01-14T08:13:30",
+      "2023-01-12T10:55:19",
+      "2023-01-10T17:52:11",
+      "2023-01-08T08:31:28",
+      "2023-01-07T10:41:06"
+    ],
+    "start": "2023-01-07T10:41:06",
+    "end": "2023-02-04T17:23:15",
+    "days": 29,
+    "walkingDays": 9,
+    "distance": 138.14389657575995,
+    "elevation": 7357,
+    "durationInSeconds": 185221,
+    "idleTimeInSeconds": 38303,
+    "coordinates": {
+      "centerLatitude": 44.70783577300608,
+      "centerLongitude": 6.778373010456562,
+      "widthInKm": 25,
+      "heightInKm": 11
+    },
+    "timeline": [
+      {
+        "date": "2023-01-07",
+        "distance": 1.1808208733876489,
+        "elevation": 47
+      },
+      {
+        "date": "2023-01-08",
+        "distance": 14.968431972740753,
+        "elevation": 738
+      },
+      {
+        "date": "2023-01-09",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-01-10",
+        "distance": 1.1616175878649728,
+        "elevation": 38
+      },
+      {
+        "date": "2023-01-11",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-01-12",
+        "distance": 6.160989963576482,
+        "elevation": 508
+      },
+      {
+        "date": "2023-01-13",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-01-14",
+        "distance": 10.482333110708922,
+        "elevation": 1072
+      },
+      {
+        "date": "2023-01-15",
+        "distance": 9.078008403567836,
+        "elevation": 723
+      },
+      {
+        "date": "2023-01-16",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-01-17",
+        "distance": 0.7321663872430192,
+        "elevation": 26
+      },
+      {
+        "date": "2023-01-18",
+        "distance": 3.7789601773717507,
+        "elevation": 112
+      },
+      {
+        "date": "2023-01-19",
+        "distance": 7.8441583530840555,
+        "elevation": 220
+      },
+      {
+        "date": "2023-01-20",
+        "distance": 1.3881000116237858,
+        "elevation": 56
+      },
+      {
+        "date": "2023-01-21",
+        "distance": 6.928046635092322,
+        "elevation": 1021
+      },
+      {
+        "date": "2023-01-22",
+        "distance": 21.750443769146248,
+        "elevation": 1094
+      },
+      {
+        "date": "2023-01-23",
+        "distance": 1.0028979223100858,
+        "elevation": 28
+      },
+      {
+        "date": "2023-01-24",
+        "distance": 0.6949266854652669,
+        "elevation": 22
+      },
+      {
+        "date": "2023-01-25",
+        "distance": 1.3279685391461438,
+        "elevation": 34
+      },
+      {
+        "date": "2023-01-26",
+        "distance": 1.7460258644804876,
+        "elevation": 124
+      },
+      {
+        "date": "2023-01-27",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-01-28",
+        "distance": 28.841318371134175,
+        "elevation": 937
+      },
+      {
+        "date": "2023-01-29",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-01-30",
+        "distance": 1.1330385277867008,
+        "elevation": 36
+      },
+      {
+        "date": "2023-01-31",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-02-01",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2023-02-02",
+        "distance": 3.722858175305238,
+        "elevation": 129
+      },
+      {
+        "date": "2023-02-03",
+        "distance": 0.6966465297549269,
+        "elevation": 20
+      },
+      {
+        "date": "2023-02-04",
+        "distance": 13.52413871496914,
+        "elevation": 364
+      }
+    ],
+    "locations": [
+      {
+        "type": "gite",
+        "latitude": 44.73221422476613,
+        "longitude": 6.842397830327297
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/qnq6ec",
+    "photo": "P1002551.JPG",
+    "type": "Télétravail en gite (raquettes)",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "contiguousHikes": [
+      "2022-11-11T07:58:04",
+      "2022-11-10T16:58:51"
+    ],
+    "start": "2022-11-10T16:58:51",
+    "end": "2022-11-11T13:41:11",
+    "days": 2,
+    "walkingDays": 2,
+    "distance": 30.26634652337271,
+    "elevation": 84,
+    "durationInSeconds": 25734,
+    "idleTimeInSeconds": 2128,
+    "coordinates": {
+      "centerLatitude": 48.591225617565215,
+      "centerLongitude": 7.75837691500783,
+      "widthInKm": 3,
+      "heightInKm": 2
+    },
+    "timeline": [
+      {
+        "date": "2022-11-10",
+        "distance": 5.269047457059025,
+        "elevation": 10
+      },
+      {
+        "date": "2022-11-11",
+        "distance": 24.997299066313687,
+        "elevation": 74
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "name": "GR34 - Sentier des Douaniers (Lannion => Roscoff)",
+    "contiguousHikes": [
+      "2022-10-16T12:44:51",
+      "2022-10-16T08:32:16",
+      "2022-10-15T09:19:40",
+      "2022-10-15T07:39:50",
+      "2022-10-12T18:53",
+      "2022-10-12T11:31:13",
+      "2022-10-12T08:08:03",
+      "2022-10-11T18:37:03",
+      "2022-10-11T07:47:05",
+      "2022-10-10T18:32:57",
+      "2022-10-10T08:12:49",
+      "2022-10-09T18:39:07",
+      "2022-10-09T07:45:34",
+      "2022-10-08T16:00:12",
+      "2022-10-08T14:47:56",
+      "2022-10-08T07:44:29",
+      "2022-10-07T11:57:11",
+      "2022-10-06T17:49:14",
+      "2022-10-06T07:38:09",
+      "2022-10-05T19:02:14",
+      "2022-10-04T18:23:48",
+      "2022-10-03T11:12:36",
+      "2022-10-02T15:18:44",
+      "2022-10-02T08:52:32",
+      "2022-10-01T08:29:48",
+      "2022-09-30T20:48:47",
+      "2022-09-30T15:41:24",
+      "2022-09-29T19:04:26",
+      "2022-09-28T17:13:01",
+      "2022-09-25T18:20:43",
+      "2022-09-25T08:26:40",
+      "2022-09-24T18:45:24",
+      "2022-09-24T07:52:07",
+      "2022-09-23T16:38:01",
+      "2022-09-22T19:48:29",
+      "2022-09-22T10:48:16",
+      "2022-09-20T18:31:42",
+      "2022-09-19T18:00:37",
+      "2022-09-18T18:32:59",
+      "2022-09-18T07:48:02",
+      "2022-09-17T20:00:01",
+      "2022-09-17T08:18:03",
+      "2022-09-16T17:44:50"
+    ],
+    "start": "2022-09-16T17:44:50",
+    "end": "2022-10-16T13:38:07",
+    "days": 31,
+    "walkingDays": 21,
+    "distance": 413.32754637704426,
+    "elevation": 6671,
+    "durationInSeconds": 403001,
+    "idleTimeInSeconds": 72491,
+    "coordinates": {
+      "centerLatitude": 48.7066295882687,
+      "centerLongitude": -3.7460900377482176,
+      "widthInKm": 47,
+      "heightInKm": 29
+    },
+    "timeline": [
+      {
+        "date": "2022-09-16",
+        "distance": 2.9463314257199396,
+        "elevation": 82
+      },
+      {
+        "date": "2022-09-17",
+        "distance": 29.487872108906807,
+        "elevation": 451
+      },
+      {
+        "date": "2022-09-18",
+        "distance": 36.399359361004734,
+        "elevation": 387
+      },
+      {
+        "date": "2022-09-19",
+        "distance": 11.191632195986678,
+        "elevation": 121
+      },
+      {
+        "date": "2022-09-20",
+        "distance": 9.115064538111172,
+        "elevation": 57
+      },
+      {
+        "date": "2022-09-21",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-09-22",
+        "distance": 4.873038487582866,
+        "elevation": 83
+      },
+      {
+        "date": "2022-09-23",
+        "distance": 8.699883517561553,
+        "elevation": 153
+      },
+      {
+        "date": "2022-09-24",
+        "distance": 35.369739293646575,
+        "elevation": 703
+      },
+      {
+        "date": "2022-09-25",
+        "distance": 31.950465179025585,
+        "elevation": 724
+      },
+      {
+        "date": "2022-09-26",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-09-27",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-09-28",
+        "distance": 9.340302063982076,
+        "elevation": 259
+      },
+      {
+        "date": "2022-09-29",
+        "distance": 1.046639852651837,
+        "elevation": 32
+      },
+      {
+        "date": "2022-09-30",
+        "distance": 19.497376413390686,
+        "elevation": 671
+      },
+      {
+        "date": "2022-10-01",
+        "distance": 34.79019960257481,
+        "elevation": 510
+      },
+      {
+        "date": "2022-10-02",
+        "distance": 24.755200782840397,
+        "elevation": 502
+      },
+      {
+        "date": "2022-10-03",
+        "distance": 1.2670540849862022,
+        "elevation": 4
+      },
+      {
+        "date": "2022-10-04",
+        "distance": 10.921234675720138,
+        "elevation": 129
+      },
+      {
+        "date": "2022-10-05",
+        "distance": 5.498944922722904,
+        "elevation": 98
+      },
+      {
+        "date": "2022-10-06",
+        "distance": 16.307692697148163,
+        "elevation": 247
+      },
+      {
+        "date": "2022-10-07",
+        "distance": 1.0883599511754003,
+        "elevation": 4
+      },
+      {
+        "date": "2022-10-08",
+        "distance": 31.651393620804733,
+        "elevation": 361
+      },
+      {
+        "date": "2022-10-09",
+        "distance": 24.563621090767505,
+        "elevation": 390
+      },
+      {
+        "date": "2022-10-10",
+        "distance": 5.814809559066258,
+        "elevation": 81
+      },
+      {
+        "date": "2022-10-11",
+        "distance": 11.094798893191395,
+        "elevation": 132
+      },
+      {
+        "date": "2022-10-12",
+        "distance": 6.143028205465838,
+        "elevation": 60
+      },
+      {
+        "date": "2022-10-13",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-10-14",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-10-15",
+        "distance": 23.10878886544406,
+        "elevation": 279
+      },
+      {
+        "date": "2022-10-16",
+        "distance": 16.404714987565786,
+        "elevation": 136
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 48.74946717077042,
+        "longitude": -3.457537396003181
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.827201561997896,
+        "longitude": -3.48310803354622
+      },
+      {
+        "type": "gite",
+        "latitude": 48.800642114466484,
+        "longitude": -3.571018766708041
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.77563202703866,
+        "longitude": -3.578576900645657
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.72985778471717,
+        "longitude": -3.5281305687745497
+      },
+      {
+        "type": "gite",
+        "latitude": 48.67728332413332,
+        "longitude": -3.658529760985857
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.71251905639613,
+        "longitude": -3.8119063161876787
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.578499933005865,
+        "longitude": -3.8286792003212606
+      },
+      {
+        "type": "gite",
+        "latitude": 48.66068210401082,
+        "longitude": -3.9148260640547257
+      },
+      {
+        "type": "gite",
+        "latitude": 48.74775774289417,
+        "longitude": -4.005589973973732
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.70053276518044,
+        "longitude": -4.050775071106757
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/4y0nlk",
+    "photo": "PXL_20220924_065254935.jpg",
+    "type": "Télétravail en gites",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "Sud des Écrins",
+    "contiguousHikes": [
+      "2022-09-04T05:18:04",
+      "2022-09-03T06:04:39",
+      "2022-09-02T08:02:31",
+      "2022-09-01T06:19:20",
+      "2022-08-31T05:02:52",
+      "2022-08-30T07:37:09",
+      "2022-08-29T05:20:37",
+      "2022-08-28T05:20:31",
+      "2022-08-27T05:22:25",
+      "2022-08-26T07:38:50",
+      "2022-08-25T07:55:40",
+      "2022-08-24T07:39:21",
+      "2022-08-23T07:53:05",
+      "2022-08-22T08:09:33",
+      "2022-08-21T08:08:37"
+    ],
+    "start": "2022-08-21T08:08:37",
+    "end": "2022-09-04T15:11:32",
+    "days": 15,
+    "walkingDays": 15,
+    "distance": 322.4693111025505,
+    "elevation": 22127,
+    "durationInSeconds": 452285,
+    "idleTimeInSeconds": 71559,
+    "coordinates": {
+      "centerLatitude": 44.827067172154784,
+      "centerLongitude": 6.377210766077042,
+      "widthInKm": 40,
+      "heightInKm": 26
+    },
+    "timeline": [
+      {
+        "date": "2022-08-21",
+        "distance": 14.903385121095223,
+        "elevation": 1437
+      },
+      {
+        "date": "2022-08-22",
+        "distance": 11.432913107676558,
+        "elevation": 1127
+      },
+      {
+        "date": "2022-08-23",
+        "distance": 22.88912682331773,
+        "elevation": 1431
+      },
+      {
+        "date": "2022-08-24",
+        "distance": 20.777989464029115,
+        "elevation": 1152
+      },
+      {
+        "date": "2022-08-25",
+        "distance": 12.962779524851472,
+        "elevation": 784
+      },
+      {
+        "date": "2022-08-26",
+        "distance": 22.72378887924468,
+        "elevation": 977
+      },
+      {
+        "date": "2022-08-27",
+        "distance": 22.0416759646489,
+        "elevation": 1946
+      },
+      {
+        "date": "2022-08-28",
+        "distance": 32.508422664966936,
+        "elevation": 2109
+      },
+      {
+        "date": "2022-08-29",
+        "distance": 23.31859462807521,
+        "elevation": 2189
+      },
+      {
+        "date": "2022-08-30",
+        "distance": 24.27575961579229,
+        "elevation": 1312
+      },
+      {
+        "date": "2022-08-31",
+        "distance": 29.17466313027541,
+        "elevation": 2233
+      },
+      {
+        "date": "2022-09-01",
+        "distance": 23.772169469812837,
+        "elevation": 2160
+      },
+      {
+        "date": "2022-09-02",
+        "distance": 10.496984724333503,
+        "elevation": 1062
+      },
+      {
+        "date": "2022-09-03",
+        "distance": 20.841513926928016,
+        "elevation": 942
+      },
+      {
+        "date": "2022-09-04",
+        "distance": 30.349544057502666,
+        "elevation": 1261
+      }
+    ],
+    "locations": [
+      {
+        "type": "refuge",
+        "latitude": 44.84466852540727,
+        "longitude": 6.146454280283566,
+        "name": "Refuge des Souffles"
+      },
+      {
+        "type": "refuge",
+        "latitude": 44.84147400613494,
+        "longitude": 6.204480860627769,
+        "name": "Refuge de l'Olan"
+      },
+      {
+        "type": "refuge",
+        "latitude": 44.85482133255808,
+        "longitude": 6.284941262237722,
+        "name": "Refuge du Pigeonnier"
+      },
+      {
+        "type": "refuge",
+        "latitude": 44.79847503947103,
+        "longitude": 6.289201052756892,
+        "name": "Refuge de Vallonpierre"
+      },
+      {
+        "type": "refuge",
+        "latitude": 44.76526495475057,
+        "longitude": 6.327617808744162,
+        "name": "Refuge du Pré de la Chaumette"
+      },
+      {
+        "type": "hotel",
+        "latitude": 44.72915405026032,
+        "longitude": 6.249627706143751
+      },
+      {
+        "type": "refuge",
+        "latitude": 44.716978934227846,
+        "longitude": 6.222202962492814,
+        "name": "Refuge du Tourond"
+      },
+      {
+        "type": "refuge",
+        "latitude": 44.73753317418118,
+        "longitude": 6.444487030015958,
+        "name": "Gite de l’Ecole"
+      },
+      {
+        "type": "hotel",
+        "latitude": 44.82629648484458,
+        "longitude": 6.499464338665013
+      },
+      {
+        "type": "hotel",
+        "latitude": 44.84599862446349,
+        "longitude": 6.488956831826002
+      },
+      {
+        "type": "hotel",
+        "latitude": 44.88709957330733,
+        "longitude": 6.446379831927803
+      },
+      {
+        "type": "refuge",
+        "latitude": 44.93749584059135,
+        "longitude": 6.411685882221809,
+        "name": "Refuge du Glacier Blanc"
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/0q05rw",
+    "photo": "IMG_20220822_113455_457.jpg",
+    "type": "Itinérance en refuges",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "GR34 - Sentier des Douaniers (Cap Fréhel => La Cotentin)",
+    "contiguousHikes": [
+      "2022-07-24T06:19:48",
+      "2022-07-23T06:14:46"
+    ],
+    "start": "2022-07-23T06:14:46",
+    "end": "2022-07-24T17:01:10",
+    "days": 2,
+    "walkingDays": 2,
+    "distance": 88.79659332774227,
+    "elevation": 1541,
+    "durationInSeconds": 77385,
+    "idleTimeInSeconds": 6937,
+    "coordinates": {
+      "centerLatitude": 48.60796641558409,
+      "centerLongitude": -2.4420470371842384,
+      "widthInKm": 22,
+      "heightInKm": 16
+    },
+    "timeline": [
+      {
+        "date": "2022-07-23",
+        "distance": 47.6817925970459,
+        "elevation": 686
+      },
+      {
+        "date": "2022-07-24",
+        "distance": 41.11480073069638,
+        "elevation": 854
+      }
+    ],
+    "locations": [
+      {
+        "type": "bivouac",
+        "latitude": 48.66447123025177,
+        "longitude": -2.339532473087552
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "type": "Randonnée sur le week-end",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "GR20 - Traversée de la Corse",
+    "contiguousHikes": [
+      "2022-07-09T06:22:59",
+      "2022-07-08T06:03:01",
+      "2022-07-07T06:21:40",
+      "2022-07-06T07:16:39",
+      "2022-07-05T06:48:18",
+      "2022-07-04T03:54:04",
+      "2022-07-03T05:23:19",
+      "2022-07-02T15:00:42"
+    ],
+    "overridenHikes": [
+      "2022-07-09T06:22:59",
+      "2022-07-08T06:03:01",
+      "2022-07-07T06:21:40",
+      "2022-07-06T07:16:39",
+      "2022-07-05T06:48:18",
+      "2022-07-04T03:54:04",
+      "2022-07-03T05:23:19"
+    ],
+    "start": "2022-07-03T05:23:19",
+    "end": "2022-07-09T15:27:35",
+    "days": 7,
+    "walkingDays": 7,
+    "distance": 193.06871747630984,
+    "elevation": 13002,
+    "durationInSeconds": 275355,
+    "idleTimeInSeconds": 37663,
+    "coordinates": {
+      "centerLatitude": 42.121888850815594,
+      "centerLongitude": 9.093995760194957,
+      "widthInKm": 40,
+      "heightInKm": 85
+    },
+    "timeline": [
+      {
+        "date": "2022-07-03",
+        "distance": 21.60677520682663,
+        "elevation": 2272
+      },
+      {
+        "date": "2022-07-04",
+        "distance": 24.28967631485902,
+        "elevation": 2753
+      },
+      {
+        "date": "2022-07-05",
+        "distance": 36.06799007978166,
+        "elevation": 1759
+      },
+      {
+        "date": "2022-07-06",
+        "distance": 20.38879443086279,
+        "elevation": 1200
+      },
+      {
+        "date": "2022-07-07",
+        "distance": 34.527906060040394,
+        "elevation": 1937
+      },
+      {
+        "date": "2022-07-08",
+        "distance": 28.704171503093562,
+        "elevation": 1899
+      },
+      {
+        "date": "2022-07-09",
+        "distance": 27.4834038808458,
+        "elevation": 1180
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 42.50765,
+        "longitude": 8.85065
+      },
+      {
+        "type": "bivouac",
+        "latitude": 42.4261,
+        "longitude": 8.90117,
+        "name": "Refuge de Carrozzu"
+      },
+      {
+        "type": "bivouac",
+        "latitude": 42.33545,
+        "longitude": 8.86956,
+        "name": "Refuge Ciuttulu di Mori"
+      },
+      {
+        "type": "bivouac",
+        "latitude": 42.19817,
+        "longitude": 9.05183,
+        "name": "Refuge de Petra Piana"
+      },
+      {
+        "type": "hotel",
+        "latitude": 42.12789,
+        "longitude": 9.13379
+      },
+      {
+        "type": "bivouac",
+        "latitude": 42.0082,
+        "longitude": 9.2178,
+        "name": "Refuge de Prati"
+      },
+      {
+        "type": "bivouac",
+        "latitude": 41.8414,
+        "longitude": 9.21468,
+        "name": "Refuge d'Asinau"
+      },
+      {
+        "type": "hotel",
+        "latitude": 41.73692,
+        "longitude": 9.33852
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/wi76t4",
+    "photo": "IMG_20220703_055245_529.jpg",
+    "type": "Itinérance en bivouac",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "Les Bauges",
+    "contiguousHikes": [
+      "2022-06-05T08:00:22",
+      "2022-06-04T06:32:08",
+      "2022-06-03T13:20:49",
+      "2022-05-29T06:28:06",
+      "2022-05-28T06:28:07",
+      "2022-05-26T06:34:25",
+      "2022-05-24T19:33:17",
+      "2022-05-24T18:38:48",
+      "2022-05-22T07:53:04",
+      "2022-05-21T06:31:01",
+      "2022-05-20T12:19:33",
+      "2022-05-18T17:04:24",
+      "2022-05-16T11:28:24",
+      "2022-05-15T08:49:48",
+      "2022-05-14T08:11:07",
+      "2022-05-13T15:51:08"
+    ],
+    "start": "2022-05-13T15:51:08",
+    "end": "2022-06-05T13:02:57",
+    "days": 24,
+    "walkingDays": 10,
+    "distance": 244.56030159442352,
+    "elevation": 20142,
+    "durationInSeconds": 298042,
+    "idleTimeInSeconds": 45685,
+    "coordinates": {
+      "centerLatitude": 45.647760978899896,
+      "centerLongitude": 6.153140952810645,
+      "widthInKm": 36,
+      "heightInKm": 19
+    },
+    "timeline": [
+      {
+        "date": "2022-05-13",
+        "distance": 4.387942797267796,
+        "elevation": 72
+      },
+      {
+        "date": "2022-05-14",
+        "distance": 26.615720998588095,
+        "elevation": 2597
+      },
+      {
+        "date": "2022-05-15",
+        "distance": 15.941605595610284,
+        "elevation": 1540
+      },
+      {
+        "date": "2022-05-16",
+        "distance": 3.9063369528679353,
+        "elevation": 84
+      },
+      {
+        "date": "2022-05-17",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-05-18",
+        "distance": 14.90256282466138,
+        "elevation": 521
+      },
+      {
+        "date": "2022-05-19",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-05-20",
+        "distance": 3.815050465842725,
+        "elevation": 85
+      },
+      {
+        "date": "2022-05-21",
+        "distance": 39.826653841798255,
+        "elevation": 2677
+      },
+      {
+        "date": "2022-05-22",
+        "distance": 20.71734065447176,
+        "elevation": 1803
+      },
+      {
+        "date": "2022-05-23",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-05-24",
+        "distance": 3.521120226444931,
+        "elevation": 76
+      },
+      {
+        "date": "2022-05-25",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-05-26",
+        "distance": 20.777280963244042,
+        "elevation": 2413
+      },
+      {
+        "date": "2022-05-27",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-05-28",
+        "distance": 26.168778763176384,
+        "elevation": 2659
+      },
+      {
+        "date": "2022-05-29",
+        "distance": 16.45657789823893,
+        "elevation": 1828
+      },
+      {
+        "date": "2022-05-30",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-05-31",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-06-01",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-06-02",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-06-03",
+        "distance": 2.6973928396612927,
+        "elevation": 69
+      },
+      {
+        "date": "2022-06-04",
+        "distance": 27.02929631994881,
+        "elevation": 2434
+      },
+      {
+        "date": "2022-06-05",
+        "distance": 17.796640452600883,
+        "elevation": 1278
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 45.56730482802954,
+        "longitude": 5.963223603383242
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.61973598438251,
+        "longitude": 6.080273228702799
+      },
+      {
+        "type": "gite",
+        "latitude": 45.643589613763,
+        "longitude": 6.186663013848491
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.72367179760505,
+        "longitude": 6.308849485238756
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.67163239555926,
+        "longitude": 6.386164873170176
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "photo": "IMG_20220521_092020_175.jpg",
+    "type": "Télétravail en gite",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "GR400 - Tour des Volcans du Cantal",
+    "contiguousHikes": [
+      "2022-05-08T18:15:39",
+      "2022-05-08T08:20:51",
+      "2022-05-07T07:31:44",
+      "2022-05-03T06:52:17",
+      "2022-05-01T08:20:58",
+      "2022-04-30T08:31:22",
+      "2022-04-29T11:16:59",
+      "2022-04-28T10:42:54",
+      "2022-04-27T17:11:05",
+      "2022-04-27T09:55:14",
+      "2022-04-26T11:31:12",
+      "2022-04-25T09:48:17",
+      "2022-04-24T08:43:02",
+      "2022-04-23T07:27:46",
+      "2022-04-22T17:10:15"
+    ],
+    "start": "2022-04-22T17:10:15",
+    "end": "2022-05-08T18:35:47",
+    "days": 17,
+    "walkingDays": 9,
+    "distance": 194.39423382047934,
+    "elevation": 9952,
+    "durationInSeconds": 194521,
+    "idleTimeInSeconds": 21242,
+    "coordinates": {
+      "centerLatitude": 45.104859955608845,
+      "centerLongitude": 2.7333134366199374,
+      "widthInKm": 22,
+      "heightInKm": 23
+    },
+    "timeline": [
+      {
+        "date": "2022-04-22",
+        "distance": 1.6535391296674513,
+        "elevation": 34
+      },
+      {
+        "date": "2022-04-23",
+        "distance": 33.416464534552,
+        "elevation": 1585
+      },
+      {
+        "date": "2022-04-24",
+        "distance": 21.112989960046594,
+        "elevation": 1273
+      },
+      {
+        "date": "2022-04-25",
+        "distance": 5.718234821418362,
+        "elevation": 125
+      },
+      {
+        "date": "2022-04-26",
+        "distance": 2.598149086609179,
+        "elevation": 61
+      },
+      {
+        "date": "2022-04-27",
+        "distance": 11.856130148604318,
+        "elevation": 761
+      },
+      {
+        "date": "2022-04-28",
+        "distance": 2.0667131548551763,
+        "elevation": 59
+      },
+      {
+        "date": "2022-04-29",
+        "distance": 2.2835586458725152,
+        "elevation": 57
+      },
+      {
+        "date": "2022-04-30",
+        "distance": 24.553681397450486,
+        "elevation": 1486
+      },
+      {
+        "date": "2022-05-01",
+        "distance": 24.843477576884766,
+        "elevation": 1318
+      },
+      {
+        "date": "2022-05-02",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-05-03",
+        "distance": 13.431095511678798,
+        "elevation": 188
+      },
+      {
+        "date": "2022-05-04",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-05-05",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-05-06",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-05-07",
+        "distance": 25.11103095701557,
+        "elevation": 1739
+      },
+      {
+        "date": "2022-05-08",
+        "distance": 25.749168895824127,
+        "elevation": 1258
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 45.109555766093635,
+        "longitude": 2.8685431236040513
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.0144349133769,
+        "longitude": 2.6651345149014407
+      },
+      {
+        "type": "gite",
+        "latitude": 45.0649799451343,
+        "longitude": 2.630694482867559
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.15472804272952,
+        "longitude": 2.6232220000590996
+      },
+      {
+        "type": "gite",
+        "latitude": 45.15750397079907,
+        "longitude": 2.7024423770037043
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.06957543842976,
+        "longitude": 2.7190216624133545
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "photo": "IMG_20220430_132914_802.jpg",
+    "type": "Télétravail en gites",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "contiguousHikes": [
+      "2022-04-17T15:32:26",
+      "2022-04-16T15:17:16",
+      "2022-04-16T13:58:23",
+      "2022-04-16T10:36:59"
+    ],
+    "start": "2022-04-16T10:36:59",
+    "end": "2022-04-17T18:42:47",
+    "days": 2,
+    "walkingDays": 1,
+    "distance": 11.907674833823764,
+    "elevation": 344,
+    "durationInSeconds": 19897,
+    "idleTimeInSeconds": 8936,
+    "coordinates": {
+      "centerLatitude": 49.65926745906472,
+      "centerLongitude": -1.8861719593405724,
+      "widthInKm": 8,
+      "heightInKm": 12
+    },
+    "timeline": [
+      {
+        "date": "2022-04-16",
+        "distance": 7.067677957069742,
+        "elevation": 210
+      },
+      {
+        "date": "2022-04-17",
+        "distance": 4.839996876754022,
+        "elevation": 132
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "contiguousHikes": [
+      "2022-03-11T12:17:27",
+      "2022-03-10T09:34:27"
+    ],
+    "start": "2022-03-10T09:34:27",
+    "end": "2022-03-11T14:46:42",
+    "days": 2,
+    "walkingDays": 1,
+    "distance": 10.965459836769,
+    "elevation": 633,
+    "durationInSeconds": 16723,
+    "idleTimeInSeconds": 4670,
+    "coordinates": {
+      "centerLatitude": 45.335610480979085,
+      "centerLongitude": 6.524584447033703,
+      "widthInKm": 2,
+      "heightInKm": 9
+    },
+    "timeline": [
+      {
+        "date": "2022-03-10",
+        "distance": 3.8984585987853952,
+        "elevation": 232
+      },
+      {
+        "date": "2022-03-11",
+        "distance": 7.067001237983604,
+        "elevation": 400
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "name": "Le Hohneck depuis Munster",
+    "contiguousHikes": [
+      "2022-02-20T08:25:41",
+      "2022-02-19T07:31:50"
+    ],
+    "start": "2022-02-19T07:31:50",
+    "end": "2022-02-20T16:30:31",
+    "days": 2,
+    "walkingDays": 2,
+    "distance": 52.55533998279741,
+    "elevation": 2703,
+    "durationInSeconds": 53931,
+    "idleTimeInSeconds": 4595,
+    "coordinates": {
+      "centerLatitude": 48.043348928913474,
+      "centerLongitude": 7.058871975168586,
+      "widthInKm": 11,
+      "heightInKm": 14
+    },
+    "timeline": [
+      {
+        "date": "2022-02-19",
+        "distance": 23.396749409861503,
+        "elevation": 1525
+      },
+      {
+        "date": "2022-02-20",
+        "distance": 29.15859057293591,
+        "elevation": 1177
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 48.04186771797877,
+        "longitude": 7.133568855458997
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.035753490864465,
+        "longitude": 7.0082295093069655
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "photo": "IMG_20220219_112149_343.jpg",
+    "type": "Randonnée raquette sur le week-end",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "Mont Dore",
+    "contiguousHikes": [
+      "2022-02-13T07:29:56",
+      "2022-02-12T07:27:55"
+    ],
+    "start": "2022-02-12T07:27:55",
+    "end": "2022-02-13T13:59:26",
+    "days": 2,
+    "walkingDays": 2,
+    "distance": 46.19559586995375,
+    "elevation": 2633,
+    "durationInSeconds": 52409,
+    "idleTimeInSeconds": 6641,
+    "coordinates": {
+      "centerLatitude": 45.57200144045055,
+      "centerLongitude": 2.7927559660747647,
+      "widthInKm": 9,
+      "heightInKm": 6
+    },
+    "timeline": [
+      {
+        "date": "2022-02-12",
+        "distance": 26.81019213359252,
+        "elevation": 1361
+      },
+      {
+        "date": "2022-02-13",
+        "distance": 19.38540373636123,
+        "elevation": 1271
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 45.57095061033498,
+        "longitude": 2.8123882204322497
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "photo": "IMG_20220213_091725_526.jpg",
+    "type": "Randonnée raquette sur le week-end",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "Bonneval sur Arc",
+    "contiguousHikes": [
+      "2022-01-30T07:08:26",
+      "2022-01-29T07:19:27",
+      "2022-01-26T07:01:23",
+      "2022-01-23T07:51",
+      "2022-01-22T08:16:03",
+      "2022-01-19T11:02:27",
+      "2022-01-16T07:46:37",
+      "2022-01-15T08:16:52",
+      "2022-01-12T11:16:30",
+      "2022-01-09T08:05:24"
+    ],
+    "start": "2022-01-09T08:05:24",
+    "end": "2022-01-30T13:57:27",
+    "days": 22,
+    "walkingDays": 10,
+    "distance": 157.4930998035366,
+    "elevation": 7669,
+    "durationInSeconds": 209884,
+    "idleTimeInSeconds": 33464,
+    "coordinates": {
+      "centerLatitude": 45.30374047346413,
+      "centerLongitude": 6.944349445402622,
+      "widthInKm": 27,
+      "heightInKm": 22
+    },
+    "timeline": [
+      {
+        "date": "2022-01-09",
+        "distance": 8.14655242348477,
+        "elevation": 269
+      },
+      {
+        "date": "2022-01-10",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-01-11",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-01-12",
+        "distance": 9.274838003161495,
+        "elevation": 290
+      },
+      {
+        "date": "2022-01-13",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-01-14",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-01-15",
+        "distance": 16.284756943192836,
+        "elevation": 1056
+      },
+      {
+        "date": "2022-01-16",
+        "distance": 21.042150274197244,
+        "elevation": 322
+      },
+      {
+        "date": "2022-01-17",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-01-18",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-01-19",
+        "distance": 9.534255205818214,
+        "elevation": 334
+      },
+      {
+        "date": "2022-01-20",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-01-21",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-01-22",
+        "distance": 16.612290701271487,
+        "elevation": 1362
+      },
+      {
+        "date": "2022-01-23",
+        "distance": 17.418966918829298,
+        "elevation": 1402
+      },
+      {
+        "date": "2022-01-24",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-01-25",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-01-26",
+        "distance": 10.0539392566051,
+        "elevation": 848
+      },
+      {
+        "date": "2022-01-27",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-01-28",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2022-01-29",
+        "distance": 20.41286205717633,
+        "elevation": 1043
+      },
+      {
+        "date": "2022-01-30",
+        "distance": 28.712488019799835,
+        "elevation": 739
+      }
+    ],
+    "locations": [
+      {
+        "type": "gite",
+        "latitude": 45.375577497331285,
+        "longitude": 7.056045631388373
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.22381666173469,
+        "longitude": 6.7756351793967955
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "photo": "IMG_20220129_104812_413.jpg",
+    "type": "Télétravail en gite (raquettes)",
+    "hasGpxFile": true,
+    "hide": false
+  },
+  {
+    "name": "Tour de la Grande Casse & Mont Thabor",
+    "contiguousHikes": [
+      "2021-09-20T08:06:26",
+      "2021-09-19T07:55:39",
+      "2021-09-18T08:05:20",
+      "2021-09-17T07:57:55",
+      "2021-09-16T07:43:04",
+      "2021-09-14T08:02:45",
+      "2021-09-13T07:49:17",
+      "2021-09-12T15:51:11",
+      "2021-09-12T08:16:58",
+      "2021-09-11T08:25:32",
+      "2021-09-10T08:15:25",
+      "2021-09-09T08:02:40",
+      "2021-09-08T14:24:28",
+      "2021-09-08T08:27:44"
+    ],
+    "start": "2021-09-08T08:27:44",
+    "end": "2021-09-20T10:22:11",
+    "days": 13,
+    "walkingDays": 12,
+    "distance": 196.62404685007314,
+    "elevation": 13600,
+    "durationInSeconds": 281351,
+    "idleTimeInSeconds": 53234,
+    "coordinates": {
+      "centerLatitude": 45.253878962248564,
+      "centerLongitude": 6.675864974968135,
+      "widthInKm": 38,
+      "heightInKm": 45
+    },
+    "timeline": [
+      {
+        "date": "2021-09-08",
+        "distance": 11.954839797606056,
+        "elevation": 1268
+      },
+      {
+        "date": "2021-09-09",
+        "distance": 18.223203524258288,
+        "elevation": 962
+      },
+      {
+        "date": "2021-09-10",
+        "distance": 14.296413692226803,
+        "elevation": 850
+      },
+      {
+        "date": "2021-09-11",
+        "distance": 13.727433586795856,
+        "elevation": 168
+      },
+      {
+        "date": "2021-09-12",
+        "distance": 16.80586296853735,
+        "elevation": 1526
+      },
+      {
+        "date": "2021-09-13",
+        "distance": 20.84409833204847,
+        "elevation": 1952
+      },
+      {
+        "date": "2021-09-14",
+        "distance": 21.65320012449155,
+        "elevation": 1188
+      },
+      {
+        "date": "2021-09-15",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2021-09-16",
+        "distance": 11.71462127908254,
+        "elevation": 1621
+      },
+      {
+        "date": "2021-09-17",
+        "distance": 17.760019656654016,
+        "elevation": 1281
+      },
+      {
+        "date": "2021-09-18",
+        "distance": 18.81153936896395,
+        "elevation": 1264
+      },
+      {
+        "date": "2021-09-19",
+        "distance": 22.526682786415794,
+        "elevation": 1234
+      },
+      {
+        "date": "2021-09-20",
+        "distance": 8.306131732992512,
+        "elevation": 282
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 45.387930884719175,
+        "longitude": 6.719050873522624
+      },
+      {
+        "type": "refuge",
+        "latitude": 45.3919838290043,
+        "longitude": 6.791050941217593,
+        "name": "Refuge du col de la Vanoise"
+      },
+      {
+        "type": "refuge",
+        "latitude": 45.39689218428681,
+        "longitude": 6.882262114660499,
+        "name": "Refuge de la Leisse"
+      },
+      {
+        "type": "refuge",
+        "latitude": 45.45827585677106,
+        "longitude": 6.861141770345205,
+        "name": "Refuge du col du Palet"
+      },
+      {
+        "type": "refuge",
+        "latitude": 45.45947573304923,
+        "longitude": 6.7443915877819105,
+        "name": "Refuge du Bois"
+      },
+      {
+        "type": "refuge",
+        "latitude": 45.337086709591595,
+        "longitude": 6.63236820190894,
+        "name": "Refuge du Saut"
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.193838783905676,
+        "longitude": 6.658826391789358
+      },
+      {
+        "type": "refuge",
+        "latitude": 45.123415279898964,
+        "longitude": 6.599769243540449,
+        "name": "Refuge du Mont Thabor"
+      },
+      {
+        "type": "refuge",
+        "latitude": 45.0810692515089,
+        "longitude": 6.508081147843299,
+        "name": "Refuge des Drayères"
+      },
+      {
+        "type": "refuge",
+        "latitude": 45.05754713160115,
+        "longitude": 6.529936595008984,
+        "name": "Refuge de Laval"
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.16594002217954,
+        "longitude": 6.429849433896502
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "photo": "IMG_3099.JPG",
+    "type": "Itinérance en refuges",
+    "hasGpxFile": true,
+    "hide": false
+  }
+]

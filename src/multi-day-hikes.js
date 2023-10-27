@@ -1,12 +1,17 @@
 
 function drawMultiDayHikes(svg, width, height) {
 
+   // Adapt a dimension to the width of the screen:
+  function scaleToWidth(value) {
+    return value * width / 1745;
+  }
+
   var topMargin = 30;
   var bottomMargin = 50;
   var leftMargin = 50;
   var rightMargin = 40;
   var spaceBetweenHikes = 25;
-  var multiDayHikeHeight = 400;
+  var multiDayHikeHeight = scaleToWidth(400);
   var mapWidth = multiDayHikeHeight;
   var mapHeight = multiDayHikeHeight;
 
@@ -48,32 +53,32 @@ function drawMultiDayHikes(svg, width, height) {
 
     var texts =
       [
-        { text: multiDayHike.name, x: 20, y: 30, fontSize: "1.05rem" },
-        { text: "Distance / Elevation:", x: 20, y: 60, fontSize: ".875rem" },
-        { text: `${parseInt(multiDayHike.distance)} km / +${multiDayHike.elevation} m`, x: 160, y: 60, fontSize: ".875rem" },
-        { text: "Duration:", x: 20, y: 80, fontSize: ".875rem" },
-        { text: multiDayHike.days == multiDayHike.walkingDays ? `${multiDayHike.days} days` : `${multiDayHike.days} days (${multiDayHike.walkingDays} walking)`, x: 160, y: 80, fontSize: ".875rem" },
-        { text: "Dates:", x: 20, y: 100, fontSize: ".875rem" },
-        { text: `${multiDayHike.start.split("T")[0]} to ${multiDayHike.end.split("T")[0]}`, x: 160, y: 100, fontSize: ".875rem" },
+        { text: multiDayHike.name, x: scaleToWidth(20), y: scaleToWidth(30), fontSize: `${scaleToWidth(1.05)}rem` },
+        { text: "Distance / Elevation:", x: scaleToWidth(20), y: scaleToWidth(60), fontSize: `${scaleToWidth(0.875)}rem` },
+        { text: `${parseInt(multiDayHike.distance)} km / +${multiDayHike.elevation} m`, x: scaleToWidth(160), y: scaleToWidth(60), fontSize: `${scaleToWidth(0.875)}rem` },
+        { text: "Duration:", x: scaleToWidth(20), y: scaleToWidth(80), fontSize: `${scaleToWidth(0.875)}rem` },
+        { text: multiDayHike.days == multiDayHike.walkingDays ? `${multiDayHike.days} days` : `${multiDayHike.days} days (${multiDayHike.walkingDays} walking)`, x: scaleToWidth(160), y: scaleToWidth(80), fontSize: `${scaleToWidth(0.875)}rem` },
+        { text: "Dates:", x: scaleToWidth(20), y: scaleToWidth(100), fontSize: `${scaleToWidth(0.875)}rem` },
+        { text: `${multiDayHike.start.split("T")[0]} to ${multiDayHike.end.split("T")[0]}`, x: scaleToWidth(160), y: scaleToWidth(100), fontSize: `${scaleToWidth(0.875)}rem` },
       ];
 
     var y = 120;
 
     if (multiDayHike.type) {
-      texts.push({ text: "Type:", x: 20, y: y, fontSize: ".875rem" });
-      texts.push({ text: multiDayHike.type, x: 160, y: y, fontSize: ".875rem" });
+      texts.push({ text: "Type:", x: scaleToWidth(20), y: scaleToWidth(y), fontSize: `${scaleToWidth(0.875)}rem` });
+      texts.push({ text: multiDayHike.type, x: scaleToWidth(160), y: scaleToWidth(y), fontSize: `${scaleToWidth(0.875)}rem` });
       y += 20;
     }
 
     if (multiDayHike.lighterPack) {
-      texts.push({ text: "Gear:", x: 20, y: y, fontSize: ".875rem" });
-      texts.push({ text: "lighterpack.com", x: 180, y: y, fontSize: ".875rem" });
+      texts.push({ text: "Gear:", x: scaleToWidth(20), y: scaleToWidth(y), fontSize: `${scaleToWidth(0.875)}rem` });
+      texts.push({ text: "lighterpack.com", x: scaleToWidth(180), y: scaleToWidth(y), fontSize: `${scaleToWidth(0.875)}rem` });
       multiDayHikeContainer
         .append("svg:image")
-        .attr("x", 160)
-        .attr("y", y - 15)
-        .attr("width", 18)
-        .attr("height", 18)
+        .attr("x", scaleToWidth(160))
+        .attr("y", scaleToWidth(y - 15))
+        .attr("width", scaleToWidth(18))
+        .attr("height", scaleToWidth(18))
         .style("cursor", "pointer")
         .attr("xlink:href", "img/lighterpack.png")
         .on("click", _ => window.open(multiDayHike.lighterPack, "_blank"));
@@ -98,7 +103,7 @@ function drawMultiDayHikes(svg, width, height) {
 
     drawBarCharts(multiDayHike, multiDayHikeContainer);
 
-    var titleAndStatsWidth = 430;
+    var titleAndStatsWidth = scaleToWidth(430);
 
     var photoWidth = 0;
     if (multiDayHike.photo) {
@@ -132,7 +137,7 @@ function drawMultiDayHikes(svg, width, height) {
         .attr("height", multiDayHikeHeight - 20)
         .append("xhtml:body")
         .style("color", "rgb(60,64,67)")
-        .style("font-size", ".88rem")
+        .style("font-size", `${scaleToWidth(0.88)}rem`)
         .style("font-weight", 400)
         .style("font-family", "Roboto,Arial,sans-serif")
         .html(`<div style="overflow-y: auto; height: ${multiDayHikeHeight - 40}px">${multiDayHike.descriptionFR}<br></div>`);
@@ -145,10 +150,10 @@ function drawMultiDayHikes(svg, width, height) {
     if (multiDayHike.hasGpxFile) {
       multiDayHikeContainer
         .append("svg:image")
-        .attr("x", width - rightMargin - leftMargin - 20)
-        .attr("y", 10)
-        .attr("width", 18)
-        .attr("height", 18)
+        .attr("x", width - rightMargin - leftMargin - scaleToWidth(20))
+        .attr("y", scaleToWidth(10))
+        .attr("width", scaleToWidth(18))
+        .attr("height", scaleToWidth(18))
         .style("cursor", "pointer")
         .attr("xlink:href", "img/gpx.png")
         .on("click", _ => {
@@ -158,7 +163,7 @@ function drawMultiDayHikes(svg, width, height) {
           link.click();
           drawBanner("Use this gpx file at your own risk! You are responsible for your own safety. Assess feasibility in regards to your technical and physical abilities.", bannerContainer);
         })
-        .on("mouseover", (event, d) => drawTooltip("Download GPX file", svg, event, -35, -5))
+        .on("mouseover", (event, d) => drawTooltip("Download GPX file", svg, event, scaleToWidth(-35), scaleToWidth(-5)))
         .on("mouseout", _ => clearTooltip());
     }
   }
@@ -390,8 +395,8 @@ function drawMultiDayHikes(svg, width, height) {
       dimension = d => d.elevation;
     }
 
-    var graphWidth = 380;
-    var graphHeight = 90;
+    var graphWidth = scaleToWidth(380);
+    var graphHeight = scaleToWidth(90);
     var dayNames = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
     var graphContainer =
@@ -400,7 +405,7 @@ function drawMultiDayHikes(svg, width, height) {
         .attr("class", "bar-chart-container")
         .attr("width", graphWidth)
         .attr("height", graphHeight)
-        .attr("transform", `translate(40,${positionY})`);
+        .attr("transform", `translate(${scaleToWidth(40)},${scaleToWidth(positionY)})`);
 
     var maxValue = d3.max(timeline, d => dimension(d));
 
@@ -421,14 +426,14 @@ function drawMultiDayHikes(svg, width, height) {
       .data(timeline.map(d => d.date))
       .enter()
       .append("g")
-      .attr("transform", d => `translate(${x(d) + x.bandwidth() / 2},${graphHeight + 13})rotate(-45)`)
+      .attr("transform", d => `translate(${x(d) + x.bandwidth() / 2},${graphHeight + scaleToWidth(13)})rotate(-45)`)
       .append("text")
       .attr("class", "graph-bar-label")
       .attr("x", 0)
       .attr("y", 0)
       .style("text-anchor", "middle")
       .style("fill", "rgb(60,64,67)")
-      .style("font-size", 9)
+      .style("font-size", scaleToWidth(9))
       .style("font-family", "sans-serif")
       .text(d => dayNames[d3.timeParse("%Y-%m-%d")(d).getDay()])
 
@@ -446,7 +451,7 @@ function drawMultiDayHikes(svg, width, height) {
       )
       .call(g =>
         g.selectAll(".tick text")
-          .style("font-size", 9)
+          .style("font-size", scaleToWidth(9))
           .style("font-family", "sans-serif")
           .style("fill", "rgb(60,64,67)")
       );

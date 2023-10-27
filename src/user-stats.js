@@ -3,6 +3,9 @@ function drawUserStats(svg, width, height) {
 
   var userStatsContainer = svg.append("g").attr("class", "user-stats-container");
 
+  var fontSize = width * 13 / 1400;
+  if (width > 1000) fontSize = 13;
+
   userStatsContainer
     .selectAll("g")
     .data(data.userStats.split("\n"))
@@ -12,7 +15,7 @@ function drawUserStats(svg, width, height) {
     .attr("x", 50)
     .attr("y", (_, i) => 30 + i * 15)
     .style("dy", ".35em")
-    .style("font-size", "13")
+    .style("font-size", `${fontSize}`)
     .style("font-family", "monospace")
     .style("white-space", "pre-wrap")
     .text(d => d)

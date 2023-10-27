@@ -493,5 +493,5 @@ function drawMultiDayHikes(svg, width, height) {
 
 function cleanMultiDayHikesPage(svg) {
   svg.select(".multi-day-hikes-container").remove();
-  d3.select("svg").attr("height", Math.max(500, window.innerHeight));
+  d3.select("svg").attr("height", window.innerHeight);
 }

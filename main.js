@@ -1,4 +1,4 @@
-var width = Math.max(960, window.innerWidth), height = Math.max(500, window.innerHeight);
+var width = window.innerWidth, height = window.innerHeight;
 
 d3.select("body").style("margin", "0");
 

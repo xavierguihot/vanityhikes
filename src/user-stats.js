@@ -22,5 +22,5 @@ function drawUserStats(svg, width, height) {
 
 function cleanUserStatsPage(svg) {
   svg.select(".user-stats-container").remove();
-  d3.select("svg").attr("height", Math.max(500, window.innerHeight));
+  d3.select("svg").attr("height", window.innerHeight);
 }

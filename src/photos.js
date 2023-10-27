@@ -4,7 +4,9 @@ function drawPhotos(svg, width, height) {
   var topMargin = 50;
   var leftMargin = 40;
   var maxLineWidth = width - 70;
-  var minLineHeight = 200;
+  var minLineHeight = width * 200 / 1200; // Adapted to the width of the screen
+  if (minLineHeight > 200) minLineHeight = 200;
+  if (minLineHeight < 100) minLineHeight = 100;
   var spaceBetweenPhotos = 4;
   var heightBetweenPhotoDates = 50;
 
@@ -306,7 +308,7 @@ function rightPhoto(currentGoogleId, orderedPhotos) {
 function cleanPhotosPage(svg) {
   svg.select(".photos-container").remove();
   d3.select("g.photo-viewing-page-container").remove();
-  d3.select("svg").attr("height", Math.max(500, window.innerHeight));
+  d3.select("svg").attr("height", window.innerHeight);
 }
 
 function quitPhotoView() {

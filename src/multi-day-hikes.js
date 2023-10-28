@@ -1,7 +1,7 @@
 
 function drawMultiDayHikes(svg, width, height) {
 
-   // Adapt a dimension to the width of the screen:
+  // Adapt a dimension to the width of the screen:
   function scaleToWidth(value) {
     return value * width / 1745;
   }

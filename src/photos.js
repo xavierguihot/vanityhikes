@@ -246,6 +246,8 @@ function drawPhotos(svg, width, height) {
       .attr("height", height)
       .style("opacity", 0)
       .style("cursor", "pointer")
+      .on("mouseover", event => showChevron("left", width / 16))
+      .on("mouseout", event => removeChevron())
       .on("click", _ => switchToLeftPhoto(photo.googleDriveId, orderedPhotos));
     photoViewContainer
       .append("g")
@@ -256,8 +258,24 @@ function drawPhotos(svg, width, height) {
       .attr("height", height)
       .style("opacity", 0)
       .style("cursor", "pointer")
+      .on("mouseover", event => showChevron("right", width - width / 16))
+      .on("mouseout", event => removeChevron())
       .on("click", _ => switchToRightPhoto(photo.googleDriveId, orderedPhotos));
 
+    function showChevron(direction, x) {
+      photoViewContainer
+        .append("svg:image")
+        .attr("class", "switch-left-right-chevron")
+        .attr("x", x)
+        .attr("y", height / 2)
+        .attr("width", 20)
+        .attr("height", 20)
+        .style("cursor", "pointer")
+        .attr("xlink:href", `img/${direction}-chevron.png`);
+    }
+    function removeChevron() {
+      photoViewContainer.selectAll(".switch-left-right-chevron").remove();
+    }
     function switchToLeftPhoto(currentGoogleId, orderedPhotos) {
       var photoToSwitchTo = leftPhoto(currentGoogleId, orderedPhotos);
       if (photoToSwitchTo) {

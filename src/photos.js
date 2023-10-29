@@ -236,6 +236,8 @@ function drawPhotos(svg, width, height) {
 
     displayPhoto(photo);
 
+    var chevronsContainer = photoViewContainer.append("g");
+
     // The areas allowing to switch to the previous/next photo:
     photoViewContainer
       .append("g")
@@ -263,7 +265,7 @@ function drawPhotos(svg, width, height) {
       .on("click", _ => switchToRightPhoto(photo.googleDriveId, orderedPhotos));
 
     function showChevron(direction, x) {
-      photoViewContainer
+      chevronsContainer
         .append("svg:image")
         .attr("class", "switch-left-right-chevron")
         .attr("x", x)
@@ -274,7 +276,7 @@ function drawPhotos(svg, width, height) {
         .attr("xlink:href", `img/${direction}-chevron.png`);
     }
     function removeChevron() {
-      photoViewContainer.selectAll(".switch-left-right-chevron").remove();
+      chevronsContainer.selectAll(".switch-left-right-chevron").remove();
     }
     function switchToLeftPhoto(currentGoogleId, orderedPhotos) {
       var photoToSwitchTo = leftPhoto(currentGoogleId, orderedPhotos);

@@ -1,5 +1,53 @@
 [
   {
+    "name": "Hong Kong",
+    "contiguousHikes": [
+      "2023-11-04T13:35:44",
+      "2023-11-04T12:36:57",
+      "2023-11-04T11:43",
+      "2023-11-04T10:19:19",
+      "2023-11-04T09:13:42",
+      "2023-11-04T08:54:48",
+      "2023-11-04T07:34:06",
+      "2023-11-04T04:15:59",
+      "2023-11-04T03:30:54",
+      "2023-11-03T15:54:03",
+      "2023-11-03T14:25:36",
+      "2023-11-03T13:58:40"
+    ],
+    "start": "2023-11-03T13:58:40",
+    "end": "2023-11-04T13:43:01",
+    "days": 2,
+    "walkingDays": 1,
+    "distance": 15.048566019711304,
+    "elevation": 165,
+    "durationInSeconds": 16908,
+    "idleTimeInSeconds": 3129,
+    "coordinates": {
+      "centerLatitude": 22.33611313160509,
+      "centerLongitude": 114.18282300699502,
+      "widthInKm": 8,
+      "heightInKm": 11
+    },
+    "timeline": [
+      {
+        "date": "2023-11-03",
+        "distance": 3.5152564995472417,
+        "elevation": 12
+      },
+      {
+        "date": "2023-11-04",
+        "distance": 11.53330952016406,
+        "elevation": 152
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/cf70tx",
+    "type": "Voyage",
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
     "name": "GR34 - Sentier des Douaniers (Brest => Pont l'Abbé)",
     "contiguousHikes": [
       "2023-10-22T16:32:51",

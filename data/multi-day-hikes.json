@@ -2,6 +2,11 @@
   {
     "name": "Hong Kong",
     "contiguousHikes": [
+      "2023-11-05T12:46:59",
+      "2023-11-05T10:53:44",
+      "2023-11-05T05:28:06",
+      "2023-11-05T04:02:08",
+      "2023-11-05T03:35:22",
       "2023-11-04T13:35:44",
       "2023-11-04T12:36:57",
       "2023-11-04T11:43",
@@ -16,18 +21,18 @@
       "2023-11-03T13:58:40"
     ],
     "start": "2023-11-03T13:58:40",
-    "end": "2023-11-04T13:43:01",
-    "days": 2,
-    "walkingDays": 1,
-    "distance": 15.048566019711304,
-    "elevation": 165,
-    "durationInSeconds": 16908,
-    "idleTimeInSeconds": 3129,
+    "end": "2023-11-05T13:18:24",
+    "days": 3,
+    "walkingDays": 2,
+    "distance": 27.01042773224627,
+    "elevation": 376,
+    "durationInSeconds": 35389,
+    "idleTimeInSeconds": 9276,
     "coordinates": {
-      "centerLatitude": 22.33611313160509,
-      "centerLongitude": 114.18282300699502,
-      "widthInKm": 8,
-      "heightInKm": 11
+      "centerLatitude": 22.294296151958406,
+      "centerLongitude": 114.1214895201847,
+      "widthInKm": 21,
+      "heightInKm": 20
     },
     "timeline": [
       {
@@ -39,6 +44,11 @@
         "date": "2023-11-04",
         "distance": 11.53330952016406,
         "elevation": 152
+      },
+      {
+        "date": "2023-11-05",
+        "distance": 11.961861712534972,
+        "elevation": 210
       }
     ],
     "descriptionFR": "Description: Work in Progress",

@@ -2,12 +2,12 @@
   "date": "2023-11-06",
   "daysAgo": 0,
   "distance": {
-    "distance": 28.475703432612683,
-    "totalCumulatedDistance": 5654.010030938495,
-    "last365DaysDistance": 3335.9382170231547,
-    "last30DaysDistance": 325.40097039681217,
-    "last7DaysDistance": 57.92667922902106,
-    "yearToDateCumulatedDistance": 3080.5040928073695,
+    "distance": 30.0280313056833,
+    "totalCumulatedDistance": 5655.562358811565,
+    "last365DaysDistance": 3337.4905448962254,
+    "last30DaysDistance": 326.9532982698828,
+    "last7DaysDistance": 59.479007102091686,
+    "yearToDateCumulatedDistance": 3082.05642068044,
     "unit": "km"
   },
   "elevation": {

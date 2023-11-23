@@ -10,21 +10,21 @@ function drawGraphs(svg, width, height) {
       name: "Rolling cumulated distance over previous 365 days",
       type: "classic timeseries",
       dimension: day => day.distance.last365DaysDistance,
-      yAxisLabelFormat: d => `${parseInt(d.toFixed(0)).toLocaleString("fr-FR").replaceAll(".", " ")} km (${(d/365).toFixed(1)}km/day)`,
+      yAxisLabelFormat: d => `${parseInt(d.toFixed(0)).toLocaleString("fr-FR").replaceAll(".", " ")} km (${(d/365).toFixed(1)} km/day - ${(d/12).toFixed(0)} km/month)`,
       shortYAxisLabelFormat: d => `${parseInt(d.toFixed(0)).toLocaleString("fr-FR").replaceAll(".", " ")} km`
     },
     {
       name: "Rolling cumulated distance over previous 30 days",
       type: "classic timeseries",
       dimension: day => day.distance.last30DaysDistance,
-      yAxisLabelFormat: d => `${parseInt(d.toFixed(0)).toLocaleString("fr-FR").replaceAll(".", " ")} km (${(d/30).toFixed(1)}km/day)`,
+      yAxisLabelFormat: d => `${parseInt(d.toFixed(0)).toLocaleString("fr-FR").replaceAll(".", " ")} km (${(d/30).toFixed(1)} km/day)`,
       shortYAxisLabelFormat: d => `${parseInt(d.toFixed(0)).toLocaleString("fr-FR").replaceAll(".", " ")} km`
     },
     {
       name: "Rolling cumulated distance over previous 7 days",
       type: "classic timeseries",
       dimension: day => day.distance.last7DaysDistance ? day.distance.last7DaysDistance : 0,
-      yAxisLabelFormat: d => `${parseFloat(d.toFixed(1)).toLocaleString("fr-FR").replaceAll(".", " ")} km (${(d/7).toFixed(1)}km/day)`,
+      yAxisLabelFormat: d => `${parseFloat(d.toFixed(1)).toLocaleString("fr-FR").replaceAll(".", " ")} km (${(d/7).toFixed(1)} km/day)`,
       shortYAxisLabelFormat: d => `${parseFloat(d.toFixed(1)).toLocaleString("fr-FR").replaceAll(".", " ")} km`
     },
     {

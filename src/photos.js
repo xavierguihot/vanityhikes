@@ -232,6 +232,10 @@ function drawPhotos(svg, width, height) {
       if (photoOnTheRight) {
         attachHighResPhoto(photoOnTheRight, opacity = 0);
       }
+
+      photoViewContainer
+        .select(".download-button")
+        .on("click", _ => downloadPhoto(`https://drive.google.com/uc?id=${photo.googleDriveId}&export=download`, photo.name));
     }
 
     displayPhoto(photo);
@@ -308,7 +312,21 @@ function drawPhotos(svg, width, height) {
       .attr("height", 20)
       .style("cursor", "pointer")
       .attr("xlink:href", "img/left-arrow.png")
+      .on("mouseover", (event, d) => drawTooltip("Back to all photos", photoViewContainer, event, 95, 36))
+      .on("mouseout", _ => clearTooltip())
       .on("click", _ => quitPhotoView());
+    photoViewContainer
+      .append("svg:image")
+      .attr("class", "download-button")
+      .attr("x", 88)
+      .attr("y", 13)
+      .attr("width", 35)
+      .attr("height", 35)
+      .style("cursor", "pointer")
+      .attr("xlink:href", "img/download.png")
+      .on("mouseover", (event, d) => drawTooltip("Download photo", photoViewContainer, event, 97, 43))
+      .on("mouseout", _ => clearTooltip())
+      .on("click", _ => downloadPhoto(`https://drive.google.com/uc?id=${photo.googleDriveId}&export=download`, photo.name));
   }
 }
 
@@ -336,6 +354,13 @@ function quitPhotoView() {
   d3.select("svg").attr("height", svg.select(".photos-container").node().getBoundingClientRect().height + 50);
   d3.select("g.photo-viewing-page-container").remove();
   window.scrollTo(0, scrollPositionToGetBackTo);
+}
+
+function downloadPhoto(photoLink, photoName) {
+  var link = document.createElement("a");
+  link.href = photoLink;
+  link.download = photoName;
+  link.click();
 }
 
 Array.prototype.foldLeft = function (sum, callback) {

@@ -26,18 +26,19 @@ function drawMapAndTraces(svg, width, height) {
   // Draw hike traces:
   function drawHikes(hikeToSlices) {
     mapContainer
-      .selectAll("path.line")
-      .data(data.hikes)
+      .selectAll("path.hike-line")
+      .data(data.wishlistHikes.concat(data.hikes))
       .join(
         enter =>
           enter
             .append("path")
-            .attr("class", "line")
+            .attr("class", "hike-line")
             .attr("id", hike => `hike-trace-${hike.name}`)
             .attr("d", hike => traceLine(hikeToSlices(hike)))
-            .style("stroke", "black") // #008EFC
+            .style("stroke", hike => hike.isWish ? "#f50ce5" : "black")
             .style("fill", "transparent")
-            .style("stroke-width", 2 / initialZoom),
+            .style("stroke-width", 2 / initialZoom)
+            .attr("is-wish", hike => hike.isWish ? "true" : "false"),
         update =>
           update
             .attr("d", hike => traceLine(hikeToSlices(hike))),
@@ -209,7 +210,7 @@ function drawMapAndTraces(svg, width, height) {
 
     // Adapt the position and the size of hikes (gpx trace) to the new zoom/position:
     mapContainer
-      .selectAll("path.line")
+      .selectAll("path.hike-line")
       .attr("transform", transform)
       .style("stroke-width", 2 / transform.k);
 
@@ -246,6 +247,34 @@ function drawMapAndTraces(svg, width, height) {
         .attr("height", 256);
 
     drawScaleBar(transform.k, transform.x, transform.y);
+  }
+
+  // Wish list hikes:
+  hideWishListHikes()
+  drawButton(
+    mapContainer,
+    "wishlist-switch",
+    _ => {
+      if (isSelected("wishlist-switch")) {
+        hideWishListHikes();
+        attachTooltipToButton("wishlist-switch", "Show hikes I plan on doing", -90, 38);
+      } else {
+        showWishListHikes();
+        attachTooltipToButton("wishlist-switch", "Hide hikes I plan on doing", -90, 38);
+      }
+    },
+    "sandglass.png",
+    width - 27,
+    height / 2 - 12,
+    false
+  );
+  attachTooltipToButton("wishlist-switch", "Show hikes I plan on doing", -90, 38);
+
+  function showWishListHikes() {
+    mapContainer.selectAll("path.hike-line[is-wish='true']").attr("opacity", 1);
+  }
+  function hideWishListHikes() {
+    mapContainer.selectAll("path.hike-line[is-wish='true']").attr("opacity", 0);
   }
 
   function stringify(scale, translate) {

@@ -15,26 +15,30 @@ var data = {
   photos: [],
   timeline: [],
   multiDayHikes: [],
-  userStats: ""
+  userStats: "",
+  wishlistHikes: []
 }
 
 d3.text("data/light-hikes.csv").then(csv => {
-    data.hikes = readHikesCsv(csv);
+    data.hikes = readHikesCsv(csv, false);
     d3.json("data/photos.json").then(json => {
       data.photos = json;
+      d3.text("data/light-wishlist-hikes.csv").then(csv => {
+        data.wishlistHikes = readHikesCsv(csv, true);
 
-      drawMapAndTraces(content, width, height);
+        drawMapAndTraces(content, width, height);
 
-      d3.json("data/timeline.json").then(json => {
-        data.timeline = json.filter(d => d.daysAgo <= 0);
-        // Banner if data hasn't been updated in a while:
-        drawOutdatedDataBannerIfNeeded();
-      });
-      d3.text("data/user-stats.txt").then(text => {
-        data.userStats = text;
-      });
-      d3.json("data/multi-day-hikes.json").then(json => {
-        data.multiDayHikes = json.filter(d => !d.hide);
+        d3.json("data/timeline.json").then(json => {
+          data.timeline = json.filter(d => d.daysAgo <= 0);
+          // Banner if data hasn't been updated in a while:
+          drawOutdatedDataBannerIfNeeded();
+        });
+        d3.text("data/user-stats.txt").then(text => {
+          data.userStats = text;
+        });
+        d3.json("data/multi-day-hikes.json").then(json => {
+          data.multiDayHikes = json.filter(d => !d.hide);
+        });
       });
     });
 });
@@ -58,7 +62,7 @@ d3.select("body")
     }
   });
 
-function readHikesCsv(csv) {
+function readHikesCsv(csv, isWish) {
 
   function parseFloatOrZero(str) {
     return str == "" ? 0.0 : parseFloat(str)
@@ -94,7 +98,8 @@ function readHikesCsv(csv) {
         idleTimeIntSeconds: parseInt(parts[10]),
         distance: parseFloat(parts[11]),
         positiveElevation: parseFloat(parts[12]),
-        date: parts[13]
+        date: parts[13],
+        isWish: isWish
       }
     });
 }

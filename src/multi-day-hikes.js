@@ -280,8 +280,6 @@ function drawMultiDayHikes(svg, width, height) {
       );
     }
 
-    drawLocations(false);
-
     // Apply a zoom transform equivalent to projection.{scale,translate,center}.
     mapContainer
       .call(zoom)
@@ -302,14 +300,7 @@ function drawMultiDayHikes(svg, width, height) {
 
       resizeHikeGpxTracesForZoom(mapContainer, transform);
 
-      // Adapt the position and the size of locations to the new zoom/position:
-      mapContainer
-        .selectAll("image.location-icon")
-        .attr("transform", transform)
-        .attr("width", 20 / transform.k)
-        .attr("height", 20 / transform.k)
-        .attr("x", photo => projection([photo.longitude, photo.latitude])[0] - 10 / transform.k)
-        .attr("y", photo => projection([photo.longitude, photo.latitude])[1] - 10 / transform.k);
+      transformMapIconsForZoom(mapContainer, projection, "location", transform, 20, 20);
 
       updateMapTilesForZoom(raster, mapWidth, mapHeight, transform);
 

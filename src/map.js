@@ -7,7 +7,7 @@ function drawMapAndTraces(svg, width, height) {
     initialZoom: 24000,
     maxZoom: 16000000,
     photoIconsMinZoom: 300000,
-    wishList5kmMarkersMinZoom: 700000
+    wishList5kmMarkersAndLocationsMinZoom: 700000
   }
 
   var mapPageState = {
@@ -133,8 +133,6 @@ function drawMapAndTraces(svg, width, height) {
   }
 
   drawHikes(d => d.kilometerSlices);
-  drawPictures(mapPageState.displayPhotoIcons, false);
-  drawWishListHikes5kmMarks(mapPageState.displayWishList, false);
 
   // Apply a zoom transform equivalent to projection.{scale,translate,center}.
   mapContainer
@@ -178,16 +176,18 @@ function drawMapAndTraces(svg, width, height) {
     }
 
     if (
-      transform.k >= constants.wishList5kmMarkersMinZoom &&
-      mapPageState.previousZoom < constants.wishList5kmMarkersMinZoom
+      transform.k >= constants.wishList5kmMarkersAndLocationsMinZoom &&
+      mapPageState.previousZoom < constants.wishList5kmMarkersAndLocationsMinZoom
     ) {
       drawWishListHikes5kmMarks(mapPageState.displayWishList, true);
+      drawWishlistHikesLocationsIcons(mapPageState.displayWishList, true);
     }
     else if (
-      transform.k < constants.wishList5kmMarkersMinZoom &&
-      mapPageState.previousZoom >= constants.wishList5kmMarkersMinZoom
+      transform.k < constants.wishList5kmMarkersAndLocationsMinZoom &&
+      mapPageState.previousZoom >= constants.wishList5kmMarkersAndLocationsMinZoom
     ) {
       drawWishListHikes5kmMarks(mapPageState.displayWishList, false); // i.e. remove markers
+      drawWishlistHikesLocationsIcons(mapPageState.displayWishList, false);
     }
 
     mapPageState.previousTransform = transform;
@@ -196,7 +196,7 @@ function drawMapAndTraces(svg, width, height) {
     resizeHikeGpxTracesForZoom(mapContainer, transform)
 
     transformPhotoIconsForZoomAndPosition(transform);
-    transformWishlistHikeMarkersForZoomAndPosition(transform);
+    transformWishlistHikes5kmMarkersAndLocationsIconsForZoomAndPosition(transform);
 
     updateMapTilesForZoom(raster, width, height, transform);
 
@@ -204,21 +204,18 @@ function drawMapAndTraces(svg, width, height) {
   }
 
   function transformPhotoIconsForZoomAndPosition(transform) {
-    mapContainer
-      .selectAll("image.picture-icon")
-      .attr("transform", transform)
-      .attr("width", 16 / transform.k)
-      .attr("height", 16 / transform.k)
-      .attr("x", photo => projection([photo.longitude, photo.latitude])[0] - 8 / transform.k)
-      .attr("y", photo => projection([photo.longitude, photo.latitude])[1] - 8 / transform.k);
+    transformMapIconsForZoom(mapContainer, projection, "picture", transform, 16, 16);
   }
 
-  function transformWishlistHikeMarkersForZoomAndPosition(transform) {
+  function transformWishlistHikes5kmMarkersAndLocationsIconsForZoomAndPosition(transform) {
+
     mapContainer
       .selectAll("g.wishlist-5km-mark")
       .attr("transform", transform)
       .select("text")
       .style("font-size", 12 / transform.k);
+
+    transformMapIconsForZoom(mapContainer, projection, "wishlist-hikes-locations", transform, 16, 16);
   }
 
   // Button to display/hide wish list hikes:
@@ -227,21 +224,21 @@ function drawMapAndTraces(svg, width, height) {
     buttonsContainer,
     "wishlist-switch",
     _ => {
+      var newTooltipText;
       if (mapPageState.displayWishList) {
         mapPageState.displayWishList = false;
         setOpacityOnWishListHikes(0);
-        drawWishListHikes5kmMarks(mapPageState.displayWishList, mapPageState.previousZoom >= constants.wishList5kmMarkersMinZoom);
-        transformWishlistHikeMarkersForZoomAndPosition(mapPageState.previousTransform);
-        attachTooltipToButton("wishlist-switch", "Show hikes I plan on doing", -90, 38);
-        clearTooltip();
+        newTooltipText = "Show hikes I plan on doing";
       } else {
         mapPageState.displayWishList = true;
         setOpacityOnWishListHikes(1);
-        drawWishListHikes5kmMarks(mapPageState.displayWishList, mapPageState.previousZoom >= constants.wishList5kmMarkersMinZoom);
-        transformWishlistHikeMarkersForZoomAndPosition(mapPageState.previousTransform);
-        attachTooltipToButton("wishlist-switch", "Hide hikes I plan on doing", -90, 38);
-        clearTooltip();
+        newTooltipText = "Hide hikes I plan on doing";
       }
+      drawWishListHikes5kmMarks(mapPageState.displayWishList, mapPageState.previousZoom >= constants.wishList5kmMarkersAndLocationsMinZoom);
+      drawWishlistHikesLocationsIcons(mapPageState.displayWishList, mapPageState.previousZoom >= constants.wishList5kmMarkersAndLocationsMinZoom);
+      transformWishlistHikes5kmMarkersAndLocationsIconsForZoomAndPosition(mapPageState.previousTransform);
+      attachTooltipToButton("wishlist-switch", newTooltipText, -90, 38);
+      clearTooltip();
     },
     "sandglass.png",
     width - 27,
@@ -344,6 +341,51 @@ function drawMapAndTraces(svg, width, height) {
       allMarks = marks.concat(allMarks);
     });
     data.wishListHikes5kmMarks = allMarks;
+  }
+
+  // Draw wishlist hikes locations:
+
+  var wishlistHikesLocationsIconsData =
+    data
+      .wishlistHikesLocations
+      .flatMap(d => d.locations)
+      .map(location => {
+        var image;
+        if (location.type == "gite")
+          image = "gite-de-france.png";
+        if (location.type == "hotel")
+          image = "hotel.png";
+        if (location.type == "refuge")
+          image = "refuge.png";
+        if (location.type == "bivouac")
+          image = "bivouac.png";
+        if (location.type == "camping")
+          image = "camping.png";
+        return {
+          "name": `${location.type}-${location.latitude}-${location.longitude}`,
+          "latitude": location.latitude,
+          "longitude": location.longitude,
+          "image": image,
+          "width": 20,
+          "height": 20,
+          "xOffset": -8,
+          "yOffset": -8,
+          "location": location
+        }
+      });
+
+  function drawWishlistHikesLocationsIcons(displayLocations, isMapZoomedEnough) {
+
+    drawIconsOnMap(
+      mapContainer,
+      projection,
+      displayLocations && isMapZoomedEnough ? wishlistHikesLocationsIconsData : [],
+      "wishlist-hikes-locations",
+      undefined,
+      (event, d) => {
+        true
+      }
+    );
   }
 }
 

@@ -39,3 +39,13 @@ function drawIconsOnMap(mapContainer, projection, data, iconType, actionOnClick,
         exit.remove()
     );
 }
+
+function transformMapIconsForZoom(mapContainer, projection, iconType, transform, width, height) {
+  mapContainer
+    .selectAll(`image.${iconType}-icon`)
+    .attr("transform", transform)
+    .attr("width", width / transform.k)
+    .attr("height", height / transform.k)
+    .attr("x", icon => projection([icon.longitude, icon.latitude])[0] - (width / 2) / transform.k)
+    .attr("y", icon => projection([icon.longitude, icon.latitude])[1] - (height / 2) / transform.k);
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "hike": "hrp",
+    "locations": [
+      {
+        "name": "Camping l'Esperance",
+        "type": "camping",
+        "website": "https://camping-esperance.fr/tarifs-emplacements",
+        "phone": "02 33 07 12 71",
+        "email": "contact@camping-esperance.fr",
+        "latitude": 49.303314146063954,
+        "longitude": -1.6884007906320975,
+        "todo": "Appeler pr confirmer"
+      }
+    ]
+  }
+]

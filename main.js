@@ -17,15 +17,18 @@ var data = {
   multiDayHikes: [],
   userStats: "",
   wishlistHikes: [],
-  wishListHikes5kmMarks: []
+  wishListHikes5kmMarks: [],
+  wishlistHikesLocations: []
 }
 
 d3.text("data/light-hikes.csv").then(csv => {
-    data.hikes = readHikesCsv(csv, false);
-    d3.json("data/photos.json").then(json => {
-      data.photos = json;
-      d3.text("data/light-wishlist-hikes.csv").then(csv => {
-        data.wishlistHikes = readHikesCsv(csv, true);
+  data.hikes = readHikesCsv(csv, false);
+  d3.json("data/photos.json").then(json => {
+    data.photos = json;
+    d3.text("data/light-wishlist-hikes.csv").then(csv => {
+      data.wishlistHikes = readHikesCsv(csv, true);
+      d3.json("data/wishlist-hikes-locations.json").then(json => {
+        data.wishlistHikesLocations = json;
 
         drawMapAndTraces(content, width, height);
 
@@ -42,6 +45,7 @@ d3.text("data/light-hikes.csv").then(csv => {
         });
       });
     });
+  });
 });
 
 // Banner if not using Google Chrome:

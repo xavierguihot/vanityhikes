@@ -249,46 +249,49 @@ function drawMultiDayHikes(svg, width, height) {
 
     drawHikes(hikes);
 
-    var locations = multiDayHike.locations ? multiDayHike.locations : [];
-
     // Draw locations:
+
+    var locations =
+      (multiDayHike.locations ? multiDayHike.locations : [])
+        .map(location => {
+          var image;
+          if (location.type == "gite")
+            image = "gite-de-france.png";
+          if (location.type == "hotel")
+            image = "hotel.png";
+          if (location.type == "refuge")
+            image = "refuge.png";
+          if (location.type == "bivouac")
+            image = "bivouac.png";
+          return {
+            "name": `${location.type}-${location.latitude}-${location.longitude}`,
+            "latitude": location.latitude,
+            "longitude": location.longitude,
+            "image": image,
+            "width": 20,
+            "height": 20,
+            "xOffset": -8,
+            "yOffset": -8,
+            "location": location
+          }
+        });
+
     function drawLocations(activate) {
-      mapContainer
-        .selectAll("image.location-icon")
-        .data(activate ? locations : [])
-        .join(
-          enter =>
-            enter
-              .append("svg:image")
-              .attr("class", "location-icon")
-              .attr("id", location => `{location.type}-{location.latitude}-{location.longitude}`)
-              .attr("x", location => projection([location.longitude, location.latitude])[0] - 8)
-              .attr("y", location => projection([location.longitude, location.latitude])[1] - 8)
-              .attr("width", 20)
-              .attr("height", 20)
-              .attr("xlink:href", location => {
-                if (location.type == "gite")
-                  return "img/gite-de-france.png";
-                if (location.type == "hotel")
-                  return "img/hotel.png";
-                if (location.type == "refuge")
-                  return "img/refuge.png";
-                if (location.type == "bivouac")
-                  return "img/bivouac.png";
-              })
-              .on("mouseover", (event, location) => {
-                if (location.name) {
-                  var x = d3.select(event.currentTarget).node().getBoundingClientRect().x;
-                  var y = d3.select(event.currentTarget).node().getBoundingClientRect().y + window.scrollY - 20;
-                  drawTooltipAtPosition(location.name, svg, x, y);
-                }
-              })
-              .on("mouseout", _ => clearTooltip()),
-          update =>
-            update,
-          exit =>
-            exit.remove()
-        );
+
+      drawIconsOnMap(
+        mapContainer,
+        projection,
+        activate ? locations : [],
+        "location",
+        undefined,
+        (event, d) => {
+          if (d.location.name) {
+            var x = d3.select(event.currentTarget).node().getBoundingClientRect().x;
+            var y = d3.select(event.currentTarget).node().getBoundingClientRect().y + window.scrollY - 20;
+            drawTooltipAtPosition(d.location.name, svg, x, y);
+          }
+        }
+      );
     }
 
     drawLocations(false);

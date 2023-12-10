@@ -91,35 +91,38 @@ function drawMapAndTraces(svg, width, height) {
   }
 
   // Draw pictures:
+
+  var photoIconsData =
+    data
+      .photos
+      .filter(photo => photo.longitude && photo.latitude)
+      .map(photo => { return {
+        "name": photo.name,
+        "latitude": photo.latitude,
+        "longitude": photo.longitude,
+        "image": "picture.png",
+        "width": 16,
+        "height": 16,
+        "xOffset": -8,
+        "yOffset": -8,
+        "photo": photo
+      }});
+
   function drawPictures(displayPhotos, isMapZoomedEnough) {
 
-    mapContainer
-      .selectAll("image.picture-icon")
-      .data(displayPhotos && isMapZoomedEnough ? data.photos.filter(photo => photo.longitude && photo.latitude) : [])
-      .join(
-        enter =>
-          enter
-            .append("svg:image")
-            .attr("class", "picture-icon")
-            .attr("id", photo => photo.name)
-            .attr("x", photo => projection([photo.longitude, photo.latitude])[0] - 8)
-            .attr("y", photo => projection([photo.longitude, photo.latitude])[1] - 8)
-            .attr("width", 16)
-            .attr("height", 16)
-            .style("cursor", "pointer")
-            .attr("xlink:href", "img/picture.png")
-            .on("click", (_, photo) => {
-              if (d3.selectAll(".photo-on-map-holder").empty()) {
-                displayPhoto(photo);
-              } else {
-                d3.selectAll(".photo-on-map-holder").remove();
-              }
-            }),
-        update =>
-          update,
-        exit =>
-          exit.remove()
-      );
+    drawIconsOnMap(
+      mapContainer,
+      projection,
+      displayPhotos && isMapZoomedEnough ? photoIconsData : [],
+      "picture",
+      d => {
+        if (d3.selectAll(".photo-on-map-holder").empty()) {
+          displayPhoto(d.photo);
+        } else {
+          d3.selectAll(".photo-on-map-holder").remove();
+        }
+      }
+    );
   }
 
   function photoViewingDimensions(photo) {

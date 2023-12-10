@@ -1,6 +1,4 @@
 
-var buttonSize = 24;
-
 function drawMenu(menuContainer) {
 
   var buttonsContainer = menuContainer.append("g");

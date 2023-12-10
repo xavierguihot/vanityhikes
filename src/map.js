@@ -3,16 +3,21 @@ var constants = {
   initialScale: 1 / (2 * Math.PI),
   initialCenter: [3.25, 46.5],
   initialZoom: 24000,
-  maxZoom: 16000000
+  maxZoom: 16000000,
+  photoIconsMinZoom: 300000,
+  wishList5kmMarkersMinZoom: 700000
 }
 
-var mapPageState = {
-  displayWishList: false,
-  previousTransform: undefined,
-  previousZoom: constants.initialZoom
-}
+var mapPageState;
 
 function drawMapAndTraces(svg, width, height) {
+
+  mapPageState = {
+    displayWishList: false,
+    displayPhotoIcons: true,
+    previousTransform: undefined,
+    previousZoom: constants.initialZoom
+  }
 
   var mapContainer = svg.append("g").attr("class", "map-container");
   var raster = mapContainer.append("g");
@@ -86,11 +91,11 @@ function drawMapAndTraces(svg, width, height) {
   }
 
   // Draw pictures:
-  function drawPictures(activate) {
+  function drawPictures(displayPhotos, isMapZoomedEnough) {
 
     mapContainer
       .selectAll("image.picture-icon")
-      .data(data.photos.filter(photo => activate && photo.longitude && photo.latitude))
+      .data(displayPhotos && isMapZoomedEnough ? data.photos.filter(photo => photo.longitude && photo.latitude) : [])
       .join(
         enter =>
           enter
@@ -176,7 +181,7 @@ function drawMapAndTraces(svg, width, height) {
   }
 
   drawHikes(d => d.kilometerSlices);
-  drawPictures(false);
+  drawPictures(mapPageState.displayPhotoIcons, false);
   drawWishListHikes5kmMarks(mapPageState.displayWishList, false);
 
   // Apply a zoom transform equivalent to projection.{scale,translate,center}.
@@ -207,17 +212,29 @@ function drawMapAndTraces(svg, width, height) {
       drawHikes(d => d.kilometerSlices)
     }
 
-    if (transform.k >= 300000 && mapPageState.previousZoom < 300000) {
-      drawPictures(true);
+    if (
+      transform.k >= constants.photoIconsMinZoom &&
+      mapPageState.previousZoom < constants.photoIconsMinZoom
+    ) {
+      drawPictures(mapPageState.displayPhotoIcons, true);
     }
-    else if (transform.k < 300000 && mapPageState.previousZoom >= 300000) {
-      drawPictures(false); // i.e. remove pictures
+    else if (
+      transform.k < constants.photoIconsMinZoom &&
+      mapPageState.previousZoom >= constants.photoIconsMinZoom
+    ) {
+      drawPictures(mapPageState.displayPhotoIcons, false); // i.e. remove pictures
     }
 
-    if (transform.k >= 700000 && mapPageState.previousZoom < 700000) {
+    if (
+      transform.k >= constants.wishList5kmMarkersMinZoom &&
+      mapPageState.previousZoom < constants.wishList5kmMarkersMinZoom
+    ) {
       drawWishListHikes5kmMarks(mapPageState.displayWishList, true);
     }
-    else if (transform.k < 700000 && mapPageState.previousZoom >= 700000) {
+    else if (
+      transform.k < constants.wishList5kmMarkersMinZoom &&
+      mapPageState.previousZoom >= constants.wishList5kmMarkersMinZoom
+    ) {
       drawWishListHikes5kmMarks(mapPageState.displayWishList, false); // i.e. remove markers
     }
 
@@ -232,16 +249,7 @@ function drawMapAndTraces(svg, width, height) {
       .attr("transform", transform)
       .style("stroke-width", 2 / transform.k);
 
-    // Adapt the position and the size of pictures to the new zoom/position:
-    mapContainer
-      .selectAll("image.picture-icon")
-      .attr("transform", transform)
-      .attr("width", 16 / transform.k)
-      .attr("height", 16 / transform.k)
-      .attr("x", photo => projection([photo.longitude, photo.latitude])[0] - 8 / transform.k)
-      .attr("y", photo => projection([photo.longitude, photo.latitude])[1] - 8 / transform.k);
-
-    // Adapt the position and the size of wishlist hikes 5km marks to the new zoom/position:
+    transformPhotoIconsForZoomAndPosition(transform);
     transformWishlistHikeMarkersForZoomAndPosition(transform);
 
     var image =
@@ -270,6 +278,16 @@ function drawMapAndTraces(svg, width, height) {
     drawScaleBar(transform.k, transform.x, transform.y);
   }
 
+  function transformPhotoIconsForZoomAndPosition(transform) {
+    mapContainer
+      .selectAll("image.picture-icon")
+      .attr("transform", transform)
+      .attr("width", 16 / transform.k)
+      .attr("height", 16 / transform.k)
+      .attr("x", photo => projection([photo.longitude, photo.latitude])[0] - 8 / transform.k)
+      .attr("y", photo => projection([photo.longitude, photo.latitude])[1] - 8 / transform.k);
+  }
+
   function transformWishlistHikeMarkersForZoomAndPosition(transform) {
     mapContainer
       .selectAll("g.wishlist-5km-mark")
@@ -278,7 +296,7 @@ function drawMapAndTraces(svg, width, height) {
       .style("font-size", 12 / transform.k);
   }
 
-  // Wish list hikes:
+  // Button to display/hide wish list hikes:
   setOpacityOnWishListHikes(0);
   drawButton(
     buttonsContainer,
@@ -287,14 +305,14 @@ function drawMapAndTraces(svg, width, height) {
       if (mapPageState.displayWishList) {
         mapPageState.displayWishList = false;
         setOpacityOnWishListHikes(0);
-        drawWishListHikes5kmMarks(mapPageState.displayWishList, mapPageState.previousZoom >= 700000);
+        drawWishListHikes5kmMarks(mapPageState.displayWishList, mapPageState.previousZoom >= constants.wishList5kmMarkersMinZoom);
         transformWishlistHikeMarkersForZoomAndPosition(mapPageState.previousTransform);
         attachTooltipToButton("wishlist-switch", "Show hikes I plan on doing", -90, 38);
         clearTooltip();
       } else {
         mapPageState.displayWishList = true;
         setOpacityOnWishListHikes(1);
-        drawWishListHikes5kmMarks(mapPageState.displayWishList, mapPageState.previousZoom >= 700000);
+        drawWishListHikes5kmMarks(mapPageState.displayWishList, mapPageState.previousZoom >= constants.wishList5kmMarkersMinZoom);
         transformWishlistHikeMarkersForZoomAndPosition(mapPageState.previousTransform);
         attachTooltipToButton("wishlist-switch", "Hide hikes I plan on doing", -90, 38);
         clearTooltip();
@@ -302,7 +320,7 @@ function drawMapAndTraces(svg, width, height) {
     },
     "sandglass.png",
     width - 27,
-    height / 2 - 12,
+    height / 2 - 25,
     false
   );
   attachTooltipToButton("wishlist-switch", "Show hikes I plan on doing", -90, 38);
@@ -310,6 +328,32 @@ function drawMapAndTraces(svg, width, height) {
   function setOpacityOnWishListHikes(opacity) {
     mapContainer.selectAll("path.hike-line[is-wish='true']").attr("opacity", opacity);
   }
+
+  // Button to display/hide photos:
+  drawButton(
+    buttonsContainer,
+    "photo-icons-switch",
+    _ => {
+      if (mapPageState.displayPhotoIcons) {
+        mapPageState.displayPhotoIcons = false;
+        drawPictures(mapPageState.displayPhotoIcons, mapPageState.previousZoom >= constants.photoIconsMinZoom);
+        transformPhotoIconsForZoomAndPosition(mapPageState.previousTransform);
+        attachTooltipToButton("photo-icons-switch", "Show photos", -47, 38);
+        clearTooltip();
+      } else {
+        mapPageState.displayPhotoIcons = true;
+        drawPictures(mapPageState.displayPhotoIcons, mapPageState.previousZoom >= constants.photoIconsMinZoom);
+        transformPhotoIconsForZoomAndPosition(mapPageState.previousTransform);
+        attachTooltipToButton("photo-icons-switch", "Hide photos", -47, 38);
+        clearTooltip();
+      }
+    },
+    "photo.png",
+    width - 27,
+    height / 2 + 2,
+    true
+  );
+  attachTooltipToButton("photo-icons-switch", "Hide photos", -47, 38);
 
   function stringify(scale, translate) {
     var k = scale / 256, r = scale % 1 ? Number : Math.round;
@@ -385,4 +429,5 @@ function drawMapAndTraces(svg, width, height) {
 
 function cleanMapPage(svg) {
   svg.select(".map-container").remove();
+  svg.select(".map-buttons-container").remove();
 }

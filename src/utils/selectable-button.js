@@ -1,4 +1,6 @@
 
+var buttonSize = 24;
+
 function drawButton(buttonContainer, buttonName, action, image, x, y, selected) {
 
   var container =

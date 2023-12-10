@@ -1,5 +1,5 @@
 
-function drawScaleBar(mapContainer, zoomLevel, x, y, mapContainerWidth, mapContainerHeight) {
+function drawScaleBar(mapContainer, zoomLevel, x, y, mapContainerWidth, mapContainerHeight, initialScale) {
 
   mapContainer.selectAll("g.scale-bar").remove();
 
@@ -9,7 +9,7 @@ function drawScaleBar(mapContainer, zoomLevel, x, y, mapContainerWidth, mapConta
     .call(
       d3.geoScaleBar()
         .zoomClamp(false)
-        .projection(d3.geoMercator().translate([x, y]).scale(constants.initialScale * zoomLevel))
+        .projection(d3.geoMercator().translate([x, y]).scale(initialScale * zoomLevel))
         .size([mapContainerWidth, mapContainerHeight])
         .left(.02)
         .top(.96)

@@ -1,16 +1,22 @@
 
 function drawMultiDayHikes(svg, width, height) {
 
+  var constants = {
+    topMargin: 30,
+    bottomMargin: 50,
+    leftMargin: 50,
+    rightMargin: 40,
+    spaceBetweenHikes: 25,
+    initialScale: 1 / (2 * Math.PI),
+    maxZoom: 16000000,
+    photoIconsMinZoom: 100000
+  }
+
   // Adapt a dimension to the width of the screen:
   function scaleToWidth(value) {
     return value * width / 1745;
   }
 
-  var topMargin = 30;
-  var bottomMargin = 50;
-  var leftMargin = 50;
-  var rightMargin = 40;
-  var spaceBetweenHikes = 25;
   var multiDayHikeHeight = scaleToWidth(400);
   var mapWidth = multiDayHikeHeight;
   var mapHeight = multiDayHikeHeight;
@@ -19,7 +25,7 @@ function drawMultiDayHikes(svg, width, height) {
     svg
       .append("g")
       .attr("class", "multi-day-hikes-container")
-      .attr("transform", `translate(${leftMargin}, ${topMargin})`);
+      .attr("transform", `translate(${constants.leftMargin}, ${constants.topMargin})`);
 
   data.multiDayHikes.forEach((multiDayHike, i) => drawMultiDayHike(multiDayHike, i));
 
@@ -27,12 +33,19 @@ function drawMultiDayHikes(svg, width, height) {
   data.multiDayHikes.forEach((multiDayHike, i) => {
     var previousHikesIndexes = Array.from({ length: i }, (v, k) => k + 1);
     var previousHikesHeightSum =
-      d3.sum(previousHikesIndexes, j => multiDayHikesContainer.select(`#multi-day-hike-${j} .multi-day-hike-rectangle`).node().getBoundingClientRect().height);
-    var hikeY = previousHikesHeightSum + previousHikesIndexes.length * spaceBetweenHikes;
+      d3.sum(
+        previousHikesIndexes,
+        j => multiDayHikesContainer.select(`#multi-day-hike-${j} .multi-day-hike-rectangle`).node().getBoundingClientRect().height
+      );
+    var hikeY = previousHikesHeightSum + previousHikesIndexes.length * constants.spaceBetweenHikes;
     multiDayHikesContainer.select(`#multi-day-hike-${i}`).attr("transform", `translate(0, ${hikeY})`)
   });
 
-  d3.select("svg").attr("height", multiDayHikesContainer.node().getBoundingClientRect().height + topMargin + bottomMargin);
+  d3.select("svg")
+    .attr(
+      "height",
+      multiDayHikesContainer.node().getBoundingClientRect().height + constants.topMargin + constants.bottomMargin
+    );
 
   periodicDisplayOfPhotosAtScrollLevel();
 
@@ -48,7 +61,7 @@ function drawMultiDayHikes(svg, width, height) {
       .style("stroke", "grey")
       .attr("x", 0)
       .attr("y", 0)
-      .attr("width", width - leftMargin - rightMargin)
+      .attr("width", width - constants.leftMargin - constants.rightMargin)
       .attr("height", multiDayHikeHeight);
 
     var texts =
@@ -127,7 +140,8 @@ function drawMultiDayHikes(svg, width, height) {
 
     // Description:
     if (multiDayHike.descriptionFR) {
-      var textContainerWidth = width - rightMargin - leftMargin - mapWidth - titleAndStatsWidth - photoWidth - 10;
+      var textContainerWidth =
+        width - constants.rightMargin - constants.leftMargin - mapWidth - titleAndStatsWidth - photoWidth - 10;
       multiDayHikeContainer
         .append("foreignObject")
         .attr("class", "description")
@@ -150,7 +164,7 @@ function drawMultiDayHikes(svg, width, height) {
     if (multiDayHike.hasGpxFile) {
       multiDayHikeContainer
         .append("svg:image")
-        .attr("x", width - rightMargin - leftMargin - scaleToWidth(20))
+        .attr("x", width - constants.rightMargin - constants.leftMargin - scaleToWidth(20))
         .attr("y", scaleToWidth(10))
         .attr("width", scaleToWidth(18))
         .attr("height", scaleToWidth(18))
@@ -184,17 +198,15 @@ function drawMultiDayHikes(svg, width, height) {
       multiDayHikeContainer
         .append("g")
         .attr("class", "multi-day-hike-map-container")
-        .attr("transform", `translate(${width - rightMargin - mapWidth - leftMargin}, 0)`)
+        .attr("transform", `translate(${width - constants.rightMargin - mapWidth - constants.leftMargin}, 0)`)
         .attr("clip-path", "url(#clip-path)");
     var raster = mapContainer.append("g");
 
-    var initialScale = 1 / (2 * Math.PI);
-
-    var projection = d3.geoMercator().scale(initialScale).translate([0, 0]);
+    var projection = d3.geoMercator().scale(constants.initialScale).translate([0, 0]);
 
     var path = d3.geoPath().projection(projection);
 
-    var zoom = d3.zoom().scaleExtent([1 << 11, 16000000]).on("zoom", zoomed);
+    var zoom = d3.zoom().scaleExtent([1 << 11, constants.maxZoom]).on("zoom", zoomed);
     var initialZoom = 50000;
     var maxDimensionInKm = d3.max([multiDayHike.coordinates.widthInKm, multiDayHike.coordinates.heightInKm]);
     if (maxDimensionInKm <= 12) {
@@ -219,12 +231,7 @@ function drawMultiDayHikes(svg, width, height) {
     var center = projection([multiDayHike.coordinates.centerLongitude, multiDayHike.coordinates.centerLatitude]);
 
     function drawHikes(hikeToSlices) {
-      drawHikeGpxTraces(
-        mapContainer,
-        hikes,
-        projection,
-        d => d.tenMeterSlices
-      );
+      drawHikeGpxTraces(mapContainer, hikes, projection, d => d.tenMeterSlices);
     }
 
     drawHikes(hikes);
@@ -257,7 +264,6 @@ function drawMultiDayHikes(svg, width, height) {
         });
 
     function drawLocations(activate) {
-
       drawIconsOnMap(
         mapContainer,
         projection,
@@ -292,7 +298,7 @@ function drawMultiDayHikes(svg, width, height) {
 
       drawHikes(hikes);
 
-      drawLocations(transform.k >= 100000);
+      drawLocations(transform.k >= constants.photoIconsMinZoom);
 
       resizeHikeGpxTracesForZoom(mapContainer, transform);
 
@@ -307,7 +313,7 @@ function drawMultiDayHikes(svg, width, height) {
 
       updateMapTilesForZoom(raster, mapWidth, mapHeight, transform);
 
-      drawScaleBar(mapContainer, transform.k, transform.x, transform.y, mapWidth, mapHeight);
+      drawScaleBar(mapContainer, transform.k, transform.x, transform.y, mapWidth, mapHeight, constants.initialScale);
     }
   }
 
@@ -321,8 +327,7 @@ function drawMultiDayHikes(svg, width, height) {
       })
       .forEach(d => {
         var googleDriveId = d3.select(d).attr("googleDriveId");
-        var href = `https://drive.google.com/thumbnail?id=${googleDriveId}&export=download&sz=h800`;
-        d3.select(d).attr("xlink:href", href);
+        d3.select(d).attr("xlink:href", thumbnailForHeight(googleDriveId, 800));
       });
   }
 
@@ -444,10 +449,6 @@ function drawMultiDayHikes(svg, width, height) {
         d3.selectAll("path.hike-line").style("stroke", "black");
         clearTooltip();
       });
-  }
-
-  function cssAcceptedId(str) {
-    return str.replaceAll(":", "-");
   }
 }
 

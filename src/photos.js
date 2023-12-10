@@ -77,7 +77,7 @@ function drawPhotos(svg, width, height) {
     photosContainer
       .selectAll(".photo-miniature-thumbnail")
       .filter(photo => photo.pageY > viewingYPosition - (height / 2) && photo.pageY < viewingYPosition + height )
-      .attr("xlink:href", photo => `https://drive.google.com/thumbnail?id=${photo.googleDriveId}&export=download&sz=w${photo.miniatureWidth}`);
+      .attr("xlink:href", photo => thumbnailForWidth(photo.googleDriveId, photo.miniatureWidth));
   }
 
   function periodicDisplayOfMiniaturesAtScrollLevel() {
@@ -192,7 +192,7 @@ function drawPhotos(svg, width, height) {
           .attr("height", photoDimensions.height)
           .attr("opacity", opacity)
           .attr("scrollPosition", photoToDisplay.pageY)
-          .attr("xlink:href", `https://drive.google.com/uc?id=${photoToDisplay.googleDriveId}&export=view`);
+          .attr("xlink:href", fullPhoto(photoToDisplay.googleDriveId));
       }
     }
 
@@ -212,7 +212,7 @@ function drawPhotos(svg, width, height) {
         .attr("y", (height - photoDimensions.height) / 2)
         .attr("width", photoDimensions.width)
         .attr("height", photoDimensions.height)
-        .attr("xlink:href", `https://drive.google.com/thumbnail?id=${photo.googleDriveId}&export=download&sz=w${photo.miniatureWidth}`);
+        .attr("xlink:href", thumbnailForWidth(photo.googleDriveId, photo.miniatureWidth));
 
       // If we've never seen this photo in high res before, we download it:
       if (photoContainer.selectAll(`#photo-${photo.googleDriveId}`).empty()) {
@@ -235,7 +235,7 @@ function drawPhotos(svg, width, height) {
 
       photoViewContainer
         .select(".download-button")
-        .on("click", _ => downloadPhoto(`https://drive.google.com/uc?id=${photo.googleDriveId}&export=download`, photo.name));
+        .on("click", _ => downloadPhoto(fullPhotoForDownload(photo.googleDriveId), photo.name));
     }
 
     displayPhoto(photo);
@@ -326,7 +326,7 @@ function drawPhotos(svg, width, height) {
       .attr("xlink:href", "img/download.png")
       .on("mouseover", (event, d) => drawTooltip("Download photo", photoViewContainer, event, 97, 43))
       .on("mouseout", _ => clearTooltip())
-      .on("click", _ => downloadPhoto(`https://drive.google.com/uc?id=${photo.googleDriveId}&export=download`, photo.name));
+      .on("click", _ => downloadPhoto(fullPhotoForDownload(photo.googleDriveId), photo.name));
   }
 }
 

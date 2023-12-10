@@ -14,7 +14,7 @@ function drawHikeGpxTraces(mapContainer, hikes, projection, hikeToSlices) {
         enter
           .append("path")
           .attr("class", "hike-line")
-          .attr("id", hike => `hike-trace-${hike.name}`)
+          .attr("id", hike => `hike-trace-${cssAcceptedId(hike.name)}`)
           .attr("d", hike => traceLine(hikeToSlices(hike)))
           .style("stroke", hike => hike.isWish ? "#f50ce5" : "black")
           .style("fill", "transparent")

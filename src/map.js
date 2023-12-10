@@ -1,18 +1,16 @@
 
-var constants = {
-  initialScale: 1 / (2 * Math.PI),
-  initialCenter: [3.25, 46.5],
-  initialZoom: 24000,
-  maxZoom: 16000000,
-  photoIconsMinZoom: 300000,
-  wishList5kmMarkersMinZoom: 700000
-}
-
-var mapPageState;
-
 function drawMapAndTraces(svg, width, height) {
 
-  mapPageState = {
+  var constants = {
+    initialScale: 1 / (2 * Math.PI),
+    initialCenter: [3.25, 46.5],
+    initialZoom: 24000,
+    maxZoom: 16000000,
+    photoIconsMinZoom: 300000,
+    wishList5kmMarkersMinZoom: 700000
+  }
+
+  var mapPageState = {
     displayWishList: false,
     displayPhotoIcons: true,
     previousTransform: undefined,
@@ -113,12 +111,11 @@ function drawMapAndTraces(svg, width, height) {
       .attr("width", photoDimensions.width)
       .attr("height", photoDimensions.height)
       .style("cursor", "pointer")
-      //.attr("xlink:href", `https://drive.google.com/uc?id=${photo.googleDriveId}&export=view`)
       .attr("xlink:href", _ => {
         if (photo.cameraMaker == "Panasonic") {
-          return `https://drive.google.com/thumbnail?id=${photo.googleDriveId}&export=download&sz=w${photoDimensions.width}`;
+          return thumbnailForWidth(photo.googleDriveId, photoDimensions.width);
         } else {
-          return `https://drive.google.com/thumbnail?id=${photo.googleDriveId}&export=download&sz=h${photoDimensions.height}`;
+          return thumbnailForHeight(photo.googleDriveId, photoDimensions.height);
         }
       })
       .on("click", _ => mapContainer.select(".photo-on-map-holder").remove());
@@ -131,7 +128,7 @@ function drawMapAndTraces(svg, width, height) {
       .attr("width", photoDimensions.width)
       .attr("height", photoDimensions.height)
       .style("cursor", "pointer")
-      .attr("xlink:href", `https://drive.google.com/uc?id=${photo.googleDriveId}&export=view`)
+      .attr("xlink:href", fullPhoto(photo.googleDriveId))
       .on("click", _ => mapContainer.select(".photo-on-map-holder").remove());
   }
 
@@ -203,7 +200,7 @@ function drawMapAndTraces(svg, width, height) {
 
     updateMapTilesForZoom(raster, width, height, transform);
 
-    drawScaleBar(mapContainer, transform.k, transform.x, transform.y, width, height);
+    drawScaleBar(mapContainer, transform.k, transform.x, transform.y, width, height, constants.initialScale);
   }
 
   function transformPhotoIconsForZoomAndPosition(transform) {

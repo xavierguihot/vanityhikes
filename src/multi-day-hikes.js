@@ -220,31 +220,13 @@ function drawMultiDayHikes(svg, width, height) {
     // Initial center:
     var center = projection([multiDayHike.coordinates.centerLongitude, multiDayHike.coordinates.centerLatitude]);
 
-    var traceLine = d3.line()
-      .x(d => projection([d.fromLongitude, d.fromLatitude])[0])
-      .y(d => projection([d.fromLongitude, d.fromLatitude])[1]);
-
-    // Draw hike traces:
-    function drawHikes(hikes) {
-      mapContainer
-        .selectAll("path.line")
-        .data(hikes)
-        .join(
-          enter =>
-            enter
-              .append("path")
-              .attr("class", "line")
-              .attr("id", hike => `hike-trace-${cssAcceptedId(hike.name)}`)
-              .attr("d", hike => traceLine(hike.tenMeterSlices))
-              .style("stroke", "black") // #008EFC
-              .style("fill", "transparent")
-              .style("stroke-width", 2 / initialZoom),
-          update =>
-            update
-              .attr("d", hike => traceLine(hike.tenMeterSlices)),
-          exit =>
-            exit.remove()
-        );
+    function drawHikes(hikeToSlices) {
+      drawHikeGpxTraces(
+        mapContainer,
+        hikes,
+        projection,
+        d => d.tenMeterSlices
+      );
     }
 
     drawHikes(hikes);
@@ -322,7 +304,7 @@ function drawMultiDayHikes(svg, width, height) {
 
       // Adapt the position and the size of hikes (gpx trace) to the new zoom/position:
       mapContainer
-        .selectAll("path.line")
+        .selectAll("path.hike-line")
         .attr("transform", transform)
         .style("stroke-width", 2 / transform.k);
 
@@ -491,7 +473,7 @@ function drawMultiDayHikes(svg, width, height) {
       })
       .on("mouseout", event => {
         multiDayHikeContainer.selectAll(".graph-bar").attr("fill", "steelblue");
-        d3.selectAll("path.line").style("stroke", "black");
+        d3.selectAll("path.hike-line").style("stroke", "black");
         clearTooltip();
       });
   }

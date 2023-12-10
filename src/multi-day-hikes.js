@@ -194,8 +194,6 @@ function drawMultiDayHikes(svg, width, height) {
 
     var path = d3.geoPath().projection(projection);
 
-    var tile = d3.tile().size([mapWidth, mapHeight]);
-
     var zoom = d3.zoom().scaleExtent([1 << 11, 16000000]).on("zoom", zoomed);
     var initialZoom = 50000;
     var maxDimensionInKm = d3.max([multiDayHike.coordinates.widthInKm, multiDayHike.coordinates.heightInKm]);
@@ -289,8 +287,6 @@ function drawMultiDayHikes(svg, width, height) {
           .translate(-center[0], -center[1])
       );
 
-    var previousZoom = initialZoom;
-
     function zoomed(event, d) {
       var transform = event.transform;
 
@@ -298,15 +294,7 @@ function drawMultiDayHikes(svg, width, height) {
 
       drawLocations(transform.k >= 100000);
 
-      previousZoom = transform.k;
-
-      var tiles = tile.scale(transform.k).translate([transform.x, transform.y])();
-
-      // Adapt the position and the size of hikes (gpx trace) to the new zoom/position:
-      mapContainer
-        .selectAll("path.hike-line")
-        .attr("transform", transform)
-        .style("stroke-width", 2 / transform.k);
+      resizeHikeGpxTracesForZoom(mapContainer, transform);
 
       // Adapt the position and the size of locations to the new zoom/position:
       mapContainer
@@ -317,29 +305,9 @@ function drawMultiDayHikes(svg, width, height) {
         .attr("x", photo => projection([photo.longitude, photo.latitude])[0] - 10 / transform.k)
         .attr("y", photo => projection([photo.longitude, photo.latitude])[1] - 10 / transform.k);
 
-      var image =
-        raster
-          .attr("transform", stringify(tiles.scale, tiles.translate))
-          .selectAll("image")
-          .data(tiles, d => d);
-
-      image.exit().remove();
-
-      image
-        .enter()
-        .append("image")
-        .attr("xlink:href", d => "https://tile.thunderforest.com/outdoors/" + d[2] + "/" + d[0] + "/" + d[1] + ".png?apikey=d21c3cd8bdf04051988c503abac1b038")
-        .attr("x", d => d[0] * 256)
-        .attr("y", d => d[1] * 256)
-        .attr("width", 256)
-        .attr("height", 256);
+      updateMapTilesForZoom(raster, mapWidth, mapHeight, transform);
 
       drawScaleBar(mapContainer, transform.k, transform.x, transform.y, mapWidth, mapHeight);
-    }
-
-    function stringify(scale, translate) {
-      var k = scale / 256, r = scale % 1 ? Number : Math.round;
-      return "translate(" + r(translate[0] * scale) + "," + r(translate[1] * scale) + ") scale(" + k + ")";
     }
   }
 

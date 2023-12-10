@@ -27,8 +27,6 @@ function drawMapAndTraces(svg, width, height) {
 
   var path = d3.geoPath().projection(projection);
 
-  var tile = d3.tile().size([width, height]);
-
   var zoom = d3.zoom().scaleExtent([1 << 11, constants.maxZoom]).on("zoom", zoomed);
 
   var center = projection(constants.initialCenter);
@@ -198,39 +196,12 @@ function drawMapAndTraces(svg, width, height) {
     mapPageState.previousTransform = transform;
     mapPageState.previousZoom = transform.k;
 
-    var tiles = tile.scale(transform.k).translate([transform.x, transform.y])();
-
-    // Adapt the position and the size of hikes (gpx trace) to the new zoom/position:
-    mapContainer
-      .selectAll("path.hike-line")
-      .attr("transform", transform)
-      .style("stroke-width", 2 / transform.k);
+    resizeHikeGpxTracesForZoom(mapContainer, transform)
 
     transformPhotoIconsForZoomAndPosition(transform);
     transformWishlistHikeMarkersForZoomAndPosition(transform);
 
-    var image =
-      raster
-        .attr("transform", stringify(tiles.scale, tiles.translate))
-        .selectAll("image")
-        .data(tiles, d => d);
-
-    image.exit().remove();
-
-    image.enter().append("image")
-      // IGN:
-      //.attr("xlink:href", d => "https://igngp.geoapi.fr/tile.php/plan-ignv2/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
-      //.attr("xlink:href", d => "https://igngp.geoapi.fr/tile.php/cartes/qh80mpsn21g85yxnd8pv2t4s/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
-      // Thunderforest:
-      .attr("xlink:href", d => "https://tile.thunderforest.com/outdoors/" + d[2] + "/" + d[0] + "/" + d[1] + ".png?apikey=d21c3cd8bdf04051988c503abac1b038")
-      // Others:
-      //.attr("xlink:href", d => "https://" + "abc"[d[1] % 3] + ".tile.opentopomap.org/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
-      //.attr("xlink:href", d => "https://" + "tile.opentopomap.org/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
-      //.attr("xlink:href", d => "http://" + "abc"[d[1] % 3] + ".tile.openstreetmap.org/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
-      .attr("x", d => d[0] * 256)
-      .attr("y", d => d[1] * 256)
-      .attr("width", 256)
-      .attr("height", 256);
+    updateMapTilesForZoom(raster, width, height, transform);
 
     drawScaleBar(mapContainer, transform.k, transform.x, transform.y, width, height);
   }
@@ -311,11 +282,6 @@ function drawMapAndTraces(svg, width, height) {
     true
   );
   attachTooltipToButton("photo-icons-switch", "Hide photos", -47, 38);
-
-  function stringify(scale, translate) {
-    var k = scale / 256, r = scale % 1 ? Number : Math.round;
-    return "translate(" + r(translate[0] * scale) + "," + r(translate[1] * scale) + ") scale(" + k + ")";
-  }
 
   function drawWishListHikes5kmMarks(displayWishList, isMapZoomedEnough) {
 

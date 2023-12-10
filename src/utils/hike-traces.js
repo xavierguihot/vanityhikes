@@ -25,3 +25,11 @@ function drawHikeGpxTraces(mapContainer, hikes, projection, hikeToSlices) {
         exit.remove()
     );
 }
+
+// Adapt the position and the size of hikes (gpx traces) to the new zoom/position:
+function resizeHikeGpxTracesForZoom(mapContainer, transform) {
+  mapContainer
+    .selectAll("path.hike-line")
+    .attr("transform", transform)
+    .style("stroke-width", 2 / transform.k);
+}

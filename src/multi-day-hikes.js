@@ -16,10 +16,10 @@ function drawMultiDayHikes(svg, width, height) {
   var mapHeight = multiDayHikeHeight;
 
   var multiDayHikesContainer =
-      svg
-        .append("g")
-        .attr("class", "multi-day-hikes-container")
-        .attr("transform", `translate(${leftMargin}, ${topMargin})`);
+    svg
+      .append("g")
+      .attr("class", "multi-day-hikes-container")
+      .attr("transform", `translate(${leftMargin}, ${topMargin})`);
 
   data.multiDayHikes.forEach((multiDayHike, i) => drawMultiDayHike(multiDayHike, i));
 
@@ -351,6 +351,8 @@ function drawMultiDayHikes(svg, width, height) {
         .attr("y", d => d[1] * 256)
         .attr("width", 256)
         .attr("height", 256);
+
+      drawScaleBar(mapContainer, transform.k, transform.x, transform.y, mapWidth, mapHeight);
     }
 
     function stringify(scale, translate) {

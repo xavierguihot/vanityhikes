@@ -63,33 +63,6 @@ function drawMapAndTraces(svg, width, height) {
       );
   }
 
-  function drawScaleBar(zoomLevel, x, y) {
-    mapContainer.selectAll("g.scale").remove();
-    mapContainer
-      .append("g")
-      .attr("class", "scale")
-      .call(
-        d3.geoScaleBar()
-          .zoomClamp(false)
-          .projection(d3.geoMercator().translate([x, y]).scale(constants.initialScale * zoomLevel))
-          .size([width, height])
-          .left(.02)
-          .top(.96)
-          .orient(d3.geoScaleTop)
-          .label(null)
-          .tickPadding(3)
-          .tickSize(0)
-          .tickFormat((d, i, e) => i === e.length - 1 ? `${d} km` : "")
-      )
-      .call(g =>
-        // Put the "xxx km" text in the middle:
-        g.selectAll("text")
-          .attr("transform", `translate(-${g.select("path.domain").node().getBoundingClientRect().width / 2})`)
-          .style("font-size", 12)
-      )
-      .call(g => g.selectAll("path").style("stroke-width", 2));
-  }
-
   // Draw pictures:
 
   var photoIconsData =
@@ -278,7 +251,7 @@ function drawMapAndTraces(svg, width, height) {
       .attr("width", 256)
       .attr("height", 256);
 
-    drawScaleBar(transform.k, transform.x, transform.y);
+    drawScaleBar(mapContainer, transform.k, transform.x, transform.y, width, height);
   }
 
   function transformPhotoIconsForZoomAndPosition(transform) {

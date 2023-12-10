@@ -1,21 +1,32 @@
 
+var constants = {
+  initialScale: 1 / (2 * Math.PI),
+  initialCenter: [3.25, 46.5],
+  initialZoom: 24000,
+  maxZoom: 16000000
+}
+
+var mapPageState = {
+  displayWishList: false,
+  previousTransform: undefined,
+  previousZoom: constants.initialZoom
+}
+
 function drawMapAndTraces(svg, width, height) {
 
-  var mapContainer = svg.append("g").attr("class", "map-container")
+  var mapContainer = svg.append("g").attr("class", "map-container");
   var raster = mapContainer.append("g");
+  var buttonsContainer = svg.append("g").attr("class", "map-buttons-container")
 
-  var initialScale = 1 / (2 * Math.PI);
-
-  var projection = d3.geoMercator().scale(initialScale).translate([0, 0]);
+  var projection = d3.geoMercator().scale(constants.initialScale).translate([0, 0]);
 
   var path = d3.geoPath().projection(projection);
 
   var tile = d3.tile().size([width, height]);
 
-  var zoom = d3.zoom().scaleExtent([1 << 11, 16000000]).on("zoom", zoomed);
-  var initialZoom = 24000;
+  var zoom = d3.zoom().scaleExtent([1 << 11, constants.maxZoom]).on("zoom", zoomed);
 
-  var center = projection([3.25, 46.5]); // Initial center
+  var center = projection(constants.initialCenter);
 
   //navigator.geolocation.getCurrentPosition(position => console.log(position));
 
@@ -37,7 +48,7 @@ function drawMapAndTraces(svg, width, height) {
             .attr("d", hike => traceLine(hikeToSlices(hike)))
             .style("stroke", hike => hike.isWish ? "#f50ce5" : "black")
             .style("fill", "transparent")
-            .style("stroke-width", 2 / initialZoom)
+            .style("stroke-width", 2 / constants.initialZoom)
             .attr("is-wish", hike => hike.isWish ? "true" : "false"),
         update =>
           update
@@ -55,7 +66,7 @@ function drawMapAndTraces(svg, width, height) {
       .call(
         d3.geoScaleBar()
           .zoomClamp(false)
-          .projection(d3.geoMercator().translate([x, y]).scale(initialScale * zoomLevel))
+          .projection(d3.geoMercator().translate([x, y]).scale(constants.initialScale * zoomLevel))
           .size([width, height])
           .left(.02)
           .top(.96)
@@ -166,6 +177,7 @@ function drawMapAndTraces(svg, width, height) {
 
   drawHikes(d => d.kilometerSlices);
   drawPictures(false);
+  drawWishListHikes5kmMarks(mapPageState.displayWishList, false);
 
   // Apply a zoom transform equivalent to projection.{scale,translate,center}.
   mapContainer
@@ -174,37 +186,43 @@ function drawMapAndTraces(svg, width, height) {
       zoom.transform,
       d3.zoomIdentity
         .translate(width / 2, height / 2)
-        .scale(initialZoom)
+        .scale(constants.initialZoom)
         .translate(-center[0], -center[1])
     );
-
-  var previousZoom = initialZoom;
 
   function zoomed(event, d) {
     var transform = event.transform;
 
     // Redraw traces based on smaller or bigger distance slices depending on the level of zoom:
-    if (transform.k >= 47000 && previousZoom < 47000) {
+    if (transform.k >= 47000 && mapPageState.previousZoom < 47000) {
       drawHikes(d => d.hundredMeterSlices)
     }
-    else if (transform.k >= 600000 && previousZoom < 600000) {
+    else if (transform.k >= 600000 && mapPageState.previousZoom < 600000) {
       drawHikes(d => d.tenMeterSlices)
     }
-    else if (transform.k < 600000 && previousZoom >= 600000) {
+    else if (transform.k < 600000 && mapPageState.previousZoom >= 600000) {
       drawHikes(d => d.hundredMeterSlices)
     }
-    else if (transform.k < 47000 && previousZoom >= 47000) {
+    else if (transform.k < 47000 && mapPageState.previousZoom >= 47000) {
       drawHikes(d => d.kilometerSlices)
     }
 
-    if (transform.k >= 300000 && previousZoom < 300000) {
+    if (transform.k >= 300000 && mapPageState.previousZoom < 300000) {
       drawPictures(true);
     }
-    else if (transform.k < 300000 && previousZoom >= 300000) {
+    else if (transform.k < 300000 && mapPageState.previousZoom >= 300000) {
       drawPictures(false); // i.e. remove pictures
     }
 
-    previousZoom = transform.k;
+    if (transform.k >= 700000 && mapPageState.previousZoom < 700000) {
+      drawWishListHikes5kmMarks(mapPageState.displayWishList, true);
+    }
+    else if (transform.k < 700000 && mapPageState.previousZoom >= 700000) {
+      drawWishListHikes5kmMarks(mapPageState.displayWishList, false); // i.e. remove markers
+    }
+
+    mapPageState.previousTransform = transform;
+    mapPageState.previousZoom = transform.k;
 
     var tiles = tile.scale(transform.k).translate([transform.x, transform.y])();
 
@@ -223,6 +241,9 @@ function drawMapAndTraces(svg, width, height) {
       .attr("x", photo => projection([photo.longitude, photo.latitude])[0] - 8 / transform.k)
       .attr("y", photo => projection([photo.longitude, photo.latitude])[1] - 8 / transform.k);
 
+    // Adapt the position and the size of wishlist hikes 5km marks to the new zoom/position:
+    transformWishlistHikeMarkersForZoomAndPosition(transform);
+
     var image =
       raster
         .attr("transform", stringify(tiles.scale, tiles.translate))
@@ -232,35 +253,51 @@ function drawMapAndTraces(svg, width, height) {
     image.exit().remove();
 
     image.enter().append("image")
-          // IGN:
-          //.attr("xlink:href", d => "https://igngp.geoapi.fr/tile.php/plan-ignv2/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
-          //.attr("xlink:href", d => "https://igngp.geoapi.fr/tile.php/cartes/qh80mpsn21g85yxnd8pv2t4s/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
-          // Thunderforest:
-          .attr("xlink:href", d => "https://tile.thunderforest.com/outdoors/" + d[2] + "/" + d[0] + "/" + d[1] + ".png?apikey=d21c3cd8bdf04051988c503abac1b038")
-          // Others:
-          //.attr("xlink:href", d => "https://" + "abc"[d[1] % 3] + ".tile.opentopomap.org/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
-          //.attr("xlink:href", d => "https://" + "tile.opentopomap.org/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
-          //.attr("xlink:href", d => "http://" + "abc"[d[1] % 3] + ".tile.openstreetmap.org/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
-        .attr("x", d => d[0] * 256)
-        .attr("y", d => d[1] * 256)
-        .attr("width", 256)
-        .attr("height", 256);
+      // IGN:
+      //.attr("xlink:href", d => "https://igngp.geoapi.fr/tile.php/plan-ignv2/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
+      //.attr("xlink:href", d => "https://igngp.geoapi.fr/tile.php/cartes/qh80mpsn21g85yxnd8pv2t4s/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
+      // Thunderforest:
+      .attr("xlink:href", d => "https://tile.thunderforest.com/outdoors/" + d[2] + "/" + d[0] + "/" + d[1] + ".png?apikey=d21c3cd8bdf04051988c503abac1b038")
+      // Others:
+      //.attr("xlink:href", d => "https://" + "abc"[d[1] % 3] + ".tile.opentopomap.org/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
+      //.attr("xlink:href", d => "https://" + "tile.opentopomap.org/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
+      //.attr("xlink:href", d => "http://" + "abc"[d[1] % 3] + ".tile.openstreetmap.org/" + d[2] + "/" + d[0] + "/" + d[1] + ".png")
+      .attr("x", d => d[0] * 256)
+      .attr("y", d => d[1] * 256)
+      .attr("width", 256)
+      .attr("height", 256);
 
     drawScaleBar(transform.k, transform.x, transform.y);
   }
 
+  function transformWishlistHikeMarkersForZoomAndPosition(transform) {
+    mapContainer
+      .selectAll("g.wishlist-5km-mark")
+      .attr("transform", transform)
+      .select("text")
+      .style("font-size", 12 / transform.k);
+  }
+
   // Wish list hikes:
-  hideWishListHikes()
+  setOpacityOnWishListHikes(0);
   drawButton(
-    mapContainer,
+    buttonsContainer,
     "wishlist-switch",
     _ => {
-      if (isSelected("wishlist-switch")) {
-        hideWishListHikes();
+      if (mapPageState.displayWishList) {
+        mapPageState.displayWishList = false;
+        setOpacityOnWishListHikes(0);
+        drawWishListHikes5kmMarks(mapPageState.displayWishList, mapPageState.previousZoom >= 700000);
+        transformWishlistHikeMarkersForZoomAndPosition(mapPageState.previousTransform);
         attachTooltipToButton("wishlist-switch", "Show hikes I plan on doing", -90, 38);
+        clearTooltip();
       } else {
-        showWishListHikes();
+        mapPageState.displayWishList = true;
+        setOpacityOnWishListHikes(1);
+        drawWishListHikes5kmMarks(mapPageState.displayWishList, mapPageState.previousZoom >= 700000);
+        transformWishlistHikeMarkersForZoomAndPosition(mapPageState.previousTransform);
         attachTooltipToButton("wishlist-switch", "Hide hikes I plan on doing", -90, 38);
+        clearTooltip();
       }
     },
     "sandglass.png",
@@ -270,16 +307,79 @@ function drawMapAndTraces(svg, width, height) {
   );
   attachTooltipToButton("wishlist-switch", "Show hikes I plan on doing", -90, 38);
 
-  function showWishListHikes() {
-    mapContainer.selectAll("path.hike-line[is-wish='true']").attr("opacity", 1);
-  }
-  function hideWishListHikes() {
-    mapContainer.selectAll("path.hike-line[is-wish='true']").attr("opacity", 0);
+  function setOpacityOnWishListHikes(opacity) {
+    mapContainer.selectAll("path.hike-line[is-wish='true']").attr("opacity", opacity);
   }
 
   function stringify(scale, translate) {
     var k = scale / 256, r = scale % 1 ? Number : Math.round;
     return "translate(" + r(translate[0] * scale) + "," + r(translate[1] * scale) + ") scale(" + k + ")";
+  }
+
+  function drawWishListHikes5kmMarks(displayWishList, isMapZoomedEnough) {
+
+    if (data.wishListHikes5kmMarks.length == 0) {
+      discoverWishListHikes5kmMarks();
+    }
+
+    mapContainer
+      .selectAll("g.wishlist-5km-mark")
+      .data(displayWishList && isMapZoomedEnough ? data.wishListHikes5kmMarks : [])
+      .join(
+        enter => {
+          var markerContainer =
+            enter
+              .append("g")
+              .attr("class", "wishlist-5km-mark")
+              .attr("id", mark => `${mark.hike}-${mark.distance}km-marks`);
+          markerContainer
+            .append("text")
+            .text(mark => `${mark.distance}km`)
+            .attr("x", mark => projection([mark.longitude, mark.latitude])[0])
+            .attr("y", mark => projection([mark.longitude, mark.latitude])[1])
+            .style("fill", "rgb(60,64,67)")
+            .style("font-size", 12)
+            .style("font-family", "sans-serif")
+            .style("text-anchor", "middle")
+            .style("user-select", "none")
+            .style("alignment-baseline", "middle");
+        },
+        update =>
+          update,
+        exit =>
+          exit.remove()
+      );
+  }
+
+  function discoverWishListHikes5kmMarks() {
+    var allMarks = [];
+    data.wishlistHikes.map(hike => {
+      var marks = [
+        {
+          distance: 0,
+          latitude: hike.hundredMeterSlices[0].fromLatitude,
+          longitude: hike.hundredMeterSlices[0].fromLongitude,
+          hike: hike.name
+        }
+      ];
+      var distance = 0;
+      hike.hundredMeterSlices.forEach(slice => {
+        distance += slice.distance;
+        var flooredDistance = Math.floor(distance);
+        if (flooredDistance % 5 == 0 && flooredDistance == marks[marks.length - 1].distance + 5) {
+          marks.push(
+            {
+              distance: flooredDistance,
+              latitude: slice.fromLatitude,
+              longitude: slice.fromLongitude,
+              hike: hike.name
+            }
+          )
+        }
+      });
+      allMarks = marks.concat(allMarks);
+    });
+    data.wishListHikes5kmMarks = allMarks;
   }
 }
 

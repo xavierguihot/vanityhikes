@@ -16,7 +16,8 @@ var data = {
   timeline: [],
   multiDayHikes: [],
   userStats: "",
-  wishlistHikes: []
+  wishlistHikes: [],
+  wishListHikes5kmMarks: []
 }
 
 d3.text("data/light-hikes.csv").then(csv => {

@@ -27,7 +27,7 @@ d3.text("data/light-hikes.csv").then(csv => {
     data.photos = json;
     d3.text("data/light-wishlist-hikes.csv").then(csv => {
       data.wishlistHikes = readHikesCsv(csv, true);
-      d3.json("data/wishlist-hikes-locations.json").then(json => {
+      d3.json("data/wishlist-hikes-locations.json", /*{ cache: "no-store" }*/).then(json => {
         data.wishlistHikesLocations = json;
 
         drawMapAndTraces(content, width, height);

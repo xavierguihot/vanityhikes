@@ -215,7 +215,7 @@ function drawMapAndTraces(svg, width, height) {
       .select("text")
       .style("font-size", 12 / transform.k);
 
-    transformMapIconsForZoom(mapContainer, projection, "wishlist-hikes-locations", transform, 16, 16);
+    transformMapIconsForZoom(mapContainer, projection, "wishlist-hikes-locations", transform, 20, 20);
   }
 
   // Button to display/hide wish list hikes:
@@ -383,7 +383,24 @@ function drawMapAndTraces(svg, width, height) {
       "wishlist-hikes-locations",
       undefined,
       (event, d) => {
-        true
+        var location = d.location;
+        var lines = [`${location.name}`];
+        if (location.opening) {
+          lines.push(`Opening: ${location.opening}`);
+        }
+        if (location.phone) {
+          lines.push(`${location.phone}`);
+        }
+        if (location.website) {
+          lines.push(`${location.website}`);
+        }
+        if (location.email) {
+          lines.push(`${location.email}`);
+        }
+        if (location.todo) {
+          lines.push(`TODO: ${location.todo}`);
+        }
+        drawMultiLineTooltip(lines, mapContainer, event, 25, 0);
       }
     );
   }

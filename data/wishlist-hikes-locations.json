@@ -1,7 +1,18 @@
 [
   {
-    "hike": "hrp",
+    "hike": "GR223",
     "locations": [
+      {
+        "name": "Camping Utah Beach",
+        "type": "camping",
+        "website": "https://www.camping-utahbeach.com/contact-acces/",
+        "phone": "02 33 71 53 69",
+        "email": "contact@camping-utahbeach.com",
+        "latitude": 49.420281456241845,
+        "longitude": -1.1801742952334038,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
       {
         "name": "Camping l'Esperance",
         "type": "camping",
@@ -10,7 +21,8 @@
         "email": "contact@camping-esperance.fr",
         "latitude": 49.303314146063954,
         "longitude": -1.6884007906320975,
-        "todo": "Appeler pr confirmer"
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
       }
     ]
   }

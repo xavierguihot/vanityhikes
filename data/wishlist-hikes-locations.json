@@ -1,5 +1,64 @@
 [
   {
+    "hike": "Vosges",
+    "locations": [
+      {
+        "name": "Ferme Auberge Kahlenwasen",
+        "type": "hotel",
+        "website": "https://www.facebook.com/Kahlenwasen?ref=hl    /     https://www.fermeaubergealsace.fr/fr/nos-fermes-auberges/fermes-auberges-haute-alsace/F231001097_ferme-auberge-du-kahlenwasen-luttenbach-pres-munster",
+        "phone": "03 89 77 32 49 / 03 89 77 68 33",
+        "latitude": 47.988957446914085,
+        "longitude": 7.1241462768609205,
+        "todo": "Appeler pr avoir des informations"
+      },
+      {
+        "name": "Ferme Auberge Rothenbrunnen",
+        "type": "hotel",
+        "website": "https://www.rothenbrunnen.fr",
+        "phone": "03 89 77 33 08",
+        "email": "contact@rothenbrunnen.fr",
+        "latitude": 47.98256096588307,
+        "longitude": 7.119355055249771,
+        "todo": "Appeler pr avoir des informations"
+      },
+      {
+        "name": "Hotel restaurant Wolf",
+        "type": "hotel",
+        "website": "https://hotel-wolf.fr",
+        "phone": "06 08 06 77 76",
+        "email": "hotelwolf@aol.com",
+        "latitude": 47.92727064843099,
+        "longitude": 7.028461251404771,
+        "todo": "Appeler pr avoir des informations"
+      },
+      {
+        "name": "Hôtel les 4 Saisons",
+        "type": "hotel",
+        "website": "https://www.hotel4saisons.com",
+        "phone": "03 89 82 28 61",
+        "latitude": 47.92552718426155,
+        "longitude": 6.95061568562186,
+        "todo": "Appeler pr avoir des informations"
+      },
+      {
+        "name": "Hotel du Sommet",
+        "type": "hotel",
+        "website": "http://www.hotelrestaurantdusommet.com",
+        "phone": "03 84 29 30 60 ",
+        "latitude": 47.82062826270145,
+        "longitude": 6.837187964288478,
+        "todo": "Appeler pr avoir des informations"
+      },
+      {
+        "name": "Domaine de la Moselle",
+        "type": "hotel",
+        "latitude": 47.858219513248244,
+        "longitude": 6.82261978462587,
+        "todo": "Booker sur booking.com"
+      }
+    ]
+  },
+  {
     "hike": "GR223",
     "locations": [
       {
@@ -14,6 +73,348 @@
         "todo": "Appeler pr confirmer dates et si possibile avec tente"
       },
       {
+        "name": "Camping Le Cormoran",
+        "type": "camping",
+        "website": "https://www.camping-lecormoran.fr/camping-cote-manche/contact/",
+        "phone": "02 33 41 33 94",
+        "email": "contact@camping-lecormoran.fr",
+        "latitude": 49.46616386089751,
+        "longitude": -1.2362243640609056,
+        "opening": "A partir d'avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping des îles Ravenoville",
+        "type": "camping",
+        "website": "https://camping-des-iles-ravenoville.fr",
+        "phone": "06 64 97 12 79",
+        "latitude": 49.47867122712267,
+        "longitude": -1.2501396662027788,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Le Canada",
+        "type": "camping",
+        "website": "http://campinglecanada.fr",
+        "phone": "02 33 21 20 80",
+        "email": "campinglecanada@wanadoo.fr",
+        "latitude": 49.50199050318228,
+        "longitude": -1.2722932599905654,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping municipal de Quineville - La Sinope",
+        "type": "camping",
+        "website": "https://camping-quineville.fr/contact",
+        "phone": "02 33 21 07 38",
+        "email": "camping-lasinope@orange.fr",
+        "latitude": 49.517324849804005,
+        "longitude": -1.289562054311621,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping le Rivage Quettehou",
+        "type": "camping",
+        "website": "https://www.camping-lerivage.fr",
+        "phone": "02 33 54 13 76",
+        "email": "camping.lerivage@wanadoo.fr",
+        "latitude": 49.57926729715954,
+        "longitude": -1.303009498418214,
+        "opening": "1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping la Galouette",
+        "type": "camping",
+        "website": "https://www.camping-lagallouette.fr",
+        "phone": "02 33 54 20 57",
+        "latitude": 49.58422051182015,
+        "longitude": -1.2688337417635174,
+        "opening": "A partir du 28 mars",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Municipal de Jonville",
+        "type": "camping",
+        "website": "https://camping-jonville.fr",
+        "phone": "02 33 54 48 41",
+        "email": "camping-jonville@orange.fr",
+        "latitude": 49.607260890339234,
+        "longitude": -1.2312673293194534,
+        "opening": "A partir du 31 mars",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Indiana",
+        "type": "camping",
+        "website": "https://www.camping-indiana.com/fr",
+        "phone": "02 33 23 95 61",
+        "email": "campingindiana@gmail.com",
+        "latitude": 49.66546027726505,
+        "longitude": -1.2585994890805492,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Barfleur / La Blanche Nef",
+        "type": "camping",
+        "website": "https://camping.barfleur.fr/en",
+        "phone": "02 33 23 15 40",
+        "email": "lablanchenef@wanadoo.fr",
+        "latitude": 49.675876600396165,
+        "longitude": -1.266974558180784,
+        "opening": "A partir du 15 fevrier",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping La Ferme du Bord de Mer",
+        "type": "camping",
+        "website": "https://www.camping-gatteville.fr/en",
+        "phone": "06 86 03 51 37",
+        "email": "contact@camping-gatteville.fr",
+        "latitude": 49.67994490011499,
+        "longitude": -1.2735620720082272,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping du Sablon",
+        "type": "camping",
+        "website": "https://www.campingdusablon.com",
+        "phone": "02 33 43 41 72",
+        "latitude": 49.7000313800912,
+        "longitude": -1.4182370329016343,
+        "opening": "A partir du 26 mars",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Aire naturelle du Camping du Gibert",
+        "type": "camping",
+        "website": "https://www.facebook.com/campingdugibert",
+        "phone": "02 33 54 39 46",
+        "email": "laronchetherese@gmail.com",
+        "latitude": 49.689483417006926,
+        "longitude": -1.439023211597603,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping de la plage",
+        "type": "camping",
+        "website": "https://www.campingdelaplage-fermanville.com",
+        "phone": "02 33 54 38 84",
+        "email": "campingdelaplage.fermanville@gmail.com",
+        "latitude": 49.69188839992727,
+        "longitude": -1.4383895090498642,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "L'Anse du Brick",
+        "type": "camping",
+        "website": "https://www.sandaya.fr/nos-campings/l-anse-du-brick",
+        "phone": "04 11 32 90 00",
+        "latitude": 49.66722951484898,
+        "longitude": -1.48755138066562,
+        "opening": "A partir du 23 mars",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping municipal du Fort",
+        "type": "camping",
+        "website": "https://bretteville50110.fr/camping",
+        "phone": "02 33 88 78 20",
+        "email": "mairie.brettevilleensaire@orange.fr",
+        "latitude": 49.65709776710305,
+        "longitude": -1.5269395524482223,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping de Collignon",
+        "type": "camping",
+        "website": "https://camping-collignon.simdif.com/index.html",
+        "phone": "06 70 31 89 60",
+        "email": "campingdecollignon@gmail.com",
+        "latitude": 49.65494600210176,
+        "longitude": -1.5666060443815064,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping municipal de la Saline",
+        "type": "camping",
+        "website": "https://www.cherbourg.fr/infos-services/culture-et-loisirs/camping-municipal-de-la-saline-2623.html",
+        "phone": "02 33 93 88 33",
+        "email": "camping@cherbourg.fr",
+        "latitude": 49.655517872717105,
+        "longitude": -1.6535178088092843,
+        "opening": "Ouvert toute l'année",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping municipal Les Dunes",
+        "type": "camping",
+        "website": "https://www.encotentin.fr/campings/camping-municipal-les-dunes",
+        "phone": "02 33 94 81 25",
+        "latitude": 49.67743032252496,
+        "longitude": -1.723531390333732,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping municipal du Hable",
+        "type": "camping",
+        "website": "https://campingduhable.lahague.com",
+        "phone": "02 33 52 86 15",
+        "email": "campingduhable@lahague.com",
+        "latitude": 49.704432884300324,
+        "longitude": -1.8403863400016964,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping municipal de Vauville - la Devise",
+        "type": "camping",
+        "website": "https://www.encotentin.fr/campings/camping-municipal-la-devise",
+        "phone": "02 33 52 64 69",
+        "email": "???",
+        "latitude": 49.63318964999165,
+        "longitude": -1.8494864316134063,
+        "opening": "!!!! A partir du 14 juin",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping de Clairefontaine",
+        "type": "camping",
+        "website": "https://www.siouville-hague.com/camping-de-clairefontaine",
+        "phone": "02 33 52 42 73 / 02 33 87 60 00",
+        "email": "camping.clairefontaine@siouville-hague.com",
+        "latitude": 49.57001090681075,
+        "longitude": -1.8384665392606967,
+        "opening": "Toute l'année - 16h-19h tous les jours sauf le dimanche",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping La Ferme aux 5 saisons",
+        "type": "camping",
+        "website": "https://lafermeaux5saisons.fr/emplacements-de-camping ---- https://www.encotentin.fr/campings/camping-la-ferme-aux-5-saisons",
+        "phone": "02 33 04 56 84 / 06 80 66 34 77 / 06 68 00 39 80",
+        "email": "fermeaux5saisons@gmail.com",
+        "latitude": 49.52923585176499,
+        "longitude": -1.8502632373971124,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Le Ranch",
+        "type": "camping",
+        "website": "https://www.camping-leranch.com",
+        "phone": "02 33 10 07 10",
+        "email": "contact@camping-leranch.com",
+        "latitude": 49.48030253023918,
+        "longitude": -1.842521674472751,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Les Mielles",
+        "type": "camping",
+        "website": "https://www.campinglesmielles-surtainville.fr/en/home",
+        "phone": "02 33 04 31 04",
+        "email": "contact@campinglesmielles-surtainville.fr",
+        "latitude": 49.46427487849549,
+        "longitude": -1.8286011492279794,
+        "opening": "Toute l'année",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Les Ronds Duval",
+        "type": "camping",
+        "website": "https://www.camping-lesrondsduval.fr",
+        "phone": "06 67 74 16 02 / 06 61 49 70 61",
+        "email": "lesrondsduval@laposte.net",
+        "latitude": 49.40352847037199,
+        "longitude": -1.804824247465998,
+        "opening": "A partir du 7 avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping du Bocage",
+        "type": "camping",
+        "website": "https://www.campingdubocage.com/about",
+        "phone": "02 33 53 86 91 / whatsapp: 06 18 47 00 36",
+        "latitude": 49.381014258968065,
+        "longitude": -1.7858025972726532,
+        "opening": "A partir du 1er avril - 13h-19h tous les jours",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping La Gerfleur",
+        "type": "camping",
+        "website": "https://www.camping-la-gerfleur.fr/camping-proche-centre-ville-barneville.php",
+        "phone": "02 33 94 54 17",
+        "email": "campinglagerfleur@gmail.com",
+        "latitude": 49.38327690456134,
+        "longitude": -1.7647642052484753,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Les Bosquets",
+        "type": "camping",
+        "website": "https://www.camping-lesbosquets.com",
+        "phone": "02 33 04 73 62",
+        "email": "campinglesbosquetsbarneville@orange.fr",
+        "latitude": 49.36642536534104,
+        "longitude": -1.7600693456210121,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Les Vikings",
+        "type": "camping",
+        "website": "https://www.encotentin.fr/campings/les-vikings",
+        "phone": "02 33 53 84 13",
+        "latitude": 49.364342470923916,
+        "longitude": -1.753414025159166,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping les Dunes",
+        "type": "camping",
+        "website": "https://www.encotentin.fr/campings/camping-les-dunes",
+        "phone": "02 33 52 03 84",
+        "latitude": 49.353758597189284,
+        "longitude": -1.748533656266899,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping de La Côte des Isles",
+        "type": "camping",
+        "website": "https://www.encotentin.fr/campings/camping-la-cote-des-isles",
+        "phone": "02 33 10 13 30",
+        "latitude": 49.33551482588973,
+        "longitude": -1.7275864133602008,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping De La Plage, Portbail",
+        "type": "camping",
+        "phone": "06 29 89 78 99",
+        "latitude": 49.32766985961779,
+        "longitude": -1.7210436033073102,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Les Carolins",
+        "type": "camping",
+        "website": "https://www.camping-carolins.com",
+        "phone": "02 33 04 84 85",
+        "email": "contact@camping-carolins.com",
+        "latitude": 49.3224225541318,
+        "longitude": -1.6814727610370073,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
         "name": "Camping l'Esperance",
         "type": "camping",
         "website": "https://camping-esperance.fr/tarifs-emplacements",
@@ -22,6 +423,302 @@
         "latitude": 49.303314146063954,
         "longitude": -1.6884007906320975,
         "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Bretteville Loisirs",
+        "type": "camping",
+        "phone": "0233076285",
+        "latitude": 49.263178599027476,
+        "longitude": -1.6354215273170156,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Aux Grands Espaces",
+        "type": "camping",
+        "website": "https://www.auxgrandsespaces.com",
+        "phone": "02 33 07 10 14",
+        "email": "auxgrandsespaces@orange.fr",
+        "latitude": 49.236524738492534,
+        "longitude": -1.6408957876995012,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Municipal Le Clos Marin",
+        "type": "camping",
+        "website": "http://www.ville-pirou.fr/le-camping.htm",
+        "phone": "???",
+        "email": "???",
+        "latitude": 49.1590280349555,
+        "longitude": -1.5959219987522941,
+        "opening": "A partir du 1er avril - 14h30 à 17h30 du mardi au samedi",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping à la ferme (Massu Philippe et Marie-Christine)",
+        "type": "camping",
+        "phone": "0681648979",
+        "latitude": 49.14356128172009,
+        "longitude": -1.5822418092045327,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Le Grand Large",
+        "type": "camping",
+        "website": "https://www.campinglegrandlarge.fr",
+        "phone": "02 33 47 87 14",
+        "latitude": 49.12042904990742,
+        "longitude": -1.598055666229839,
+        "opening": "A partir du 7 avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping municipal le Senequet",
+        "type": "camping",
+        "website": "https://camping-le-senequet.fr",
+        "phone": "02 33 47 84 37 / 06 29 74 13 28",
+        "email": "campingmunicipal@gouvillesurmer.fr",
+        "latitude": 49.10600989410781,
+        "longitude": -1.6074228350759592,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Belle Étoile",
+        "type": "camping",
+        "website": "https://www.campingbelleetoile.com",
+        "phone": "02 33 47 86 87 / 06 79 66 61 21",
+        "email": "contact@campingbelleetoile.com",
+        "latitude": 49.10402219463376,
+        "longitude": -1.607454996045363,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping municipal de la Melette",
+        "type": "camping",
+        "phone": "02 33 47 14 84",
+        "latitude": 49.07004885474978,
+        "longitude": -1.5969657409792404,
+        "opening": "A partir du ???",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping les Mouettes",
+        "type": "camping",
+        "website": "https://www.camping-les-mouettes.com",
+        "phone": "02 33 45 38 63",
+        "email": "contact@camping-les-mouettes.com",
+        "latitude": 49.03641359203994,
+        "longitude": -1.5950997636124224,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping le Ronquet",
+        "type": "camping",
+        "website": "https://www.camping-leronquet.fr/le-camping",
+        "phone": "02 33 47 05 29",
+        "latitude": 49.03714454088294,
+        "longitude": -1.5846925538120742,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping GCU de Countainville",
+        "type": "camping",
+        "website": "https://www.gcu.asso.fr/terrains/coutainville-manche-50",
+        "phone": "02 33 46 22 47",
+        "email": "???",
+        "latitude": 49.02995845309247,
+        "longitude": -1.5932276178508842,
+        "opening": "A partir du ???",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping du havre de Regnéville",
+        "type": "camping",
+        "website": "https://www.campinghavreregneville.fr",
+        "phone": "06 80 74 99 68",
+        "latitude": 49.00867584698819,
+        "longitude": -1.5550133150456935,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping municipal les Gravelets",
+        "type": "camping",
+        "website": "https://www.camping-montmartin.com/",
+        "phone": "02 33 47 70 20",
+        "latitude": 48.99266690022568,
+        "longitude": -1.5293130089849991,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Les Garennes",
+        "type": "camping",
+        "website": "https://www.vacances-hauteville-sur-mer.fr/presentation/#!#camp-les-garennes",
+        "phone": "02 33 46 28 93 / 06 30 73 18 32",
+        "email": "campings@hauteville-sur-mer.fr",
+        "latitude": 48.9791201992114,
+        "longitude": -1.5598030308352924,
+        "opening": "A partir du 15 mars",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Les Peupliers",
+        "type": "camping",
+        "phone": "02 33 47 67 73",
+        "latitude": 48.957027615958246,
+        "longitude": -1.5529702986346707,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping de la Vanlée",
+        "type": "camping",
+        "website": "https://www.camping-vanlee.fr",
+        "phone": "02 33 61 63 80",
+        "email": "contact@camping-vanlee.fr",
+        "latitude": 48.908268670646606,
+        "longitude": -1.563842960916216,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Municipal Les Dunes Coudeville sur mer",
+        "type": "camping",
+        "website": "https://www.camping-lesdunes-coudeville.fr",
+        "phone": "02 33 51 76 07",
+        "email": "campingmunicipal50290@orange.fr",
+        "latitude": 48.88700977853966,
+        "longitude": -1.5698495761053435,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping l'Oasis de la Plage",
+        "type": "camping",
+        "website": "https://www.loasisdelaplage.com",
+        "phone": "02 33 50 52 01",
+        "email": "oasisdelaplage@orange.fr",
+        "latitude": 48.860178506226006,
+        "longitude": -1.5775069617180695,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping La Vague",
+        "type": "camping",
+        "website": "http://campinglavague.fr",
+        "phone": "02 33 50 29 97 / 06 32 93 78 32",
+        "email": "campinglavaguegranville@gmail.com",
+        "latitude": 48.82166767461402,
+        "longitude": -1.5705869105610564,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Belle Rive",
+        "type": "camping",
+        "website": "https://campingbellerive.wixsite.com/saintpairsurmer",
+        "phone": "02 33 90 73 36",
+        "email": "moulin.loisir@orange.fr",
+        "latitude": 48.80002410932588,
+        "longitude": -1.5659289024803598,
+        "opening": "A partir du 1er avril -- 14h30-19h30",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Le Drakkar",
+        "type": "camping",
+        "website": "https://www.camping-le-drakkar.fr",
+        "phone": "02.33.59.96.26 / 06 70 25 15 77",
+        "email": "campingledrakkar@bbox.fr",
+        "latitude": 48.79704910173929,
+        "longitude": -1.560774889978012,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Etoile de Mer",
+        "type": "camping",
+        "website": "https://laliguenormandie.org/en-normandie/camping-etoile-de-mer",
+        "phone": "02 33 49 69 29",
+        "email": "camping.etoiledemer@laliguenormandie.org",
+        "latitude": 48.789915248690896,
+        "longitude": -1.5668982930049644,
+        "opening": "A partir du 1er avril -- 15h-20h",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Jullouville Les Pins",
+        "type": "camping",
+        "website": "https://www.campingjullouvillelespins.fr/fr",
+        "phone": "02 33 51 42 60",
+        "latitude": 48.77703167954516,
+        "longitude": -1.5661764684014499,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping La Gueriniere",
+        "type": "camping",
+        "phone": "02 33 61 93 75",
+        "latitude": 48.74943008658232,
+        "longitude": -1.5575327752278496,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping municipal de Saint Jean le Thomas",
+        "type": "camping",
+        "website": "https://www.saintjeanlethomas.com/Camping-municipal-de-Saint-Jean-le-Thomas-_a192.html",
+        "phone": "02 33 48 84 02 / 06 07 42 07 84",
+        "email": "camping.municipal0369@orange.fr",
+        "latitude": 48.7237190477435,
+        "longitude": -1.5242372725327502,
+        "opening": "A partir du 15 mars",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Les Cognets",
+        "type": "camping",
+        "website": "https://www.camping-lescognets.fr/index.htm",
+        "phone": "02 33 48 86 98",
+        "email": "info@camping-lescognets.fr",
+        "latitude": 48.7072590806222,
+        "longitude": -1.4938844703153904,
+        "opening": "A partir du 1er avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping de la Sélune",
+        "type": "camping",
+        "website": "http://www.campselune.com/contact.htm",
+        "phone": "02 33 60 39 00",
+        "email": "campselune@wanadoo.fr",
+        "latitude": 48.630127154101416,
+        "longitude": -1.3526771917992422,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping La Baie du Mont Saint Michel",
+        "type": "camping",
+        "website": "https://www.camping-baiemontsaintmichel.com",
+        "phone": "06 67 05 01 85",
+        "latitude": 48.62663387845995,
+        "longitude": -1.3881767957401592,
+        "opening": "A partir du 29 mars --- 14h00 à 19h00 --- jusqu’à 21h00 en contactant avant 19h00",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping du Mont Saint-Michel",
+        "type": "camping",
+        "website": "http://www.camping-montsaintmichel.com/fr/camping-mont-saint-michel",
+        "phone": "02 33 60 22 10",
+        "email": "camping@le-mont-saint-michel.com",
+        "latitude": 48.61458371890575,
+        "longitude": -1.5092389858092004,
+        "opening": "A partir du 30 mars",
         "todo": "Appeler pr confirmer dates et si possibile avec tente"
       }
     ]

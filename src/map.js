@@ -345,34 +345,45 @@ function drawMapAndTraces(svg, width, height) {
 
   // Draw wishlist hikes locations:
 
+  var locationsSort = ["point of interest", "boulangerie", "shop", "restaurant", "camping", "bivouac", "hotel", "refuge", "gite"];
+
   var wishlistHikesLocationsIconsData =
-    data
-      .wishlistHikesLocations
-      .flatMap(d => d.locations)
-      .map(location => {
-        var image;
-        if (location.type == "gite")
-          image = "gite-de-france.png";
-        if (location.type == "hotel")
-          image = "hotel.png";
-        if (location.type == "refuge")
-          image = "refuge.png";
-        if (location.type == "bivouac")
-          image = "bivouac.png";
-        if (location.type == "camping")
-          image = "camping.png";
-        return {
-          "name": `${location.type}-${location.latitude}-${location.longitude}`,
-          "latitude": location.latitude,
-          "longitude": location.longitude,
-          "image": image,
-          "width": 20,
-          "height": 20,
-          "xOffset": -8,
-          "yOffset": -8,
-          "location": location
-        }
-      });
+    d3.sort(
+      data.wishlistHikesLocations.flatMap(d => d.locations),
+      d => locationsSort.indexOf(d.type)
+    )
+    .map(location => {
+      var image;
+      if (location.type == "gite")
+        image = "gite-de-france.png";
+      if (location.type == "hotel")
+        image = "hotel.png";
+      if (location.type == "refuge")
+        image = "refuge.png";
+      if (location.type == "bivouac")
+        image = "bivouac.png";
+      if (location.type == "camping")
+        image = "camping.png";
+      if (location.type == "restaurant")
+        image = "restaurant.png";
+      if (location.type == "shop")
+        image = "shop.png";
+      if (location.type == "boulangerie")
+        image = "bread.png";
+      if (location.type == "point of interest")
+        image = "exclamation.png";
+      return {
+        "name": `${location.type}-${location.latitude}-${location.longitude}`,
+        "latitude": location.latitude,
+        "longitude": location.longitude,
+        "image": image,
+        "width": 20,
+        "height": 20,
+        "xOffset": -8,
+        "yOffset": -8,
+        "location": location
+      }
+    });
 
   function drawWishlistHikesLocationsIcons(displayLocations, isMapZoomedEnough) {
 
@@ -399,6 +410,12 @@ function drawMapAndTraces(svg, width, height) {
         }
         if (location.todo) {
           lines.push(`TODO: ${location.todo}`);
+        }
+        if (location.payment) {
+          lines.push(`Payment: ${location.payment}`);
+        }
+        if (location.miscellaneous) {
+          lines.push(`${location.miscellaneous}`);
         }
         drawMultiLineTooltip(lines, mapContainer, event, 25, 0);
       }

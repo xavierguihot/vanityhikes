@@ -70,7 +70,7 @@
         "latitude": 49.420281456241845,
         "longitude": -1.1801742952334038,
         "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping Le Cormoran",
@@ -81,7 +81,7 @@
         "latitude": 49.46616386089751,
         "longitude": -1.2362243640609056,
         "opening": "A partir d'avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping des îles Ravenoville",
@@ -102,7 +102,7 @@
         "latitude": 49.50199050318228,
         "longitude": -1.2722932599905654,
         "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping municipal de Quineville - La Sinope",
@@ -113,7 +113,7 @@
         "latitude": 49.517324849804005,
         "longitude": -1.289562054311621,
         "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping le Rivage Quettehou",
@@ -123,8 +123,8 @@
         "email": "camping.lerivage@wanadoo.fr",
         "latitude": 49.57926729715954,
         "longitude": -1.303009498418214,
-        "opening": "1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "opening": "A partir du 1er avril",
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping la Galouette",
@@ -145,7 +145,7 @@
         "latitude": 49.607260890339234,
         "longitude": -1.2312673293194534,
         "opening": "A partir du 31 mars",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping Indiana",
@@ -155,8 +155,8 @@
         "email": "campingindiana@gmail.com",
         "latitude": 49.66546027726505,
         "longitude": -1.2585994890805492,
-        "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "opening": "A partir du 1er avril - tous les jours - arrivée jusqu'à 19h",
+        "miscellaneous": "Details confirmed by email"
       },
       {
         "name": "Camping Barfleur / La Blanche Nef",
@@ -167,17 +167,7 @@
         "latitude": 49.675876600396165,
         "longitude": -1.266974558180784,
         "opening": "A partir du 15 fevrier",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
-      },
-      {
-        "name": "Camping La Ferme du Bord de Mer",
-        "type": "camping",
-        "website": "https://www.camping-gatteville.fr/en",
-        "phone": "06 86 03 51 37",
-        "email": "contact@camping-gatteville.fr",
-        "latitude": 49.67994490011499,
-        "longitude": -1.2735620720082272,
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping du Sablon",
@@ -190,25 +180,15 @@
         "todo": "Appeler pr confirmer dates et si possibile avec tente"
       },
       {
-        "name": "Aire naturelle du Camping du Gibert",
-        "type": "camping",
-        "website": "https://www.facebook.com/campingdugibert",
-        "phone": "02 33 54 39 46",
-        "email": "laronchetherese@gmail.com",
-        "latitude": 49.689483417006926,
-        "longitude": -1.439023211597603,
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
-      },
-      {
-        "name": "Camping de la plage",
+        "name": "Camping de la Plage",
         "type": "camping",
         "website": "https://www.campingdelaplage-fermanville.com",
         "phone": "02 33 54 38 84",
         "email": "campingdelaplage.fermanville@gmail.com",
         "latitude": 49.69188839992727,
         "longitude": -1.4383895090498642,
-        "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "opening": "A partir du 1er avril - ouvert tous les jours, arrivée jusqu'à 19h",
+        "miscellaneous": "Details confirmed by email"
       },
       {
         "name": "L'Anse du Brick",
@@ -228,7 +208,7 @@
         "email": "mairie.brettevilleensaire@orange.fr",
         "latitude": 49.65709776710305,
         "longitude": -1.5269395524482223,
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping de Collignon",
@@ -238,7 +218,7 @@
         "email": "campingdecollignon@gmail.com",
         "latitude": 49.65494600210176,
         "longitude": -1.5666060443815064,
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping municipal de la Saline",
@@ -248,8 +228,8 @@
         "email": "camping@cherbourg.fr",
         "latitude": 49.655517872717105,
         "longitude": -1.6535178088092843,
-        "opening": "Ouvert toute l'année",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "opening": "Ouvert toute l'année - lundi au vendredi: 13h30-17h00",
+        "miscellaneous": "Details confirmed by email"
       },
       {
         "name": "Camping municipal Les Dunes",
@@ -269,14 +249,13 @@
         "latitude": 49.704432884300324,
         "longitude": -1.8403863400016964,
         "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping municipal de Vauville - la Devise",
         "type": "camping",
         "website": "https://www.encotentin.fr/campings/camping-municipal-la-devise",
         "phone": "02 33 52 64 69",
-        "email": "???",
         "latitude": 49.63318964999165,
         "longitude": -1.8494864316134063,
         "opening": "!!!! A partir du 14 juin",
@@ -290,8 +269,8 @@
         "email": "camping.clairefontaine@siouville-hague.com",
         "latitude": 49.57001090681075,
         "longitude": -1.8384665392606967,
-        "opening": "Toute l'année - 16h-19h tous les jours sauf le dimanche",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "opening": "Toute l'année - 8h-19h30 tous les jours sauf le dimanche",
+        "miscellaneous": "Details confirmed by email"
       },
       {
         "name": "Camping La Ferme aux 5 saisons",
@@ -302,7 +281,7 @@
         "latitude": 49.52923585176499,
         "longitude": -1.8502632373971124,
         "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping Le Ranch",
@@ -312,8 +291,8 @@
         "email": "contact@camping-leranch.com",
         "latitude": 49.48030253023918,
         "longitude": -1.842521674472751,
-        "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "opening": "A partir du 1er avril - tous les jours - arrivées à partir de 14h",
+        "miscellaneous": "Details confirmed by email"
       },
       {
         "name": "Camping Les Mielles",
@@ -324,7 +303,7 @@
         "latitude": 49.46427487849549,
         "longitude": -1.8286011492279794,
         "opening": "Toute l'année",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping Les Ronds Duval",
@@ -335,7 +314,7 @@
         "latitude": 49.40352847037199,
         "longitude": -1.804824247465998,
         "opening": "A partir du 7 avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping du Bocage",
@@ -355,7 +334,7 @@
         "email": "campinglagerfleur@gmail.com",
         "latitude": 49.38327690456134,
         "longitude": -1.7647642052484753,
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping Les Bosquets",
@@ -366,7 +345,7 @@
         "latitude": 49.36642536534104,
         "longitude": -1.7600693456210121,
         "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping Les Vikings",
@@ -411,8 +390,8 @@
         "email": "contact@camping-carolins.com",
         "latitude": 49.3224225541318,
         "longitude": -1.6814727610370073,
-        "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "opening": "A partir du 1er avril - ouvert tous les jours - 16h-18h30",
+        "miscellaneous": "Details confirmed by email"
       },
       {
         "name": "Camping l'Esperance",
@@ -423,7 +402,7 @@
         "latitude": 49.303314146063954,
         "longitude": -1.6884007906320975,
         "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Bretteville Loisirs",
@@ -442,23 +421,23 @@
         "latitude": 49.236524738492534,
         "longitude": -1.6408957876995012,
         "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping Municipal Le Clos Marin",
         "type": "camping",
         "website": "http://www.ville-pirou.fr/le-camping.htm",
-        "phone": "???",
-        "email": "???",
+        "phone": "02 33 46 30 36",
+        "email": "le-clos-marin.pirou@orange.fr",
         "latitude": 49.1590280349555,
         "longitude": -1.5959219987522941,
         "opening": "A partir du 1er avril - 14h30 à 17h30 du mardi au samedi",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping à la ferme (Massu Philippe et Marie-Christine)",
         "type": "camping",
-        "phone": "0681648979",
+        "phone": "06 81 64 89 79",
         "latitude": 49.14356128172009,
         "longitude": -1.5822418092045327,
         "todo": "Appeler pr confirmer dates et si possibile avec tente"
@@ -481,8 +460,8 @@
         "email": "campingmunicipal@gouvillesurmer.fr",
         "latitude": 49.10600989410781,
         "longitude": -1.6074228350759592,
-        "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "opening": "A partir du 2 avril - pas eu de détail sur les jours de la semaine ouverts - acceuil ferme vers 17h/17h30",
+        "miscellaneous": "Details confirmed by email"
       },
       {
         "name": "Camping Belle Étoile",
@@ -493,7 +472,7 @@
         "latitude": 49.10402219463376,
         "longitude": -1.607454996045363,
         "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping municipal de la Melette",
@@ -501,7 +480,6 @@
         "phone": "02 33 47 14 84",
         "latitude": 49.07004885474978,
         "longitude": -1.5969657409792404,
-        "opening": "A partir du ???",
         "todo": "Appeler pr confirmer dates et si possibile avec tente"
       },
       {
@@ -512,8 +490,8 @@
         "email": "contact@camping-les-mouettes.com",
         "latitude": 49.03641359203994,
         "longitude": -1.5950997636124224,
-        "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "opening": "A partir du 1er avril - ouvert tous les jours - de 14h30 à 19h00",
+        "miscellaneous": "Details confirmed by email"
       },
       {
         "name": "Camping le Ronquet",
@@ -530,10 +508,8 @@
         "type": "camping",
         "website": "https://www.gcu.asso.fr/terrains/coutainville-manche-50",
         "phone": "02 33 46 22 47",
-        "email": "???",
         "latitude": 49.02995845309247,
         "longitude": -1.5932276178508842,
-        "opening": "A partir du ???",
         "todo": "Appeler pr confirmer dates et si possibile avec tente"
       },
       {
@@ -563,8 +539,8 @@
         "email": "campings@hauteville-sur-mer.fr",
         "latitude": 48.9791201992114,
         "longitude": -1.5598030308352924,
-        "opening": "A partir du 15 mars",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "opening": "A partir du 1er avril - du lundi au samedi - 14h30-18h",
+        "miscellaneous": "Details confirmed by email"
       },
       {
         "name": "Camping Les Peupliers",
@@ -583,7 +559,7 @@
         "latitude": 48.908268670646606,
         "longitude": -1.563842960916216,
         "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping Municipal Les Dunes Coudeville sur mer",
@@ -594,7 +570,7 @@
         "latitude": 48.88700977853966,
         "longitude": -1.5698495761053435,
         "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping l'Oasis de la Plage",
@@ -605,7 +581,7 @@
         "latitude": 48.860178506226006,
         "longitude": -1.5775069617180695,
         "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping La Vague",
@@ -616,7 +592,7 @@
         "latitude": 48.82166767461402,
         "longitude": -1.5705869105610564,
         "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping Belle Rive",
@@ -627,7 +603,7 @@
         "latitude": 48.80002410932588,
         "longitude": -1.5659289024803598,
         "opening": "A partir du 1er avril -- 14h30-19h30",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping Le Drakkar",
@@ -638,7 +614,7 @@
         "latitude": 48.79704910173929,
         "longitude": -1.560774889978012,
         "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping Etoile de Mer",
@@ -649,7 +625,7 @@
         "latitude": 48.789915248690896,
         "longitude": -1.5668982930049644,
         "opening": "A partir du 1er avril -- 15h-20h",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping Jullouville Les Pins",
@@ -677,7 +653,7 @@
         "latitude": 48.7237190477435,
         "longitude": -1.5242372725327502,
         "opening": "A partir du 15 mars",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping Les Cognets",
@@ -687,8 +663,8 @@
         "email": "info@camping-lescognets.fr",
         "latitude": 48.7072590806222,
         "longitude": -1.4938844703153904,
-        "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "opening": "A partir du 1er avril - ouvert tous les jours - 14:30 et 18:30",
+        "miscellaneous": "Details confirmed by email"
       },
       {
         "name": "Camping de la Sélune",
@@ -698,7 +674,7 @@
         "email": "campselune@wanadoo.fr",
         "latitude": 48.630127154101416,
         "longitude": -1.3526771917992422,
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre réponse à mon email de demande de renseignements"
       },
       {
         "name": "Camping La Baie du Mont Saint Michel",
@@ -720,6 +696,858 @@
         "longitude": -1.5092389858092004,
         "opening": "A partir du 30 mars",
         "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Camping Haliotis",
+        "type": "camping",
+        "website": "https://www.camping-haliotis-mont-saint-michel.com",
+        "phone": "02 33 68 11 59",
+        "email": "camping@camping-haliotis.fr",
+        "latitude": 48.55776179444653,
+        "longitude": -1.5144592191898878,
+        "opening": "A partir du 8 avril",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Cocci Market",
+        "type": "shop",
+        "phone": "02 33 52 47 28",
+        "latitude": 49.54085080879961,
+        "longitude": -1.8647342317923545,
+        "opening": "tous les jours 8h30-19h30 sauf dimanche 8h30-12h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Vivéco",
+        "type": "shop",
+        "phone": "02 33 52 41 03",
+        "latitude": 49.529937667837984,
+        "longitude": -1.866737724120347,
+        "opening": "lu,ma,me,je,ve: 6h30-21h / sa: 8h-21h / di: 9h-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "de LACOTTE ANNICK",
+        "type": "shop",
+        "phone": "02 33 08 52 51",
+        "latitude": 49.459542347143376,
+        "longitude": -1.813100901873152,
+        "opening": "sa,di,lu,je,ve: 8h-13h & 15h-19h / ma: 8h-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Le Comptoir de Carteret",
+        "type": "shop",
+        "phone": "02 33 53 81 07",
+        "latitude": 49.37768454510367,
+        "longitude": -1.7856589372672464,
+        "opening": "tous les jours: 9h-13h / 14h30-19h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Carrefour Market Barneville-Carteret",
+        "type": "shop",
+        "phone": "02 33 04 50 44",
+        "latitude": 49.38499185683022,
+        "longitude": -1.753286988613197,
+        "opening": "tous les jours sauf dimanche: 8h30-19h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Carrefour Express",
+        "type": "shop",
+        "phone": "02 33 04 84 74",
+        "latitude": 49.334518307024474,
+        "longitude": -1.6983511403549756,
+        "opening": "tous jours 8h-20h - dimanche 9h-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Casino Supermarché",
+        "type": "shop",
+        "phone": "02 33 04 15 02",
+        "latitude": 49.33596983743024,
+        "longitude": -1.6930759684708792,
+        "opening": "lu,ma,me,je,ve: 9h-12h30/14h30-19h15 - sa: 9h-19h15 - di: 9h30-12h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Proxi Le Marché de la Plage",
+        "type": "shop",
+        "phone": "02 33 46 97 04",
+        "latitude": 49.231456386566194,
+        "longitude": -1.6445647029028532,
+        "opening": "sa,di,lu,je,ve: 8h30-13h/16h-20h - ma: 8h30-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Proxi",
+        "type": "shop",
+        "phone": "02 33 45 88 58",
+        "latitude": 49.16778368920116,
+        "longitude": -1.5962827815661607,
+        "opening": "ma,je,ve,sa: 9h-13h/15h30-19h30 - di,me: 8h-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Carrefour Blainville-Sur-Mer",
+        "type": "shop",
+        "phone": "09 80 98 09 86",
+        "latitude": 49.06515111281712,
+        "longitude": -1.594101129326517,
+        "opening": "tous les jours 8h30-19h sauf dimanche 9h-12h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "U Express",
+        "type": "shop",
+        "phone": "02 33 46 26 13",
+        "latitude": 49.04874036564707,
+        "longitude": -1.5933355151079929,
+        "opening": "tous les jours 8h30-19h sauf dimanche 8h-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Proxi",
+        "type": "shop",
+        "phone": "06 13 23 56 41",
+        "latitude": 48.977361004148236,
+        "longitude": -1.560070503170249,
+        "opening": "ma,me,je,ve,sa: 9h-13h/15h20h - di:8h-13h - lu: 8h-13h/15h-19h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Le Petit Marché",
+        "type": "shop",
+        "phone": "02 50 06 08 19",
+        "latitude": 48.89633921517205,
+        "longitude": -1.5689030378889124,
+        "opening": "tous les jours 9h-12h30/15h30-19h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Casino Supermarché",
+        "type": "shop",
+        "phone": "02 33 50 38 03",
+        "latitude": 48.84373018319903,
+        "longitude": -1.584379719669432,
+        "opening": "tous les jours 8h-19h00 sauf dimanche 9h-19h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Coccinelle Express Granville",
+        "type": "shop",
+        "phone": "02 33 58 12 39",
+        "latitude": 48.837096578438256,
+        "longitude": -1.596434415313497,
+        "opening": "tous les jours 8h-22h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Carrefour City",
+        "type": "shop",
+        "phone": "02 33 50 00 50",
+        "latitude": 48.83758941700365,
+        "longitude": -1.5910375351355162,
+        "opening": "tous les jours 7h-21h sauf le dimanche 9h-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Carrefour City",
+        "type": "shop",
+        "phone": "02 33 50 17 80",
+        "latitude": 48.81659525648993,
+        "longitude": -1.569578520308874,
+        "opening": "tous les jours 7h-21h sauf le dimanche 9h-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "U Express",
+        "type": "shop",
+        "phone": "02 33 61 84 44",
+        "latitude": 48.77584357466885,
+        "longitude": -1.5679243362104944,
+        "opening": "tous les jours 8h45-12h30/15h-19h15 sauf le dimanche 8h45-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Proxi",
+        "type": "shop",
+        "phone": "02 33 61 86 10",
+        "latitude": 48.74993541892013,
+        "longitude": -1.5603273092060357,
+        "opening": "tous les jours 8h30-19h30 sauf dimanche 9h-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Carrefour Market Avranches",
+        "type": "shop",
+        "phone": "02 33 68 48 60",
+        "latitude": 48.686748064946514,
+        "longitude": -1.3649468628589685,
+        "opening": "tous les jours 8h30-19h30 sauf dimanche 9h-12h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "CocciMarket Quettehou",
+        "type": "shop",
+        "phone": "02 33 71 01 88",
+        "latitude": 49.592343560119474,
+        "longitude": -1.3020102715488626,
+        "opening": "tous les jours 8h30-19h45 sauf le lundi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Intermarché SUPER Quettehou",
+        "type": "shop",
+        "phone": "02 33 43 30 99",
+        "latitude": 49.598767475052576,
+        "longitude": -1.301363561534489,
+        "opening": "tous les jours 9h-19h30 sauf dimanche 9h-12h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Carrefour Market Saint-Vaast-La-Hougue",
+        "type": "shop",
+        "phone": "02 33 23 35 65",
+        "latitude": 49.589331459960086,
+        "longitude": -1.280547301867783,
+        "opening": "tous les jours 8h30-19h30 sauf dimanche 8h30-12h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Carrefour Contact",
+        "type": "shop",
+        "phone": "02 33 23 13 53",
+        "latitude": 49.665839563278105,
+        "longitude": -1.2701538518884687,
+        "opening": "tous les jours 8h-20h sauf dimanche 9h-12h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Carrefour Contact",
+        "type": "shop",
+        "phone": "02 33 44 83 92",
+        "latitude": 49.65261933876125,
+        "longitude": -1.5477118297458532,
+        "opening": "tous les jours 8h-20h sauf dimanche 9h-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Croquez-Moi",
+        "type": "boulangerie",
+        "phone": "02 33 52 45 01",
+        "latitude": 49.56313907604232,
+        "longitude": -1.8469811628507236,
+        "opening": "lu,ma,me,sa: 7h-19h - ve: 7h-20h - di: 7h30-18h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Patisserie Richy",
+        "type": "boulangerie",
+        "phone": "02 33 52 40 32",
+        "latitude": 49.5319451417793,
+        "longitude": -1.8656296831974597,
+        "opening": "tous les jours 6h-19h30 sauf dimanche et lundi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Pâtisserie Renard Jean-Pierre",
+        "type": "boulangerie",
+        "phone": "02 33 04 30 52",
+        "latitude": 49.45988674120257,
+        "longitude": -1.8128359379152086,
+        "opening": "ma,me,je,ve,sa: 7h30-19h30 - di: 7h30-12h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Pâtisserie Erika & Frédéric Clerot",
+        "type": "boulangerie",
+        "phone": "02 33 53 84 17",
+        "latitude": 49.377722203013654,
+        "longitude": -1.7853828768733753,
+        "opening": "tous les jours 7h-19h sauf mardi et mercredi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Leader Price BARNEVILLE CARTERET",
+        "type": "shop",
+        "phone": "02 33 04 46 76",
+        "latitude": 49.37868074618496,
+        "longitude": -1.7547375056901422,
+        "opening": "tous les jours 8h30-19h30 sauf dimanche 9h-12h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Des Isles",
+        "type": "boulangerie",
+        "phone": "02 33 53 83 90",
+        "latitude": 49.38257588027021,
+        "longitude": -1.7564876675035486,
+        "opening": "tous les jours 6h45-19h15 sauf mercredi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Les Saveurs D'alyana",
+        "type": "boulangerie",
+        "phone": "02 33 04 84 55",
+        "latitude": 49.334764685852335,
+        "longitude": -1.6990392087484656,
+        "opening": "sa,ma,ve: 7h-13h30/15h-19h30 - di: 7h-13h30/16h-19h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Lebreton",
+        "type": "boulangerie",
+        "phone": "02 33 04 86 01",
+        "latitude": 49.334750622824735,
+        "longitude": -1.6976444517095561,
+        "opening": "tous les jours 7h-19h30 sauf lundi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Pâtisserie Bouvet",
+        "type": "boulangerie",
+        "phone": "02 33 07 01 55",
+        "latitude": 49.23545580652484,
+        "longitude": -1.6106944136837997,
+        "opening": "lu,me,je,ve,sa: 7h15-13h/15h30-19h30 - di: 7h15-13h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Market Blainville-Sur-Mer",
+        "type": "shop",
+        "phone": "02 33 46 25 25",
+        "latitude": 49.06681610060024,
+        "longitude": -1.5936332581972383,
+        "opening": "tous les jours 8h30-19h30 sauf dimanche 9h-12h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Les delices blainvillais",
+        "type": "boulangerie",
+        "phone": "02 33 45 74 26",
+        "latitude": 49.06641975555461,
+        "longitude": -1.5930284531523153,
+        "opening": "tous les jours 7h-19h30 sauf dimanche",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Perret",
+        "type": "boulangerie",
+        "phone": "02 33 47 07 88",
+        "latitude": 49.048344453278425,
+        "longitude": -1.5994969044336547,
+        "opening": "tous les jours 7h-19h30 sauf mercredi et jeudi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Le Fournil du Passous",
+        "type": "boulangerie",
+        "phone": "02 33 45 54 09",
+        "latitude": 49.03742921723339,
+        "longitude": -1.5966750683996478,
+        "opening": "tous les jours 7h-13h/16h-19h30 sauf lundi et mardi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Pâtisserie Minguet Ludovic",
+        "type": "boulangerie",
+        "phone": "02 33 45 10 03",
+        "latitude": 49.0226307045151,
+        "longitude": -1.5014173772527095,
+        "opening": "tous les jours 6h-19h30 sauf lundi et mardi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Maison Girard",
+        "type": "boulangerie",
+        "latitude": 48.977025974798536,
+        "longitude": -1.5601166291099116,
+        "opening": "lu,ma,me,je: 8h30-12h30 - ve,sa: 7h30-12h30/16h-19h30 - di: 7h30-12h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Pâtisserie Virginie et Jérôme Carre",
+        "type": "boulangerie",
+        "latitude": 48.897194528109694,
+        "longitude": -1.5691531451800105,
+        "opening": "tous les jours 7h30-12h30 sauf lundi et mardi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "La Boulangerie - Pâtisserie - Sandwicherie De La Mer",
+        "type": "boulangerie",
+        "phone": "02 33 79 16 75",
+        "latitude": 48.843477713191376,
+        "longitude": -1.5869187512825897,
+        "opening": "lu,ma,me,je,ve: 7h-19h30 - sa: 7h-19h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Pâtisserie du Casino",
+        "type": "boulangerie",
+        "phone": "02 33 90 47 40",
+        "latitude": 48.838615001199734,
+        "longitude": -1.5978911651447625,
+        "opening": "tous les jours 7h30-13h/16h-19 sauf dimanche 7h30-12h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Champs libres",
+        "type": "boulangerie",
+        "phone": "07 49 91 50 33",
+        "latitude": 48.83850914785527,
+        "longitude": -1.5990283134307346,
+        "opening": "ma,me,je,ve: 9h30-14h/16h-19h - sa: 9h-16h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Pâtisserie Robert la Flûte Gana",
+        "type": "boulangerie",
+        "phone": "02 33 50 10 98",
+        "latitude": 48.837121819630376,
+        "longitude": -1.5951217277183138,
+        "opening": "tous les jours 7h15-19h15 sauf mardi et mercredi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Au Saint Pair Glacé",
+        "type": "boulangerie",
+        "phone": "02 33 68 86 46",
+        "latitude": 48.815394832850025,
+        "longitude": -1.570925061701256,
+        "opening": "tous les jours 8h-19h sauf dimanche 8h-13h30 et lundi fermé",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Le fournil de Saint Pair",
+        "type": "boulangerie",
+        "phone": "09 77 87 63 82",
+        "latitude": 48.81461050987561,
+        "longitude": -1.568543339274673,
+        "opening": "lu,ma,je,ve,sa: 7h-13h/15h-19h30 - di: 7h-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Pâtisserie les Pins des Dunes",
+        "type": "boulangerie",
+        "phone": "02 33 61 84 88",
+        "latitude": 48.77473431444464,
+        "longitude": -1.5657933912346105,
+        "opening": "tous les jours 7h30-13h30/15h30-19h30 sauf mardi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Jean-Baptiste Et Remi",
+        "type": "boulangerie",
+        "phone": "02 33 61 86 33",
+        "latitude": 48.750043041989585,
+        "longitude": -1.559749602135071,
+        "opening": "tous les jours 7h-19h sauf dimanche 7h-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Sarl Boulangerie Houel",
+        "type": "boulangerie",
+        "phone": "02 33 70 82 78",
+        "latitude": 48.684490421536786,
+        "longitude": -1.4783357366847107,
+        "opening": "tous les jours 7h30-13h/15h-19h30 sauf jeudi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Marie Blachère Boulangerie Sandwicherie Tarterie",
+        "type": "boulangerie",
+        "phone": "02 33 70 78 08",
+        "latitude": 48.691700245479545,
+        "longitude": -1.367484490939837,
+        "opening": "tous les jours 7h-19h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Tirapu",
+        "type": "boulangerie",
+        "phone": "02 33 58 06 03",
+        "latitude": 48.685819152623196,
+        "longitude": -1.3587105792068175,
+        "opening": "ma,me,je,ve,sa: 7h-14h/15h30-19h30 - di: 7h-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Gonfroy David",
+        "type": "boulangerie",
+        "phone": "02 33 60 47 22",
+        "latitude": 48.63082382072399,
+        "longitude": -1.3506530748688936,
+        "opening": "tous les jours 6h30-19h sauf mercredi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulanger Pâtissier Moy",
+        "type": "boulangerie",
+        "phone": "02 33 21 43 36",
+        "latitude": 49.514138013065796,
+        "longitude": -1.2896599064807264,
+        "opening": "tous les jours 7h-13h sauf lundi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Marie SARL",
+        "type": "boulangerie",
+        "phone": "02 33 54 14 21",
+        "latitude": 49.59235255028839,
+        "longitude": -1.3024968878454701,
+        "opening": "tous les jours 7h-19h30 sauf lundi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie - Pâtisserie le Fournil Gibon",
+        "type": "boulangerie",
+        "phone": "02 33 54 43 77",
+        "latitude": 49.587573298193654,
+        "longitude": -1.2677808677692395,
+        "opening": "tous les jours 7h-13h/15h-20h sauf mercredi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulanger - Pâtissier - Chocolatier Aux Mille Saveurs",
+        "type": "boulangerie",
+        "phone": "02 33 20 12 17",
+        "latitude": 49.61954643397199,
+        "longitude": -1.2594435344039132,
+        "opening": "tous les jours 7h30-13h/16h-19h sauf dimanche et lundi 7h30-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Boulangerie Pâtisserie Sylvain Fontaine",
+        "type": "boulangerie",
+        "phone": "02 33 54 04 70",
+        "latitude": 49.670109767739525,
+        "longitude": -1.264163629833975,
+        "opening": "tous les jours 7h30-19h sauf mercredi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      }
+    ]
+  },
+  {
+    "hike": "WHW",
+    "locations": [
+      {
+        "name": "The West Highland Way Campsite",
+        "type": "camping",
+        "website": "https://westhighlandway.info",
+        "phone": "+44 7488 261 730",
+        "latitude": 55.98989538740673,
+        "longitude": -4.336723211839151,
+        "opening": "Toute l'année - toute la journée",
+        "todo": "Appeler pr réserver"
+      },
+      {
+        "name": "Beech Tree Cafe Bar",
+        "type": "restaurant",
+        "website": "https://thebeechtreeinn.co.uk",
+        "phone": "+44 1360 550 297",
+        "latitude": 56.020963956108886,
+        "longitude": -4.370689765962705,
+        "opening": "lu,me,je,ve: 10h-15h, sa: 10h-17h, di: 11h-17h",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Turnip The Beet",
+        "type": "shop",
+        "phone": "+44 7572 095 132",
+        "latitude": 56.028626529744,
+        "longitude": -4.380787744132605,
+        "opening": "tous les jours 9h-17h sauf dimanche 9h-16h",
+        "miscellaneous": "Petite restauration & petite épicerie",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Drymen Camping",
+        "type": "camping",
+        "website": "https://drymencamping.co.uk",
+        "phone": "+44 0749 4144 064",
+        "latitude": 56.05363646167198,
+        "longitude": -4.432012387418892,
+        "opening": "A partir du 16 mars - \"arriver avant la nuit\" :shrug:",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.08229565718704,
+        "longitude": -4.437798619518992
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.085663296736456,
+        "longitude": -4.464336240225392
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.09504201917001,
+        "longitude": -4.488833026625832
+      },
+      {
+        "name": "Oak Tree Inn",
+        "type": "hotel",
+        "website": "https://www.theoaktreeinn.co.uk",
+        "phone": "+44 1360 870 357",
+        "email": "info@theoaktreeinn.co.uk",
+        "latitude": 56.0840530469438,
+        "longitude": -4.539888429396323
+      },
+      {
+        "name": "Milarrochy Bay Camping and Caravanning Club Site",
+        "type": "camping",
+        "phone": "+44 1360 870 236",
+        "latitude": 56.10012799817431,
+        "longitude": -4.56127154338528,
+        "opening": "A partir du 25 mars - à partir de 13h",
+        "todo": "Appeler pr savoir s'il faut reserver en avance"
+      },
+      {
+        "name": "Cashel Campsite",
+        "type": "camping",
+        "website": "https://cashel-campsite.com",
+        "phone": "+44 1360 870 234",
+        "email": "info@cashel-campsite.com",
+        "latitude": 56.11216080502833,
+        "longitude": -4.582095176863691,
+        "opening": "A partir du 1er mars",
+        "todo": "Appeler pr confirmer dates et si necessaire de booker a l'avance"
+      },
+      {
+        "name": "Sallochy Campsite",
+        "type": "camping",
+        "website": "https://forestryandland.gov.scot/visit/forest-parks/queen-elizabeth-forest-park/sallochy",
+        "phone": "+44 7826 935 016",
+        "email": "sallochy.wardens@forestryandland.gov.scot",
+        "latitude": 56.127274216566626,
+        "longitude": -4.607706885744995,
+        "opening": "A partir du 3 mars",
+        "miscellaneous": "Must be booked 24h in advance -- booking for 2024 start on february 1st",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Start of the forbidden wild camping stretch along Loch Lomond",
+        "type": "point of interest",
+        "latitude": 56.090172,
+        "longitude": -4.533101
+      },
+      {
+        "name": "End of the forbidden wild camping stretch along Loch Lomond",
+        "type": "point of interest",
+        "latitude": 56.171755,
+        "longitude": -4.655221
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.17204951563624,
+        "longitude": -4.656003475839107
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.17437590995446,
+        "longitude": -4.660693735227127
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.17553511214399,
+        "longitude": -4.663374977320518
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.181756736917876,
+        "longitude": -4.67316619849976
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.195349692986895,
+        "longitude": -4.680215813590679
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.19419663231783,
+        "longitude": -4.679772938875468
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.20944675697332,
+        "longitude": -4.674874085979709
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.21706218933858,
+        "longitude": -4.6744456691134895
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.219172419677875,
+        "longitude": -4.676007045507078
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.2245129374283,
+        "longitude": -4.677679736388734
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.23084159090967,
+        "longitude": -4.6807946712598945
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.23889367149606,
+        "longitude": -4.684203517991084
+      },
+      {
+        "name": "Inversnaid Hotel",
+        "type": "hotel",
+        "website": "https://www.lochsandglens.com/our-hotels/inversnaid-hotel",
+        "phone": "+44 1877 386 223",
+        "email": "inversnaidhotel@lochsandglens.com",
+        "latitude": 56.243067044002785,
+        "longitude": -4.684546320310456,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      }
+    ]
+  },
+  {
+    "hike": "HRP",
+    "locations": [
+      {
+        "name": "Le Chalet de l'Albère",
+        "type": "restaurant",
+        "website": "https://chalet-de-lalbere.eatbu.com/?lang=en",
+        "phone": "04 68 83 62 20",
+        "email": "lechaletdelalbere@hotmail.fr",
+        "latitude": 42.47895866315942,
+        "longitude": 2.922992846364155,
+        "opening": "Du jeudi au lundi: 9.30am - 8pm (6pm les lundis)",
+        "payment": "cash only",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Centre comercial Tramuntana",
+        "type": "shop",
+        "phone": "+34 9 72 01 00 25",
+        "latitude": 42.46122561604686,
+        "longitude": 2.864137501918108,
+        "opening": "Tous les jours, 8am - 7pm",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Trabucayres",
+        "type": "restaurant",
+        "website": "https://www.facebook.com/trabucayres",
+        "phone": "04 68 66 55 38",
+        "email": "trabucayres@outlook.fr",
+        "latitude": 42.42465285925915,
+        "longitude": 2.7843680724120916,
+        "opening": "Samedi et dimanche: 10h30-15h30 / 16h30-22h30",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Camping Paradis Le Vallespir",
+        "type": "camping",
+        "website": "https://www.campingvallespir.com",
+        "phone": "04 68 39 90 00",
+        "email": "info@campingvallespir.com",
+        "latitude": 42.46679053391659,
+        "longitude": 2.651419107135444,
+        "opening": "Ouvert l'été",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Amélia Camping",
+        "type": "camping",
+        "website": "https://www.camping-amelia.fr",
+        "phone": "04 68 39 00 49",
+        "email": "info@camping-amelia.fr",
+        "latitude": 42.47945218881034,
+        "longitude": 2.674207156388486,
+        "opening": "Ouvert l'été",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Vival",
+        "type": "shop",
+        "phone": "04 68 98 11 63",
+        "latitude": 42.47315640329398,
+        "longitude": 2.6693593522980303,
+        "opening": "Mardi au samedi: 8h30-13h/15h-19h - dimanche: 8h30-12h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Proxi Super",
+        "type": "shop",
+        "phone": "04 68 39 05 51",
+        "latitude": 42.47348406191022,
+        "longitude": 2.6689542212843156,
+        "opening": "lu,ma,je,ve,sa: 8h30-12h30/15h-18h - me: 8h30-12h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Refuge de Batère",
+        "type": "refuge",
+        "website": "https://www.refugedebatere.fr",
+        "phone": "04 68 39 12 01",
+        "email": "contact.refugebatere@gmail.com",
+        "latitude": 42.501689574032575,
+        "longitude": 2.5484060614082384,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "miscellaneous": "Formule bivouac possible - c'est reservable en ligne - 38 couchages - demi-pension"
+      },
+      {
+        "name": "Cabane non gardée",
+        "type": "refuge",
+        "latitude": 42.51797635565655,
+        "longitude": 2.524512198834726
+      },
+      {
+        "name": "Bivouac possible?",
+        "type": "bivouac",
+        "latitude": 42.51781595786677,
+        "longitude": 2.526066238110627
+      },
+      {
+        "name": "Refuge des Cortalets",
+        "type": "refuge",
+        "website": "https://refugedescortalets.ffcam.fr/tarifs.html",
+        "phone": "04 68 96 36 19",
+        "latitude": 42.53436943183834,
+        "longitude": 2.4650573451126774,
+        "payment": "carte bleue / cash",
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "miscellaneous": "une 40aine de spots de bivouac - c'est reservable en ligne - 105 couchages - demi-pension"
+      },
+      {
+        "name": "Refuge de Mariailles",
+        "type": "refuge",
+        "website": "https://refugedemariailles.fr",
+        "phone": "04 68 05 57 99",
+        "email": "refuge.mariailles@gmail.com",
+        "latitude": 42.50169599295822,
+        "longitude": 2.4078017689617104,
+        "payment": "cash only",
+        "todo": "Appeler pr vérifier: s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, s'ils font restauration ds journée...",
+        "miscellaneous": "C'est reservable en ligne - 53 couchages - demi-pension"
       }
     ]
   }

@@ -7,7 +7,7 @@ function drawMapAndTraces(svg, width, height) {
     initialZoom: 24000,
     maxZoom: 16000000,
     photoIconsMinZoom: 300000,
-    wishList5kmMarkersAndLocationsMinZoom: 700000
+    wishList5kmMarkersAndLocationsMinZoom: 300000
   }
 
   var mapPageState = {
@@ -345,7 +345,7 @@ function drawMapAndTraces(svg, width, height) {
 
   // Draw wishlist hikes locations:
 
-  var locationsSort = ["point of interest", "boulangerie", "shop", "restaurant", "camping", "bivouac", "hotel", "refuge", "gite"];
+  var locationsSort = ["point of interest", "boulangerie", "restaurant", "shop", "camping", "bivouac", "hotel", "refuge", "gite"];
 
   var wishlistHikesLocationsIconsData =
     d3.sort(

@@ -270,8 +270,8 @@
         "email": "fermeaux5saisons@gmail.com",
         "latitude": 49.52923585176499,
         "longitude": -1.8502632373971124,
-        "opening": "A partir du 1er avril",
-        "todo": "Attendre réponse à mon email de demande de renseignements"
+        "opening": "A partir du 1er avril - tous les jours - acceuil jusqu'à 17h30 mais possible d'arriver plus tard",
+        "miscellaneous": "Details confirmed by email"
       },
       {
         "name": "Camping Le Ranch",
@@ -334,8 +334,8 @@
         "email": "campinglesbosquetsbarneville@orange.fr",
         "latitude": 49.36642536534104,
         "longitude": -1.7600693456210121,
-        "opening": "A partir du 1er avril",
-        "todo": "Attendre réponse à mon email de demande de renseignements"
+        "opening": "A partir du 1er avril - tous les jours - 14h-18h",
+        "miscellaneous": "Details confirmed by email"
       },
       {
         "name": "Camping Les Vikings",
@@ -462,7 +462,7 @@
         "latitude": 49.10402219463376,
         "longitude": -1.607454996045363,
         "opening": "A partir du 1er avril",
-        "todo": "Attendre réponse à mon email de demande de renseignements"
+        "miscellaneous": "Details confirmed by email"
       },
       {
         "name": "Camping municipal de la Melette",
@@ -1635,6 +1635,684 @@
         "longitude": -5.108333757749734,
         "opening": "tous les jours 7h-21h sauf dimanche 8h-17h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      }
+    ]
+  },
+  {
+    "hike": "GGW",
+    "locations": [
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.89830199598285,
+        "longitude": -5.01833485307154
+      },
+      {
+        "name": "Google Map et Open Street Map indiquent une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.91488944018543,
+        "longitude": -4.993677225736149
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 56.99841713405166,
+        "longitude": -4.876444915579773
+      },
+      {
+        "name": "Laggan Lock Kiosk",
+        "type": "restaurant",
+        "latitude": 57.02563017130704,
+        "longitude": -4.82520452945969,
+        "opening": "tous les jours 9h30-16h30",
+        "miscellaneous": "C'est juste un petit café",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 57.02506746651628,
+        "longitude": -4.825328447787023
+      },
+      {
+        "name": "Hamish's Kitchen",
+        "type": "restaurant",
+        "website": "https://hamishskitchen.co.uk",
+        "phone": "+44 7884 938 320",
+        "email": "bookings@hamishskitchen.co.uk",
+        "latitude": 57.04512755549302,
+        "longitude": -4.799058655127001,
+        "opening": "16h-23h",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Well of the Seven Heads coffee & takeaway",
+        "type": "restaurant",
+        "phone": "+44 1809 501 246",
+        "latitude": 57.05219552971271,
+        "longitude": -4.796518686496056,
+        "opening": "tous les jours 5h30-13h sauf samedi et dimanche",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Google Map et Open Street Map indiquent une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 57.072624277540186,
+        "longitude": -4.762250538658226
+      },
+      {
+        "name": "Google Map et Open Street Map indiquent une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 57.12197368820125,
+        "longitude": -4.722644518592798
+      },
+      {
+        "name": "The Lock Inn",
+        "type": "restaurant",
+        "website": "https://the-lockinn.co.uk",
+        "phone": "+44 1320 366 302",
+        "email": "thelockinn.lochness@gmail.com",
+        "latitude": 57.144601535288835,
+        "longitude": -4.6819146529355065,
+        "opening": "tous les jours 12h-20h30",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "The Moorings Restaurant",
+        "type": "restaurant",
+        "phone": "+44 1320 366 484",
+        "latitude": 57.14545132970594,
+        "longitude": -4.67994050127869,
+        "opening": "tous les jours 11h-21h",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Bothy Restaurant & Bar",
+        "type": "restaurant",
+        "phone": "+44 1320 366 710",
+        "latitude": 57.144752868034296,
+        "longitude": -4.681024156216829,
+        "opening": "tous les jours 12h-22h",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 57.155657935643205,
+        "longitude": -4.6809724539907345
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 57.164173387187276,
+        "longitude": -4.666033309450656
+      },
+      {
+        "name": "Glen Rowan Cafe",
+        "type": "restaurant",
+        "website": "https://www.facebook.com/GRcafe/about",
+        "phone": "+44 1320 351 208",
+        "email": "glenrowancafe@gmail.com",
+        "latitude": 57.2156082580868,
+        "longitude": -4.620379047517476,
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 57.23718338779814,
+        "longitude": -4.590560261656668
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 57.25658067697165,
+        "longitude": -4.535115539996755
+      },
+      {
+        "name": "Scotmid Coop Drumnadrochit",
+        "type": "shop",
+        "phone": "+44 1456 459 057",
+        "latitude": 57.3293123748233,
+        "longitude": -4.478039856343159,
+        "opening": "6h30-22h tous les jours sauf samedi et dimanche 7h30-22h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Station service Esso",
+        "type": "shop",
+        "phone": "+44 1456 450 212",
+        "latitude": 57.32829273054304,
+        "longitude": -4.474798445825748,
+        "opening": "tous les jours 8h-19h sauf dimanche 9h-19h",
+        "miscellaneous": "Pr acheter des snacks peut-être",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "The Italian Job",
+        "type": "restaurant",
+        "phone": "+44 1463 592 389",
+        "latitude": 57.329581604109755,
+        "longitude": -4.477836682520131,
+        "opening": "ma,me,je: 12h45-14h - ve,sa: 17h-19h30",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Taste of China",
+        "type": "restaurant",
+        "phone": "+44 1456 450 772",
+        "latitude": 57.33072830156008,
+        "longitude": -4.479113423953553,
+        "opening": "tous les jours 16h-22h sauf lundi",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Loch Ness Bay Camping",
+        "type": "camping",
+        "website": "https://www.borlum.co.uk/index.html",
+        "phone": "+44 1456 450 544",
+        "email": "info@borlum.com",
+        "latitude": 57.328564168334296,
+        "longitude": -4.465509090613826,
+        "todo": "Appeler pr confirmer dates !!!! on dirait qu'ils n'acceptent pas les tentes? !!!"
+      },
+      {
+        "name": "Ness Deli",
+        "type": "restaurant",
+        "website": "https://thenessdeli.wordpress.com",
+        "phone": "+44 1456 450 282",
+        "latitude": 57.335965214110765,
+        "longitude": -4.479231259580676,
+        "opening": "tous les jours 10h-15h",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Fiddlers Highland Restaurant",
+        "type": "restaurant",
+        "website": "https://www.fiddledrum.co.uk",
+        "phone": "+44 1456 450 678",
+        "email": "bookings@fiddledrum.co.uk",
+        "latitude": 57.33554831205419,
+        "longitude": -4.479746275402906,
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Abriachan Cafe Campsite Wester Laide",
+        "type": "camping",
+        "website": "https://abriachan-cafe-campsite-wester-laide.business.site",
+        "phone": "+44 1463 861 462",
+        "latitude": 57.395497473625895,
+        "longitude": -4.418404855949549,
+        "opening": "A partir du ??? - 7h-23h",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 57.43649708182719,
+        "longitude": -4.355781898764873
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 57.441459370656,
+        "longitude": -4.332865585174385
+      },
+      {
+        "name": "Bught Park Caravan Park & Campsite",
+        "type": "camping",
+        "website": "http://www.invernesscaravanpark.com",
+        "phone": "+44 1463 236 920",
+        "email": "bookings@invernesscaravanpark.com",
+        "latitude": 57.464987891964995,
+        "longitude": -4.2381806374940485,
+        "opening": "A partir du 31 mars",
+        "miscellaneous": "80 spots de tente",
+        "todo": "Appeler pr confirmer dates"
+      }
+    ]
+  },
+  {
+    "hike": "CWT",
+    "locations": [
+      {
+        "name": "Kinlochewe Service Station",
+        "type": "shop",
+        "website": "https://www.kinlocheweservices.co.uk",
+        "phone": "+44 1445 760 227",
+        "latitude": 57.6049382914651,
+        "longitude": -5.30501640107123,
+        "opening": "Epicerie & coffee bar du lundi of vendredi 9h-16h45",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Kinlochewe Caravan and Motorhome Club Campsite",
+        "type": "camping",
+        "website": "https://www.caravanclub.co.uk/club-sites/scotland/highlands/kinlochewe-club-campsite/?utm_source=localsearch&utm_medium=organic&utm_campaign=gmb",
+        "phone": "+44 1445 760 239",
+        "latitude": 57.60427573046657,
+        "longitude": -5.30478325034429,
+        "opening": "A partir du 15 mars",
+        "miscellaneous": "Seulement 5 spots pour tentes",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "The Old Hall Cafe",
+        "type": "restaurant",
+        "website": "http://www.theoldhallcafe.com",
+        "phone": "+44 1445 793 315",
+        "latitude": 57.602831110205855,
+        "longitude": -5.305269753242926,
+        "opening": "tous les jours 9h-15h/17h-19h30 sauf lundi et mardi",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Shenavall Bothy",
+        "type": "bivouac",
+        "latitude": 57.77679192563428,
+        "longitude": -5.254169819404087,
+        "miscellaneous": "Il y a de quoi piquer quelques tentes à côté du bothy"
+      },
+      {
+        "name": "Tesco Superstore",
+        "type": "shop",
+        "phone": "+44 3456 719 361",
+        "latitude": 57.89694612151029,
+        "longitude": -5.162996404611335,
+        "opening": "tous les jours 6h-22h sauf dimanche 7h-18h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Broomfield Holiday Park",
+        "type": "camping",
+        "website": "http://www.broomfieldhp.com",
+        "phone": "+44 01854 61 2020",
+        "email": "sross@broomfieldhp.com",
+        "latitude": 57.89422734163937,
+        "longitude": -5.164626189762267,
+        "opening": "A partir du ??? - arrivées jusqu'à 19h",
+        "miscellaneous": "Gros camping avec pleins d'emplacements tente",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Schoolhouse Bothy",
+        "type": "bivouac",
+        "latitude": 57.935251692599046,
+        "longitude": -4.805396363282541,
+        "miscellaneous": "Dur de dire, mais il n'y a pas l'air d'y avoir bcp de places pr des tentes directement à côté du bothy"
+      },
+      {
+        "name": "Glencoul Bothy",
+        "type": "bivouac",
+        "latitude": 58.22800186330747,
+        "longitude": -4.946641306649911,
+        "miscellaneous": "Dur d'être sûr, mais il semble qu'il y ait quelques spots pr les tentes"
+      },
+      {
+        "name": "Glendhu Bothy",
+        "type": "bivouac",
+        "latitude": 58.258627124058265,
+        "longitude": -4.9279310407270405,
+        "miscellaneous": "Dur d'être sûr, mais il semble qu'il y ait quelques spots pr les tentes"
+      },
+      {
+        "name": "SPAR Kinlochbervie",
+        "type": "shop",
+        "phone": "+44 1971 521 324",
+        "latitude": 58.45880233860483,
+        "longitude": -5.054725630993037,
+        "opening": "tous les jours 8h-20h sauf samedi 8h-18h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Worth A Look",
+        "type": "restaurant",
+        "website": "https://worthalookkinlochbervie.weebly.com",
+        "phone": "+44 7880 343 101",
+        "email": "worthalookkinlochbervie@aol.com",
+        "latitude": 58.45861658967624,
+        "longitude": -5.054247341637863,
+        "opening": "lu,ma: 11h-16h - me,ve: 11h-19h",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "The Quay House",
+        "type": "restaurant",
+        "latitude": 58.45648985999961,
+        "longitude": -5.051819141721631,
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Sheigra Beach Honour Campsite - Tent Only",
+        "type": "bivouac",
+        "latitude": 58.491299552797905,
+        "longitude": -5.11944586778511,
+        "miscellaneous": "Il y a l'air d'y avoir pas mal de places"
+      },
+      {
+        "name": "Strathchailleach (bothy)",
+        "type": "bivouac",
+        "latitude": 58.54457272127561,
+        "longitude": -5.010022445707705,
+        "miscellaneous": "Dur d'être sûr, mais il semble qu'il y ait un peu de place pr qques tentes"
+      },
+      {
+        "name": "Kearvaig Bothy",
+        "type": "bivouac",
+        "latitude": 58.60819395277754,
+        "longitude": -4.94103401304745,
+        "miscellaneous": "Plein de place pr des tentes. Ca à l'air splendide, mériterait d'y rester une nuit"
+      },
+      {
+        "name": "Campsite Durness",
+        "type": "camping",
+        "website": "https://sangosands.com/#facilities",
+        "latitude": 58.56864588284763,
+        "longitude": -4.743283157115042,
+        "opening": "A partir du 20 mars - arriver avant 17h",
+        "miscellaneous": "pas besoin de booker en avance, 1er arrivé 1er servi - ca semble grand",
+        "todo": "Appeler pr confirmer date d'ouverture"
+      },
+      {
+        "name": "The Durness Shop",
+        "type": "shop",
+        "phone": "+44 1971 511 209",
+        "latitude": 58.56871001813571,
+        "longitude": -4.745995619193896,
+        "opening": "tous les jours 8h-18h sauf samedi 9h-18h et dimanche 9h-16h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Mathers",
+        "type": "shop",
+        "phone": "+44 1971 511 287",
+        "latitude": 58.56806578707676,
+        "longitude": -4.740480505825823,
+        "opening": "tous les jours 10h30-17h/20h30-22h sauf dimanche 12h-17h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      }
+    ]
+  },
+  {
+    "hike": "Lofotens",
+    "locations": [
+      {
+        "name": "Sandsletta Camping",
+        "type": "camping",
+        "website": "https://www.camping-lofoten.no",
+        "phone": "+47 909 15 230",
+        "email": "sandsletta@camping-lofoten.com",
+        "latitude": 68.33602656721263,
+        "longitude": 14.4982092721433,
+        "opening": "A partir du ???",
+        "miscellaneous": "Il y a un petit resto dans le camping (lunch/dinner)",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Livland Gård",
+        "type": "restaurant",
+        "website": "https://www.livland.no",
+        "phone": "+47 979 54 911",
+        "latitude": 68.33102600465938,
+        "longitude": 14.511983191142017,
+        "opening": "???",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "As Lofoten Feriesenter",
+        "type": "camping",
+        "website": "https://lofoten-feriesenter.no/?lang=2",
+        "phone": "+47 760 72 164",
+        "email": "post@lofoten-feriesenter.no",
+        "latitude": 68.24796798466811,
+        "longitude": 14.548653452179787,
+        "opening": "Ouvert toute l'année",
+        "todo": "Appeler pr confirmer dates"
+      },
+      {
+        "name": "SPAR Storøya",
+        "type": "shop",
+        "phone": "+47 760 70 003",
+        "latitude": 68.23362477506409,
+        "longitude": 14.55686747146724,
+        "opening": "ma,me,je,ve: 8h-20h - sa: 9h-18h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "REMA 1000 SVOLVÆR",
+        "type": "shop",
+        "phone": "+47 760 72 765",
+        "latitude": 68.23505615933213,
+        "longitude": 14.560516899308118,
+        "opening": "tous les jours 7h-23h sauf dimanche et lundi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "KIWI Svolvaer Downtown",
+        "type": "shop",
+        "phone": "+47 760 74 300",
+        "latitude": 68.2333055696901,
+        "longitude": 14.561632442653202,
+        "opening": "tous les jours 7h-23h sauf dimanche",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "KIWI Osan Svolvær",
+        "type": "shop",
+        "phone": "+47 760 75 500",
+        "latitude": 68.23285236630589,
+        "longitude": 14.530041419576682,
+        "opening": "tous les jours 7h-23h sauf dimanche et lundi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Aimee's Restaurant",
+        "type": "restaurant",
+        "website": "https://aimees-restaurant.business.site/?utm_source=gmb&utm_medium=referral",
+        "phone": "+47 480 28 344",
+        "latitude": 68.22832626659199,
+        "longitude": 14.071780879233739,
+        "opening": "lu,ma,je: 11h-16 - me: 11h-22h",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "REMA 1000 LEKNES",
+        "type": "shop",
+        "phone": "+47 760 55 790",
+        "latitude": 68.1446651056267,
+        "longitude": 13.619440173779385,
+        "opening": "ma,me,je,ve,sa: 7h-23h - di: 10h-15h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "KIWI Leknes",
+        "type": "shop",
+        "phone": "+47 760 72 302",
+        "latitude": 68.14311989915677,
+        "longitude": 13.617529331875852,
+        "opening": "tous les jours 7h-23h sauf lundi et dimanche",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Coop Prix Leknes",
+        "type": "shop",
+        "phone": "+47 760 80 911",
+        "latitude": 68.14742880615606,
+        "longitude": 13.61481842608784,
+        "opening": "ma,me,je,ve: 8h-22h - sa: 9h-21h - di: 8h-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Extra Leknes",
+        "type": "shop",
+        "phone": "+47 948 86 020",
+        "latitude": 68.14868671863594,
+        "longitude": 13.619024156533852,
+        "opening": "ma,me,je,ve,sa: 7h-23h - di: 7h-15h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Brustranda Fjordcamping",
+        "type": "camping",
+        "website": "https://brustranda.com",
+        "phone": "+47 969 10 407",
+        "email": "booking@lofotcamping.no",
+        "latitude": 68.20404445636898,
+        "longitude": 13.887322778652894,
+        "miscellaneous": "une 20aine d'emplacements tente",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Lofoten Camping Storfjord",
+        "type": "camping",
+        "website": "https://lofotencamp.no",
+        "phone": "+47 976 23 606",
+        "email": "info@lofotencamp.no",
+        "latitude": 68.15843749740183,
+        "longitude": 13.752568694945987,
+        "opening": "A partir du 1er février",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Uttakleiv camping",
+        "type": "camping",
+        "latitude": 68.20923694509001,
+        "longitude": 13.507018084955213,
+        "miscellaneous": "Aire de bivouac ?publique? avec plein de place - ca à l'air superbe"
+      },
+      {
+        "name": "Open Street Map écrit bivouac (et pas le symbole d'une tente comme d'habitude)",
+        "type": "bivouac",
+        "latitude": 68.1262479933027,
+        "longitude": 13.440518624463802
+      },
+      {
+        "name": "Karoline Restaurant",
+        "type": "restaurant",
+        "website": "https://nusfjordarcticresort.com/home",
+        "phone": "+47 760 93 020",
+        "email": "booking@nusfjord.no",
+        "latitude": 68.0348562003293,
+        "longitude": 13.350042007272059,
+        "opening": "tous les jours 10h-17h",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "By The Way Lofoten",
+        "type": "restaurant",
+        "phone": "+47 968 33 203",
+        "latitude": 68.08697353134478,
+        "longitude": 13.172464311752714,
+        "miscellaneous": "C'est une camionette",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Aire de bivouac",
+        "type": "bivouac",
+        "miscellaneous": "C'est juste un terrain plat publique avec beaucoup d'espace pour beaucoup de tentes",
+        "latitude": 68.09854632895313,
+        "longitude": 13.164545411791368
+      },
+      {
+        "name": "Possible de bivouaquer",
+        "type": "bivouac",
+        "miscellaneous": "Je vois des photos sur Google Map avec plusieurs tentes",
+        "latitude": 68.07708217365862,
+        "longitude": 13.099773779825115
+      },
+      {
+        "name": "Kafé Vindstad",
+        "type": "restaurant",
+        "phone": "+47 414 14 161",
+        "latitude": 67.9589410503525,
+        "longitude": 13.004423834900342,
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 67.93967727100066,
+        "longitude": 12.9844610867965
+      },
+      {
+        "name": "Matkroken Sørvågen",
+        "type": "shop",
+        "phone": "+47 760 91 215",
+        "latitude": 67.88984534032372,
+        "longitude": 13.021577313375063,
+        "opening": "ma,me,je,ve: 9h-20h - sa: 10h-18h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Joker",
+        "type": "shop",
+        "phone": "+47 760 91 116",
+        "latitude": 67.89170136876933,
+        "longitude": 13.026624788725531,
+        "opening": "ma,me,je,ve: 9h-21h - sa: 10h-18h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Moskenes Camping",
+        "type": "camping",
+        "website": "https://moskenescamping.no",
+        "phone": "+47 994 89 405",
+        "email": "info@moskenescamping.no",
+        "latitude": 67.90008786872687,
+        "longitude": 13.052399518955982,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+      },
+      {
+        "name": "Maren Anna",
+        "type": "restaurant",
+        "website": "http://www.marenanna.com",
+        "phone": "+47 760 92 050",
+        "latitude": 67.88976106734388,
+        "longitude": 13.023605883663123,
+        "opening": "tous les jours 18h-21h sauf lundi et dimanche",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Bunnpris Ramberg",
+        "type": "shop",
+        "phone": "+47 415 94 050",
+        "website": "https://www.bunnpris.no/butikker/bunnpris-ramberg",
+        "email": "bpramberg@bunnpris.no",
+        "latitude": 68.08911777818481,
+        "longitude": 13.228266977098974,
+        "opening": "tous les jours 9h-22h sauf dimanche",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Café Lille Martine",
+        "type": "restaurant",
+        "phone": "+47 957 50 810",
+        "latitude": 68.08932404957771,
+        "longitude": 13.228493325384859,
+        "opening": "me,je: 11h-16h - ve: 7h-14h",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Kafe Friisgarden",
+        "type": "restaurant",
+        "website": "",
+        "phone": "",
+        "email": "",
+        "latitude": 68.08962960543923,
+        "longitude": 13.23031343016168,
+        "opening": "tous les jours 12h-19h",
+        "todo": "Reverifier les horaires avant de partir"
+      },
+      {
+        "name": "Ramberg Gjestegård",
+        "type": "camping",
+        "website": "https://www.ramberg-gjestegard.no/en/home",
+        "phone": "+47 760 93 500",
+        "email": "post@ramberg-gjestegard.no",
+        "latitude": 68.09206714715661,
+        "longitude": 13.234158567935312,
+        "miscellaneous": "Je vois des pitchs de tentes sur les photos du site - Ca fait resto aussi",
+        "todo": "Reverifier les horaires avant de partir"
       }
     ]
   },

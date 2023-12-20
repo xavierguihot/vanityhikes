@@ -3,23 +3,13 @@
     "hike": "Vosges",
     "locations": [
       {
-        "name": "Ferme Auberge Kahlenwasen",
-        "type": "hotel",
-        "website": "https://www.facebook.com/Kahlenwasen?ref=hl    /     https://www.fermeaubergealsace.fr/fr/nos-fermes-auberges/fermes-auberges-haute-alsace/F231001097_ferme-auberge-du-kahlenwasen-luttenbach-pres-munster",
-        "phone": "03 89 77 32 49 / 03 89 77 68 33",
-        "latitude": 47.988957446914085,
-        "longitude": 7.1241462768609205,
-        "todo": "Appeler pr avoir des informations"
-      },
-      {
         "name": "Ferme Auberge Rothenbrunnen",
         "type": "hotel",
         "website": "https://www.rothenbrunnen.fr",
         "phone": "03 89 77 33 08",
         "email": "contact@rothenbrunnen.fr",
         "latitude": 47.98256096588307,
-        "longitude": 7.119355055249771,
-        "todo": "Appeler pr avoir des informations"
+        "longitude": 7.119355055249771
       },
       {
         "name": "Hotel restaurant Wolf",
@@ -28,8 +18,7 @@
         "phone": "06 08 06 77 76",
         "email": "hotelwolf@aol.com",
         "latitude": 47.92727064843099,
-        "longitude": 7.028461251404771,
-        "todo": "Appeler pr avoir des informations"
+        "longitude": 7.028461251404771
       },
       {
         "name": "Hôtel les 4 Saisons",
@@ -37,30 +26,24 @@
         "website": "https://www.hotel4saisons.com",
         "phone": "03 89 82 28 61",
         "latitude": 47.92552718426155,
-        "longitude": 6.95061568562186,
-        "todo": "Appeler pr avoir des informations"
-      },
-      {
-        "name": "Hotel du Sommet",
-        "type": "hotel",
-        "website": "http://www.hotelrestaurantdusommet.com",
-        "phone": "03 84 29 30 60 ",
-        "latitude": 47.82062826270145,
-        "longitude": 6.837187964288478,
-        "todo": "Appeler pr avoir des informations"
-      },
-      {
-        "name": "Domaine de la Moselle",
-        "type": "hotel",
-        "latitude": 47.858219513248244,
-        "longitude": 6.82261978462587,
-        "todo": "Booker sur booking.com"
+        "longitude": 6.95061568562186
       }
     ]
   },
   {
     "hike": "GR223",
     "locations": [
+      {
+        "name": "Camping La Baie Des Veys",
+        "type": "camping",
+        "website": "https://www.campinglabaiedesveys.com/nos-emplacements",
+        "phone": "02 33 71 56 90",
+        "email": "contact@campinglabaiedesveys.com",
+        "latitude": 49.36550011471732,
+        "longitude": -1.177531273905289,
+        "opening": "A partir du 6 avril",
+        "todo": "Attendre réponse à mon email de demande de renseignements"
+      },
       {
         "name": "Camping Utah Beach",
         "type": "camping",
@@ -249,7 +232,7 @@
         "latitude": 49.63318964999165,
         "longitude": -1.8494864316134063,
         "opening": "!!!! A partir du 14 juin",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente"
+        "todo": "Attendre la réponse à ma demande de détails (via le formulaire de contact du site)"
       },
       {
         "name": "Camping de Clairefontaine",
@@ -324,7 +307,8 @@
         "email": "campinglagerfleur@gmail.com",
         "latitude": 49.38327690456134,
         "longitude": -1.7647642052484753,
-        "todo": "Attendre réponse à mon email de demande de renseignements"
+        "opening": "A partir du 30 mars - arrivée jusqu'à 19h tous les jours - possible d'arriver plus tard (téléphoner)",
+        "miscellaneous": "Details confirmed by email"
       },
       {
         "name": "Camping Les Bosquets",
@@ -1217,6 +1201,24 @@
         "longitude": -1.264163629833975,
         "opening": "tous les jours 7h30-19h sauf mercredi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture"
+      },
+      {
+        "name": "Entre Mont St Michel et Merveille",
+        "type": "hotel",
+        "latitude": 48.665678063993965,
+        "longitude": -1.4466683171886603
+      },
+      {
+        "name": "Hôtel Saint-Aubert",
+        "type": "hotel",
+        "latitude": 48.613631709331464,
+        "longitude": -1.5091096220591957
+      },
+      {
+        "name": "La Villa Bel Air",
+        "type": "hotel",
+        "latitude": 49.522880183592804,
+        "longitude": -1.867328942351796
       }
     ]
   },

@@ -417,6 +417,9 @@ function drawMapAndTraces(svg, width, height) {
         if (location.miscellaneous) {
           lines.push(`${location.miscellaneous}`);
         }
+        if (location.distanceIntoHike) {
+          lines.push(`Distance: ${location.distanceIntoHike.toFixed(1)}km`);
+        }
         drawMultiLineTooltip(lines, mapContainer, event, 25, 0);
       }
     );

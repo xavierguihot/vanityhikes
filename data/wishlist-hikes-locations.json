@@ -3,6 +3,62 @@
     "hike": "Vosges",
     "locations": [
       {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 47.82233,
+        "longitude": 6.84515,
+        "distanceIntoHike": 6.13
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 47.82782,
+        "longitude": 6.86658,
+        "distanceIntoHike": 8.65
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 47.8264,
+        "longitude": 6.87332,
+        "distanceIntoHike": 9.25
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 47.83307,
+        "longitude": 6.89205,
+        "distanceIntoHike": 10.96
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 47.84932,
+        "longitude": 6.91996,
+        "distanceIntoHike": 14.09
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 47.8582,
+        "longitude": 6.91955,
+        "distanceIntoHike": 14.94
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 47.8771,
+        "longitude": 6.91561,
+        "distanceIntoHike": 19.69
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 47.90179,
+        "longitude": 6.91748,
+        "distanceIntoHike": 25.64
+      },
+      {
         "name": "Hôtel les 4 Saisons",
         "type": "hotel",
         "website": "https://www.hotel4saisons.com",
@@ -10,6 +66,27 @@
         "latitude": 47.92552718426155,
         "longitude": 6.95061568562186,
         "distanceIntoHike": 32.06
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 47.9598,
+        "longitude": 6.92634,
+        "distanceIntoHike": 39.31
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.00972,
+        "longitude": 6.98285,
+        "distanceIntoHike": 49.64
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.00075,
+        "longitude": 6.981,
+        "distanceIntoHike": 50.4
       },
       {
         "name": "Hotel restaurant Wolf",
@@ -22,6 +99,20 @@
         "distanceIntoHike": 60.89
       },
       {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 47.9012,
+        "longitude": 7.09782,
+        "distanceIntoHike": 68.75
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 47.94942,
+        "longitude": 7.05601,
+        "distanceIntoHike": 80.69
+      },
+      {
         "name": "Ferme Auberge Rothenbrunnen",
         "type": "hotel",
         "website": "https://www.rothenbrunnen.fr",
@@ -30,6 +121,27 @@
         "latitude": 47.98256096588307,
         "longitude": 7.119355055249771,
         "distanceIntoHike": 87.96
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 47.98067,
+        "longitude": 7.12609,
+        "distanceIntoHike": 88.29
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 47.97951,
+        "longitude": 7.16196,
+        "distanceIntoHike": 92.69
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.06039,
+        "longitude": 7.27051,
+        "distanceIntoHike": 108.96
       }
     ]
   },
@@ -45,6 +157,13 @@
         "opening": "lu,ma,me,je,ve: 6h30-21h / sa: 8h-21h / di: 9h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
         "distanceIntoHike": 0.12
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.52257,
+        "longitude": -1.88282,
+        "distanceIntoHike": 2.45
       },
       {
         "name": "La Villa Bel Air",
@@ -64,6 +183,13 @@
         "opening": "A partir du 1er avril - tous les jours - arrivées à partir de 14h",
         "miscellaneous": "Details confirmed by email",
         "distanceIntoHike": 10.71
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.47434,
+        "longitude": -1.84637,
+        "distanceIntoHike": 11.61
       },
       {
         "name": "Camping Les Mielles",
@@ -108,6 +234,20 @@
         "opening": "A partir du 7 avril",
         "todo": "Attendre réponse à mon email de demande de renseignements",
         "distanceIntoHike": 22.73
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.39702,
+        "longitude": -1.8139,
+        "distanceIntoHike": 24.61
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.37455,
+        "longitude": -1.79851,
+        "distanceIntoHike": 30.94
       },
       {
         "name": "Le Comptoir de Carteret",
@@ -181,6 +321,13 @@
         "opening": "tous les jours 6h45-19h15 sauf mercredi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
         "distanceIntoHike": 36.49
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.37254,
+        "longitude": -1.78003,
+        "distanceIntoHike": 39.37
       },
       {
         "name": "Camping Les Bosquets",
@@ -507,6 +654,13 @@
         "distanceIntoHike": 117.33
       },
       {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.00263,
+        "longitude": -1.57704,
+        "distanceIntoHike": 120.74
+      },
+      {
         "name": "Boulangerie Pâtisserie Minguet Ludovic",
         "type": "boulangerie",
         "phone": "02 33 45 10 03",
@@ -536,6 +690,13 @@
         "opening": "A partir du 1er avril",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
         "distanceIntoHike": 141.36
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.9929,
+        "longitude": -1.54534,
+        "distanceIntoHike": 143.26
       },
       {
         "name": "Camping municipal les Gravelets",
@@ -598,6 +759,20 @@
         "longitude": -1.5529702986346707,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
         "distanceIntoHike": 151.19
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.94086,
+        "longitude": -1.56075,
+        "distanceIntoHike": 153.36
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.94092,
+        "longitude": -1.55426,
+        "distanceIntoHike": 154.05
       },
       {
         "name": "Camping de la Vanlée",
@@ -695,6 +870,20 @@
         "distanceIntoHike": 176.41
       },
       {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.835,
+        "longitude": -1.61196,
+        "distanceIntoHike": 177.68
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.8339,
+        "longitude": -1.61118,
+        "distanceIntoHike": 178.21
+      },
+      {
         "name": "Coccinelle Express Granville",
         "type": "shop",
         "phone": "02 33 58 12 39",
@@ -723,6 +912,20 @@
         "opening": "tous les jours 7h-21h sauf le dimanche 9h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
         "distanceIntoHike": 182.36
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.83292,
+        "longitude": -1.59024,
+        "distanceIntoHike": 182.8
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.82435,
+        "longitude": -1.57715,
+        "distanceIntoHike": 184.74
       },
       {
         "name": "Camping La Vague",
@@ -833,6 +1036,20 @@
         "distanceIntoHike": 191.79
       },
       {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.76433,
+        "longitude": -1.56411,
+        "distanceIntoHike": 193.08
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.75751,
+        "longitude": -1.5717,
+        "distanceIntoHike": 193.83
+      },
+      {
         "name": "Camping La Gueriniere",
         "type": "camping",
         "phone": "02 33 61 93 75",
@@ -860,6 +1077,13 @@
         "opening": "tous les jours 7h-19h sauf dimanche 7h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
         "distanceIntoHike": 194.84
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.73337,
+        "longitude": -1.53608,
+        "distanceIntoHike": 198.87
       },
       {
         "name": "Camping municipal de Saint Jean le Thomas",
@@ -933,6 +1157,13 @@
         "distanceIntoHike": 220.86
       },
       {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.68523,
+        "longitude": -1.36771,
+        "distanceIntoHike": 221.02
+      },
+      {
         "name": "Gonfroy David",
         "type": "boulangerie",
         "phone": "02 33 60 47 22",
@@ -965,6 +1196,20 @@
         "distanceIntoHike": 234.07
       },
       {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.61779,
+        "longitude": -1.51224,
+        "distanceIntoHike": 250.85
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.62701,
+        "longitude": -1.5191,
+        "distanceIntoHike": 252.17
+      },
+      {
         "name": "Camping du Mont Saint-Michel",
         "type": "camping",
         "website": "http://www.camping-montsaintmichel.com/fr/camping-mont-saint-michel",
@@ -984,6 +1229,13 @@
         "distanceIntoHike": 256.64
       },
       {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 48.58576,
+        "longitude": -1.5068,
+        "distanceIntoHike": 259.68
+      },
+      {
         "name": "Camping Haliotis",
         "type": "camping",
         "website": "https://www.camping-haliotis-mont-saint-michel.com",
@@ -1001,6 +1253,13 @@
     "hike": "GR223 - second half",
     "locations": [
       {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.36385,
+        "longitude": -1.17581,
+        "distanceIntoHike": 12.69
+      },
+      {
         "name": "Camping La Baie Des Veys",
         "type": "camping",
         "website": "https://www.campinglabaiedesveys.com/nos-emplacements",
@@ -1011,6 +1270,13 @@
         "opening": "A partir du 6 avril",
         "todo": "Attendre réponse à mon email de demande de renseignements",
         "distanceIntoHike": 12.95
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.40003,
+        "longitude": -1.16506,
+        "distanceIntoHike": 19.99
       },
       {
         "name": "Camping Utah Beach",
@@ -1177,6 +1443,13 @@
         "distanceIntoHike": 65.76
       },
       {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.60593,
+        "longitude": -1.22907,
+        "distanceIntoHike": 66.02
+      },
+      {
         "name": "Camping Indiana",
         "type": "camping",
         "website": "https://www.camping-indiana.com/fr",
@@ -1244,6 +1517,13 @@
         "distanceIntoHike": 97.64
       },
       {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.69003,
+        "longitude": -1.47775,
+        "distanceIntoHike": 101.6
+      },
+      {
         "name": "L'Anse du Brick",
         "type": "camping",
         "website": "https://www.sandaya.fr/nos-campings/l-anse-du-brick",
@@ -1253,6 +1533,20 @@
         "opening": "A partir du 23 mars",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
         "distanceIntoHike": 105.58
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.66754,
+        "longitude": -1.49423,
+        "distanceIntoHike": 106.62
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.65104,
+        "longitude": -1.53784,
+        "distanceIntoHike": 111.91
       },
       {
         "name": "Carrefour Contact",
@@ -1288,6 +1582,90 @@
         "distanceIntoHike": 127.42
       },
       {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.67951,
+        "longitude": -1.77109,
+        "distanceIntoHike": 141.16
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.68517,
+        "longitude": -1.78783,
+        "distanceIntoHike": 142.68
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.69579,
+        "longitude": -1.83104,
+        "distanceIntoHike": 146.52
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.69954,
+        "longitude": -1.83492,
+        "distanceIntoHike": 147.14
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.70147,
+        "longitude": -1.84504,
+        "distanceIntoHike": 147.88
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.70415,
+        "longitude": -1.87095,
+        "distanceIntoHike": 153.02
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.70665,
+        "longitude": -1.88965,
+        "distanceIntoHike": 154.22
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.71701,
+        "longitude": -1.94716,
+        "distanceIntoHike": 161.65
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.69794,
+        "longitude": -1.93829,
+        "distanceIntoHike": 165.38
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.66528,
+        "longitude": -1.89431,
+        "distanceIntoHike": 173.75
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.66053,
+        "longitude": -1.88271,
+        "distanceIntoHike": 175.06
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.65843,
+        "longitude": -1.8731,
+        "distanceIntoHike": 176.61
+      },
+      {
         "name": "Camping municipal de Vauville - la Devise",
         "type": "camping",
         "website": "https://www.encotentin.fr/campings/camping-municipal-la-devise",
@@ -1297,6 +1675,34 @@
         "opening": "!!!! A partir du 14 juin",
         "todo": "Attendre la réponse à ma demande de détails (via le formulaire de contact du site)",
         "distanceIntoHike": 180.13
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.62835,
+        "longitude": -1.84041,
+        "distanceIntoHike": 182.13
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.62228,
+        "longitude": -1.84269,
+        "distanceIntoHike": 182.89
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.61875,
+        "longitude": -1.8352,
+        "distanceIntoHike": 183.48
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.61117,
+        "longitude": -1.83055,
+        "distanceIntoHike": 184.77
       },
       {
         "name": "Camping de Clairefontaine",
@@ -1319,6 +1725,13 @@
         "opening": "lu,ma,me,sa: 7h-19h - ve: 7h-20h - di: 7h30-18h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
         "distanceIntoHike": 192.24
+      },
+      {
+        "name": "Point of view",
+        "type": "point of view",
+        "latitude": 49.5438,
+        "longitude": -1.87311,
+        "distanceIntoHike": 199.18
       },
       {
         "name": "Cocci Market",

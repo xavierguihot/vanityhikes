@@ -1,147 +1,382 @@
 [
   {
-    "hike": "Vosges",
+    "hike": "Chartres to Voisins",
     "locations": [
       {
-        "name": "Point of view",
-        "type": "point of view",
-        "latitude": 47.82233,
-        "longitude": 6.84515,
-        "distanceIntoHike": 6.13
+        "name": "Poncelet => Chartres | 1h35 | M6 => Montparnasse => TER",
+        "type": "train",
+        "latitude": 48.44844,
+        "longitude": 1.48086,
+        "distanceIntoHike": 0.0
+      },
+      {
+        "name": "Saint-Piat => Poncelet | 1h30 | TER => Montparnasse => M6",
+        "type": "train",
+        "latitude": 48.54287,
+        "longitude": 1.59023,
+        "distanceIntoHike": 19.85
+      },
+      {
+        "name": "Epernon => Poncelet | 1h20 | TER => Montparnasse => M6",
+        "type": "train",
+        "latitude": 48.60517,
+        "longitude": 1.68157,
+        "distanceIntoHike": 31.18
+      },
+      {
+        "name": "Gazeran => Poncelet | 1h10 | TER => Montparnasse => M6",
+        "type": "train",
+        "latitude": 48.62598,
+        "longitude": 1.77199,
+        "distanceIntoHike": 40.1
+      },
+      {
+        "name": "Rambouillet => Poncelet | 1h05 | TER => Montparnasse => M6",
+        "type": "train",
+        "latitude": 48.64374,
+        "longitude": 1.8321,
+        "distanceIntoHike": 46.7
       },
       {
         "name": "Point of view",
         "type": "point of view",
-        "latitude": 47.82782,
-        "longitude": 6.86658,
-        "distanceIntoHike": 8.65
+        "latitude": 48.68476,
+        "longitude": 1.93983,
+        "distanceIntoHike": 59.07
+      }
+    ]
+  },
+  {
+    "hike": "GR Ceinture Verte Ile de France",
+    "locations": [
+      {
+        "name": "Poncelet => Chaville Rive Droite | 40min | RER A => La Defense => L/U",
+        "type": "train",
+        "latitude": 48.81235,
+        "longitude": 2.18807,
+        "distanceIntoHike": 0.0
       },
       {
         "name": "Point of view",
         "type": "point of view",
-        "latitude": 47.8264,
-        "longitude": 6.87332,
-        "distanceIntoHike": 9.25
+        "latitude": 48.90364,
+        "longitude": 2.03743,
+        "distanceIntoHike": 25.44
+      },
+      {
+        "name": "Poncelet => Poissy | 40min | RER A",
+        "type": "train",
+        "latitude": 48.93332,
+        "longitude": 2.04107,
+        "distanceIntoHike": 28.25
+      },
+      {
+        "name": "Poncelet => Saint Germain en Laye | 35min | RER A",
+        "type": "train",
+        "latitude": 48.89966,
+        "longitude": 2.09496,
+        "distanceIntoHike": 31.74
+      },
+      {
+        "name": "Poncelet => Maison Laffitte | 30min | RER A",
+        "type": "train",
+        "latitude": 48.94581,
+        "longitude": 2.14448,
+        "distanceIntoHike": 36.79
+      },
+      {
+        "name": "Poncelet => Archères Grand Cormier | 30min | RER A",
+        "type": "train",
+        "latitude": 48.95521,
+        "longitude": 2.09242,
+        "distanceIntoHike": 38.36
+      },
+      {
+        "name": "Poncelet => Archères Ville | 35min | RER A",
+        "type": "train",
+        "latitude": 48.9702,
+        "longitude": 2.07772,
+        "distanceIntoHike": 43.13
       },
       {
         "name": "Point of view",
         "type": "point of view",
-        "latitude": 47.83307,
-        "longitude": 6.89205,
-        "distanceIntoHike": 10.96
+        "latitude": 48.99206,
+        "longitude": 2.0958,
+        "distanceIntoHike": 47.82
+      },
+      {
+        "name": "Poncelet => Conflans Fin d'Oise | 35min | RER A",
+        "type": "train",
+        "latitude": 48.99192,
+        "longitude": 2.07497,
+        "distanceIntoHike": 50.32
+      },
+      {
+        "name": "Poncelet => Maurecourt | 55min | M3 => Gare St Lazare => Train J",
+        "type": "train",
+        "latitude": 48.98707,
+        "longitude": 2.05981,
+        "distanceIntoHike": 53.38
       },
       {
         "name": "Point of view",
         "type": "point of view",
-        "latitude": 47.84932,
-        "longitude": 6.91996,
-        "distanceIntoHike": 14.09
+        "latitude": 49.0239,
+        "longitude": 2.03318,
+        "distanceIntoHike": 62.18
+      },
+      {
+        "name": "Poncelet => Cergy Saint Christophe | 45min | RER A",
+        "type": "train",
+        "latitude": 49.04958,
+        "longitude": 2.03469,
+        "distanceIntoHike": 65.61
       },
       {
         "name": "Point of view",
         "type": "point of view",
-        "latitude": 47.8582,
-        "longitude": 6.91955,
-        "distanceIntoHike": 14.94
+        "latitude": 49.04373,
+        "longitude": 2.03611,
+        "distanceIntoHike": 65.92
       },
       {
         "name": "Point of view",
         "type": "point of view",
-        "latitude": 47.8771,
-        "longitude": 6.91561,
-        "distanceIntoHike": 19.69
+        "latitude": 49.04199,
+        "longitude": 2.03811,
+        "distanceIntoHike": 66.21
       },
       {
         "name": "Point of view",
         "type": "point of view",
-        "latitude": 47.90179,
-        "longitude": 6.91748,
-        "distanceIntoHike": 25.64
+        "latitude": 49.04498,
+        "longitude": 2.0501,
+        "distanceIntoHike": 67.18
       },
       {
-        "name": "Hôtel les 4 Saisons",
-        "type": "hotel",
-        "website": "https://www.hotel4saisons.com",
-        "phone": "03 89 82 28 61",
-        "latitude": 47.92552718426155,
-        "longitude": 6.95061568562186,
-        "distanceIntoHike": 32.06
+        "name": "Poncelet => Neuville Université | 40min | RER A",
+        "type": "train",
+        "latitude": 49.01426,
+        "longitude": 2.07831,
+        "distanceIntoHike": 72.11
+      },
+      {
+        "name": "Poncelet => Eragny Neuville | 60min | RER A",
+        "type": "train",
+        "latitude": 49.01809,
+        "longitude": 2.09068,
+        "distanceIntoHike": 72.85
+      },
+      {
+        "name": "Poncelet => Cergy Prefecture | 50min | RER A",
+        "type": "train",
+        "latitude": 49.03654,
+        "longitude": 2.0794,
+        "distanceIntoHike": 74.49
+      },
+      {
+        "name": "Poncelet => Pontoise | 50min | RER C",
+        "type": "train",
+        "latitude": 49.04674,
+        "longitude": 2.09523,
+        "distanceIntoHike": 76.36
+      },
+      {
+        "name": "Poncelet => Chaponval | 1h10 | RER C => Pontoise => Train H",
+        "type": "train",
+        "latitude": 49.06942,
+        "longitude": 2.14229,
+        "distanceIntoHike": 83.56
+      },
+      {
+        "name": "Poncelet => Auvers sur Oise | 1h10 | RER C => Ermont-Eaubonne => Train H",
+        "type": "train",
+        "latitude": 49.07049,
+        "longitude": 2.17541,
+        "distanceIntoHike": 86.6
+      },
+      {
+        "name": "Poncelet => Mery sur Oise | 55min | RER C => Ermont-Eaubonne => Train H",
+        "type": "train",
+        "latitude": 49.05772,
+        "longitude": 2.19105,
+        "distanceIntoHike": 88.72
+      },
+      {
+        "name": "Poncelet => Frepillon | 50min | RER C => Ermont-Eaubonne => Train H",
+        "type": "train",
+        "latitude": 49.04617,
+        "longitude": 2.19706,
+        "distanceIntoHike": 90.55
+      },
+      {
+        "name": "Poncelet => Vaucelles | 45min | RER C => Ermont-Eaubonne => Train H",
+        "type": "train",
+        "latitude": 49.0217,
+        "longitude": 2.2293,
+        "distanceIntoHike": 93.69
+      },
+      {
+        "name": "Poncelet => Domont | 55min | M2 => Barbès => Gare du Nord => Train H",
+        "type": "train",
+        "latitude": 49.03277,
+        "longitude": 2.33776,
+        "distanceIntoHike": 102.01
+      },
+      {
+        "name": "Poncelet => Groslay | 45min | M2 => Barbès => Gare du Nord => Train H",
+        "type": "train",
+        "latitude": 48.98438,
+        "longitude": 2.3535,
+        "distanceIntoHike": 109.23
+      },
+      {
+        "name": "Poncelet => Pierrefitte-Stains | 1h | RER A => Chatelet les Halles => RER D",
+        "type": "train",
+        "latitude": 48.96183,
+        "longitude": 2.36913,
+        "distanceIntoHike": 113.69
+      },
+      {
+        "name": "Poncelet => Stains la Cerisaie | 40min | RER C => Epinay-sur-Seine => Tram 11",
+        "type": "train",
+        "latitude": 48.95473,
+        "longitude": 2.39182,
+        "distanceIntoHike": 117.63
+      },
+      {
+        "name": "Poncelet => Dugny la Courneuve | 40min | RER C => Epinay-sur-Seine => Tram 11",
+        "type": "train",
+        "latitude": 48.94385,
+        "longitude": 2.41123,
+        "distanceIntoHike": 121.35
+      },
+      {
+        "name": "Poncelet => Le Bourget | 35min | M2 => Gare du Nord => RER B",
+        "type": "train",
+        "latitude": 48.93078,
+        "longitude": 2.42566,
+        "distanceIntoHike": 122.43
+      },
+      {
+        "name": "Poncelet => Villepinte - Parc du Sausset | 55min | RER A => Chatelet les Halles => RER B",
+        "type": "train",
+        "latitude": 48.96285,
+        "longitude": 2.51258,
+        "distanceIntoHike": 132.52
+      },
+      {
+        "name": "Poncelet => Sevran Beaudottes | 50min | RER A => Chatelet les Halles => RER B",
+        "type": "train",
+        "latitude": 48.94754,
+        "longitude": 2.52475,
+        "distanceIntoHike": 135.45
+      },
+      {
+        "name": "Poncelet => Sevran Livry | 45min | RER A => Chatelet les Halles => RER B",
+        "type": "train",
+        "latitude": 48.93624,
+        "longitude": 2.53478,
+        "distanceIntoHike": 137.73
+      },
+      {
+        "name": "Poncelet => Arboretum | 1h15 | M3 => Gare St Lazare => RER E => Bondy => Tram 4",
+        "type": "train",
+        "latitude": 48.89793,
+        "longitude": 2.56167,
+        "distanceIntoHike": 148.19
+      },
+      {
+        "name": "Poncelet => Chelles-Gournay | 1h | M2 => Nation/Magenta => RER E",
+        "type": "train",
+        "latitude": 48.87417,
+        "longitude": 2.58282,
+        "distanceIntoHike": 157.55
+      },
+      {
+        "name": "Poncelet => Noisiel | 45min | RER A",
+        "type": "train",
+        "latitude": 48.84345,
+        "longitude": 2.61639,
+        "distanceIntoHike": 163.82
+      },
+      {
+        "name": "Poncelet => Les Yvris Noisy le Grand | 55min | RER A => Val de Fontenay => RER E",
+        "type": "train",
+        "latitude": 48.82312,
+        "longitude": 2.57973,
+        "distanceIntoHike": 168.79
+      },
+      {
+        "name": "Poncelet => Boussy St Antoine | 1h | RER A => Gare de Lyon => RER D",
+        "type": "train",
+        "latitude": 48.68093,
+        "longitude": 2.53297,
+        "distanceIntoHike": 192.18
+      },
+      {
+        "name": "Poncelet => Juvisy sur Orge | 50min | RER A => Gare de Lyon => RER D",
+        "type": "train",
+        "latitude": 48.69016,
+        "longitude": 2.38387,
+        "distanceIntoHike": 208.64
+      },
+      {
+        "name": "Poncelet => Savigny sur Orge | 1h05 | M2 => Avenue Foch => RER C",
+        "type": "train",
+        "latitude": 48.67607,
+        "longitude": 2.35212,
+        "distanceIntoHike": 213.23
+      },
+      {
+        "name": "Poncelet => Savigny sur Orge | 1h10 | M2 => Avenue Foch => RER C",
+        "type": "train",
+        "latitude": 48.66931,
+        "longitude": 2.33195,
+        "distanceIntoHike": 216.05
+      },
+      {
+        "name": "Poncelet => Gravigny Balizy | 1h15 | M1 => Chatelet les Halles => RER B => Massy-Palaiseau => Tram 12",
+        "type": "train",
+        "latitude": 48.68532,
+        "longitude": 2.31791,
+        "distanceIntoHike": 219.25
       },
       {
         "name": "Point of view",
         "type": "point of view",
-        "latitude": 47.9598,
-        "longitude": 6.92634,
-        "distanceIntoHike": 39.31
+        "latitude": 48.67828,
+        "longitude": 2.25764,
+        "distanceIntoHike": 226.06
       },
       {
-        "name": "Point of view",
-        "type": "point of view",
-        "latitude": 48.00972,
-        "longitude": 6.98285,
-        "distanceIntoHike": 49.64
+        "name": "Poncelet => Palaiseau Villebon | 1h | RER A => Chatelet les Halles => RER B",
+        "type": "train",
+        "latitude": 48.70772,
+        "longitude": 2.23716,
+        "distanceIntoHike": 230.94
       },
       {
-        "name": "Point of view",
-        "type": "point of view",
-        "latitude": 48.00075,
-        "longitude": 6.981,
-        "distanceIntoHike": 50.4
+        "name": "Poncelet => Igny | 1h10 | RER A => Chatelet les Halles => RER B => Massy-Palaiseau => RER C",
+        "type": "train",
+        "latitude": 48.74009,
+        "longitude": 2.231,
+        "distanceIntoHike": 239.03
       },
       {
-        "name": "Hotel restaurant Wolf",
-        "type": "hotel",
-        "website": "https://hotel-wolf.fr",
-        "phone": "06 08 06 77 76",
-        "email": "hotelwolf@aol.com",
-        "latitude": 47.92727064843099,
-        "longitude": 7.028461251404771,
-        "distanceIntoHike": 60.89
+        "name": "Poncelet => Petit Jouy - Les Loges | 1h | RER A => La Defense => U => Versailles Chantiers => RER C",
+        "type": "train",
+        "latitude": 48.77184,
+        "longitude": 2.14706,
+        "distanceIntoHike": 252.07
       },
       {
-        "name": "Point of view",
-        "type": "point of view",
-        "latitude": 47.9012,
-        "longitude": 7.09782,
-        "distanceIntoHike": 68.75
-      },
-      {
-        "name": "Point of view",
-        "type": "point of view",
-        "latitude": 47.94942,
-        "longitude": 7.05601,
-        "distanceIntoHike": 80.69
-      },
-      {
-        "name": "Ferme Auberge Rothenbrunnen",
-        "type": "hotel",
-        "website": "https://www.rothenbrunnen.fr",
-        "phone": "03 89 77 33 08",
-        "email": "contact@rothenbrunnen.fr",
-        "latitude": 47.98256096588307,
-        "longitude": 7.119355055249771,
-        "distanceIntoHike": 87.96
-      },
-      {
-        "name": "Point of view",
-        "type": "point of view",
-        "latitude": 47.98067,
-        "longitude": 7.12609,
-        "distanceIntoHike": 88.29
-      },
-      {
-        "name": "Point of view",
-        "type": "point of view",
-        "latitude": 47.97951,
-        "longitude": 7.16196,
-        "distanceIntoHike": 92.69
-      },
-      {
-        "name": "Point of view",
-        "type": "point of view",
-        "latitude": 48.06039,
-        "longitude": 7.27051,
-        "distanceIntoHike": 108.96
+        "name": "Poncelet => Viroflay Rive Gauche | 45min | M6 => Bir-Hakeim => RER C",
+        "type": "train",
+        "latitude": 48.80062,
+        "longitude": 2.17162,
+        "distanceIntoHike": 257.1
       }
     ]
   },

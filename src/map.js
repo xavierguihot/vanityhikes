@@ -345,7 +345,7 @@ function drawMapAndTraces(svg, width, height) {
 
   // Draw wishlist hikes locations:
 
-  var locationsSort = ["point of view", "point of interest", "boulangerie", "restaurant", "shop", "camping", "bivouac", "hotel", "refuge", "gite"];
+  var locationsSort = ["point of view", "point of interest", "train", "boulangerie", "restaurant", "shop", "camping", "bivouac", "hotel", "refuge", "gite"];
 
   var wishlistHikesLocationsIconsData =
     d3.sort(
@@ -374,6 +374,8 @@ function drawMapAndTraces(svg, width, height) {
         image = "exclamation.png";
       if (location.type == "point of view")
         image = "pointofview.png";
+      if (location.type == "train")
+        image = "train.png";
       return {
         "name": `${location.type}-${location.latitude}-${location.longitude}`,
         "latitude": location.latitude,

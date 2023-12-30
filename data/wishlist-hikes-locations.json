@@ -3233,6 +3233,190 @@
     ]
   },
   {
+    "hike": "Iceland - Laugavegur",
+    "locations": [
+      {
+        "name": "Landmannalaugar Camping",
+        "type": "bivouac",
+        "website": "https://www.landmannalaugartours.com/post/camping-in-landmannalaugar",
+        "phone": "+35 4 497 12 16",
+        "email": "info@landmannalaugartours.com",
+        "latitude": 63.990636929388685,
+        "longitude": -19.06065493603164,
+        "miscellaneous": "Grand nombre de spots pour tentes - admission fee - \"there is no need to book in advance for camping in the area\"",
+        "distanceIntoHike": 0.0
+      },
+      {
+        "name": "Hoskuldsskali",
+        "type": "bivouac",
+        "latitude": 63.933165715675536,
+        "longitude": -19.166842711497832,
+        "miscellaneous": "Pas mal de spots pour tentes",
+        "distanceIntoHike": 14.03
+      },
+      {
+        "name": "Alftavatn Hut",
+        "type": "bivouac",
+        "latitude": 63.857626766451546,
+        "longitude": -19.227223958566693,
+        "miscellaneous": "Beaucoup de spots pour tentes",
+        "distanceIntoHike": 28.68
+      },
+      {
+        "name": "Hvanngil Hut",
+        "type": "bivouac",
+        "latitude": 63.83179838690259,
+        "longitude": -19.204692076722907,
+        "miscellaneous": "Pas mal de spots pour tentes",
+        "distanceIntoHike": 32.48
+      },
+      {
+        "name": "Emstrur-Botnar Hut",
+        "type": "bivouac",
+        "latitude": 63.76594476303706,
+        "longitude": -19.373725607345254,
+        "miscellaneous": "Pas mal de spots pour tentes",
+        "distanceIntoHike": 47.82
+      },
+      {
+        "name": "Langidalur Volunteer Camp",
+        "type": "bivouac",
+        "latitude": 63.684115037936074,
+        "longitude": -19.514519012109453,
+        "miscellaneous": "Il y a des spots pour tentes - pas sûr à quel point c'est pour les randonneurs",
+        "distanceIntoHike": 63.65
+      },
+      {
+        "name": "Básar, Þórsmörk",
+        "type": "bivouac",
+        "latitude": 63.67794351556981,
+        "longitude": -19.48216517199264,
+        "miscellaneous": "Il y a des spots pour tentes",
+        "distanceIntoHike": 66.02
+      },
+      {
+        "name": "Bivouac indiqué sur OSM",
+        "type": "bivouac",
+        "latitude": 63.67756,
+        "longitude": -19.4687,
+        "distanceIntoHike": 66.84
+      },
+      {
+        "name": "Baldvinsskáli",
+        "type": "bivouac",
+        "latitude": 63.61094733334585,
+        "longitude": -19.440961366046036,
+        "miscellaneous": "Il y a quelques spots pour tentes",
+        "distanceIntoHike": 76.96
+      },
+      {
+        "name": "Skógar Campsite",
+        "type": "bivouac",
+        "latitude": 63.52805567107387,
+        "longitude": -19.512596907971567,
+        "miscellaneous": "Il y a pas mal de spots pour tentes -- mais il y a du traffic (c'est un parking) et c'est mal noté sur Google (douches sales)",
+        "distanceIntoHike": 89.51
+      }
+    ]
+  },
+  {
+    "hike": "Iceland - Hornstrandir",
+    "locations": [
+      {
+        "name": "Official campsite - Hesteyri",
+        "type": "bivouac",
+        "latitude": 66.33181596547666,
+        "longitude": -22.875994673686247,
+        "distanceIntoHike": 0.29
+      },
+      {
+        "name": "Official campsite - Saebol",
+        "type": "bivouac",
+        "latitude": 66.34134,
+        "longitude": -23.09704,
+        "distanceIntoHike": 13.21
+      },
+      {
+        "name": "Official campsite - Latrar",
+        "type": "bivouac",
+        "latitude": 66.3922,
+        "longitude": -23.03039,
+        "distanceIntoHike": 20.85
+      },
+      {
+        "name": "Official campsite",
+        "type": "bivouac",
+        "latitude": 66.45463,
+        "longitude": -22.92825,
+        "distanceIntoHike": 28.36
+      },
+      {
+        "name": "Official campsite - Glumsstadr",
+        "type": "bivouac",
+        "latitude": 66.41063,
+        "longitude": -22.87374,
+        "miscellaneous": "Pas indiqué sur OSM, indiqué sur la carte des sites de bivouac officiels",
+        "distanceIntoHike": 32.21
+      },
+      {
+        "name": "Official campsite - Hloduvik",
+        "type": "bivouac",
+        "latitude": 66.41425,
+        "longitude": -22.66997,
+        "distanceIntoHike": 43.5
+      },
+      {
+        "name": "Official campsite - Horn",
+        "type": "bivouac",
+        "latitude": 66.44202,
+        "longitude": -22.43514,
+        "distanceIntoHike": 57.2
+      },
+      {
+        "name": "Official campsite - Bjarnarnes",
+        "type": "bivouac",
+        "latitude": 66.39128,
+        "longitude": -22.35301,
+        "distanceIntoHike": 74.03
+      },
+      {
+        "name": "Official campsite - Hornbjargsviti",
+        "type": "bivouac",
+        "latitude": 66.41043,
+        "longitude": -22.38051,
+        "distanceIntoHike": 77.48
+      },
+      {
+        "name": "Official campsite - Hornvík",
+        "type": "bivouac",
+        "latitude": 66.42562,
+        "longitude": -22.49065,
+        "distanceIntoHike": 83.24
+      },
+      {
+        "name": "Official campsite - Veiðileysufjörður campsite",
+        "type": "bivouac",
+        "latitude": 66.36453,
+        "longitude": -22.62324,
+        "distanceIntoHike": 93.67
+      },
+      {
+        "name": "Ferry pickup (selon Google Map)",
+        "type": "train",
+        "latitude": 66.36236489322805,
+        "longitude": -22.62243878944307,
+        "distanceIntoHike": 93.69
+      },
+      {
+        "name": "Official campsite",
+        "type": "bivouac",
+        "latitude": 66.36186,
+        "longitude": -22.65083,
+        "distanceIntoHike": 93.69
+      }
+    ]
+  },
+  {
     "hike": "HRP",
     "locations": [
       {

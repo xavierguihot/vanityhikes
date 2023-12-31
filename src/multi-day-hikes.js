@@ -1,5 +1,15 @@
 
 function drawMultiDayHikes(svg, width, height) {
+  loadHikeTraces().then(_ => {
+    loadPhotos().then(_ => {
+      loadMultiDayHikes().then(_ => {
+        displayMultiDayHikes(svg, width, height);
+      });
+    });
+  });
+}
+
+function displayMultiDayHikes(svg, width, height) {
 
   var constants = {
     topMargin: 30,

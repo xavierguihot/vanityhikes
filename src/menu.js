@@ -1,5 +1,5 @@
 
-function drawMenu(menuContainer) {
+function drawMenu(menuContainer, initialMenu) {
 
   var buttonsContainer = menuContainer.append("g");
 
@@ -19,6 +19,7 @@ function drawMenu(menuContainer) {
         cleanPages();
         drawMenuPage();
         unselectAllButtons();
+        window.history.pushState({}, document.title, `/?menu=${menuName}`);
       },
       menuIcon,
       buttonDimensions[menuName].x,
@@ -27,11 +28,14 @@ function drawMenu(menuContainer) {
     );
   }
 
-  drawMenuItem("map", "world.jpeg", _ => drawMapAndTraces(content, width, height), true);
-  drawMenuItem("multidayhikes", "hike.jpeg", _ => drawMultiDayHikes(content, width, height), false);
-  drawMenuItem("photos", "photo.png", _ => drawPhotos(content, width, height), false);
-  drawMenuItem("graphs", "graphs.jpeg", _ => drawGraphs(content, width, height), false);
-  drawMenuItem("stats", "stats.png", _ => drawUserStats(content, width, height), false);
+  // In order to reload the previous page when using the browser "back" history button:
+  window.addEventListener("popstate", _ => location.reload());
+
+  drawMenuItem("map", "world.jpeg", _ => drawMapAndTraces(content, width, height), initialMenu == "map");
+  drawMenuItem("multidayhikes", "hike.jpeg", _ => drawMultiDayHikes(content, width, height), initialMenu == "multidayhikes");
+  drawMenuItem("photos", "photo.png", _ => drawPhotos(content, width, height), initialMenu == "photos");
+  drawMenuItem("graphs", "graphs.jpeg", _ => drawGraphs(content, width, height), initialMenu == "graphs");
+  drawMenuItem("stats", "stats.png", _ => drawUserStats(content, width, height), initialMenu == "stats");
 
   function unselectAllButtons() {
     unselectButton("map");

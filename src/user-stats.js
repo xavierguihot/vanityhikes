@@ -1,5 +1,9 @@
 
 function drawUserStats(svg, width, height) {
+  loadUserStats().then(_ => displayUserStats(svg, width, height));
+}
+
+function displayUserStats(svg, width, height) {
 
   var userStatsContainer = svg.append("g").attr("class", "user-stats-container");
 

@@ -1,5 +1,19 @@
 
 function drawMapAndTraces(svg, width, height) {
+  loadHikeTraces().then(_ => {
+    loadPhotos().then(_ => {
+      loadWishlistHikeTraces().then(_ => {
+        loadWishlistHikeLocations().then(_ => {
+          loadTimeline().then(_ => {
+            displayMapAndTraces(svg, width, height);
+          });
+        });
+      });
+    });
+  });
+}
+
+function displayMapAndTraces(svg, width, height) {
 
   var constants = {
     initialScale: 1 / (2 * Math.PI),

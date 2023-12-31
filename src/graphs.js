@@ -1,5 +1,13 @@
 
 function drawGraphs(svg, width, height) {
+  loadHikeTraces().then(_ => {
+    loadTimeline().then(_ => {
+      displayGraphs(svg, width, height);
+    });
+  });
+}
+
+function displayGraphs(svg, width, height) {
 
   var margin = { top: 50, right: 70, bottom: 50, left: 60 };
   var graphWidth = width - margin.left - margin.right;

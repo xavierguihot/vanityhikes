@@ -1,5 +1,9 @@
 
 function drawPhotos(svg, width, height) {
+  loadPhotos().then(_ => displayPhotos(svg, width, height));
+}
+
+function displayPhotos(svg, width, height) {
 
   var topMargin = 50;
   var leftMargin = 40;

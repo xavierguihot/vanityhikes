@@ -8,8 +8,6 @@ var content = svg.append("g").attr("class", "page-content");
 var bannerContainer = d3.select("svg.banners").style("position", "fixed").style("top", "0").style("left", "0").style("width", "0").style("height", "0").append("g").attr("class", "banners-container");
 var menuContainer = d3.select("svg.menu").style("position", "fixed").style("top", "0").style("left", "0").style("width", 30).append("g");
 
-drawMenu(menuContainer);
-
 var data = {
   hikes: [],
   photos: [],
@@ -21,32 +19,28 @@ var data = {
   wishlistHikesLocations: []
 }
 
-d3.text("data/light-hikes.csv").then(csv => {
-  data.hikes = readHikesCsv(csv, false);
-  d3.json("data/photos.json").then(json => {
-    data.photos = json;
-    d3.text("data/light-wishlist-hikes.csv").then(csv => {
-      data.wishlistHikes = readHikesCsv(csv, true);
-      d3.json("data/wishlist-hikes-locations.json", /*{ cache: "no-store" }*/).then(json => {
-        data.wishlistHikesLocations = json;
+var urlMenu = new URLSearchParams(location.search).get("menu");
+if (!urlMenu) {
+  urlMenu = "map";
+}
 
-        drawMapAndTraces(content, width, height);
+drawMenu(menuContainer, urlMenu);
 
-        d3.json("data/timeline.json").then(json => {
-          data.timeline = json.filter(d => d.daysAgo <= 0);
-          // Banner if data hasn't been updated in a while:
-          drawOutdatedDataBannerIfNeeded();
-        });
-        d3.text("data/user-stats.txt").then(text => {
-          data.userStats = text;
-        });
-        d3.json("data/multi-day-hikes.json").then(json => {
-          data.multiDayHikes = json.filter(d => !d.hide);
-        });
-      });
-    });
-  });
-});
+if (urlMenu == "map") {
+  drawMapAndTraces(content, width, height);
+} else if (urlMenu == "multidayhikes") {
+  drawMultiDayHikes(content, width, height);
+} else if (urlMenu == "photos") {
+  drawPhotos(content, width, height);
+} else if (urlMenu == "graphs") {
+ drawGraphs(content, width, height);
+} else if (urlMenu == "stats") {
+  drawUserStats(content, width, height);
+} else {
+  console.log("Unknown menu");
+  drawMapAndTraces(content, width, height);
+  window.history.pushState({}, document.title, "/");
+}
 
 // Banner if not using Google Chrome:
 var isChrome = window.hasOwnProperty("chrome");

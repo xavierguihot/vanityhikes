@@ -367,34 +367,11 @@ function displayMapAndTraces(svg, width, height) {
       d => locationsSort.indexOf(d.type)
     )
     .map(location => {
-      var image;
-      if (location.type == "gite")
-        image = "gite-de-france.png";
-      if (location.type == "hotel")
-        image = "hotel.png";
-      if (location.type == "refuge")
-        image = "refuge.png";
-      if (location.type == "bivouac")
-        image = "bivouac.png";
-      if (location.type == "camping")
-        image = "camping.png";
-      if (location.type == "restaurant")
-        image = "restaurant.png";
-      if (location.type == "shop")
-        image = "shop.png";
-      if (location.type == "boulangerie")
-        image = "bread.png";
-      if (location.type == "point of interest")
-        image = "exclamation.png";
-      if (location.type == "point of view")
-        image = "pointofview.png";
-      if (location.type == "train")
-        image = "train.png";
       return {
         "name": `${location.type}-${location.latitude}-${location.longitude}`,
         "latitude": location.latitude,
         "longitude": location.longitude,
-        "image": image,
+        "image": locationTypeToImage(location.type),
         "width": 20,
         "height": 20,
         "xOffset": -8,

@@ -49,3 +49,28 @@ function transformMapIconsForZoom(mapContainer, projection, iconType, transform,
     .attr("x", icon => projection([icon.longitude, icon.latitude])[0] - (width / 2) / transform.k)
     .attr("y", icon => projection([icon.longitude, icon.latitude])[1] - (height / 2) / transform.k);
 }
+
+function locationTypeToImage(locationType) {
+  if (locationType == "gite")
+    return "gite-de-france.png";
+  if (locationType == "hotel")
+    return "hotel.png";
+  if (locationType == "refuge")
+    return "refuge.png";
+  if (locationType == "bivouac")
+    return "bivouac.png";
+  if (locationType == "camping")
+    return "camping.png";
+  if (locationType == "restaurant")
+    return "restaurant.png";
+  if (locationType == "shop")
+    return "shop.png";
+  if (locationType == "boulangerie")
+    return "bread.png";
+  if (locationType == "point of interest")
+    return "exclamation.png";
+  if (locationType == "point of view")
+    return "pointofview.png";
+  if (locationType == "train")
+    return "train.png";
+}

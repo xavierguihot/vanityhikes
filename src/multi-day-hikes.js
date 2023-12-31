@@ -251,20 +251,11 @@ function displayMultiDayHikes(svg, width, height) {
     var locations =
       (multiDayHike.locations ? multiDayHike.locations : [])
         .map(location => {
-          var image;
-          if (location.type == "gite")
-            image = "gite-de-france.png";
-          if (location.type == "hotel")
-            image = "hotel.png";
-          if (location.type == "refuge")
-            image = "refuge.png";
-          if (location.type == "bivouac")
-            image = "bivouac.png";
           return {
             "name": `${location.type}-${location.latitude}-${location.longitude}`,
             "latitude": location.latitude,
             "longitude": location.longitude,
-            "image": image,
+            "image": locationTypeToImage(location.type),
             "width": 20,
             "height": 20,
             "xOffset": -8,

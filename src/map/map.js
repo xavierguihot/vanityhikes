@@ -54,41 +54,6 @@ function displayMapAndTraces(svg, width, height) {
     );
   }
 
-  // Draw pictures:
-
-  var photoIconsData =
-    data
-      .photos
-      .filter(photo => photo.longitude && photo.latitude)
-      .map(photo => { return {
-        "name": photo.name,
-        "latitude": photo.latitude,
-        "longitude": photo.longitude,
-        "image": "picture.png",
-        "width": 16,
-        "height": 16,
-        "xOffset": -8,
-        "yOffset": -8,
-        "photo": photo
-      }});
-
-  function drawPictures(displayPhotos, isMapZoomedEnough) {
-
-    drawIconsOnMap(
-      mapContainer,
-      projection,
-      displayPhotos && isMapZoomedEnough ? photoIconsData : [],
-      "picture",
-      d => {
-        if (d3.selectAll(".photo-on-map-holder").empty()) {
-          displayPhoto(d.photo, mapContainer, width, height);
-        } else {
-          d3.selectAll(".photo-on-map-holder").remove();
-        }
-      }
-    );
-  }
-
   drawHikes(d => d.kilometerSlices);
 
   // Apply a zoom transform equivalent to projection.{scale,translate,center}.
@@ -123,13 +88,13 @@ function displayMapAndTraces(svg, width, height) {
       transform.k >= constants.photoIconsMinZoom &&
       mapPageState.previousZoom < constants.photoIconsMinZoom
     ) {
-      drawPictures(mapPageState.displayPhotoIcons, true);
+      drawPhotoIcons(mapContainer, mapPageState.displayPhotoIcons, true, projection, width, height);
     }
     else if (
       transform.k < constants.photoIconsMinZoom &&
       mapPageState.previousZoom >= constants.photoIconsMinZoom
     ) {
-      drawPictures(mapPageState.displayPhotoIcons, false); // i.e. remove pictures
+      drawPhotoIcons(mapContainer, mapPageState.displayPhotoIcons, false, projection, width, height); // i.e. remove pictures
     }
 
     if (
@@ -152,7 +117,7 @@ function displayMapAndTraces(svg, width, height) {
 
     resizeHikeGpxTracesForZoom(mapContainer, transform)
 
-    transformPhotoIconsForZoomAndPosition(transform);
+    transformPhotoIconsForZoomAndPosition(mapContainer, transform, projection);
     transformWishlistHikes5kmMarkersAndLocationsIconsForZoomAndPosition(mapContainer, transform, projection);
 
     updateMapTilesForZoom(raster, width, height, transform);
@@ -160,37 +125,8 @@ function displayMapAndTraces(svg, width, height) {
     drawScaleBar(mapContainer, transform.k, transform.x, transform.y, width, height, constants.initialScale);
   }
 
-  function transformPhotoIconsForZoomAndPosition(transform) {
-    transformMapIconsForZoom(mapContainer, projection, "picture", transform, 16, 16);
-  }
-
   drawWishListHikesDisplayButton(mapContainer, buttonsContainer, mapPageState, constants, projection, width, height);
-
-  // Button to display/hide photos:
-  drawButton(
-    buttonsContainer,
-    "photo-icons-switch",
-    _ => {
-      if (mapPageState.displayPhotoIcons) {
-        mapPageState.displayPhotoIcons = false;
-        drawPictures(mapPageState.displayPhotoIcons, mapPageState.previousZoom >= constants.photoIconsMinZoom);
-        transformPhotoIconsForZoomAndPosition(mapPageState.previousTransform);
-        attachTooltipToButton("photo-icons-switch", "Show photos", -47, 38);
-        clearTooltip();
-      } else {
-        mapPageState.displayPhotoIcons = true;
-        drawPictures(mapPageState.displayPhotoIcons, mapPageState.previousZoom >= constants.photoIconsMinZoom);
-        transformPhotoIconsForZoomAndPosition(mapPageState.previousTransform);
-        attachTooltipToButton("photo-icons-switch", "Hide photos", -47, 38);
-        clearTooltip();
-      }
-    },
-    "photo.png",
-    width - 27,
-    height / 2 + 2,
-    true
-  );
-  attachTooltipToButton("photo-icons-switch", "Hide photos", -47, 38);
+  drawPhotoIconsDisplayButton(mapContainer, buttonsContainer, mapPageState, constants, projection, width, height);
 }
 
 function cleanMapPage(svg) {

@@ -2918,12 +2918,42 @@
     "hike": "Madeira",
     "locations": [
       {
+        "name": "Supermercado Feiteirinhas",
+        "type": "shop",
+        "latitude": 32.74148394487157,
+        "longitude": -16.737507903299818,
+        "opening": "tous les jours 7h-19h sauf dimanche 7h-13h",
+        "distanceIntoHike": 5.81
+      },
+      {
+        "name": "Captain's Bar",
+        "type": "restaurant",
+        "phone": "+351 291 969 830",
+        "latitude": 32.74135784511495,
+        "longitude": -16.71037521685553,
+        "opening": "8h-23h tous les jours",
+        "todo": "Reverifier les horaires avant de partir",
+        "miscellaneous": "Bouffe pas exceptionnelles",
+        "distanceIntoHike": 9.11
+      },
+      {
+        "name": "Sardine House cafe & snacks",
+        "type": "restaurant",
+        "website": "https://casadosardinha.com",
+        "phone": "+351 967 344 907",
+        "latitude": 32.74213846191373,
+        "longitude": -16.683376072891498,
+        "opening": "tous les jours 10h-18h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 13.68
+      },
+      {
         "name": "Official campsite: Casa do Sardinha",
         "type": "bivouac",
         "latitude": 32.74283605260097,
         "longitude": -16.685938380588265,
         "miscellaneous": "5 tentes max au vu des photos",
-        "distanceIntoHike": 12.23
+        "distanceIntoHike": 14.81
       },
       {
         "name": "Minimercado Nóbrega's",
@@ -2931,7 +2961,7 @@
         "latitude": 32.76431458090613,
         "longitude": -16.822151613516652,
         "miscellaneous": "Pas d'infos d'horaire ni de telephone sur Google Map",
-        "distanceIntoHike": 30.63
+        "distanceIntoHike": 31.86
       },
       {
         "name": "Mini-Mercado",
@@ -2940,7 +2970,7 @@
         "longitude": -16.828725217292774,
         "opening": "tous les jours 9h-21h sauf dimanche 8h30-20h",
         "miscellaneous": "Pas de num de télephone sur Google Map",
-        "distanceIntoHike": 30.63
+        "distanceIntoHike": 31.86
       },
       {
         "name": "Mercearia Penha D'ave",
@@ -2950,7 +2980,7 @@
         "longitude": -16.828414581525205,
         "opening": "tous les jours 7h30-19h30 sauf dimanche 7h30-14h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 30.63
+        "distanceIntoHike": 31.86
       },
       {
         "name": "Restaurant Portela a Vista",
@@ -2962,7 +2992,93 @@
         "longitude": -16.82581135018394,
         "opening": "tous les jours 11h-22h sauf mardi",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 35.79
+        "distanceIntoHike": 37.26
+      },
+      {
+        "name": "Leitão da Serra",
+        "type": "restaurant",
+        "phone": "+351 964 553 048",
+        "latitude": 32.728906198334805,
+        "longitude": -16.822487597611985,
+        "opening": "10h-minuit tous les jours",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 40.24
+      },
+      {
+        "name": "Restaurante Cantinho da Aldeia",
+        "type": "restaurant",
+        "latitude": 32.726848273101034,
+        "longitude": -16.820910513605956,
+        "opening": "lu,ma,ve,se: 10h-22h - di: 9h-22h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 40.58
+      },
+      {
+        "name": "Restaurante A Nossa Aldeia",
+        "type": "restaurant",
+        "phone": "+351 291 552 142",
+        "latitude": 32.72591859827009,
+        "longitude": -16.820427760976187,
+        "opening": "tous les jours 10h-21h sauf lundi",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 40.72
+      },
+      {
+        "name": "Restaurante Avó Micas",
+        "type": "restaurant",
+        "latitude": 32.72229791407996,
+        "longitude": -16.815338179353997,
+        "opening": "C'est un bordel leurs horaires",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 41.27
+      },
+      {
+        "name": "Supermercado",
+        "type": "shop",
+        "latitude": 32.72446904355482,
+        "longitude": -16.819098105246063,
+        "opening": "tous les jours 8h-20h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 41.48
+      },
+      {
+        "name": "Leal do Santo",
+        "type": "restaurant",
+        "phone": "+351 969 632 575",
+        "latitude": 32.72442907290785,
+        "longitude": -16.819874346194943,
+        "opening": "tous les jours 9h-22h sauf dimanche 9h-20h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 41.54
+      },
+      {
+        "name": "Casais da Vila",
+        "type": "shop",
+        "phone": "+351 291 552 076",
+        "latitude": 32.72503574448879,
+        "longitude": -16.820771691841685,
+        "opening": "8h-20h tous les jours",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 41.61
+      },
+      {
+        "name": "Restaurante A Quinta",
+        "type": "restaurant",
+        "website": "https://www.hotelruralaquinta.com",
+        "phone": "+351 291 550 030",
+        "latitude": 32.72553308939309,
+        "longitude": -16.823683960250197,
+        "opening": "tous les jours 8h-22h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 41.94
+      },
+      {
+        "name": "Official campsite: Chão do Pasto",
+        "type": "bivouac",
+        "latitude": 32.715953,
+        "longitude": -16.846418,
+        "miscellaneous": "une dizaine de spots",
+        "distanceIntoHike": 42.81
       },
       {
         "name": "Bar do Roque",
@@ -2973,15 +3089,7 @@
         "opening": "tous les jours 8h-22h sauf lundi et mardi",
         "todo": "Reverifier les horaires avant de partir",
         "miscellaneous": "C'est un bar - ils doivent pouvoir servir des petits trucs à manger",
-        "distanceIntoHike": 37.6
-      },
-      {
-        "name": "Official campsite: Chão do Pasto",
-        "type": "bivouac",
-        "latitude": 32.715953,
-        "longitude": -16.846418,
-        "miscellaneous": "une dizaine de spots",
-        "distanceIntoHike": 40.78
+        "distanceIntoHike": 45.2
       },
       {
         "name": "Official campsite: Terreiros - Santa Cruz",
@@ -2989,7 +3097,49 @@
         "latitude": 32.71875,
         "longitude": -16.86811,
         "miscellaneous": "une trentaine de spots",
-        "distanceIntoHike": 42.67
+        "distanceIntoHike": 50.63
+      },
+      {
+        "name": "Ribeiro Frio Restaurant",
+        "type": "restaurant",
+        "phone": "+351 291 575 898",
+        "latitude": 32.734934614638625,
+        "longitude": -16.88632585967455,
+        "opening": "tous les jours 9h-18h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 54.33
+      },
+      {
+        "name": "Restaurante Snack Bar Faísca",
+        "type": "restaurant",
+        "website": "https://en.casadoribeirofrio.com/bar-e-restaurante",
+        "phone": "+351 291 575 634",
+        "email": "casadoribeirofrio@gmail.com",
+        "latitude": 32.73912337741396,
+        "longitude": -16.887288282448623,
+        "opening": "8h-19h tous les jours",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 56.29
+      },
+      {
+        "name": "Cafe Restaurant Jardim do Vale",
+        "type": "restaurant",
+        "website": "https://www.facebook.com/arraialdoribeirofrio",
+        "phone": "+351 291 573 025",
+        "latitude": 32.738643075080965,
+        "longitude": -16.88688570403122,
+        "opening": "tous les jours 11h-21h sauf samedi et dimanche 12h-22h et lundi 10h-19h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 56.55
+      },
+      {
+        "name": "John's Poncha (Bar)",
+        "type": "restaurant",
+        "latitude": 32.73502190472944,
+        "longitude": -16.88666292724554,
+        "opening": "tous les jours 10h-minuit",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 57.2
       },
       {
         "name": "Official campsite: Ribeiro Frio",
@@ -2997,7 +3147,7 @@
         "latitude": 32.732871989218864,
         "longitude": -16.887940408163484,
         "miscellaneous": "4 tentes max au vu des photos",
-        "distanceIntoHike": 49.6
+        "distanceIntoHike": 57.62
       },
       {
         "name": "Official campsite: Chao das Feiteiras",
@@ -3005,7 +3155,7 @@
         "latitude": 32.72272,
         "longitude": -16.88679,
         "miscellaneous": "une trentaine de spots",
-        "distanceIntoHike": 51.6
+        "distanceIntoHike": 59.62
       },
       {
         "name": "Abrigo do Poiso Restaurant",
@@ -3016,15 +3166,7 @@
         "longitude": -16.887990642978615,
         "opening": "tous les jours 8h-22h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 52.84
-      },
-      {
-        "name": "Official campsite: Poiso - Santa Cruz",
-        "type": "bivouac",
-        "latitude": 32.71193,
-        "longitude": -16.89101,
-        "miscellaneous": "une vingtaine de spots",
-        "distanceIntoHike": 52.98
+        "distanceIntoHike": 60.87
       },
       {
         "name": "Abrigo do Pastor restaurant",
@@ -3036,7 +3178,7 @@
         "longitude": -16.877083620963564,
         "opening": "10h-23h tous les jours",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 53.46
+        "distanceIntoHike": 61.05
       },
       {
         "name": "Official campsite: Montado do Pereiro",
@@ -3044,7 +3186,15 @@
         "latitude": 32.7035,
         "longitude": -16.88864,
         "miscellaneous": "une cinquantaine de spots",
-        "distanceIntoHike": 53.51
+        "distanceIntoHike": 61.07
+      },
+      {
+        "name": "Official campsite: Poiso - Santa Cruz",
+        "type": "bivouac",
+        "latitude": 32.71193,
+        "longitude": -16.89101,
+        "miscellaneous": "une vingtaine de spots",
+        "distanceIntoHike": 61.2
       },
       {
         "name": "O Barracão bar & restaurant",
@@ -3053,7 +3203,7 @@
         "longitude": -16.902427926324872,
         "opening": "me,je: 10h-21h - ve,sa: 10h-22h - di: 10h-19h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 55.75
+        "distanceIntoHike": 62.01
       },
       {
         "name": "Cafeteria Pico Areiro",
@@ -3063,7 +3213,7 @@
         "opening": "tous les jours 9h-18h sauf dimanche",
         "todo": "Reverifier les horaires avant de partir",
         "miscellaneous": "C'est un café - pas bien noté sur Google map",
-        "distanceIntoHike": 62.47
+        "distanceIntoHike": 67.52
       },
       {
         "name": "Casa de Abrigo do Pico Ruivo",
@@ -3074,7 +3224,7 @@
         "latitude": 32.760390239511146,
         "longitude": -16.941469398189923,
         "todo": "Réserver si je pense y dormir",
-        "distanceIntoHike": 67.26
+        "distanceIntoHike": 73.37
       },
       {
         "name": "Official campsite: Pico Ruivo",
@@ -3082,7 +3232,7 @@
         "latitude": 32.76032,
         "longitude": -16.94376,
         "miscellaneous": "2 spots",
-        "distanceIntoHike": 67.97
+        "distanceIntoHike": 74.44
       },
       {
         "name": "Official campsite: Chão dos Louros",
@@ -3090,7 +3240,7 @@
         "latitude": 32.7599,
         "longitude": -17.01646,
         "miscellaneous": "6 spots",
-        "distanceIntoHike": 77.68
+        "distanceIntoHike": 85.48
       },
       {
         "name": "Boca da Encumeada",
@@ -3100,7 +3250,7 @@
         "longitude": -17.019150617055153,
         "opening": "tous les jours 7h30 - 20h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 77.71
+        "distanceIntoHike": 87.14
       },
       {
         "name": "Restaurante da Encumeada",
@@ -3110,7 +3260,7 @@
         "longitude": -17.024424218312262,
         "opening": "tous les jours apparement / pas d'horaires indiquées",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 78.64
+        "distanceIntoHike": 88.05
       },
       {
         "name": "Paladares Felizes",
@@ -3119,7 +3269,7 @@
         "longitude": -17.032359920322932,
         "opening": "8h-21h tous les jours",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 82.47
+        "distanceIntoHike": 91.88
       },
       {
         "name": "Official campsite: Caramujo",
@@ -3127,7 +3277,7 @@
         "latitude": 32.7725,
         "longitude": -17.06253,
         "miscellaneous": "4 spots",
-        "distanceIntoHike": 85.99
+        "distanceIntoHike": 95.39
       },
       {
         "name": "Official campsite: Bica da Cana",
@@ -3135,7 +3285,7 @@
         "latitude": 32.75668,
         "longitude": -17.05872,
         "miscellaneous": "10 spots",
-        "distanceIntoHike": 88.48
+        "distanceIntoHike": 97.96
       },
       {
         "name": "Cozinha a Lenha",
@@ -3145,7 +3295,7 @@
         "longitude": -17.117288010314308,
         "opening": "10h-19h tous les jours",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 113.34
+        "distanceIntoHike": 109.98
       },
       {
         "name": "Official campsite: Ribeira do Alecrim",
@@ -3153,7 +3303,7 @@
         "latitude": 32.75167,
         "longitude": -17.11335,
         "miscellaneous": "3 spots",
-        "distanceIntoHike": 113.85
+        "distanceIntoHike": 110.36
       },
       {
         "name": "Official campsite: Estanquinhos",
@@ -3169,7 +3319,7 @@
         "latitude": 32.80975,
         "longitude": -17.14083,
         "miscellaneous": "5 spots",
-        "distanceIntoHike": 127.75
+        "distanceIntoHike": 140.7
       },
       {
         "name": "Bar Eira da Achada",
@@ -3179,7 +3329,7 @@
         "opening": "tous les jours 8h-20h",
         "todo": "Reverifier les horaires avant de partir",
         "miscellaneous": "C'est un café",
-        "distanceIntoHike": 137.66
+        "distanceIntoHike": 153.63
       },
       {
         "name": "Bar do negrinho",
@@ -3189,7 +3339,7 @@
         "opening": "tous les jours 8h30-20h sauf dimanche 9h-18h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
         "miscellaneous": "C'est une micro epicerie qui fait petite restauration",
-        "distanceIntoHike": 138.64
+        "distanceIntoHike": 154.61
       },
       {
         "name": "Café da Ponte",
@@ -3199,7 +3349,7 @@
         "opening": "???",
         "todo": "Reverifier les horaires avant de partir",
         "miscellaneous": "C'est un café",
-        "distanceIntoHike": 139.44
+        "distanceIntoHike": 155.41
       },
       {
         "name": "Camping Park Do Porto Moniz",
@@ -3210,7 +3360,7 @@
         "longitude": -17.15521811427029,
         "todo": "Appeler pr confirmer dates et s'il faut reserver",
         "miscellaneous": "Pas besoin de permit - Il y a plein de spots pour tentes",
-        "distanceIntoHike": 139.64
+        "distanceIntoHike": 155.98
       },
       {
         "name": "Supermercado Esmeralda Brilhante",
@@ -3219,7 +3369,7 @@
         "longitude": -17.169827220714257,
         "opening": "tous les jours 7h-21h sauf dimanche 8h-21h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 143.57
+        "distanceIntoHike": 159.9
       }
     ]
   },

@@ -1,5 +1,321 @@
 [
   {
+    "name": "P1132605.JPG",
+    "googleDriveId": "1rAuPPSILGfs3Khv4ufgJke8xlf7IJPvf",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-01-06T16:34:43",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/320 sec",
+    "fNumber": "f/6.2",
+    "focalLength": "85.1 mm",
+    "sizeBytes": 6707200,
+    "latitude": 48.55071977712214,
+    "longitude": -2.604869529604912
+  },
+  {
+    "name": "P1132584.JPG",
+    "googleDriveId": "1W0WB7swL7y1kS0DoqiKetw7EQ-s7K8eo",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-01-06T16:13:38",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/1300 sec",
+    "fNumber": "f/8.0",
+    "focalLength": "54.6 mm",
+    "sizeBytes": 7573504,
+    "latitude": 48.55455583892763,
+    "longitude": -2.6020302437245846
+  },
+  {
+    "name": "P1132577.JPG",
+    "googleDriveId": "180BuAK7cqkJUlh11NWoWtApUwPxy_cGO",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-01-06T16:11:03",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/2000 sec",
+    "fNumber": "f/8.0",
+    "focalLength": "28.9 mm",
+    "sizeBytes": 8088064,
+    "latitude": 48.55476169846952,
+    "longitude": -2.6016882620751858
+  },
+  {
+    "name": "P1132542.JPG",
+    "googleDriveId": "1SFDXVUord8x2yjWxpuITUTF3mRinhH0s",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-01-06T16:06:30",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/8.0",
+    "focalLength": "8.9 mm",
+    "sizeBytes": 8403968,
+    "latitude": 48.55570030398667,
+    "longitude": -2.600651839748025
+  },
+  {
+    "name": "P1132477.JPG",
+    "googleDriveId": "1Zj2J26ez0j085QKLATxHQP-e2_ldh94i",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-01-05T17:11:05",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/8.0",
+    "focalLength": "15.1 mm",
+    "sizeBytes": 9000960,
+    "latitude": 48.56173384934664,
+    "longitude": -2.5936785992234945
+  },
+  {
+    "name": "P1132465.JPG",
+    "googleDriveId": "1v9ppCyBKMcLbQibX8-uAC3Jdl96CrSL_",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-01-05T17:06:35",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/400 sec",
+    "fNumber": "f/3.7",
+    "focalLength": "12.8 mm",
+    "sizeBytes": 6604800,
+    "latitude": 48.56272148899734,
+    "longitude": -2.591979503631592
+  },
+  {
+    "name": "P1132438.JPG",
+    "googleDriveId": "1XaoHU1d_8Ah-v7CwJlO3r5Wqp_aILR55",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-01-05T17:05:19",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/5.0",
+    "focalLength": "8.8 mm",
+    "sizeBytes": 7727104,
+    "latitude": 48.562974873930216,
+    "longitude": -2.5903473794460297
+  },
+  {
+    "name": "P1132420.JPG",
+    "googleDriveId": "1OVlzk7m-MsfXQSRZjWydeXIyta1eMYYy",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-01-05T16:58:02",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "0.01 sec",
+    "fNumber": "f/3.8",
+    "focalLength": "13.7 mm",
+    "sizeBytes": 9972736,
+    "latitude": 48.56576872989535,
+    "longitude": -2.588704274967313
+  },
+  {
+    "name": "P1132387.JPG",
+    "googleDriveId": "1aAcmWlgp7AIwoDPGHmxYrbVZjavPOKD7",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-01-05T16:52:37",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/2000 sec",
+    "fNumber": "f/8.0",
+    "focalLength": "41.7 mm",
+    "sizeBytes": 6405120,
+    "latitude": 48.56739079579711,
+    "longitude": -2.58686201646924
+  },
+  {
+    "name": "P1132381.JPG",
+    "googleDriveId": "1yfYfJlGgfBlL1yoKk7xbTC6Xrf8GY-zZ",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-01-05T16:19:12",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/500 sec",
+    "fNumber": "f/5.5",
+    "focalLength": "43.9 mm",
+    "sizeBytes": 5376512,
+    "latitude": 48.564969934523106,
+    "longitude": -2.5820176117122173
+  },
+  {
+    "name": "P1132364.JPG",
+    "googleDriveId": "1A_pcKSDC2CsGf-BxwMbeLn7Sk2zdFO7A",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-01-04T17:14:14",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/4.1",
+    "focalLength": "17.1 mm",
+    "sizeBytes": 7791104,
+    "latitude": 48.556678388267756,
+    "longitude": -2.597544500604272
+  },
+  {
+    "name": "P1132292.JPG",
+    "googleDriveId": "1rGZeCqExSW0xcMehA3YvIV3LzZCaxYOJ",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-01-04T16:51:10",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/500 sec",
+    "fNumber": "f/4.4",
+    "focalLength": "21.5 mm",
+    "sizeBytes": 6852608,
+    "latitude": 48.55746972374618,
+    "longitude": -2.5993316899985075
+  },
+  {
+    "name": "P1132210.JPG",
+    "googleDriveId": "1Pd2kai9JzFviOKecN6wdK1gbhW8JXm4h",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-01-04T16:47:57",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/400 sec",
+    "fNumber": "f/4.4",
+    "focalLength": "21.5 mm",
+    "sizeBytes": 8744448,
+    "latitude": 48.557447930797935,
+    "longitude": -2.5993472803384066
+  },
+  {
+    "name": "P1132167.JPG",
+    "googleDriveId": "1nxlanMmMEmEI7TM0sArxcL8KBKe-glqj",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-01-04T16:28:47",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/8.0",
+    "focalLength": "27.9 mm",
+    "sizeBytes": 8346624,
+    "latitude": 48.56209125369787,
+    "longitude": -2.5924328807741404
+  },
+  {
+    "name": "P1132092.JPG",
+    "googleDriveId": "1GJZlpbbkhXIpVeUWgx7i14tF-hGDrEvw",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2023-12-25T09:03:30",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/30 sec",
+    "fNumber": "f/3.3",
+    "focalLength": "9.3 mm",
+    "sizeBytes": 9122816
+  },
+  {
+    "name": "P1132086.JPG",
+    "googleDriveId": "1AF8-PNd1976SmVxY81WNdU_xXwdtHi0c",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2023-12-25T08:58:10",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "0.04 sec",
+    "fNumber": "f/3.3",
+    "focalLength": "9.3 mm",
+    "sizeBytes": 8628224
+  },
+  {
     "name": "P1132015.JPG",
     "googleDriveId": "15qxuCZBUbuVtz2nsLj1AO_OPSx0-u3Nq",
     "tags": [

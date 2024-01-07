@@ -393,7 +393,11 @@ function displayGraphs(svg, width, height) {
 
         var closestDataPoints = [];
         if (selectedGraph.type == "year to date timeseries") {
-          closestDataPoints = data.timeline.filter(d => d.date.substring(5, 10) == dateUnderMouse.toISOString().substring(5, 10));
+          closestDataPoints =
+            d3.sort(
+              data.timeline.filter(d => d.date.substring(5, 10) == dateUnderMouse.toISOString().substring(5, 10)),
+              d => d.date
+            )
         } else {
           closestDataPoints = [data.timeline.find(d => d.date == dateUnderMouse.toISOString().substring(0, 10))];
         }

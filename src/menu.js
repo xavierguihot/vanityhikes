@@ -48,7 +48,7 @@ function drawMenu(menuContainer, initialMenu) {
   function cleanPages() {
     cleanMapPage(content);
     cleanPhotosPage(content);
-    cleanGraphPage(content);
+    cleanGraphPage();
     cleanUserStatsPage(content);
     cleanMultiDayHikesPage(content);
   }

@@ -1,5 +1,5 @@
 
-function drawCalendarGraph(graphHolder, selectedGraph, graphWidth) {
+function drawCalendarGraph(graphContainer, graphHolder, selectedGraph, graphWidth) {
 
   graphHolder.attr("transform", "translate(0,30)");
 
@@ -97,4 +97,6 @@ function drawCalendarGraph(graphHolder, selectedGraph, graphWidth) {
     .style("font-size", 12)
     .style("font-family", "sans-serif")
     .text(d => months[d.getMonth()]);
+
+  d3.select("svg").attr("height", graphContainer.node().getBoundingClientRect().height + 100);
 }

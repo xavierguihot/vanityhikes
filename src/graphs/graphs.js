@@ -29,11 +29,13 @@ function displayGraphs(svg, width, height) {
 
 function drawGraph(selectedGraph, graphContainer, graphWidth, graphHeight, margin) {
 
+  d3.select("svg").attr("height", window.innerHeight);
+
   graphContainer.select("g.graph-holder").remove();
   var graphHolder = graphContainer.append("g").attr("class", "graph-holder");
 
   if (selectedGraph.type == "calendar") {
-    drawCalendarGraph(graphHolder, selectedGraph, graphWidth);
+    drawCalendarGraph(graphContainer, graphHolder, selectedGraph, graphWidth);
   } else if (selectedGraph.type == "bubble chart") {
     drawBubbleChart(graphHolder, selectedGraph, graphWidth, graphHeight);
   } else {
@@ -41,7 +43,7 @@ function drawGraph(selectedGraph, graphContainer, graphWidth, graphHeight, margi
   }
 }
 
-function cleanGraphPage(svg) {
-  svg.select("g.graph-selector-container").remove();
-  svg.select(".graphs-container").remove();
+function cleanGraphPage() {
+  d3.select("svg").select("g.graph-selector-container").remove();
+  d3.select("svg").select(".graphs-container").remove();
 }

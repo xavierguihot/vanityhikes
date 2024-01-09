@@ -1,5 +1,17 @@
 [
   {
+    "hike": "Iceland Whale Watching",
+    "locations": [
+      {
+        "name": "Whale watching tour meeting point",
+        "type": "point of interest",
+        "latitude": 64.8980738902572,
+        "longitude": -23.704520251177872,
+        "distanceIntoHike": 6.64
+      }
+    ]
+  },
+  {
     "hike": "Chartres to Voisins",
     "locations": [
       {
@@ -417,14 +429,14 @@
         "longitude": -1.842521674472751,
         "opening": "A partir du 1er avril - tous les jours - arrivées à partir de 14h",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 10.71
+        "distanceIntoHike": 10.76
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.47434,
         "longitude": -1.84637,
-        "distanceIntoHike": 11.61
+        "distanceIntoHike": 11.67
       },
       {
         "name": "Camping Les Mielles",
@@ -436,7 +448,7 @@
         "longitude": -1.8286011492279794,
         "opening": "Toute l'année",
         "todo": "Attendre réponse à mon email de demande de renseignements",
-        "distanceIntoHike": 14.01
+        "distanceIntoHike": 14.07
       },
       {
         "name": "de LACOTTE ANNICK",
@@ -446,7 +458,7 @@
         "longitude": -1.813100901873152,
         "opening": "sa,di,lu,je,ve: 8h-13h & 15h-19h / ma: 8h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 15.07
+        "distanceIntoHike": 15.13
       },
       {
         "name": "Boulangerie Pâtisserie Renard Jean-Pierre",
@@ -456,7 +468,7 @@
         "longitude": -1.8128359379152086,
         "opening": "ma,me,je,ve,sa: 7h30-19h30 - di: 7h30-12h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 15.07
+        "distanceIntoHike": 15.13
       },
       {
         "name": "Camping Les Ronds Duval",
@@ -468,21 +480,21 @@
         "longitude": -1.804824247465998,
         "opening": "A partir du 7 avril",
         "todo": "Attendre réponse à mon email de demande de renseignements",
-        "distanceIntoHike": 22.73
+        "distanceIntoHike": 22.79
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.39702,
         "longitude": -1.8139,
-        "distanceIntoHike": 24.61
+        "distanceIntoHike": 24.67
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.37455,
         "longitude": -1.79851,
-        "distanceIntoHike": 30.94
+        "distanceIntoHike": 31.67
       },
       {
         "name": "Le Comptoir de Carteret",
@@ -492,7 +504,7 @@
         "longitude": -1.7856589372672464,
         "opening": "tous les jours: 9h-13h / 14h30-19h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 33.7
+        "distanceIntoHike": 34.43
       },
       {
         "name": "Boulangerie Pâtisserie Erika & Frédéric Clerot",
@@ -502,7 +514,7 @@
         "longitude": -1.7853828768733753,
         "opening": "tous les jours 7h-19h sauf mardi et mercredi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 33.7
+        "distanceIntoHike": 34.43
       },
       {
         "name": "Camping du Bocage",
@@ -513,7 +525,7 @@
         "longitude": -1.7858025972726532,
         "opening": "A partir du 1er avril - 13h-19h tous les jours",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 33.74
+        "distanceIntoHike": 34.48
       },
       {
         "name": "Camping La Gerfleur",
@@ -525,7 +537,7 @@
         "longitude": -1.7647642052484753,
         "opening": "A partir du 30 mars - arrivée jusqu'à 19h tous les jours - possible d'arriver plus tard (téléphoner)",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 35.16
+        "distanceIntoHike": 35.9
       },
       {
         "name": "Carrefour Market Barneville-Carteret",
@@ -535,7 +547,7 @@
         "longitude": -1.753286988613197,
         "opening": "tous les jours sauf dimanche: 8h30-19h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 36.49
+        "distanceIntoHike": 37.22
       },
       {
         "name": "Leader Price BARNEVILLE CARTERET",
@@ -545,7 +557,7 @@
         "longitude": -1.7547375056901422,
         "opening": "tous les jours 8h30-19h30 sauf dimanche 9h-12h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 36.49
+        "distanceIntoHike": 37.22
       },
       {
         "name": "Boulangerie Des Isles",
@@ -555,14 +567,14 @@
         "longitude": -1.7564876675035486,
         "opening": "tous les jours 6h45-19h15 sauf mercredi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 36.49
+        "distanceIntoHike": 37.22
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.37254,
         "longitude": -1.78003,
-        "distanceIntoHike": 39.37
+        "distanceIntoHike": 40.11
       },
       {
         "name": "Camping Les Bosquets",
@@ -574,7 +586,7 @@
         "longitude": -1.7600693456210121,
         "opening": "A partir du 1er avril - tous les jours - 14h-18h",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 41.21
+        "distanceIntoHike": 41.94
       },
       {
         "name": "Camping Les Vikings",
@@ -584,7 +596,7 @@
         "latitude": 49.364342470923916,
         "longitude": -1.753414025159166,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 41.55
+        "distanceIntoHike": 42.29
       },
       {
         "name": "Camping de La Côte des Isles",
@@ -594,16 +606,7 @@
         "latitude": 49.33551482588973,
         "longitude": -1.7275864133602008,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 45.5
-      },
-      {
-        "name": "Camping De La Plage, Portbail",
-        "type": "camping",
-        "phone": "06 29 89 78 99",
-        "latitude": 49.32766985961779,
-        "longitude": -1.7210436033073102,
-        "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 46.71
+        "distanceIntoHike": 46.24
       },
       {
         "name": "Boulangerie Marie SARL",
@@ -616,6 +619,15 @@
         "distanceIntoHike": 46.83
       },
       {
+        "name": "Camping De La Plage, Portbail",
+        "type": "camping",
+        "phone": "06 29 89 78 99",
+        "latitude": 49.32766985961779,
+        "longitude": -1.7210436033073102,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "distanceIntoHike": 47.44
+      },
+      {
         "name": "Les Saveurs D'alyana",
         "type": "boulangerie",
         "phone": "02 33 04 84 55",
@@ -623,7 +635,7 @@
         "longitude": -1.6990392087484656,
         "opening": "sa,ma,ve: 7h-13h30/15h-19h30 - di: 7h-13h30/16h-19h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 49.64
+        "distanceIntoHike": 50.38
       },
       {
         "name": "Carrefour Express",
@@ -633,7 +645,7 @@
         "longitude": -1.6983511403549756,
         "opening": "tous jours 8h-20h - dimanche 9h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 49.69
+        "distanceIntoHike": 50.42
       },
       {
         "name": "Lebreton",
@@ -643,7 +655,7 @@
         "longitude": -1.6976444517095561,
         "opening": "tous les jours 7h-19h30 sauf lundi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 49.69
+        "distanceIntoHike": 50.42
       },
       {
         "name": "Casino Supermarché",
@@ -653,7 +665,7 @@
         "longitude": -1.6930759684708792,
         "opening": "lu,ma,me,je,ve: 9h-12h30/14h30-19h15 - sa: 9h-19h15 - di: 9h30-12h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 49.83
+        "distanceIntoHike": 50.56
       },
       {
         "name": "Camping Les Carolins",
@@ -665,7 +677,7 @@
         "longitude": -1.6814727610370073,
         "opening": "A partir du 1er avril - ouvert tous les jours - 16h-18h30",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 51.22
+        "distanceIntoHike": 51.96
       },
       {
         "name": "Camping l'Esperance",
@@ -677,7 +689,7 @@
         "longitude": -1.6884007906320975,
         "opening": "A partir du 1er avril",
         "todo": "Attendre réponse à mon email de demande de renseignements",
-        "distanceIntoHike": 56.69
+        "distanceIntoHike": 57.43
       },
       {
         "name": "Bretteville Loisirs",
@@ -686,7 +698,7 @@
         "latitude": 49.263178599027476,
         "longitude": -1.6354215273170156,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 67.72
+        "distanceIntoHike": 68.45
       },
       {
         "name": "Camping Aux Grands Espaces",
@@ -698,7 +710,7 @@
         "longitude": -1.6408957876995012,
         "opening": "A partir du 1er avril",
         "todo": "Attendre réponse à mon email de demande de renseignements",
-        "distanceIntoHike": 70.44
+        "distanceIntoHike": 71.17
       },
       {
         "name": "Proxi Le Marché de la Plage",
@@ -708,7 +720,7 @@
         "longitude": -1.6445647029028532,
         "opening": "sa,di,lu,je,ve: 8h30-13h/16h-20h - ma: 8h30-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 70.84
+        "distanceIntoHike": 71.57
       },
       {
         "name": "Boulangerie Pâtisserie Bouvet",
@@ -718,7 +730,7 @@
         "longitude": -1.6106944136837997,
         "opening": "lu,me,je,ve,sa: 7h15-13h/15h30-19h30 - di: 7h15-13h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 78.67
+        "distanceIntoHike": 79.4
       },
       {
         "name": "Proxi",
@@ -728,7 +740,7 @@
         "longitude": -1.5962827815661607,
         "opening": "ma,je,ve,sa: 9h-13h/15h30-19h30 - di,me: 8h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 95.87
+        "distanceIntoHike": 96.61
       },
       {
         "name": "Camping Municipal Le Clos Marin",
@@ -740,7 +752,7 @@
         "longitude": -1.5959219987522941,
         "opening": "A partir du 1er avril - 14h30 à 17h30 du mardi au samedi",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 96.99
+        "distanceIntoHike": 97.73
       },
       {
         "name": "Camping à la ferme (Massu Philippe et Marie-Christine)",
@@ -749,7 +761,7 @@
         "latitude": 49.14356128172009,
         "longitude": -1.5822418092045327,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 98.71
+        "distanceIntoHike": 99.44
       },
       {
         "name": "Camping Le Grand Large",
@@ -760,7 +772,7 @@
         "longitude": -1.598055666229839,
         "opening": "A partir du 7 avril",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 101.88
+        "distanceIntoHike": 102.61
       },
       {
         "name": "Camping municipal le Senequet",
@@ -772,7 +784,7 @@
         "longitude": -1.6074228350759592,
         "opening": "A partir du 2 avril - pas eu de détail sur les jours de la semaine ouverts - acceuil ferme vers 17h/17h30",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 103.75
+        "distanceIntoHike": 104.49
       },
       {
         "name": "Camping Belle Étoile",
@@ -784,7 +796,7 @@
         "longitude": -1.607454996045363,
         "opening": "A partir du 1er avril",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 104.01
+        "distanceIntoHike": 104.74
       },
       {
         "name": "Camping municipal de la Melette",
@@ -793,7 +805,7 @@
         "latitude": 49.07004885474978,
         "longitude": -1.5969657409792404,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 111.64
+        "distanceIntoHike": 112.38
       },
       {
         "name": "Market Blainville-Sur-Mer",
@@ -803,7 +815,7 @@
         "longitude": -1.5936332581972383,
         "opening": "tous les jours 8h30-19h30 sauf dimanche 9h-12h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 112.21
+        "distanceIntoHike": 112.94
       },
       {
         "name": "Les delices blainvillais",
@@ -813,7 +825,7 @@
         "longitude": -1.5930284531523153,
         "opening": "tous les jours 7h-19h30 sauf dimanche",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 112.25
+        "distanceIntoHike": 112.98
       },
       {
         "name": "Carrefour Blainville-Sur-Mer",
@@ -823,7 +835,7 @@
         "longitude": -1.594101129326517,
         "opening": "tous les jours 8h30-19h sauf dimanche 9h-12h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 112.33
+        "distanceIntoHike": 113.06
       },
       {
         "name": "U Express",
@@ -833,7 +845,7 @@
         "longitude": -1.5933355151079929,
         "opening": "tous les jours 8h30-19h sauf dimanche 8h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 115.1
+        "distanceIntoHike": 115.84
       },
       {
         "name": "Boulangerie Perret",
@@ -843,7 +855,7 @@
         "longitude": -1.5994969044336547,
         "opening": "tous les jours 7h-19h30 sauf mercredi et jeudi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 115.1
+        "distanceIntoHike": 115.84
       },
       {
         "name": "Camping les Mouettes",
@@ -855,7 +867,7 @@
         "longitude": -1.5950997636124224,
         "opening": "A partir du 1er avril - ouvert tous les jours - de 14h30 à 19h00",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 116.38
+        "distanceIntoHike": 117.11
       },
       {
         "name": "Le Fournil du Passous",
@@ -865,7 +877,7 @@
         "longitude": -1.5966750683996478,
         "opening": "tous les jours 7h-13h/16h-19h30 sauf lundi et mardi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 116.38
+        "distanceIntoHike": 117.11
       },
       {
         "name": "Camping le Ronquet",
@@ -876,7 +888,7 @@
         "longitude": -1.5846925538120742,
         "opening": "A partir du 1er avril",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 116.58
+        "distanceIntoHike": 117.31
       },
       {
         "name": "Camping GCU de Countainville",
@@ -886,14 +898,14 @@
         "latitude": 49.02995845309247,
         "longitude": -1.5932276178508842,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 117.33
+        "distanceIntoHike": 118.06
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.00263,
         "longitude": -1.57704,
-        "distanceIntoHike": 120.74
+        "distanceIntoHike": 121.47
       },
       {
         "name": "Boulangerie Pâtisserie Minguet Ludovic",
@@ -903,7 +915,7 @@
         "longitude": -1.5014173772527095,
         "opening": "tous les jours 6h-19h30 sauf lundi et mardi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 133.39
+        "distanceIntoHike": 134.13
       },
       {
         "name": "Camping municipal Les Dunes",
@@ -913,7 +925,7 @@
         "latitude": 49.67743032252496,
         "longitude": -1.723531390333732,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 137.41
+        "distanceIntoHike": 137.62
       },
       {
         "name": "Camping du havre de Regnéville",
@@ -924,14 +936,14 @@
         "longitude": -1.5550133150456935,
         "opening": "A partir du 1er avril",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 141.36
+        "distanceIntoHike": 142.1
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 48.9929,
         "longitude": -1.54534,
-        "distanceIntoHike": 143.26
+        "distanceIntoHike": 144.0
       },
       {
         "name": "Camping municipal les Gravelets",
@@ -941,7 +953,7 @@
         "latitude": 48.99266690022568,
         "longitude": -1.5293130089849991,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 143.31
+        "distanceIntoHike": 144.04
       },
       {
         "name": "Camping municipal du Hable",
@@ -953,7 +965,7 @@
         "longitude": -1.8403863400016964,
         "opening": "A partir du 1er avril - ouvert tous les jours - la barrière du camping ferme à 21h",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 148.09
+        "distanceIntoHike": 148.35
       },
       {
         "name": "Camping Les Garennes",
@@ -965,7 +977,7 @@
         "longitude": -1.5598030308352924,
         "opening": "A partir du 1er avril - du lundi au samedi - 14h30-18h",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 148.44
+        "distanceIntoHike": 149.17
       },
       {
         "name": "Proxi",
@@ -975,7 +987,7 @@
         "longitude": -1.560070503170249,
         "opening": "ma,me,je,ve,sa: 9h-13h/15h20h - di:8h-13h - lu: 8h-13h/15h-19h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 148.54
+        "distanceIntoHike": 149.28
       },
       {
         "name": "Maison Girard",
@@ -984,7 +996,7 @@
         "longitude": -1.5601166291099116,
         "opening": "lu,ma,me,je: 8h30-12h30 - ve,sa: 7h30-12h30/16h-19h30 - di: 7h30-12h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 148.54
+        "distanceIntoHike": 149.28
       },
       {
         "name": "Camping Les Peupliers",
@@ -993,21 +1005,21 @@
         "latitude": 48.957027615958246,
         "longitude": -1.5529702986346707,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 151.19
+        "distanceIntoHike": 151.93
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 48.94086,
         "longitude": -1.56075,
-        "distanceIntoHike": 153.36
+        "distanceIntoHike": 154.09
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 48.94092,
         "longitude": -1.55426,
-        "distanceIntoHike": 154.05
+        "distanceIntoHike": 154.78
       },
       {
         "name": "Camping de la Vanlée",
@@ -1019,7 +1031,7 @@
         "longitude": -1.563842960916216,
         "opening": "A partir du 1er avril - tous les jours - 14h-18h mais possible d'arriver en dehors de ces heures",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 167.04
+        "distanceIntoHike": 167.77
       },
       {
         "name": "Le Petit Marché",
@@ -1029,7 +1041,7 @@
         "longitude": -1.5689030378889124,
         "opening": "tous les jours 9h-12h30/15h30-19h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 168.43
+        "distanceIntoHike": 169.16
       },
       {
         "name": "Boulangerie Pâtisserie Virginie et Jérôme Carre",
@@ -1038,7 +1050,7 @@
         "longitude": -1.5691531451800105,
         "opening": "tous les jours 7h30-12h30 sauf lundi et mardi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 168.43
+        "distanceIntoHike": 169.16
       },
       {
         "name": "Camping Municipal Les Dunes Coudeville sur mer",
@@ -1050,7 +1062,7 @@
         "longitude": -1.5698495761053435,
         "opening": "A partir du 1er avril",
         "todo": "Attendre réponse à mon email de demande de renseignements",
-        "distanceIntoHike": 169.47
+        "distanceIntoHike": 170.21
       },
       {
         "name": "Camping l'Oasis de la Plage",
@@ -1062,7 +1074,7 @@
         "longitude": -1.5775069617180695,
         "opening": "A partir du 1er avril",
         "todo": "Attendre réponse à mon email de demande de renseignements",
-        "distanceIntoHike": 172.74
+        "distanceIntoHike": 173.48
       },
       {
         "name": "Casino Supermarché",
@@ -1072,7 +1084,7 @@
         "longitude": -1.584379719669432,
         "opening": "tous les jours 8h-19h00 sauf dimanche 9h-19h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 174.5
+        "distanceIntoHike": 175.23
       },
       {
         "name": "La Boulangerie - Pâtisserie - Sandwicherie De La Mer",
@@ -1082,7 +1094,7 @@
         "longitude": -1.5869187512825897,
         "opening": "lu,ma,me,je,ve: 7h-19h30 - sa: 7h-19h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 175.21
+        "distanceIntoHike": 175.95
       },
       {
         "name": "Boulangerie Pâtisserie du Casino",
@@ -1092,7 +1104,7 @@
         "longitude": -1.5978911651447625,
         "opening": "tous les jours 7h30-13h/16h-19 sauf dimanche 7h30-12h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 176.25
+        "distanceIntoHike": 177.04
       },
       {
         "name": "Boulangerie Champs libres",
@@ -1102,21 +1114,21 @@
         "longitude": -1.5990283134307346,
         "opening": "ma,me,je,ve: 9h30-14h/16h-19h - sa: 9h-16h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 176.41
+        "distanceIntoHike": 177.2
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 48.835,
         "longitude": -1.61196,
-        "distanceIntoHike": 177.68
+        "distanceIntoHike": 178.47
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 48.8339,
         "longitude": -1.61118,
-        "distanceIntoHike": 178.21
+        "distanceIntoHike": 179.01
       },
       {
         "name": "Coccinelle Express Granville",
@@ -1126,7 +1138,7 @@
         "longitude": -1.596434415313497,
         "opening": "tous les jours 8h-22h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 182.23
+        "distanceIntoHike": 183.04
       },
       {
         "name": "Boulangerie Pâtisserie Robert la Flûte Gana",
@@ -1136,7 +1148,7 @@
         "longitude": -1.5951217277183138,
         "opening": "tous les jours 7h15-19h15 sauf mardi et mercredi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 182.31
+        "distanceIntoHike": 183.11
       },
       {
         "name": "Carrefour City",
@@ -1146,21 +1158,21 @@
         "longitude": -1.5910375351355162,
         "opening": "tous les jours 7h-21h sauf le dimanche 9h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 182.36
+        "distanceIntoHike": 183.17
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 48.83292,
         "longitude": -1.59024,
-        "distanceIntoHike": 182.8
+        "distanceIntoHike": 183.79
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 48.82435,
         "longitude": -1.57715,
-        "distanceIntoHike": 184.74
+        "distanceIntoHike": 185.69
       },
       {
         "name": "Camping La Vague",
@@ -1172,7 +1184,7 @@
         "longitude": -1.5705869105610564,
         "opening": "A partir du 1er avril",
         "todo": "Attendre réponse à mon email de demande de renseignements",
-        "distanceIntoHike": 185.18
+        "distanceIntoHike": 186.12
       },
       {
         "name": "Carrefour City",
@@ -1182,7 +1194,7 @@
         "longitude": -1.569578520308874,
         "opening": "tous les jours 7h-21h sauf le dimanche 9h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 185.83
+        "distanceIntoHike": 186.77
       },
       {
         "name": "Au Saint Pair Glacé",
@@ -1192,7 +1204,7 @@
         "longitude": -1.570925061701256,
         "opening": "tous les jours 8h-19h sauf dimanche 8h-13h30 et lundi fermé",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 185.89
+        "distanceIntoHike": 186.84
       },
       {
         "name": "Le fournil de Saint Pair",
@@ -1202,7 +1214,7 @@
         "longitude": -1.568543339274673,
         "opening": "lu,ma,je,ve,sa: 7h-13h/15h-19h30 - di: 7h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 186.47
+        "distanceIntoHike": 187.41
       },
       {
         "name": "Camping Belle Rive",
@@ -1214,7 +1226,7 @@
         "longitude": -1.5659289024803598,
         "opening": "A partir du 1er avril -- 14h30-19h30",
         "todo": "Attendre réponse à mon email de demande de renseignements",
-        "distanceIntoHike": 188.2
+        "distanceIntoHike": 189.14
       },
       {
         "name": "Camping Le Drakkar",
@@ -1226,7 +1238,7 @@
         "longitude": -1.560774889978012,
         "opening": "A partir du 1er avril",
         "todo": "Attendre réponse à mon email de demande de renseignements",
-        "distanceIntoHike": 188.27
+        "distanceIntoHike": 189.22
       },
       {
         "name": "Camping Etoile de Mer",
@@ -1238,7 +1250,7 @@
         "longitude": -1.5668982930049644,
         "opening": "A partir du 1er avril -- 15h-20h",
         "todo": "Attendre réponse à mon email de demande de renseignements",
-        "distanceIntoHike": 190.06
+        "distanceIntoHike": 191.0
       },
       {
         "name": "Camping Jullouville Les Pins",
@@ -1248,7 +1260,7 @@
         "latitude": 48.77703167954516,
         "longitude": -1.5661764684014499,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 191.6
+        "distanceIntoHike": 192.54
       },
       {
         "name": "U Express",
@@ -1258,7 +1270,7 @@
         "longitude": -1.5679243362104944,
         "opening": "tous les jours 8h45-12h30/15h-19h15 sauf le dimanche 8h45-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 191.6
+        "distanceIntoHike": 192.54
       },
       {
         "name": "Boulangerie Pâtisserie les Pins des Dunes",
@@ -1268,21 +1280,21 @@
         "longitude": -1.5657933912346105,
         "opening": "tous les jours 7h30-13h30/15h30-19h30 sauf mardi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 191.79
+        "distanceIntoHike": 192.74
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 48.76433,
         "longitude": -1.56411,
-        "distanceIntoHike": 193.08
+        "distanceIntoHike": 194.03
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 48.75751,
         "longitude": -1.5717,
-        "distanceIntoHike": 193.83
+        "distanceIntoHike": 194.77
       },
       {
         "name": "Camping La Gueriniere",
@@ -1291,7 +1303,7 @@
         "latitude": 48.74943008658232,
         "longitude": -1.5575327752278496,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 194.84
+        "distanceIntoHike": 195.79
       },
       {
         "name": "Proxi",
@@ -1301,7 +1313,7 @@
         "longitude": -1.5603273092060357,
         "opening": "tous les jours 8h30-19h30 sauf dimanche 9h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 194.84
+        "distanceIntoHike": 195.79
       },
       {
         "name": "Jean-Baptiste Et Remi",
@@ -1311,14 +1323,14 @@
         "longitude": -1.559749602135071,
         "opening": "tous les jours 7h-19h sauf dimanche 7h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 194.84
+        "distanceIntoHike": 195.79
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 48.73337,
         "longitude": -1.53608,
-        "distanceIntoHike": 198.87
+        "distanceIntoHike": 199.84
       },
       {
         "name": "Camping municipal de Saint Jean le Thomas",
@@ -1330,7 +1342,7 @@
         "longitude": -1.5242372725327502,
         "opening": "A partir du 15 mars",
         "todo": "Attendre réponse à mon email de demande de renseignements",
-        "distanceIntoHike": 200.41
+        "distanceIntoHike": 201.39
       },
       {
         "name": "Camping Les Cognets",
@@ -1342,7 +1354,7 @@
         "longitude": -1.4938844703153904,
         "opening": "A partir du 1er avril - ouvert tous les jours - 14:30 et 18:30",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 202.61
+        "distanceIntoHike": 203.59
       },
       {
         "name": "Sarl Boulangerie Houel",
@@ -1352,14 +1364,14 @@
         "longitude": -1.4783357366847107,
         "opening": "tous les jours 7h30-13h/15h-19h30 sauf jeudi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 207.45
+        "distanceIntoHike": 208.43
       },
       {
         "name": "Entre Mont St Michel et Merveille",
         "type": "hotel",
         "latitude": 48.665678063993965,
         "longitude": -1.4466683171886603,
-        "distanceIntoHike": 211.04
+        "distanceIntoHike": 212.02
       },
       {
         "name": "Marie Blachère Boulangerie Sandwicherie Tarterie",
@@ -1369,7 +1381,7 @@
         "longitude": -1.367484490939837,
         "opening": "tous les jours 7h-19h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 220.58
+        "distanceIntoHike": 221.58
       },
       {
         "name": "Boulangerie Tirapu",
@@ -1379,7 +1391,7 @@
         "longitude": -1.3587105792068175,
         "opening": "ma,me,je,ve,sa: 7h-14h/15h30-19h30 - di: 7h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 220.7
+        "distanceIntoHike": 221.7
       },
       {
         "name": "Carrefour Market Avranches",
@@ -1389,14 +1401,14 @@
         "longitude": -1.3649468628589685,
         "opening": "tous les jours 8h30-19h30 sauf dimanche 9h-12h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 220.86
+        "distanceIntoHike": 221.86
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 48.68523,
         "longitude": -1.36771,
-        "distanceIntoHike": 221.02
+        "distanceIntoHike": 222.01
       },
       {
         "name": "Gonfroy David",
@@ -1406,7 +1418,7 @@
         "longitude": -1.3506530748688936,
         "opening": "tous les jours 6h30-19h sauf mercredi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 230.84
+        "distanceIntoHike": 231.84
       },
       {
         "name": "Camping de la Sélune",
@@ -1417,7 +1429,7 @@
         "latitude": 48.630127154101416,
         "longitude": -1.3526771917992422,
         "todo": "Attendre réponse à mon email de demande de renseignements",
-        "distanceIntoHike": 230.94
+        "distanceIntoHike": 231.94
       },
       {
         "name": "Camping La Baie du Mont Saint Michel",
@@ -1428,21 +1440,21 @@
         "longitude": -1.3881767957401592,
         "opening": "A partir du 29 mars --- 14h00 à 19h00 --- jusqu’à 21h00 en contactant avant 19h00",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 234.07
+        "distanceIntoHike": 235.07
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 48.61779,
         "longitude": -1.51224,
-        "distanceIntoHike": 250.85
+        "distanceIntoHike": 251.85
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 48.62701,
         "longitude": -1.5191,
-        "distanceIntoHike": 252.17
+        "distanceIntoHike": 253.17
       },
       {
         "name": "Camping du Mont Saint-Michel",
@@ -1454,21 +1466,21 @@
         "longitude": -1.5092389858092004,
         "opening": "A partir du 30 mars",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 256.5
+        "distanceIntoHike": 257.5
       },
       {
         "name": "Hôtel Saint-Aubert",
         "type": "hotel",
         "latitude": 48.613631709331464,
         "longitude": -1.5091096220591957,
-        "distanceIntoHike": 256.64
+        "distanceIntoHike": 257.64
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 48.58576,
         "longitude": -1.5068,
-        "distanceIntoHike": 259.68
+        "distanceIntoHike": 260.68
       },
       {
         "name": "Camping Haliotis",
@@ -1480,7 +1492,7 @@
         "longitude": -1.5144592191898878,
         "opening": "A partir du 8 avril",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 263.06
+        "distanceIntoHike": 264.06
       }
     ]
   },
@@ -1590,7 +1602,7 @@
         "latitude": 49.353758597189284,
         "longitude": -1.748533656266899,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 42.87
+        "distanceIntoHike": 43.6
       },
       {
         "name": "Camping le Rivage Quettehou",
@@ -1663,7 +1675,7 @@
         "longitude": -1.2594435344039132,
         "opening": "tous les jours 7h30-13h/16h-19h sauf dimanche et lundi 7h30-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 63.64
+        "distanceIntoHike": 63.65
       },
       {
         "name": "Camping Municipal de Jonville",
@@ -1675,14 +1687,14 @@
         "longitude": -1.2312673293194534,
         "opening": "A partir du 31 mars",
         "todo": "Attendre réponse à mon email de demande de renseignements",
-        "distanceIntoHike": 65.76
+        "distanceIntoHike": 65.77
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.60593,
         "longitude": -1.22907,
-        "distanceIntoHike": 66.02
+        "distanceIntoHike": 66.04
       },
       {
         "name": "Camping Indiana",
@@ -1694,7 +1706,7 @@
         "longitude": -1.2585994890805492,
         "opening": "A partir du 1er avril - tous les jours - arrivée jusqu'à 19h",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 74.5
+        "distanceIntoHike": 74.52
       },
       {
         "name": "Carrefour Contact",
@@ -1704,7 +1716,7 @@
         "longitude": -1.2701538518884687,
         "opening": "tous les jours 8h-20h sauf dimanche 9h-12h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 76.07
+        "distanceIntoHike": 76.09
       },
       {
         "name": "Boulangerie Pâtisserie Sylvain Fontaine",
@@ -1714,7 +1726,7 @@
         "longitude": -1.264163629833975,
         "opening": "tous les jours 7h30-19h sauf mercredi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 76.26
+        "distanceIntoHike": 76.28
       },
       {
         "name": "Camping Barfleur / La Blanche Nef",
@@ -1726,7 +1738,7 @@
         "longitude": -1.266974558180784,
         "opening": "A partir du 15 fevrier - ouvert tous les jours - arrivées jusqu'à 18h30",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 77.51
+        "distanceIntoHike": 77.52
       },
       {
         "name": "Camping du Sablon",
@@ -1737,7 +1749,7 @@
         "longitude": -1.4182370329016343,
         "opening": "A partir du 26 mars",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 94.65
+        "distanceIntoHike": 94.66
       },
       {
         "name": "Camping de la Plage",
@@ -1749,14 +1761,14 @@
         "longitude": -1.4383895090498642,
         "opening": "A partir du 1er avril - ouvert tous les jours, arrivée jusqu'à 19h",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 97.64
+        "distanceIntoHike": 97.65
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.69003,
         "longitude": -1.47775,
-        "distanceIntoHike": 101.6
+        "distanceIntoHike": 101.61
       },
       {
         "name": "L'Anse du Brick",
@@ -1767,21 +1779,21 @@
         "longitude": -1.48755138066562,
         "opening": "A partir du 23 mars",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 105.58
+        "distanceIntoHike": 105.68
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.66754,
         "longitude": -1.49423,
-        "distanceIntoHike": 106.62
+        "distanceIntoHike": 106.72
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.65104,
         "longitude": -1.53784,
-        "distanceIntoHike": 111.91
+        "distanceIntoHike": 112.01
       },
       {
         "name": "Carrefour Contact",
@@ -1791,7 +1803,7 @@
         "longitude": -1.5477118297458532,
         "opening": "tous les jours 8h-20h sauf dimanche 9h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 112.51
+        "distanceIntoHike": 112.61
       },
       {
         "name": "Camping de Collignon",
@@ -1802,7 +1814,7 @@
         "latitude": 49.65494600210176,
         "longitude": -1.5666060443815064,
         "todo": "Attendre réponse à mon email de demande de renseignements",
-        "distanceIntoHike": 114.08
+        "distanceIntoHike": 114.18
       },
       {
         "name": "Camping municipal de la Saline",
@@ -1814,91 +1826,91 @@
         "longitude": -1.6535178088092843,
         "opening": "Ouvert toute l'année - lundi au vendredi: 13h30-17h00",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 127.42
+        "distanceIntoHike": 127.62
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.67951,
         "longitude": -1.77109,
-        "distanceIntoHike": 141.16
+        "distanceIntoHike": 141.39
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.68517,
         "longitude": -1.78783,
-        "distanceIntoHike": 142.68
+        "distanceIntoHike": 142.91
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.69579,
         "longitude": -1.83104,
-        "distanceIntoHike": 146.52
+        "distanceIntoHike": 146.78
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.69954,
         "longitude": -1.83492,
-        "distanceIntoHike": 147.14
+        "distanceIntoHike": 147.39
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.70147,
         "longitude": -1.84504,
-        "distanceIntoHike": 147.88
+        "distanceIntoHike": 148.13
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.70415,
         "longitude": -1.87095,
-        "distanceIntoHike": 153.02
+        "distanceIntoHike": 153.28
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.70665,
         "longitude": -1.88965,
-        "distanceIntoHike": 154.22
+        "distanceIntoHike": 154.48
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.71701,
         "longitude": -1.94716,
-        "distanceIntoHike": 161.65
+        "distanceIntoHike": 161.91
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.69794,
         "longitude": -1.93829,
-        "distanceIntoHike": 165.38
+        "distanceIntoHike": 165.64
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.66528,
         "longitude": -1.89431,
-        "distanceIntoHike": 173.75
+        "distanceIntoHike": 174.16
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.66053,
         "longitude": -1.88271,
-        "distanceIntoHike": 175.06
+        "distanceIntoHike": 175.47
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.65843,
         "longitude": -1.8731,
-        "distanceIntoHike": 176.61
+        "distanceIntoHike": 177.02
       },
       {
         "name": "Camping municipal de Vauville - la Devise",
@@ -1909,35 +1921,35 @@
         "longitude": -1.8494864316134063,
         "opening": "!!!! A partir du 14 juin",
         "todo": "Attendre la réponse à ma demande de détails (via le formulaire de contact du site)",
-        "distanceIntoHike": 180.13
+        "distanceIntoHike": 180.54
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.62835,
         "longitude": -1.84041,
-        "distanceIntoHike": 182.13
+        "distanceIntoHike": 182.54
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.62228,
         "longitude": -1.84269,
-        "distanceIntoHike": 182.89
+        "distanceIntoHike": 183.3
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.61875,
         "longitude": -1.8352,
-        "distanceIntoHike": 183.48
+        "distanceIntoHike": 183.89
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.61117,
         "longitude": -1.83055,
-        "distanceIntoHike": 184.77
+        "distanceIntoHike": 185.18
       },
       {
         "name": "Camping de Clairefontaine",
@@ -1949,7 +1961,7 @@
         "longitude": -1.8384665392606967,
         "opening": "Toute l'année - 8h-19h30 tous les jours sauf le dimanche",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 191.18
+        "distanceIntoHike": 191.59
       },
       {
         "name": "Croquez-Moi",
@@ -1959,14 +1971,14 @@
         "longitude": -1.8469811628507236,
         "opening": "lu,ma,me,sa: 7h-19h - ve: 7h-20h - di: 7h30-18h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 192.24
+        "distanceIntoHike": 192.64
       },
       {
         "name": "Point of view",
         "type": "point of view",
         "latitude": 49.5438,
         "longitude": -1.87311,
-        "distanceIntoHike": 199.18
+        "distanceIntoHike": 199.66
       },
       {
         "name": "Cocci Market",
@@ -1976,7 +1988,7 @@
         "longitude": -1.8647342317923545,
         "opening": "tous les jours 8h30-19h30 sauf dimanche 8h30-12h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 200.2
+        "distanceIntoHike": 200.68
       },
       {
         "name": "Camping La Ferme aux 5 saisons",
@@ -1988,7 +2000,7 @@
         "longitude": -1.8502632373971124,
         "opening": "A partir du 1er avril - tous les jours - acceuil jusqu'à 17h30 mais possible d'arriver plus tard",
         "miscellaneous": "Details confirmed by email",
-        "distanceIntoHike": 201.53
+        "distanceIntoHike": 202.02
       },
       {
         "name": "Boulangerie Patisserie Richy",
@@ -1998,7 +2010,7 @@
         "longitude": -1.8656296831974597,
         "opening": "tous les jours 6h-19h30 sauf dimanche et lundi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 201.53
+        "distanceIntoHike": 202.02
       }
     ]
   },
@@ -2033,7 +2045,7 @@
         "latitude": 56.020963956108886,
         "longitude": -4.370689765962705,
         "opening": "lu,me,je,ve: 10h-15h, sa: 10h-17h, di: 11h-17h",
-        "distanceIntoHike": 11.21
+        "distanceIntoHike": 11.25
       },
       {
         "name": "Turnip The Beet",
@@ -2043,7 +2055,7 @@
         "longitude": -4.380787744132605,
         "opening": "tous les jours 9h-17h sauf dimanche 9h-16h",
         "miscellaneous": "Petite restauration & petite épicerie",
-        "distanceIntoHike": 12.35
+        "distanceIntoHike": 12.39
       },
       {
         "name": "Drymen Camping",
@@ -2053,35 +2065,35 @@
         "latitude": 56.05363646167198,
         "longitude": -4.432012387418892,
         "opening": "A partir du 16 mars - \"arriver avant la nuit\" :shrug:",
-        "distanceIntoHike": 17.46
+        "distanceIntoHike": 17.51
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.08229565718704,
         "longitude": -4.437798619518992,
-        "distanceIntoHike": 21.3
+        "distanceIntoHike": 21.35
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.085663296736456,
         "longitude": -4.464336240225392,
-        "distanceIntoHike": 23.18
+        "distanceIntoHike": 23.23
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.09504201917001,
         "longitude": -4.488833026625832,
-        "distanceIntoHike": 25.34
+        "distanceIntoHike": 25.38
       },
       {
         "name": "Start of the forbidden wild camping stretch along Loch Lomond",
         "type": "point of interest",
         "latitude": 56.090172,
         "longitude": -4.533101,
-        "distanceIntoHike": 29.77
+        "distanceIntoHike": 30.18
       },
       {
         "name": "Oak Tree Inn",
@@ -2091,7 +2103,7 @@
         "email": "info@theoaktreeinn.co.uk",
         "latitude": 56.0840530469438,
         "longitude": -4.539888429396323,
-        "distanceIntoHike": 30.8
+        "distanceIntoHike": 31.21
       },
       {
         "name": "Milarrochy Bay Camping and Caravanning Club Site",
@@ -2100,7 +2112,7 @@
         "latitude": 56.10012799817431,
         "longitude": -4.56127154338528,
         "opening": "A partir du 25 mars - à partir de 13h",
-        "distanceIntoHike": 33.81
+        "distanceIntoHike": 34.35
       },
       {
         "name": "Cashel Campsite",
@@ -2111,7 +2123,7 @@
         "latitude": 56.11216080502833,
         "longitude": -4.582095176863691,
         "opening": "A partir du 1er mars",
-        "distanceIntoHike": 35.95
+        "distanceIntoHike": 36.48
       },
       {
         "name": "Sallochy Campsite",
@@ -2123,98 +2135,98 @@
         "longitude": -4.607706885744995,
         "opening": "A partir du 3 mars",
         "miscellaneous": "Must be booked 24h in advance -- booking for 2024 start on february 1st",
-        "distanceIntoHike": 38.63
+        "distanceIntoHike": 39.17
       },
       {
         "name": "End of the forbidden wild camping stretch along Loch Lomond",
         "type": "point of interest",
         "latitude": 56.171755,
         "longitude": -4.655221,
-        "distanceIntoHike": 45.56
+        "distanceIntoHike": 46.1
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.17204951563624,
         "longitude": -4.656003475839107,
-        "distanceIntoHike": 45.63
+        "distanceIntoHike": 46.16
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.17437590995446,
         "longitude": -4.660693735227127,
-        "distanceIntoHike": 46.06
+        "distanceIntoHike": 46.59
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.17553511214399,
         "longitude": -4.663374977320518,
-        "distanceIntoHike": 46.25
+        "distanceIntoHike": 46.79
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.181756736917876,
         "longitude": -4.67316619849976,
-        "distanceIntoHike": 47.25
+        "distanceIntoHike": 47.78
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.19419663231783,
         "longitude": -4.679772938875468,
-        "distanceIntoHike": 48.76
+        "distanceIntoHike": 49.29
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.195349692986895,
         "longitude": -4.680215813590679,
-        "distanceIntoHike": 48.92
+        "distanceIntoHike": 49.45
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.20944675697332,
         "longitude": -4.674874085979709,
-        "distanceIntoHike": 50.74
+        "distanceIntoHike": 51.28
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.21706218933858,
         "longitude": -4.6744456691134895,
-        "distanceIntoHike": 51.61
+        "distanceIntoHike": 52.15
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.219172419677875,
         "longitude": -4.676007045507078,
-        "distanceIntoHike": 51.86
+        "distanceIntoHike": 52.4
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.2245129374283,
         "longitude": -4.677679736388734,
-        "distanceIntoHike": 52.5
+        "distanceIntoHike": 53.04
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.23084159090967,
         "longitude": -4.6807946712598945,
-        "distanceIntoHike": 53.25
+        "distanceIntoHike": 53.79
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.23889367149606,
         "longitude": -4.684203517991084,
-        "distanceIntoHike": 54.2
+        "distanceIntoHike": 54.74
       },
       {
         "name": "Inversnaid Hotel",
@@ -2224,28 +2236,28 @@
         "email": "inversnaidhotel@lochsandglens.com",
         "latitude": 56.243067044002785,
         "longitude": -4.684546320310456,
-        "distanceIntoHike": 54.76
+        "distanceIntoHike": 55.57
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.25948164106644,
         "longitude": -4.6921719531203605,
-        "distanceIntoHike": 56.87
+        "distanceIntoHike": 57.69
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.28457375056199,
         "longitude": -4.6940564236814835,
-        "distanceIntoHike": 59.75
+        "distanceIntoHike": 60.57
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.28454992811012,
         "longitude": -4.695191770384963,
-        "distanceIntoHike": 59.75
+        "distanceIntoHike": 60.57
       },
       {
         "name": "Beinglas Campsite",
@@ -2257,14 +2269,14 @@
         "longitude": -4.716796801642019,
         "opening": "A partir du ???",
         "todo": "Envoyer email pr confirmer dates",
-        "distanceIntoHike": 65.36
+        "distanceIntoHike": 66.18
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.39759032326454,
         "longitude": -4.651040506319124,
-        "distanceIntoHike": 76.48
+        "distanceIntoHike": 77.29
       },
       {
         "name": "Artisan Cafe & Deli",
@@ -2275,14 +2287,14 @@
         "opening": "je,ve,sa,di: 10h-16",
         "todo": "Reverifier les horaires avant de partir",
         "miscellaneous": "C'est un café, avec des patisseries",
-        "distanceIntoHike": 80.93
+        "distanceIntoHike": 81.75
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.422761163748106,
         "longitude": -4.684423182322487,
-        "distanceIntoHike": 81.38
+        "distanceIntoHike": 82.2
       },
       {
         "name": "The Real Food Cafe",
@@ -2293,7 +2305,7 @@
         "longitude": -4.710929662233809,
         "opening": "7h30-20h tous les jours",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 84.32
+        "distanceIntoHike": 85.14
       },
       {
         "name": "The Green Welly Stop",
@@ -2304,7 +2316,7 @@
         "latitude": 56.438178296142965,
         "longitude": -4.712639775775581,
         "todo": "Ajouter les horaires",
-        "distanceIntoHike": 84.64
+        "distanceIntoHike": 85.46
       },
       {
         "name": "Brodies Mini Market",
@@ -2314,7 +2326,7 @@
         "longitude": -4.713391394891225,
         "opening": "lu,ma,me,ve,sa: 8h15-17h - je: 8h15-13h30 - di: 9h-13h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 84.66
+        "distanceIntoHike": 85.48
       },
       {
         "name": "Bridge of Orchy Hotel",
@@ -2326,21 +2338,21 @@
         "longitude": -4.768907322930978,
         "opening": "Pas de détail sur les jours d'ouverture",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 95.13
+        "distanceIntoHike": 95.95
       },
       {
         "name": "Google Map indique une aire de bivouac mais pas OSM",
         "type": "bivouac",
         "latitude": 56.53183954228125,
         "longitude": -4.793522334283245,
-        "distanceIntoHike": 97.85
+        "distanceIntoHike": 98.67
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.532099295372625,
         "longitude": -4.813875774551119,
-        "distanceIntoHike": 99.34
+        "distanceIntoHike": 100.16
       },
       {
         "name": "Glencoe Mountain Resort",
@@ -2352,28 +2364,28 @@
         "longitude": -4.827852987613432,
         "opening": "Toute l'année on dirait",
         "todo": "Appeler pr confirmer dates et si possibile avec tente et si shop ouverte",
-        "distanceIntoHike": 112.12
+        "distanceIntoHike": 112.94
       },
       {
         "name": "Pleins d'emplacements de tente (visible depuis google street view)",
         "type": "bivouac",
         "latitude": 56.652491872013755,
         "longitude": -4.840022246501681,
-        "distanceIntoHike": 114.64
+        "distanceIntoHike": 115.45
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.66720094511387,
         "longitude": -4.90564908738445,
-        "distanceIntoHike": 119.45
+        "distanceIntoHike": 120.26
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.681444200121895,
         "longitude": -4.918574148006439,
-        "distanceIntoHike": 121.57
+        "distanceIntoHike": 122.38
       },
       {
         "name": "Blackwater Hostel, Glamping & Campsite",
@@ -2384,7 +2396,7 @@
         "latitude": 56.71435377122547,
         "longitude": -4.9603399405652135,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 128.56
+        "distanceIntoHike": 129.38
       },
       {
         "name": "The Tailrace Inn",
@@ -2396,7 +2408,7 @@
         "longitude": -4.963988237852119,
         "opening": "tous les jours on dirait. lunch: 11h-16h - dinner: 16h-21h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 128.75
+        "distanceIntoHike": 129.56
       },
       {
         "name": "MacDonald Hotel & Cabins",
@@ -2407,7 +2419,7 @@
         "latitude": 56.71643569118022,
         "longitude": -4.971764201505258,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 129.38
+        "distanceIntoHike": 130.2
       },
       {
         "name": "Glen Nevis Self-Catering Park",
@@ -2420,7 +2432,7 @@
         "opening": "Semble ouvert toute l'année",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
         "miscellaneous": "Il y a plein de spots de bivouac",
-        "distanceIntoHike": 148.2
+        "distanceIntoHike": 149.02
       },
       {
         "name": "Glen Nevis Restaurant",
@@ -2431,7 +2443,7 @@
         "longitude": -5.069613232061895,
         "opening": "A partir de mars - 15h-21h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 148.45
+        "distanceIntoHike": 149.26
       },
       {
         "name": "Glen Nevis Caravan & Camping Park",
@@ -2439,7 +2451,7 @@
         "latitude": 56.80443596048053,
         "longitude": -5.074198372299265,
         "miscellaneous": "C'est le même camping que celui juste à côté Glen Nevis Self-Catering Park",
-        "distanceIntoHike": 148.62
+        "distanceIntoHike": 149.44
       },
       {
         "name": "SPAR Claggan",
@@ -2449,7 +2461,7 @@
         "longitude": -5.086863732557701,
         "opening": "7h-22h tous les jours",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 151.46
+        "distanceIntoHike": 152.28
       },
       {
         "name": "Lidl",
@@ -2459,7 +2471,7 @@
         "longitude": -5.101032788184587,
         "opening": "7h-22h tous les jours sauf dimanche 7h-18h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 152.28
+        "distanceIntoHike": 153.1
       },
       {
         "name": "Tesco Express",
@@ -2469,7 +2481,7 @@
         "longitude": -5.108333757749734,
         "opening": "tous les jours 7h-21h sauf dimanche 8h-17h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 152.77
+        "distanceIntoHike": 153.59
       }
     ]
   },
@@ -2481,21 +2493,21 @@
         "type": "bivouac",
         "latitude": 56.89830199598285,
         "longitude": -5.01833485307154,
-        "distanceIntoHike": 14.6
+        "distanceIntoHike": 15.24
       },
       {
         "name": "Google Map et Open Street Map indiquent une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.91488944018543,
         "longitude": -4.993677225736149,
-        "distanceIntoHike": 17.14
+        "distanceIntoHike": 17.78
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 56.99841713405166,
         "longitude": -4.876444915579773,
-        "distanceIntoHike": 31.04
+        "distanceIntoHike": 31.91
       },
       {
         "name": "Laggan Lock Kiosk",
@@ -2505,14 +2517,14 @@
         "opening": "tous les jours 9h30-16h30",
         "todo": "Reverifier les horaires avant de partir",
         "miscellaneous": "C'est juste un petit café",
-        "distanceIntoHike": 35.67
+        "distanceIntoHike": 36.54
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 57.02506746651628,
         "longitude": -4.825328447787023,
-        "distanceIntoHike": 35.67
+        "distanceIntoHike": 36.54
       },
       {
         "name": "Hamish's Kitchen",
@@ -2524,7 +2536,7 @@
         "longitude": -4.799058655127001,
         "opening": "16h-23h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 38.54
+        "distanceIntoHike": 39.41
       },
       {
         "name": "Well of the Seven Heads coffee & takeaway",
@@ -2534,21 +2546,21 @@
         "longitude": -4.796518686496056,
         "opening": "tous les jours 5h30-13h sauf samedi et dimanche",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 39.28
+        "distanceIntoHike": 40.15
       },
       {
         "name": "Google Map et Open Street Map indiquent une aire de bivouac",
         "type": "bivouac",
         "latitude": 57.072624277540186,
         "longitude": -4.762250538658226,
-        "distanceIntoHike": 42.38
+        "distanceIntoHike": 43.4
       },
       {
         "name": "Google Map et Open Street Map indiquent une aire de bivouac",
         "type": "bivouac",
         "latitude": 57.12197368820125,
         "longitude": -4.722644518592798,
-        "distanceIntoHike": 48.98
+        "distanceIntoHike": 50.0
       },
       {
         "name": "The Lock Inn",
@@ -2560,7 +2572,7 @@
         "longitude": -4.6819146529355065,
         "opening": "tous les jours 12h-20h30",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 52.75
+        "distanceIntoHike": 53.77
       },
       {
         "name": "Bothy Restaurant & Bar",
@@ -2570,7 +2582,7 @@
         "longitude": -4.681024156216829,
         "opening": "tous les jours 12h-22h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 52.88
+        "distanceIntoHike": 53.95
       },
       {
         "name": "The Moorings Restaurant",
@@ -2580,21 +2592,21 @@
         "longitude": -4.67994050127869,
         "opening": "tous les jours 11h-21h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 52.92
+        "distanceIntoHike": 54.77
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 57.155657935643205,
         "longitude": -4.6809724539907345,
-        "distanceIntoHike": 54.54
+        "distanceIntoHike": 56.39
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 57.164173387187276,
         "longitude": -4.666033309450656,
-        "distanceIntoHike": 56.34
+        "distanceIntoHike": 58.19
       },
       {
         "name": "Glen Rowan Cafe",
@@ -2605,21 +2617,21 @@
         "latitude": 57.2156082580868,
         "longitude": -4.620379047517476,
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 65.49
+        "distanceIntoHike": 67.34
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 57.23718338779814,
         "longitude": -4.590560261656668,
-        "distanceIntoHike": 69.95
+        "distanceIntoHike": 71.79
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 57.25658067697165,
         "longitude": -4.535115539996755,
-        "distanceIntoHike": 74.84
+        "distanceIntoHike": 76.69
       },
       {
         "name": "Loch Ness Bay Camping",
@@ -2630,7 +2642,7 @@
         "latitude": 57.328564168334296,
         "longitude": -4.465509090613826,
         "todo": "Appeler pr confirmer dates !!!! on dirait qu'ils n'acceptent pas les tentes? !!!",
-        "distanceIntoHike": 86.69
+        "distanceIntoHike": 88.53
       },
       {
         "name": "Station service Esso",
@@ -2641,7 +2653,7 @@
         "opening": "tous les jours 8h-19h sauf dimanche 9h-19h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
         "miscellaneous": "Pr acheter des snacks peut-être",
-        "distanceIntoHike": 86.97
+        "distanceIntoHike": 88.82
       },
       {
         "name": "Scotmid Coop Drumnadrochit",
@@ -2651,7 +2663,7 @@
         "longitude": -4.478039856343159,
         "opening": "6h30-22h tous les jours sauf samedi et dimanche 7h30-22h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 87.16
+        "distanceIntoHike": 89.01
       },
       {
         "name": "The Italian Job",
@@ -2661,7 +2673,7 @@
         "longitude": -4.477836682520131,
         "opening": "ma,me,je: 12h45-14h - ve,sa: 17h-19h30",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 87.16
+        "distanceIntoHike": 89.01
       },
       {
         "name": "Taste of China",
@@ -2671,7 +2683,7 @@
         "longitude": -4.479113423953553,
         "opening": "tous les jours 16h-22h sauf lundi",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 87.33
+        "distanceIntoHike": 89.18
       },
       {
         "name": "Ness Deli",
@@ -2682,7 +2694,7 @@
         "longitude": -4.479231259580676,
         "opening": "tous les jours 10h-15h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 87.94
+        "distanceIntoHike": 89.79
       },
       {
         "name": "Fiddlers Highland Restaurant",
@@ -2693,7 +2705,7 @@
         "latitude": 57.33554831205419,
         "longitude": -4.479746275402906,
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 87.94
+        "distanceIntoHike": 89.79
       },
       {
         "name": "Abriachan Cafe Campsite Wester Laide",
@@ -2704,21 +2716,21 @@
         "longitude": -4.418404855949549,
         "opening": "A partir du ??? - 7h-23h",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 100.0
+        "distanceIntoHike": 101.87
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 57.43649708182719,
         "longitude": -4.355781898764873,
-        "distanceIntoHike": 106.31
+        "distanceIntoHike": 108.19
       },
       {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 57.441459370656,
         "longitude": -4.332865585174385,
-        "distanceIntoHike": 107.93
+        "distanceIntoHike": 109.81
       },
       {
         "name": "Bught Park Caravan Park & Campsite",
@@ -2731,7 +2743,7 @@
         "opening": "A partir du 31 mars",
         "todo": "Appeler pr confirmer dates",
         "miscellaneous": "80 spots de tente",
-        "distanceIntoHike": 115.91
+        "distanceIntoHike": 117.79
       }
     ]
   },
@@ -2791,7 +2803,7 @@
         "opening": "A partir du ??? - arrivées jusqu'à 19h",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
         "miscellaneous": "Gros camping avec pleins d'emplacements tente",
-        "distanceIntoHike": 76.52
+        "distanceIntoHike": 76.62
       },
       {
         "name": "Tesco Superstore",
@@ -2801,7 +2813,7 @@
         "longitude": -5.162996404611335,
         "opening": "tous les jours 6h-22h sauf dimanche 7h-18h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 76.87
+        "distanceIntoHike": 77.41
       },
       {
         "name": "Schoolhouse Bothy",
@@ -2809,7 +2821,7 @@
         "latitude": 57.935251692599046,
         "longitude": -4.805396363282541,
         "miscellaneous": "Dur de dire, mais il n'y a pas l'air d'y avoir bcp de places pr des tentes directement à côté du bothy",
-        "distanceIntoHike": 102.77
+        "distanceIntoHike": 103.31
       },
       {
         "name": "Glencoul Bothy",
@@ -2817,7 +2829,7 @@
         "latitude": 58.22800186330747,
         "longitude": -4.946641306649911,
         "miscellaneous": "Dur d'être sûr, mais il semble qu'il y ait quelques spots pr les tentes",
-        "distanceIntoHike": 153.34
+        "distanceIntoHike": 153.89
       },
       {
         "name": "Glendhu Bothy",
@@ -2825,7 +2837,7 @@
         "latitude": 58.258627124058265,
         "longitude": -4.9279310407270405,
         "miscellaneous": "Dur d'être sûr, mais il semble qu'il y ait quelques spots pr les tentes",
-        "distanceIntoHike": 159.94
+        "distanceIntoHike": 160.48
       },
       {
         "name": "The Quay House",
@@ -2833,7 +2845,7 @@
         "latitude": 58.45648985999961,
         "longitude": -5.051819141721631,
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 197.94
+        "distanceIntoHike": 198.48
       },
       {
         "name": "Worth A Look",
@@ -2845,7 +2857,7 @@
         "longitude": -5.054247341637863,
         "opening": "lu,ma: 11h-16h - me,ve: 11h-19h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 197.99
+        "distanceIntoHike": 198.53
       },
       {
         "name": "SPAR Kinlochbervie",
@@ -2855,7 +2867,7 @@
         "longitude": -5.054725630993037,
         "opening": "tous les jours 8h-20h sauf samedi 8h-18h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 198.04
+        "distanceIntoHike": 198.58
       },
       {
         "name": "Sheigra Beach Honour Campsite - Tent Only",
@@ -2863,7 +2875,7 @@
         "latitude": 58.491299552797905,
         "longitude": -5.11944586778511,
         "miscellaneous": "Il y a l'air d'y avoir pas mal de places",
-        "distanceIntoHike": 203.51
+        "distanceIntoHike": 204.05
       },
       {
         "name": "Strathchailleach (bothy)",
@@ -2871,7 +2883,23 @@
         "latitude": 58.54457272127561,
         "longitude": -5.010022445707705,
         "miscellaneous": "Dur d'être sûr, mais il semble qu'il y ait un peu de place pr qques tentes",
-        "distanceIntoHike": 213.3
+        "distanceIntoHike": 213.84
+      },
+      {
+        "name": "Ferry to Durness",
+        "type": "train",
+        "website": "https://durness.scot/local-transport.html --- https://capewrathferry.wordpress.com/rates-and-services",
+        "latitude": 58.55161642559563,
+        "longitude": -4.801901251325669,
+        "miscellaneous": "May ~ Ferry runs twice daily at 11am & 1.30pm",
+        "distanceIntoHike": 215.91
+      },
+      {
+        "name": "Start of the Cape Wrath firing range",
+        "type": "point of interest",
+        "latitude": 58.5722,
+        "longitude": -5.00162,
+        "distanceIntoHike": 216.98
       },
       {
         "name": "Campsite Durness",
@@ -2882,7 +2910,7 @@
         "opening": "A partir du 20 mars - arriver avant 17h",
         "todo": "Appeler pr confirmer date d'ouverture",
         "miscellaneous": "pas besoin de booker en avance, 1er arrivé 1er servi - ca semble grand",
-        "distanceIntoHike": 217.39
+        "distanceIntoHike": 217.93
       },
       {
         "name": "The Durness Shop",
@@ -2892,7 +2920,7 @@
         "longitude": -4.745995619193896,
         "opening": "tous les jours 8h-18h sauf samedi 9h-18h et dimanche 9h-16h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 217.39
+        "distanceIntoHike": 217.93
       },
       {
         "name": "Mathers",
@@ -2902,7 +2930,16 @@
         "longitude": -4.740480505825823,
         "opening": "tous les jours 10h30-17h/20h30-22h sauf dimanche 12h-17h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 217.39
+        "distanceIntoHike": 217.93
+      },
+      {
+        "name": "Bus to Inverness (805)",
+        "type": "train",
+        "website": "https://www.thedurnessbus.com/ --- https://www.thedurnessbus.com/durnessnew/wp-content/uploads/2021/11/805-service-timetable-2021.pdf",
+        "latitude": 58.568603611868646,
+        "longitude": -4.746063235807476,
+        "miscellaneous": "Mondays, Tuesdays, Thursdays and Saturdays - 8h05 => 11h40 - Durness P.O. (c'est au Spar)",
+        "distanceIntoHike": 217.93
       },
       {
         "name": "Kearvaig Bothy",
@@ -2910,7 +2947,7 @@
         "latitude": 58.60819395277754,
         "longitude": -4.94103401304745,
         "miscellaneous": "Plein de place pr des tentes. Ca à l'air splendide, mériterait d'y rester une nuit",
-        "distanceIntoHike": 220.94
+        "distanceIntoHike": 221.48
       }
     ]
   },
@@ -3711,7 +3748,7 @@
         "latitude": 63.933165715675536,
         "longitude": -19.166842711497832,
         "miscellaneous": "Pas mal de spots pour tentes",
-        "distanceIntoHike": 14.03
+        "distanceIntoHike": 14.24
       },
       {
         "name": "Alftavatn Hut",
@@ -3719,7 +3756,7 @@
         "latitude": 63.857626766451546,
         "longitude": -19.227223958566693,
         "miscellaneous": "Beaucoup de spots pour tentes",
-        "distanceIntoHike": 28.68
+        "distanceIntoHike": 28.9
       },
       {
         "name": "Hvanngil Hut",
@@ -3727,7 +3764,7 @@
         "latitude": 63.83179838690259,
         "longitude": -19.204692076722907,
         "miscellaneous": "Pas mal de spots pour tentes",
-        "distanceIntoHike": 32.48
+        "distanceIntoHike": 32.69
       },
       {
         "name": "Emstrur-Botnar Hut",
@@ -3735,7 +3772,7 @@
         "latitude": 63.76594476303706,
         "longitude": -19.373725607345254,
         "miscellaneous": "Pas mal de spots pour tentes",
-        "distanceIntoHike": 47.82
+        "distanceIntoHike": 48.57
       },
       {
         "name": "Langidalur Volunteer Camp",
@@ -3743,7 +3780,7 @@
         "latitude": 63.684115037936074,
         "longitude": -19.514519012109453,
         "miscellaneous": "Il y a des spots pour tentes - pas sûr à quel point c'est pour les randonneurs",
-        "distanceIntoHike": 63.65
+        "distanceIntoHike": 64.66
       },
       {
         "name": "Básar, Þórsmörk",
@@ -3751,14 +3788,14 @@
         "latitude": 63.67794351556981,
         "longitude": -19.48216517199264,
         "miscellaneous": "Il y a des spots pour tentes",
-        "distanceIntoHike": 66.02
+        "distanceIntoHike": 67.03
       },
       {
         "name": "Bivouac indiqué sur OSM",
         "type": "bivouac",
         "latitude": 63.67756,
         "longitude": -19.4687,
-        "distanceIntoHike": 66.84
+        "distanceIntoHike": 67.85
       },
       {
         "name": "Baldvinsskáli",
@@ -3766,7 +3803,7 @@
         "latitude": 63.61094733334585,
         "longitude": -19.440961366046036,
         "miscellaneous": "Il y a quelques spots pour tentes",
-        "distanceIntoHike": 76.96
+        "distanceIntoHike": 78.32
       },
       {
         "name": "Skógar Campsite",
@@ -3774,7 +3811,7 @@
         "latitude": 63.52805567107387,
         "longitude": -19.512596907971567,
         "miscellaneous": "Il y a pas mal de spots pour tentes -- mais il y a du traffic (c'est un parking) et c'est mal noté sur Google (douches sales)",
-        "distanceIntoHike": 89.51
+        "distanceIntoHike": 90.98
       }
     ]
   },

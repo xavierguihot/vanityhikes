@@ -3743,6 +3743,14 @@
         "distanceIntoHike": 0.0
       },
       {
+        "name": "Skógar Campsite",
+        "type": "bivouac",
+        "latitude": 63.52805567107387,
+        "longitude": -19.512596907971567,
+        "miscellaneous": "Il y a pas mal de spots pour tentes -- mais il y a du traffic (c'est un parking) et c'est mal noté sur Google (douches sales)",
+        "distanceIntoHike": 0.0
+      },
+      {
         "name": "Hoskuldsskali",
         "type": "bivouac",
         "latitude": 63.933165715675536,
@@ -3804,14 +3812,6 @@
         "longitude": -19.440961366046036,
         "miscellaneous": "Il y a quelques spots pour tentes",
         "distanceIntoHike": 78.32
-      },
-      {
-        "name": "Skógar Campsite",
-        "type": "bivouac",
-        "latitude": 63.52805567107387,
-        "longitude": -19.512596907971567,
-        "miscellaneous": "Il y a pas mal de spots pour tentes -- mais il y a du traffic (c'est un parking) et c'est mal noté sur Google (douches sales)",
-        "distanceIntoHike": 90.98
       }
     ]
   },

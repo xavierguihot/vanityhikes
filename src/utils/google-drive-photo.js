@@ -4,7 +4,8 @@ var googleDriveBaseUri = "https://drive.google.com"
 var fullPhotoBaseUri = `${googleDriveBaseUri}/uc`
 
 function fullPhoto(googleDriveId) {
-  return `${fullPhotoBaseUri}?id=${googleDriveId}&export=view`;
+  //return `${fullPhotoBaseUri}?id=${googleDriveId}&export=view`;
+  return thumbnailForWidth(googleDriveId, 3200);
 }
 
 function fullPhotoForDownload(googleDriveId) {

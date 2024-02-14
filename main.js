@@ -33,7 +33,7 @@ if (urlMenu == "map") {
 } else if (urlMenu == "photos") {
   drawPhotos(content, width, height);
 } else if (urlMenu == "graphs") {
- drawGraphs(content, width, height);
+  drawGraphs(content, width, height);
 } else if (urlMenu == "stats") {
   drawUserStats(content, width, height);
 } else {

@@ -1,6 +1,10 @@
 
 function drawUserStats(svg, width, height) {
-  loadUserStats().then(_ => displayUserStats(svg, width, height));
+  drawLoader();
+  loadUserStats().then(_ => {
+    displayUserStats(svg, width, height);
+    removeLoader();
+  });
 }
 
 function displayUserStats(svg, width, height) {

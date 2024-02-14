@@ -1,30 +1,45 @@
 
 function drawGraphs(svg, width, height) {
+  drawLoader();
   loadHikeTraces().then(_ => {
     loadTimeline().then(_ => {
-      displayGraphs(svg, width, height);
+      displayGraphs(svg, width, height, "Rolling cumulated distance over previous 365 days");
+      removeLoader();
     });
   });
 }
 
-function displayGraphs(svg, width, height) {
+function displayGraphs(svg, width, height, selectedGraphName) {
 
   var margin = { top: 50, right: 70, bottom: 50, left: 60 };
   var graphWidth = width - margin.left - margin.right;
   var graphHeight = height - margin.top - margin.bottom;
 
-  var selectedGraph = selectableGraphs[0];
+  var selectedGraph = selectableGraphs.find(graph => graph.name == selectedGraphName);
+
+  svg.selectAll("g.graphs-container").remove();
+  var graphPageContainer = svg.append("g").attr("class", "graphs-container");
 
   var graphContainer =
-    svg
+    graphPageContainer
       .append("g")
-      .attr("class", "graphs-container")
       .attr("width", graphWidth + margin.left + margin.right)
       .attr("height", graphHeight + margin.top + margin.bottom)
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
 
-  drawGraphTitle(selectedGraph, graphContainer, graphWidth, graphHeight, margin);
   drawGraph(selectedGraph, graphContainer, graphWidth, graphHeight, margin);
+
+  // The title (also a selector of graphs):
+  drawSelector(
+    graphPageContainer,
+    "available-graphs",
+    selectableGraphs.map(d => d.name),
+    selectedGraph["name"],
+    selectedGraphName => displayGraphs(svg, width, height, selectedGraphName),
+    width / 2,
+    30,
+    true
+  );
 }
 
 function drawGraph(selectedGraph, graphContainer, graphWidth, graphHeight, margin) {

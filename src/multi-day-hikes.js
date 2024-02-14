@@ -1,9 +1,11 @@
 
 function drawMultiDayHikes(svg, width, height) {
+  drawLoader();
   loadHikeTraces().then(_ => {
     loadPhotos().then(_ => {
       loadMultiDayHikes().then(_ => {
         displayMultiDayHikes(svg, width, height);
+        removeLoader();
       });
     });
   });
@@ -41,13 +43,7 @@ function displayMultiDayHikes(svg, width, height) {
 
   // Adjust the vertical position of each multi day hike on the page based on previous multi day hikes' heights:
   data.multiDayHikes.forEach((multiDayHike, i) => {
-    var previousHikesIndexes = Array.from({ length: i }, (v, k) => k + 1);
-    var previousHikesHeightSum =
-      d3.sum(
-        previousHikesIndexes,
-        j => multiDayHikesContainer.select(`#multi-day-hike-${j} .multi-day-hike-rectangle`).node().getBoundingClientRect().height
-      );
-    var hikeY = previousHikesHeightSum + previousHikesIndexes.length * constants.spaceBetweenHikes;
+    var hikeY = i * (multiDayHikeHeight + constants.spaceBetweenHikes);
     multiDayHikesContainer.select(`#multi-day-hike-${i}`).attr("transform", `translate(0, ${hikeY})`)
   });
 
@@ -57,12 +53,20 @@ function displayMultiDayHikes(svg, width, height) {
       multiDayHikesContainer.node().getBoundingClientRect().height + constants.topMargin + constants.bottomMargin
     );
 
+  // We don't fetch and draw photos and maps for all multi day hikes when loading the page, but
+  // only when the user gets to their scroll y level:
   periodicDisplayOfPhotosAtScrollLevel();
+  periodicDisplayOfMapsAtScrollLevel();
 
   function drawMultiDayHike(multiDayHike, i) {
 
     var multiDayHikeContainer =
-      multiDayHikesContainer.append("g").attr("id", `multi-day-hike-${i}`);
+      multiDayHikesContainer
+        .append("g")
+        .attr("id", `multi-day-hike-${i}`)
+        .attr("class", "multi-day-hike-container")
+        .attr("name", multiDayHike.name)
+        .attr("index", i);
 
     multiDayHikeContainer
       .append("rect")
@@ -166,33 +170,12 @@ function displayMultiDayHikes(svg, width, height) {
         .style("font-family", "Roboto,Arial,sans-serif")
         .html(`<div style="overflow-y: auto; height: ${multiDayHikeHeight - 40}px">${multiDayHike.descriptionFR}<br></div>`);
     }
+  }
+
+  function drawMap(multiDayHike, multiDayHikeContainer, i) {
 
     var hikeNames = multiDayHike.overridenHikes ? multiDayHike.overridenHikes : multiDayHike.contiguousHikes;
     var hikes = data.hikes.filter(hike => hikeNames.includes(hike.name));
-    drawMap(multiDayHike, hikes, multiDayHikeContainer, i);
-
-    if (multiDayHike.hasGpxFile) {
-      multiDayHikeContainer
-        .append("svg:image")
-        .attr("x", width - constants.rightMargin - constants.leftMargin - scaleToWidth(20))
-        .attr("y", scaleToWidth(10))
-        .attr("width", scaleToWidth(18))
-        .attr("height", scaleToWidth(18))
-        .style("cursor", "pointer")
-        .attr("xlink:href", "img/gpx.png")
-        .on("click", _ => {
-          var link = document.createElement("a");
-          link.href = `data/gpx/${multiDayHike.name}.gpx`;
-          link.download = `${multiDayHike.name}.gpx`;
-          link.click();
-          drawBanner("Use this gpx file at your own risk! You are responsible for your own safety. Assess feasibility in regards to your technical and physical abilities.", bannerContainer);
-        })
-        .on("mouseover", (event, d) => drawTooltip("Download GPX file", svg, event, scaleToWidth(-35), scaleToWidth(-5)))
-        .on("mouseout", _ => clearTooltip());
-    }
-  }
-
-  function drawMap(multiDayHike, hikes, multiDayHikeContainer, i) {
 
     // In order to restrict the map's images and trace within a rectangle:
     multiDayHikeContainer
@@ -307,11 +290,35 @@ function displayMultiDayHikes(svg, width, height) {
 
       drawScaleBar(mapContainer, transform.k, transform.x, transform.y, mapWidth, mapHeight, constants.initialScale);
     }
+
+    drawGpxDownloader(multiDayHikeContainer, multiDayHike);
+  }
+
+  function drawGpxDownloader(multiDayHikeContainer, multiDayHike) {
+    if (multiDayHike.hasGpxFile) {
+      multiDayHikeContainer
+        .append("svg:image")
+        .attr("x", width - constants.rightMargin - constants.leftMargin - scaleToWidth(20))
+        .attr("y", scaleToWidth(10))
+        .attr("width", scaleToWidth(18))
+        .attr("height", scaleToWidth(18))
+        .style("cursor", "pointer")
+        .attr("xlink:href", "img/gpx.png")
+        .on("click", _ => {
+          var link = document.createElement("a");
+          link.href = `data/gpx/${multiDayHike.name}.gpx`;
+          link.download = `${multiDayHike.name}.gpx`;
+          link.click();
+          drawBanner("Use this gpx file at your own risk! You are responsible for your own safety. Assess feasibility in regards to your technical and physical abilities.", bannerContainer);
+        })
+        .on("mouseover", (event, d) => drawTooltip("Download GPX file", svg, event, scaleToWidth(-35), scaleToWidth(-5)))
+        .on("mouseout", _ => clearTooltip());
+    }
   }
 
   function displayPhotosAtScrollLevel() {
     multiDayHikesContainer
-      .selectAll('image.multi-day-hike-photo')
+      .selectAll("image.multi-day-hike-photo")
       .nodes()
       .filter(d => {
         var imageYOnPage = d3.select(d).node().getBoundingClientRect().top;
@@ -327,6 +334,33 @@ function displayMultiDayHikes(svg, width, height) {
     if (!d3.selectAll(".multi-day-hikes-container").empty()) {
       displayPhotosAtScrollLevel();
       window.setTimeout(periodicDisplayOfPhotosAtScrollLevel, 500);
+    }
+  }
+
+  function displayMapsAtScrollLevel() {
+    multiDayHikesContainer
+      .selectAll("g.multi-day-hike-container")
+      .nodes()
+      .filter(d => {
+        var multiDayHikeYOnPage = d3.select(d).node().getBoundingClientRect().top;
+        return multiDayHikeYOnPage > -height && multiDayHikeYOnPage < height;
+      })
+      .filter(d => {
+        return d3.select(d).selectAll("g.multi-day-hike-map-container").empty();
+      })
+      .forEach(d => {
+        var multiDayHikeContainer = d3.select(d);
+        var hikeName = d3.select(d).attr("name");
+        var hikeIndex = parseInt(d3.select(d).attr("index"));
+        var multiDayHike = data.multiDayHikes.find(d => d.name == hikeName);
+        drawMap(multiDayHike, multiDayHikeContainer, hikeIndex);
+      });
+  }
+
+  function periodicDisplayOfMapsAtScrollLevel() {
+    if (!d3.selectAll(".multi-day-hikes-container").empty()) {
+      displayMapsAtScrollLevel();
+      window.setTimeout(periodicDisplayOfMapsAtScrollLevel, 500);
     }
   }
 

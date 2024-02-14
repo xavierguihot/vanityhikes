@@ -64,7 +64,8 @@ function drawWishListHikes5kmMarks(mapContainer, displayWishList, isMapZoomedEno
           enter
             .append("g")
             .attr("class", "wishlist-5km-mark")
-            .attr("id", mark => `${mark.hike}-${mark.distance}km-marks`);
+            .attr("id", mark => `${mark.hike}-${mark.distance}km-marks`)
+            .attr("pointer-events", "none");
         markerContainer
           .append("text")
           .text(mark => `${mark.distance}km`)
@@ -155,7 +156,7 @@ function drawWishlistHikesLocationsIcons(mapContainer, displayLocations, isMapZo
   );
 }
 
-var locationsSort = ["point of view", "point of interest", "train", "boulangerie", "restaurant", "shop", "camping", "bivouac", "hotel", "refuge", "gite"];
+var locationsSort = ["point of view", "point of interest", "train", "boulangerie", "restaurant", "hotel", "shop", "camping", "bivouac", "refuge", "gite"];
 
 function getWishlistHikesLocationsIconsData() {
 

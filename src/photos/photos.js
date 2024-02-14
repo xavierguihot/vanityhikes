@@ -1,9 +1,15 @@
 
+var photoTags = [];
+
 function drawPhotos(svg, width, height) {
-  loadPhotos().then(_ => displayPhotos(svg, width, height));
+  drawLoader();
+  loadPhotos().then(_ => {
+    displayPhotos(svg, width, height, "All photos");
+    removeLoader();
+  });
 }
 
-function displayPhotos(svg, width, height) {
+function displayPhotos(svg, width, height, photosTagFilter) {
 
   var topMargin = 50;
   var leftMargin = 40;
@@ -14,22 +20,30 @@ function displayPhotos(svg, width, height) {
   var spaceBetweenPhotos = 4;
   var heightBetweenPhotoDates = 50;
 
-  var photosContainer =
-    svg
-      .append("g")
-      .attr("class", "photos-container")
-      .attr("transform", `translate(0, ${topMargin})`);
+  svg.selectAll("g.photos-container").remove();
+  var photosContainer = svg.append("g").attr("class", "photos-container");
 
-  var orderedPhotos = sortPhotosByDecreasingOrderOfDate(data.photos);
+  var photosToList;
+  if (photosTagFilter == "All photos") {
+    photosToList = data.photos;
+  } else if (photosTagFilter == "Most beautiful photos") {
+    photosToList = data.photos.filter(photo => photo.isBeautiful);
+  } else {
+    photosToList = data.photos.filter(photo =>
+      (photo.tags && photo.tags.includes(photosTagFilter)) || photo.multiDayHike == photosTagFilter
+    );
+  }
 
-  var photosByDay = organisePhotosByDay(data.photos, minLineHeight, spaceBetweenPhotos, maxLineWidth);
+  var orderedPhotos = sortPhotosByDecreasingOrderOfDate(photosToList);
+
+  var photosByDay = organisePhotosByDay(photosToList, minLineHeight, spaceBetweenPhotos, maxLineWidth);
 
   photosByDay.forEach((group, i) => {
 
     var date = group.date;
     var datePhotos = group.dayLinesOfPhotos.photoLines.flat();
 
-    var dayY = d3.sum(photosByDay.slice(0, i), d => d.dayLinesOfPhotos.dayHeight) + i * heightBetweenPhotoDates;
+    var dayY = d3.sum(photosByDay.slice(0, i), d => d.dayLinesOfPhotos.dayHeight) + i * heightBetweenPhotoDates + topMargin;
     datePhotos.forEach(photo => photo.pageY = dayY + photo.y);
 
     photosContainer
@@ -58,12 +72,30 @@ function displayPhotos(svg, width, height) {
       .attr("height", photo => photo.miniatureHeight)
       .style("cursor", "pointer")
       .attr("xlink:href", "img/white.png")
-      .on("mouseover", event => d3.select(event.currentTarget).attr("opacity", "0.85"))
+      .on("mouseover", (event, photo) => {
+        d3.select(event.currentTarget).attr("opacity", "0.85");
+        console.log(photo);
+        console.log(photo.name);
+      })
       .on("mouseout", event => d3.select(event.currentTarget).attr("opacity", "1"))
       .on("click", (event, photo) => drawPhoto(photo, orderedPhotos, width, height));
   });
 
-  d3.select("svg").attr("height", photosContainer.node().getBoundingClientRect().height + 50);
+  drawSelector(
+    photosContainer,
+    "photo-tags",
+    ["All photos", "Most beautiful photos"].concat(getPhotoTags()),
+    photosTagFilter,
+    selectedTag => {
+      cleanPhotosPage(svg);
+      displayPhotos(svg, width, height, selectedTag);
+    },
+    width / 2,
+    20,
+    true
+  );
+
+  d3.select("svg").attr("height", d3.max([photosContainer.node().getBoundingClientRect().height + 50, height]));
 
   function displayMiniaturesAtScrollLevel() {
     var viewingYPosition = window.scrollY;
@@ -76,11 +108,31 @@ function displayPhotos(svg, width, height) {
   function periodicDisplayOfMiniaturesAtScrollLevel() {
     if (!d3.selectAll(".photos-container").empty()) {
       displayMiniaturesAtScrollLevel();
-      window.setTimeout(periodicDisplayOfMiniaturesAtScrollLevel, 500);
+      window.setTimeout(periodicDisplayOfMiniaturesAtScrollLevel, 750);
     }
   }
 
   periodicDisplayOfMiniaturesAtScrollLevel();
+}
+
+function getPhotoTags() {
+
+  if (photoTags.length == 0) {
+    photoTags =
+      d3.sort(
+        [...new Set(
+          data.photos.flatMap(photo => {
+            var tags = photo.tags ? photo.tags : [];
+            if (photo.multiDayHike) {
+              tags = tags.concat(photo.multiDayHike);
+            }
+            return tags.filter(d => d != "");
+          })
+        )]
+      );
+  }
+
+  return photoTags;
 }
 
 function cleanPhotosPage(svg) {

@@ -1,11 +1,13 @@
 
 function drawMapAndTraces(svg, width, height) {
+  drawLoader();
   loadHikeTraces().then(_ => {
     loadPhotos().then(_ => {
       loadWishlistHikeTraces().then(_ => {
         loadWishlistHikeLocations().then(_ => {
           loadTimeline().then(_ => {
             displayMapAndTraces(svg, width, height);
+            removeLoader();
           });
         });
       });

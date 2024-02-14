@@ -195,7 +195,7 @@ function rightPhoto(currentGoogleId, orderedPhotos) {
 }
 
 function quitPhotoView() {
-  var scrollPositionToGetBackTo = d3.select(".photo-view-high-res[opacity='1']").attr("scrollPosition");
+  var scrollPositionToGetBackTo = d3.select(".photo-view-high-res[opacity='1']").attr("scrollPosition") - 50;
   d3.select("svg").attr("height", svg.select(".photos-container").node().getBoundingClientRect().height + 50);
   d3.select("g.photo-viewing-page-container").remove();
   window.scrollTo(0, scrollPositionToGetBackTo);

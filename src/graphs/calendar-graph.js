@@ -98,5 +98,5 @@ function drawCalendarGraph(graphContainer, graphHolder, selectedGraph, graphWidt
     .style("font-family", "sans-serif")
     .text(d => months[d.getMonth()]);
 
-  d3.select("svg").attr("height", graphContainer.node().getBoundingClientRect().height + 100);
+  d3.select("svg").attr("height", graphContainer.node().getBoundingClientRect().height + 120);
 }

@@ -3,11 +3,39 @@
     "hike": "Iceland Whale Watching",
     "locations": [
       {
+        "name": "Eglise Hallgrímskirkja",
+        "type": "point of interest",
+        "latitude": 64.14202426785526,
+        "longitude": -21.926611801583746,
+        "distanceIntoHike": 1.56
+      },
+      {
+        "name": "Harpa concert hall",
+        "type": "point of interest",
+        "latitude": 64.15020304973312,
+        "longitude": -21.932274922518072,
+        "distanceIntoHike": 2.95
+      },
+      {
+        "name": "Old Harbour",
+        "type": "point of interest",
+        "latitude": 64.15098861848642,
+        "longitude": -21.94369106798294,
+        "distanceIntoHike": 4.25
+      },
+      {
+        "name": "Whales of Iceland Museum",
+        "type": "point of interest",
+        "latitude": 64.15538567549035,
+        "longitude": -21.948326169592356,
+        "distanceIntoHike": 5.21
+      },
+      {
         "name": "Whale watching tour meeting point",
         "type": "point of interest",
         "latitude": 64.8980738902572,
         "longitude": -23.704520251177872,
-        "distanceIntoHike": 6.64
+        "distanceIntoHike": 5.49
       }
     ]
   },
@@ -708,8 +736,8 @@
         "email": "auxgrandsespaces@orange.fr",
         "latitude": 49.236524738492534,
         "longitude": -1.6408957876995012,
-        "opening": "A partir du 1er avril",
-        "todo": "Attendre réponse à mon email de demande de renseignements",
+        "opening": "A partir du 1er avril - tous les jours 14h-18h",
+        "miscellaneous": "Details confirmed by email",
         "distanceIntoHike": 71.17
       },
       {
@@ -1060,8 +1088,8 @@
         "email": "campingmunicipal50290@orange.fr",
         "latitude": 48.88700977853966,
         "longitude": -1.5698495761053435,
-        "opening": "A partir du 1er avril",
-        "todo": "Attendre réponse à mon email de demande de renseignements",
+        "opening": "A partir du 1er avril - tous les jours de 14h à 18h",
+        "miscellaneous": "Details confirmed by email",
         "distanceIntoHike": 170.21
       },
       {
@@ -1248,8 +1276,8 @@
         "email": "camping.etoiledemer@laliguenormandie.org",
         "latitude": 48.789915248690896,
         "longitude": -1.5668982930049644,
-        "opening": "A partir du 1er avril -- 15h-20h",
-        "todo": "Attendre réponse à mon email de demande de renseignements",
+        "opening": "A partir du 3 avril -- Ouvert tous les jours 15h-20h",
+        "miscellaneous": "Details confirmed by email",
         "distanceIntoHike": 191.0
       },
       {
@@ -2096,6 +2124,13 @@
         "distanceIntoHike": 30.18
       },
       {
+        "name": "Birchwood Guest Lodge",
+        "type": "hotel",
+        "latitude": 56.08328347296472,
+        "longitude": -4.52991000813453,
+        "distanceIntoHike": 30.62
+      },
+      {
         "name": "Oak Tree Inn",
         "type": "hotel",
         "website": "https://www.theoaktreeinn.co.uk",
@@ -2751,6 +2786,23 @@
     "hike": "CWT",
     "locations": [
       {
+        "name": "Kearvaig Bothy",
+        "type": "bivouac",
+        "latitude": 58.60819395277754,
+        "longitude": -4.94103401304745,
+        "miscellaneous": "Plein de place pr des tentes. Ca à l'air splendide, mériterait d'y rester une nuit",
+        "distanceIntoHike": 6.38
+      },
+      {
+        "name": "Ferry to Durness",
+        "type": "train",
+        "website": "https://durness.scot/local-transport.html --- https://capewrathferry.wordpress.com/rates-and-services",
+        "latitude": 58.55161642559563,
+        "longitude": -4.801901251325669,
+        "miscellaneous": "May ~ Ferry runs twice daily at 11am & 1.30pm",
+        "distanceIntoHike": 17.79
+      },
+      {
         "name": "Kinlochewe Service Station",
         "type": "shop",
         "website": "https://www.kinlocheweservices.co.uk",
@@ -2783,6 +2835,46 @@
         "opening": "tous les jours 9h-15h/17h-19h30 sauf lundi et mardi",
         "todo": "Reverifier les horaires avant de partir",
         "distanceIntoHike": 18.82
+      },
+      {
+        "name": "Campsite Durness",
+        "type": "camping",
+        "website": "https://sangosands.com/#facilities",
+        "latitude": 58.56864588284763,
+        "longitude": -4.743283157115042,
+        "opening": "A partir du 20 mars - arriver avant 17h",
+        "todo": "Appeler pr confirmer date d'ouverture",
+        "miscellaneous": "pas besoin de booker en avance, 1er arrivé 1er servi - ca semble grand",
+        "distanceIntoHike": 31.75
+      },
+      {
+        "name": "The Durness Shop",
+        "type": "shop",
+        "phone": "+44 1971 511 209",
+        "latitude": 58.56871001813571,
+        "longitude": -4.745995619193896,
+        "opening": "tous les jours 8h-18h sauf samedi 9h-18h et dimanche 9h-16h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 31.75
+      },
+      {
+        "name": "Mathers",
+        "type": "shop",
+        "phone": "+44 1971 511 287",
+        "latitude": 58.56806578707676,
+        "longitude": -4.740480505825823,
+        "opening": "tous les jours 10h30-17h/20h30-22h sauf dimanche 12h-17h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 31.75
+      },
+      {
+        "name": "Bus to Inverness (805)",
+        "type": "train",
+        "website": "https://www.thedurnessbus.com/ --- https://www.thedurnessbus.com/durnessnew/wp-content/uploads/2021/11/805-service-timetable-2021.pdf",
+        "latitude": 58.568603611868646,
+        "longitude": -4.746063235807476,
+        "miscellaneous": "Mondays, Tuesdays, Thursdays and Saturdays - 8h05 => 11h40 - Durness P.O. (c'est au Spar)",
+        "distanceIntoHike": 31.75
       },
       {
         "name": "Shenavall Bothy",
@@ -2886,68 +2978,11 @@
         "distanceIntoHike": 213.84
       },
       {
-        "name": "Ferry to Durness",
-        "type": "train",
-        "website": "https://durness.scot/local-transport.html --- https://capewrathferry.wordpress.com/rates-and-services",
-        "latitude": 58.55161642559563,
-        "longitude": -4.801901251325669,
-        "miscellaneous": "May ~ Ferry runs twice daily at 11am & 1.30pm",
-        "distanceIntoHike": 215.91
-      },
-      {
         "name": "Start of the Cape Wrath firing range",
         "type": "point of interest",
         "latitude": 58.5722,
         "longitude": -5.00162,
         "distanceIntoHike": 216.98
-      },
-      {
-        "name": "Campsite Durness",
-        "type": "camping",
-        "website": "https://sangosands.com/#facilities",
-        "latitude": 58.56864588284763,
-        "longitude": -4.743283157115042,
-        "opening": "A partir du 20 mars - arriver avant 17h",
-        "todo": "Appeler pr confirmer date d'ouverture",
-        "miscellaneous": "pas besoin de booker en avance, 1er arrivé 1er servi - ca semble grand",
-        "distanceIntoHike": 217.93
-      },
-      {
-        "name": "The Durness Shop",
-        "type": "shop",
-        "phone": "+44 1971 511 209",
-        "latitude": 58.56871001813571,
-        "longitude": -4.745995619193896,
-        "opening": "tous les jours 8h-18h sauf samedi 9h-18h et dimanche 9h-16h",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 217.93
-      },
-      {
-        "name": "Mathers",
-        "type": "shop",
-        "phone": "+44 1971 511 287",
-        "latitude": 58.56806578707676,
-        "longitude": -4.740480505825823,
-        "opening": "tous les jours 10h30-17h/20h30-22h sauf dimanche 12h-17h",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 217.93
-      },
-      {
-        "name": "Bus to Inverness (805)",
-        "type": "train",
-        "website": "https://www.thedurnessbus.com/ --- https://www.thedurnessbus.com/durnessnew/wp-content/uploads/2021/11/805-service-timetable-2021.pdf",
-        "latitude": 58.568603611868646,
-        "longitude": -4.746063235807476,
-        "miscellaneous": "Mondays, Tuesdays, Thursdays and Saturdays - 8h05 => 11h40 - Durness P.O. (c'est au Spar)",
-        "distanceIntoHike": 217.93
-      },
-      {
-        "name": "Kearvaig Bothy",
-        "type": "bivouac",
-        "latitude": 58.60819395277754,
-        "longitude": -4.94103401304745,
-        "miscellaneous": "Plein de place pr des tentes. Ca à l'air splendide, mériterait d'y rester une nuit",
-        "distanceIntoHike": 221.48
       }
     ]
   },
@@ -3414,28 +3449,48 @@
     "hike": "Lofotens - east",
     "locations": [
       {
-        "name": "Sandsletta Camping",
-        "type": "camping",
-        "website": "https://www.camping-lofoten.no",
-        "phone": "+47 909 15 230",
-        "email": "sandsletta@camping-lofoten.com",
-        "latitude": 68.33602656721263,
-        "longitude": 14.4982092721433,
-        "opening": "A partir du ???",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "miscellaneous": "Il y a un petit resto dans le camping (lunch/dinner)",
-        "distanceIntoHike": 12.34
+        "name": "Ferry pick-up location",
+        "type": "train",
+        "latitude": 67.89983741275093,
+        "longitude": 13.043858288603442,
+        "distanceIntoHike": 0.0
       },
       {
-        "name": "Livland Gård",
-        "type": "restaurant",
-        "website": "https://www.livland.no",
-        "phone": "+47 979 54 911",
-        "latitude": 68.33102600465938,
-        "longitude": 14.511983191142017,
-        "opening": "???",
-        "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 13.11
+        "name": "Express Boat from Bodø arrival",
+        "type": "train",
+        "latitude": 68.23136920076253,
+        "longitude": 14.56679871993523,
+        "distanceIntoHike": 0.03
+      },
+      {
+        "name": "SPAR Storøya",
+        "type": "shop",
+        "phone": "+47 760 70 003",
+        "latitude": 68.23362477506409,
+        "longitude": 14.55686747146724,
+        "opening": "ma,me,je,ve: 8h-20h - sa: 9h-18h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 0.39
+      },
+      {
+        "name": "KIWI Svolvaer Downtown",
+        "type": "shop",
+        "phone": "+47 760 74 300",
+        "latitude": 68.2333055696901,
+        "longitude": 14.561632442653202,
+        "opening": "tous les jours 7h-23h sauf dimanche",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 0.39
+      },
+      {
+        "name": "REMA 1000 SVOLVÆR",
+        "type": "shop",
+        "phone": "+47 760 72 765",
+        "latitude": 68.23505615933213,
+        "longitude": 14.560516899308118,
+        "opening": "tous les jours 7h-23h sauf dimanche et lundi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 0.52
       },
       {
         "name": "As Lofoten Feriesenter",
@@ -3447,37 +3502,7 @@
         "longitude": 14.548653452179787,
         "opening": "Ouvert toute l'année",
         "todo": "Appeler pr confirmer dates",
-        "distanceIntoHike": 25.54
-      },
-      {
-        "name": "SPAR Storøya",
-        "type": "shop",
-        "phone": "+47 760 70 003",
-        "latitude": 68.23362477506409,
-        "longitude": 14.55686747146724,
-        "opening": "ma,me,je,ve: 8h-20h - sa: 9h-18h",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 26.28
-      },
-      {
-        "name": "REMA 1000 SVOLVÆR",
-        "type": "shop",
-        "phone": "+47 760 72 765",
-        "latitude": 68.23505615933213,
-        "longitude": 14.560516899308118,
-        "opening": "tous les jours 7h-23h sauf dimanche et lundi",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 26.28
-      },
-      {
-        "name": "KIWI Svolvaer Downtown",
-        "type": "shop",
-        "phone": "+47 760 74 300",
-        "latitude": 68.2333055696901,
-        "longitude": 14.561632442653202,
-        "opening": "tous les jours 7h-23h sauf dimanche",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 26.28
+        "distanceIntoHike": 1.09
       },
       {
         "name": "KIWI Osan Svolvær",
@@ -3487,7 +3512,48 @@
         "longitude": 14.530041419576682,
         "opening": "tous les jours 7h-23h sauf dimanche et lundi",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 26.57
+        "distanceIntoHike": 2.14
+      },
+      {
+        "name": "Express Boat to Svolvær pickup location",
+        "type": "train",
+        "latitude": 67.28415076867832,
+        "longitude": 14.372893997182473,
+        "distanceIntoHike": 2.4
+      },
+      {
+        "name": "Sandsletta Camping",
+        "type": "camping",
+        "website": "https://www.camping-lofoten.no",
+        "phone": "+47 909 15 230",
+        "email": "sandsletta@camping-lofoten.com",
+        "latitude": 68.33602656721263,
+        "longitude": 14.4982092721433,
+        "opening": "A partir du ???",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "miscellaneous": "Il y a un petit resto dans le camping (lunch/dinner)",
+        "distanceIntoHike": 6.99
+      },
+      {
+        "name": "Livland Gård",
+        "type": "restaurant",
+        "website": "https://www.livland.no",
+        "phone": "+47 979 54 911",
+        "latitude": 68.33102600465938,
+        "longitude": 14.511983191142017,
+        "opening": "???",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 6.99
+      },
+      {
+        "name": "Lofoten Liebchens Platz",
+        "type": "camping",
+        "phone": "+47 988 93 820 / +47 988 93 857",
+        "latitude": 68.28087206052518,
+        "longitude": 14.080183348617716,
+        "opening": "???",
+        "todo": "Appeler pr confirmer qu'ils sont ouvert",
+        "distanceIntoHike": 29.92
       },
       {
         "name": "Aimee's Restaurant",
@@ -3498,7 +3564,7 @@
         "longitude": 14.071780879233739,
         "opening": "lu,ma,je: 11h-16 - me: 11h-22h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 54.83
+        "distanceIntoHike": 41.01
       },
       {
         "name": "Brustranda Fjordcamping",
@@ -3510,7 +3576,7 @@
         "longitude": 13.887322778652894,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
         "miscellaneous": "une 20aine d'emplacements tente",
-        "distanceIntoHike": 65.6
+        "distanceIntoHike": 55.97
       },
       {
         "name": "Lofoten Camping Storfjord",
@@ -3522,17 +3588,7 @@
         "longitude": 13.752568694945987,
         "opening": "A partir du 1er février",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 86.23
-      },
-      {
-        "name": "REMA 1000 LEKNES",
-        "type": "shop",
-        "phone": "+47 760 55 790",
-        "latitude": 68.1446651056267,
-        "longitude": 13.619440173779385,
-        "opening": "ma,me,je,ve,sa: 7h-23h - di: 10h-15h",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 93.76
+        "distanceIntoHike": 80.27
       },
       {
         "name": "KIWI Leknes",
@@ -3542,7 +3598,17 @@
         "longitude": 13.617529331875852,
         "opening": "tous les jours 7h-23h sauf lundi et dimanche",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 93.76
+        "distanceIntoHike": 88.46
+      },
+      {
+        "name": "REMA 1000 LEKNES",
+        "type": "shop",
+        "phone": "+47 760 55 790",
+        "latitude": 68.1446651056267,
+        "longitude": 13.619440173779385,
+        "opening": "ma,me,je,ve,sa: 7h-23h - di: 10h-15h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 88.48
       },
       {
         "name": "Coop Prix Leknes",
@@ -3552,7 +3618,7 @@
         "longitude": 13.61481842608784,
         "opening": "ma,me,je,ve: 8h-22h - sa: 9h-21h - di: 8h-13h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 93.76
+        "distanceIntoHike": 88.7
       },
       {
         "name": "Extra Leknes",
@@ -3562,7 +3628,7 @@
         "longitude": 13.619024156533852,
         "opening": "ma,me,je,ve,sa: 7h-23h - di: 7h-15h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 93.76
+        "distanceIntoHike": 88.88
       },
       {
         "name": "Uttakleiv camping",
@@ -3570,14 +3636,23 @@
         "latitude": 68.20923694509001,
         "longitude": 13.507018084955213,
         "miscellaneous": "Aire de bivouac ?publique? avec plein de place - ca à l'air superbe",
-        "distanceIntoHike": 115.16
+        "distanceIntoHike": 110.42
+      },
+      {
+        "name": "Selon les commentaires Google Map il est possible de bivouaquer",
+        "type": "bivouac",
+        "website": "https://www.hauklandbeach.no/tenting.html",
+        "latitude": 68.19855007366341,
+        "longitude": 13.530518518106822,
+        "miscellaneous": "Il y a une image sur le site qui montre exactement l'emplacement pr tentes (le reste est interdit au bivouac)",
+        "distanceIntoHike": 114.44
       },
       {
         "name": "Open Street Map écrit bivouac (et pas le symbole d'une tente comme d'habitude)",
         "type": "bivouac",
         "latitude": 68.1262479933027,
         "longitude": 13.440518624463802,
-        "distanceIntoHike": 142.66
+        "distanceIntoHike": 137.92
       },
       {
         "name": "Karoline Restaurant",
@@ -3589,7 +3664,7 @@
         "longitude": 13.350042007272059,
         "opening": "tous les jours 10h-17h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 158.78
+        "distanceIntoHike": 154.04
       },
       {
         "name": "Bunnpris Ramberg",
@@ -3601,7 +3676,7 @@
         "longitude": 13.228266977098974,
         "opening": "tous les jours 9h-22h sauf dimanche",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 187.07
+        "distanceIntoHike": 178.21
       },
       {
         "name": "Café Lille Martine",
@@ -3611,7 +3686,7 @@
         "longitude": 13.228493325384859,
         "opening": "me,je: 11h-16h - ve: 7h-14h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 187.07
+        "distanceIntoHike": 178.21
       },
       {
         "name": "Kafe Friisgarden",
@@ -3623,7 +3698,7 @@
         "longitude": 13.23031343016168,
         "opening": "tous les jours 12h-19h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 187.07
+        "distanceIntoHike": 178.21
       },
       {
         "name": "Ramberg Gjestegård",
@@ -3635,7 +3710,7 @@
         "longitude": 13.234158567935312,
         "todo": "Reverifier les horaires avant de partir",
         "miscellaneous": "Je vois des pitchs de tentes sur les photos du site - Ca fait resto aussi",
-        "distanceIntoHike": 187.11
+        "distanceIntoHike": 178.21
       },
       {
         "name": "By The Way Lofoten",
@@ -3645,7 +3720,7 @@
         "longitude": 13.172464311752714,
         "todo": "Reverifier les horaires avant de partir",
         "miscellaneous": "C'est une camionette",
-        "distanceIntoHike": 187.95
+        "distanceIntoHike": 188.8
       },
       {
         "name": "Aire de bivouac",
@@ -3653,7 +3728,7 @@
         "latitude": 68.09854632895313,
         "longitude": 13.164545411791368,
         "miscellaneous": "C'est juste un terrain plat publique avec beaucoup d'espace pour beaucoup de tentes",
-        "distanceIntoHike": 188.64
+        "distanceIntoHike": 190.47
       },
       {
         "name": "Possible de bivouaquer",
@@ -3661,7 +3736,14 @@
         "latitude": 68.07708217365862,
         "longitude": 13.099773779825115,
         "miscellaneous": "Je vois des photos sur Google Map avec plusieurs tentes",
-        "distanceIntoHike": 197.19
+        "distanceIntoHike": 199.93
+      },
+      {
+        "name": "Petit ferry 18-773 - Kirkefjord",
+        "type": "train",
+        "latitude": 67.99230596608247,
+        "longitude": 13.015395972004786,
+        "distanceIntoHike": 221.13
       }
     ]
   },
@@ -3669,30 +3751,30 @@
     "hike": "Lofotens - west",
     "locations": [
       {
+        "name": "Petit ferry 18-773 - Vindstad",
+        "type": "train",
+        "latitude": 67.9572161711962,
+        "longitude": 13.005300338045645,
+        "distanceIntoHike": 0.0
+      },
+      {
         "name": "Kafé Vindstad",
         "type": "restaurant",
         "phone": "+47 414 14 161",
         "latitude": 67.9589410503525,
         "longitude": 13.004423834900342,
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 0.11
+        "distanceIntoHike": 0.2
       },
       {
-        "name": "Open Street Map indique une aire de bivouac",
-        "type": "bivouac",
-        "latitude": 67.93967727100066,
-        "longitude": 12.9844610867965,
-        "distanceIntoHike": 3.08
-      },
-      {
-        "name": "Matkroken Sørvågen",
+        "name": "Joker",
         "type": "shop",
-        "phone": "+47 760 91 215",
-        "latitude": 67.88984534032372,
-        "longitude": 13.021577313375063,
-        "opening": "ma,me,je,ve: 9h-20h - sa: 10h-18h",
+        "phone": "+47 760 91 116",
+        "latitude": 67.89170136876933,
+        "longitude": 13.026624788725531,
+        "opening": "ma,me,je,ve: 9h-21h - sa: 10h-18h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 36.29
+        "distanceIntoHike": 2.29
       },
       {
         "name": "Maren Anna",
@@ -3703,17 +3785,34 @@
         "longitude": 13.023605883663123,
         "opening": "tous les jours 18h-21h sauf lundi et dimanche",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 36.36
+        "distanceIntoHike": 2.52
       },
       {
-        "name": "Joker",
+        "name": "Matkroken Sørvågen",
         "type": "shop",
-        "phone": "+47 760 91 116",
-        "latitude": 67.89170136876933,
-        "longitude": 13.026624788725531,
-        "opening": "ma,me,je,ve: 9h-21h - sa: 10h-18h",
+        "phone": "+47 760 91 215",
+        "latitude": 67.88984534032372,
+        "longitude": 13.021577313375063,
+        "opening": "lu,ma,me,je,ve: 9h-20h - sa: 10h-18h - di: 17h-20h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 36.59
+        "distanceIntoHike": 2.58
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 67.93967727100066,
+        "longitude": 12.9844610867965,
+        "distanceIntoHike": 9.5
+      },
+      {
+        "name": "Å dagligvarer",
+        "type": "shop",
+        "phone": "+47 760 91 488",
+        "latitude": 67.88111673574419,
+        "longitude": 12.98200170092821,
+        "opening": "Tous les jours 9h-18h sauf dimanche",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 17.16
       },
       {
         "name": "Moskenes Camping",
@@ -3724,7 +3823,7 @@
         "latitude": 67.90008786872687,
         "longitude": 13.052399518955982,
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 38.77
+        "distanceIntoHike": 28.43
       }
     ]
   },
@@ -3824,6 +3923,13 @@
         "latitude": 66.33181596547666,
         "longitude": -22.875994673686247,
         "distanceIntoHike": 0.29
+      },
+      {
+        "name": "Ferry pickup - Borea Adventures (selon Google Map)",
+        "type": "train",
+        "latitude": 66.070246894282,
+        "longitude": -23.115418457749715,
+        "distanceIntoHike": 6.64
       },
       {
         "name": "Official campsite - Saebol",
@@ -3926,7 +4032,7 @@
         "opening": "Du jeudi au lundi: 9.30am - 8pm (6pm les lundis)",
         "todo": "Reverifier les horaires avant de partir",
         "payment": "cash only",
-        "distanceIntoHike": 22.5
+        "distanceIntoHike": 23.19
       },
       {
         "name": "Centre comercial Tramuntana",
@@ -3936,7 +4042,14 @@
         "longitude": 2.864137501918108,
         "opening": "Tous les jours, 8am - 7pm",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 32.08
+        "distanceIntoHike": 32.77
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 42.42622643951886,
+        "longitude": 2.786202017785471,
+        "distanceIntoHike": 45.58
       },
       {
         "name": "Trabucayres",
@@ -3948,7 +4061,7 @@
         "longitude": 2.7843680724120916,
         "opening": "Samedi et dimanche: 10h30-15h30 / 16h30-22h30",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 45.11
+        "distanceIntoHike": 45.81
       },
       {
         "name": "Amélia Camping",
@@ -3960,7 +4073,7 @@
         "longitude": 2.674207156388486,
         "opening": "Ouvert l'été",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 62.64
+        "distanceIntoHike": 63.34
       },
       {
         "name": "Vival",
@@ -3970,7 +4083,7 @@
         "longitude": 2.6693593522980303,
         "opening": "Mardi au samedi: 8h30-13h/15h-19h - dimanche: 8h30-12h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 62.98
+        "distanceIntoHike": 63.69
       },
       {
         "name": "Proxi Super",
@@ -3980,7 +4093,7 @@
         "longitude": 2.6689542212843156,
         "opening": "lu,ma,je,ve,sa: 8h30-12h30/15h-18h - me: 8h30-12h30",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 62.98
+        "distanceIntoHike": 63.69
       },
       {
         "name": "Camping Paradis Le Vallespir",
@@ -3992,7 +4105,7 @@
         "longitude": 2.651419107135444,
         "opening": "Ouvert l'été",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 64.92
+        "distanceIntoHike": 65.63
       },
       {
         "name": "Refuge de Batère",
@@ -4004,21 +4117,21 @@
         "longitude": 2.5484060614082384,
         "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
         "miscellaneous": "Formule bivouac possible - c'est reservable en ligne - 38 couchages - demi-pension",
-        "distanceIntoHike": 77.69
+        "distanceIntoHike": 78.98
       },
       {
         "name": "Bivouac possible?",
         "type": "bivouac",
         "latitude": 42.51781595786677,
         "longitude": 2.526066238110627,
-        "distanceIntoHike": 80.78
+        "distanceIntoHike": 82.01
       },
       {
         "name": "Cabane non gardée",
         "type": "refuge",
         "latitude": 42.51797635565655,
         "longitude": 2.524512198834726,
-        "distanceIntoHike": 80.9
+        "distanceIntoHike": 82.14
       },
       {
         "name": "Refuge des Cortalets",
@@ -4030,7 +4143,7 @@
         "todo": "Appeler pr vérifier: s'ils sont ouvert, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
         "payment": "carte bleue / cash",
         "miscellaneous": "une 40aine de spots de bivouac - c'est reservable en ligne - 105 couchages - demi-pension",
-        "distanceIntoHike": 91.83
+        "distanceIntoHike": 93.07
       },
       {
         "name": "Refuge de Mariailles",
@@ -4043,7 +4156,1466 @@
         "todo": "Appeler pr vérifier: s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, s'ils font restauration ds journée...",
         "payment": "cash only",
         "miscellaneous": "C'est reservable en ligne - 53 couchages - demi-pension",
-        "distanceIntoHike": 104.8
+        "distanceIntoHike": 106.03
+      },
+      {
+        "name": "Cafeteria Vallter 2000",
+        "type": "restaurant",
+        "latitude": 42.427176008118224,
+        "longitude": 2.2653903306752543,
+        "opening": "???",
+        "miscellaneous": "Pas bcp d'infos, mais il y a des reviews récentes (i.e. ca semble etre en activité)",
+        "distanceIntoHike": 126.84
+      },
+      {
+        "name": "Vallter Foodtruck",
+        "type": "restaurant",
+        "latitude": 42.42644346641243,
+        "longitude": 2.264322811683887,
+        "opening": "???",
+        "miscellaneous": "Pas bcp d'infos, mais il y a des reviews récentes (i.e. ca semble etre en activité)",
+        "distanceIntoHike": 126.97
+      },
+      {
+        "name": "Refuge d'Ulldeter",
+        "type": "refuge",
+        "website": "https://ulldeter.es/fr/refuge-ulldeter-girona",
+        "phone": "+34 972 192 004 / +34 619 514 159",
+        "email": "reserves@ulldeter.net",
+        "latitude": 42.419716199892505,
+        "longitude": 2.2577409635559196,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "miscellaneous": "C'est reservable en ligne - 57 couchages - demi-pension",
+        "distanceIntoHike": 128.43
+      },
+      {
+        "name": "Hôtel Le Roc Blanc",
+        "type": "restaurant",
+        "website": "https://www.hotelrocblanc.fr/en",
+        "phone": "04 68 04 72 72",
+        "email": "hotel.roc.blanc@orange.fr",
+        "latitude": 42.47506451840804,
+        "longitude": 2.1012039933770046,
+        "opening": "???",
+        "todo": "Envoyer un email pr savoir s'il font bien restauration",
+        "distanceIntoHike": 150.33
+      },
+      {
+        "name": "L'Épicerie d'Eyne",
+        "type": "shop",
+        "latitude": 42.47616447888725,
+        "longitude": 2.101987195678165,
+        "opening": "je,sa: 8h-15h / sa-di: 8h-18h30",
+        "miscellaneous": "Ca à l'air tt petit",
+        "distanceIntoHike": 150.36
+      },
+      {
+        "name": "Carrefour Contact",
+        "type": "shop",
+        "phone": "04 68 30 33 32",
+        "latitude": 42.50404403545195,
+        "longitude": 2.041137293343588,
+        "opening": "tous les jours 8h-20h sauf dimanche 10h-13h/16h-19h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 156.54
+      },
+      {
+        "name": "Camping Huttopia Font-Romeu",
+        "type": "camping",
+        "website": "https://europe.huttopia.com/site/camping-font-romeu/#emplacements-font-romeu",
+        "phone": "04 37 64 22 35 / 04 68 30 09 32",
+        "latitude": 42.505913859237026,
+        "longitude": 2.0456385945825537,
+        "opening": "Du 13 juin au 8 septembre",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "distanceIntoHike": 156.54
+      },
+      {
+        "name": "Casino Supermarché",
+        "type": "shop",
+        "phone": "04 68 30 64 20",
+        "latitude": 42.5151447511746,
+        "longitude": 2.061501106239222,
+        "opening": "tous les jours 8h30-19h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 156.77
+      },
+      {
+        "name": "Camping LE PETIT CANADA (Les Bouillouses)",
+        "type": "camping",
+        "website": "https://www.camping-lepetitcanada.fr",
+        "phone": "07 89 08 78 98",
+        "email": "contact@camping-lepetitcanada.fr",
+        "latitude": 42.51947439587161,
+        "longitude": 2.096958294090567,
+        "opening": "de mi-mai à fin septembre",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "distanceIntoHike": 157.69
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 42.54523,
+        "longitude": 2.01653,
+        "distanceIntoHike": 165.28
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 42.54897,
+        "longitude": 2.01874,
+        "distanceIntoHike": 166.0
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 42.55228,
+        "longitude": 2.0148,
+        "distanceIntoHike": 166.7
+      },
+      {
+        "name": "Refuge des bouillouses",
+        "type": "refuge",
+        "website": "https://www.tour-des-perics.com/les-refuges/42-refuge-des-bouillouses.html ------ http://www.pyrenees-passion.info/les-refuges-des-pyrenees/les-refuges-des-pyrenees-francaises/le-refuge-des-bouillouses",
+        "phone": "04 68 04 93 88 / 06 86 77 52 82",
+        "email": "refugedesbouillouses@gmail.com",
+        "latitude": 42.55897565905661,
+        "longitude": 2.0035532711340887,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "cash only",
+        "miscellaneous": "59 couchages - demi-pension",
+        "distanceIntoHike": 168.1
+      },
+      {
+        "name": "Auberge Du Carlit",
+        "type": "hotel",
+        "website": "https://lesioux.fr/aubergeducarlit",
+        "phone": "04 68 04 22 23",
+        "latitude": 42.55995559147521,
+        "longitude": 2.0039609743474633,
+        "distanceIntoHike": 168.29
+      },
+      {
+        "name": "Les Bones Hores",
+        "type": "hotel",
+        "website": "https://www.boneshores.com",
+        "phone": "06 07 15 95 18",
+        "email": "boneshores66@gmail.com",
+        "latitude": 42.560398108260976,
+        "longitude": 1.996965759961741,
+        "distanceIntoHike": 168.86
+      },
+      {
+        "name": "Le Castel Isard",
+        "type": "restaurant",
+        "website": "https://www.castel-isard.com",
+        "phone": "06 24 49 61 46",
+        "email": "refuge@castel-isard.com",
+        "latitude": 42.547664300780234,
+        "longitude": 1.8252894865132423,
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 186.2
+      },
+      {
+        "name": "Chalet Altitude 2000",
+        "type": "hotel",
+        "website": "https://www.ligue82.org/loisirs-vacances/venez-decouvrir-le-chalet-altitude-2000",
+        "phone": "05 63 63 04 20 / 04 68 04 85 52",
+        "email": "vptlaligue82@orange.fr",
+        "latitude": 42.55977471539123,
+        "longitude": 1.8129158974421518,
+        "miscellaneous": "Il y a un avis de qqun qui s'est arreté là en demi-pension pdt sa HRP!",
+        "distanceIntoHike": 187.7
+      },
+      {
+        "name": "Il y a plein d'hotels",
+        "type": "hotel",
+        "latitude": 42.5456758620566,
+        "longitude": 1.7346090376776586,
+        "distanceIntoHike": 196.55
+      },
+      {
+        "name": "Frontière France => Andorre",
+        "type": "point of interest",
+        "latitude": 42.5435,
+        "longitude": 1.73566,
+        "distanceIntoHike": 196.55
+      },
+      {
+        "name": "Il y a une 12aine de supermarchés (frontière avec France/Andore => du coup moins cher j'imagine)",
+        "type": "shop",
+        "latitude": 42.543187866035865,
+        "longitude": 1.733144057445956,
+        "distanceIntoHike": 196.76
+      },
+      {
+        "name": "Il y a plein de restaurants / fast foods",
+        "type": "restaurant",
+        "latitude": 42.54126891966174,
+        "longitude": 1.7324596203653517,
+        "distanceIntoHike": 196.99
+      },
+      {
+        "name": "Restaurant l'Ovella Negra",
+        "type": "restaurant",
+        "phone": "+376 388 720",
+        "latitude": 42.601720714554425,
+        "longitude": 1.6877916375899529,
+        "opening": "je,ve: 13h-17/20h-23h - sa: 11h30-17h/20h-23h - di: 11h30-17h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 208.91
+      },
+      {
+        "name": "Espai Gastronomic Art_Etxe_",
+        "type": "restaurant",
+        "phone": "+376 643 898",
+        "latitude": 42.58749354595677,
+        "longitude": 1.665521055821043,
+        "opening": "???",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 210.44
+      },
+      {
+        "name": "Camping font de ferrosins",
+        "type": "camping",
+        "website": "http://www.campingandorra.com/index.php?lang=fr",
+        "phone": "+376 324 212",
+        "email": "info@fontdeferrosins.com",
+        "latitude": 42.59136516044869,
+        "longitude": 1.6690017971649758,
+        "opening": "A partir du ???",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "miscellaneous": "Il y a des spots pr tentes",
+        "distanceIntoHike": 210.44
+      },
+      {
+        "name": "Minute Market",
+        "type": "shop",
+        "phone": "+376 741 007",
+        "latitude": 42.583979496261826,
+        "longitude": 1.6643111339600396,
+        "opening": "lu,ma,sa,di: 10h-14h/17h-22h - me,je,ve: 17h-22h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 210.44
+      },
+      {
+        "name": "Supermercat de la Posta",
+        "type": "shop",
+        "phone": "+376 851 019",
+        "latitude": 42.57685277999281,
+        "longitude": 1.6663816910815121,
+        "opening": "tous les jours 9h-13h/16h-20h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 210.44
+      },
+      {
+        "name": "Supermercat Pirineu",
+        "type": "shop",
+        "phone": "+376 851 103",
+        "latitude": 42.57656826427382,
+        "longitude": 1.6682699473008913,
+        "opening": "tous les jours 9h-20h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 210.44
+      },
+      {
+        "name": "Plusieurs restaurant et aussi plus loin au sud/est dans le village",
+        "type": "restaurant",
+        "latitude": 42.58280928276708,
+        "longitude": 1.6626480561440755,
+        "distanceIntoHike": 210.44
+      },
+      {
+        "name": "Frontière Andorre => France",
+        "type": "point of interest",
+        "latitude": 42.6308,
+        "longitude": 1.59631,
+        "distanceIntoHike": 222.21
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 42.64569,
+        "longitude": 1.58324,
+        "distanceIntoHike": 224.84
+      },
+      {
+        "name": "Refuge du Fourcat",
+        "type": "refuge",
+        "website": "https://www.refuge-fourcat.com",
+        "phone": "05 61 65 43 15",
+        "email": "refugedufourcat@gmail.com",
+        "latitude": 42.664971145008955,
+        "longitude": 1.489803663118015,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "cash only",
+        "miscellaneous": "37 couchages - demi-pension - plats à la carte",
+        "distanceIntoHike": 235.69
+      },
+      {
+        "name": "Frontière France => Espagne",
+        "type": "point of interest",
+        "latitude": 42.70291,
+        "longitude": 1.35154,
+        "distanceIntoHike": 256.57
+      },
+      {
+        "name": "Refugi de Certascan",
+        "type": "refuge",
+        "website": "http://www.refugicertascan.cat/index.php/ca",
+        "phone": "+34 973 09 23 15 / +34 647 96 19 46",
+        "latitude": 42.70386648708399,
+        "longitude": 1.306531070664643,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "miscellaneous": "??? c'est reservable en ligne",
+        "distanceIntoHike": 262.88
+      },
+      {
+        "name": "Restaurant Lo Got",
+        "type": "restaurant",
+        "phone": "+34 622 50 59 40",
+        "latitude": 42.64773764451744,
+        "longitude": 1.1482760133775434,
+        "opening": "???",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 287.92
+      },
+      {
+        "name": "Supermercat El Rebost d'Espot",
+        "type": "shop",
+        "phone": "+34 973 25 07 61",
+        "latitude": 42.5756497116363,
+        "longitude": 1.0882989370959764,
+        "opening": "Tous les jours 8h-14h/16h-20h sauf samedi et dimanche 8h-14h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "miscellaneous": "Ca semble sommaire",
+        "distanceIntoHike": 292.04
+      },
+      {
+        "name": "Plusfresc Esterri d'Àneu",
+        "type": "shop",
+        "phone": "+34 973 62 61 17",
+        "latitude": 42.62400549298203,
+        "longitude": 1.123424230882574,
+        "opening": "ma,me,je,ve,sa: 9h-14h/17h-20h30 - di: 9h-14h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 292.98
+      },
+      {
+        "name": "Plusieurs restaurants",
+        "type": "restaurant",
+        "latitude": 42.62714015458412,
+        "longitude": 1.1230628646831486,
+        "distanceIntoHike": 293.33
+      },
+      {
+        "name": "Plusieurs hotels",
+        "type": "hotel",
+        "latitude": 42.62598099418568,
+        "longitude": 1.1216559742480947,
+        "distanceIntoHike": 293.33
+      },
+      {
+        "name": "Coaliment Esterri d'Àneu",
+        "type": "shop",
+        "phone": "+34 973 62 67 56",
+        "latitude": 42.628966095816175,
+        "longitude": 1.1214379413363367,
+        "opening": "Tous les jours 9h-14h/16h-20h sauf dimanche 9h30-14h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 293.58
+      },
+      {
+        "name": "2 hotels",
+        "type": "hotel",
+        "latitude": 42.633985368829066,
+        "longitude": 1.1097484554272647,
+        "distanceIntoHike": 294.74
+      },
+      {
+        "name": "Hotel Els Avets",
+        "type": "hotel",
+        "phone": "+34 973 62 63 55",
+        "latitude": 42.6375727620749,
+        "longitude": 1.0450012683936518,
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 302.96
+      },
+      {
+        "name": "Refugi del Gerdar",
+        "type": "refuge",
+        "website": "https://refugidelgerdar.com/tarifes-i-serveis",
+        "phone": "+34 619 04 44 76",
+        "email": "refudigelgerdar@gmail.com",
+        "latitude": 42.63762942001938,
+        "longitude": 1.0395736854689253,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "cash only",
+        "miscellaneous": "28 couchages - demi-pension",
+        "distanceIntoHike": 303.27
+      },
+      {
+        "name": "Les Ares",
+        "type": "restaurant",
+        "website": "http://www.lesares.com",
+        "phone": "+34 973 29 83 09",
+        "latitude": 42.64801454157334,
+        "longitude": 1.0070910057822562,
+        "opening": "Tous les jours 9h30-17h sauf mardi",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 307.18
+      },
+      {
+        "name": "Cap del Port",
+        "type": "restaurant",
+        "website": "http://capdelport.com",
+        "phone": "+34 973 250 082",
+        "latitude": 42.66390723578258,
+        "longitude": 0.9806026892804716,
+        "opening": "tous les jours 8h-minuit sauf lundi",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 310.03
+      },
+      {
+        "name": "SUPERMERCADO SOL Y NIEVE",
+        "type": "shop",
+        "phone": "+34 973 64 50 13",
+        "latitude": 42.7068790515774,
+        "longitude": 0.9029656814046402,
+        "opening": "Tous les jours 9h-13h15/17h-20h15 sauf dimanche",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "miscellaneous": "Ca semble très sommaire",
+        "distanceIntoHike": 310.84
+      },
+      {
+        "name": "Refugi de Colomèrs",
+        "type": "refuge",
+        "website": "https://www.refugicolomers.com",
+        "phone": "+34 973 641 681 / +34 973 253 008",
+        "latitude": 42.62416637122497,
+        "longitude": 0.9206666809058155,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "cash only",
+        "miscellaneous": "C'est reservable en ligne - 60 couchages - demi-pension",
+        "distanceIntoHike": 320.21
+      },
+      {
+        "name": "Refugi dera Restanca",
+        "type": "refuge",
+        "website": "https://www.lacentralderefugis.com/refugios/restanca",
+        "phone": "+34 608 036 559",
+        "latitude": 42.63468833859652,
+        "longitude": 0.8546852796244411,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "miscellaneous": "80 couchages - demi-pension",
+        "distanceIntoHike": 327.08
+      },
+      {
+        "name": "Carrefour Express EESS",
+        "type": "shop",
+        "phone": "+34 914 90 89 00",
+        "latitude": 42.69987182417657,
+        "longitude": 0.8624437051772209,
+        "opening": "Tous les jours 7h-21h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "miscellaneous": "Ca semble très sommaire",
+        "distanceIntoHike": 327.08
+      },
+      {
+        "name": "Caprabo",
+        "type": "shop",
+        "phone": "+34 932 61 60 60",
+        "latitude": 42.71091116493346,
+        "longitude": 0.7980467434035484,
+        "opening": "tous les jours 9h-21h sauf dimanche 10h-15h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 334.96
+      },
+      {
+        "name": "Mercadona",
+        "type": "shop",
+        "phone": "+34 973 30 72 65",
+        "latitude": 42.70366279662393,
+        "longitude": 0.7943702076920702,
+        "opening": "Tous les jours 9h-21h sauf dimanche",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 335.11
+      },
+      {
+        "name": "Refugi Conangles",
+        "type": "refuge",
+        "website": "https://www.visitvaldaran.com/fr/item/refugi-conangles-2",
+        "phone": "+34 696 64 98 71",
+        "email": "montanasdearan@gmail.com",
+        "latitude": 42.615155410147686,
+        "longitude": 0.7681743923728775,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "distanceIntoHike": 340.15
+      },
+      {
+        "name": "Refuge de la Rencluse",
+        "type": "refuge",
+        "website": "https://www.alberguesyrefugios.com/larenclusa",
+        "phone": "+34 974 344 646",
+        "email": "refugiorenclusa@hotmail.com",
+        "latitude": 42.66932267695374,
+        "longitude": 0.6507698306594804,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "distanceIntoHike": 354.81
+      },
+      {
+        "name": "Llanos del hospital (et restaurant)",
+        "type": "hotel",
+        "website": "https://www.llanosdelhospital.com/en",
+        "phone": "+34 608 53 60 53",
+        "email": "recepcion@llanosdelhospital.com",
+        "latitude": 42.68384809755519,
+        "longitude": 0.6123608459544555,
+        "distanceIntoHike": 359.26
+      },
+      {
+        "name": "Eroski",
+        "type": "shop",
+        "phone": "+34 974 55 28 85",
+        "latitude": 42.60569769958568,
+        "longitude": 0.5254118723895795,
+        "opening": "tous les jours 9h-14h/17h-21h sauf samedi 9h-21h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 365.59
+      },
+      {
+        "name": "Supermercado Altoaragon",
+        "type": "shop",
+        "phone": "+34 974 55 14 62",
+        "latitude": 42.60603873155689,
+        "longitude": 0.524678818226549,
+        "opening": "Tous les jours 9h-20h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 365.59
+      },
+      {
+        "name": "Camping Aneto",
+        "type": "shop",
+        "website": "https://www.campinganeto.com/en/facilities-and-services/supermarket",
+        "phone": "+34 974 55 11 41 / +34 609 77 72 25",
+        "email": "info@campinganeto.com",
+        "latitude": 42.624373227464986,
+        "longitude": 0.544149874029354,
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "miscellaneous": "C'est un camping mais ils ont une superette",
+        "distanceIntoHike": 365.59
+      },
+      {
+        "name": "Camping Aneto",
+        "type": "camping",
+        "website": "https://www.campinganeto.com/en/facilities-and-services/supermarket",
+        "phone": "+34 974 55 11 41 / +34 609 77 72 25",
+        "email": "info@campinganeto.com",
+        "latitude": 42.6245034337159,
+        "longitude": 0.544535082350449,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "distanceIntoHike": 365.59
+      },
+      {
+        "name": "Frontière Espagne => France",
+        "type": "point of interest",
+        "latitude": 42.70164,
+        "longitude": 0.52626,
+        "distanceIntoHike": 368.1
+      },
+      {
+        "name": "Refuge du Portillon - Jean Arlaud",
+        "type": "refuge",
+        "website": "https://refugeduportillon.ffcam.fr/FR_home.html",
+        "phone": "06 61 23 46 21 / 05 61 79 38 15",
+        "email": "refugeduportillon@ffcam.fr",
+        "latitude": 42.70370886683548,
+        "longitude": 0.5081377961691169,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "cash only",
+        "miscellaneous": "c'est reservable en ligne - 30 couchages - demi-pension",
+        "distanceIntoHike": 370.0
+      },
+      {
+        "name": "Refuge de la Soula",
+        "type": "refuge",
+        "website": "https://www.refuge-lasoula.com",
+        "phone": "05 62 40 23 41",
+        "email": "refugedelasoula@gmail.com",
+        "latitude": 42.722637832514685,
+        "longitude": 0.41948082765964945,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "miscellaneous": "50 couchages - demi-pension",
+        "distanceIntoHike": 379.37
+      },
+      {
+        "name": "Frontière France => Espagne",
+        "type": "point of interest",
+        "latitude": 42.69537,
+        "longitude": 0.40544,
+        "distanceIntoHike": 386.11
+      },
+      {
+        "name": "Refuge Biadós (Refugio de Viadós)",
+        "type": "refuge",
+        "website": "https://www.viados.es/index_en.html",
+        "phone": "+34 620 92 82 09 / +34 974 34 16 13",
+        "email": "refugio@viados.es",
+        "latitude": 42.66064102839477,
+        "longitude": 0.3772222186141422,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "miscellaneous": "demi-pension",
+        "distanceIntoHike": 392.57
+      },
+      {
+        "name": "Camping El Forcallo",
+        "type": "camping",
+        "website": "https://campingelforcallo.wordpress.com",
+        "phone": "+34 974 34 16 13",
+        "latitude": 42.658745784067435,
+        "longitude": 0.36970823793712093,
+        "todo": "Appeler pr confirmer dates",
+        "miscellaneous": "33 spots pour tentes",
+        "distanceIntoHike": 393.46
+      },
+      {
+        "name": "La Pleta Bar de Montaña",
+        "type": "restaurant",
+        "phone": "+34 656 94 65 65",
+        "latitude": 42.67355034317864,
+        "longitude": 0.21528449967943467,
+        "opening": "tous les jours 13h-23h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 412.03
+      },
+      {
+        "name": "Supermercado Mazcaray",
+        "type": "shop",
+        "phone": "+34 974 50 10 02",
+        "latitude": 42.661978293101406,
+        "longitude": 0.20900142809879066,
+        "opening": "tous les jours 10h-19h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 413.43
+      },
+      {
+        "name": "REPSOL Vidallé (station service qui fait superette et restauration)",
+        "type": "shop",
+        "website": "https://www.areadeservicioparzan.com/direccion",
+        "phone": "+34 974 50 10 83",
+        "latitude": 42.661243509870175,
+        "longitude": 0.2095396006282104,
+        "opening": "tous les jours 8h-20h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 413.52
+      },
+      {
+        "name": "Grand-Supermarché Solans",
+        "type": "shop",
+        "latitude": 42.66500098447749,
+        "longitude": 0.21144298517128923,
+        "opening": "tous les jours 10h-20h sauf lundi 9h-20h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 413.99
+      },
+      {
+        "name": "Frontière Espagne => France",
+        "type": "point of interest",
+        "latitude": 42.72469,
+        "longitude": 0.15096,
+        "distanceIntoHike": 427.48
+      },
+      {
+        "name": "Auberge du Maillet",
+        "type": "hotel",
+        "phone": "05 62 92 48 97",
+        "latitude": 42.73629936889377,
+        "longitude": 0.08667518932315604,
+        "miscellaneous": "Ils font restauration - à mi-chemin entre hotel et refuge",
+        "distanceIntoHike": 445.89
+      },
+      {
+        "name": "Refuge d'Héas",
+        "type": "refuge",
+        "website": "https://le-refuge-65.webnode.fr/copie-de-hebergements",
+        "phone": "05 62 36 83 15 / 07 71 74 33 98",
+        "email": "andurandsamuel@gmail.com",
+        "latitude": 42.74761241605423,
+        "longitude": 0.09026164282148356,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "miscellaneous": "Il est possible de planter sa tente - 3 chambres & dortoir de 18 couchages - demi-pension",
+        "distanceIntoHike": 446.97
+      },
+      {
+        "name": "Refuge des Espuguettes",
+        "type": "refuge",
+        "website": "https://www.refugedesespuguettesgavarnie.com",
+        "phone": "05 62 92 40 63",
+        "email": "lesespuguettes@gmail.com",
+        "latitude": 42.71989911266055,
+        "longitude": 0.012272758724645153,
+        "opening": "du 1er juin au 30 septembre",
+        "todo": "Appeler pr vérifier: s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "cash only",
+        "miscellaneous": "c'est reservable en ligne - 54 couchages - demi-pension",
+        "distanceIntoHike": 460.27
+      },
+      {
+        "name": "Le Pailha",
+        "type": "restaurant",
+        "latitude": 42.723549065848296,
+        "longitude": -0.008368655908068278,
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 463.61
+      },
+      {
+        "name": "La Chaumière",
+        "type": "restaurant",
+        "phone": "05 62 92 48 08",
+        "latitude": 42.72677819296997,
+        "longitude": -0.007250485206600907,
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 463.94
+      },
+      {
+        "name": "Camping Bergerie",
+        "type": "camping",
+        "website": "https://www.camping-la-bergerie-gavarnie.com",
+        "phone": "05 62 92 48 41 / 07 78 39 22 76",
+        "email": "camping.la.bergerie@wanadoo.fr",
+        "latitude": 42.72767327235143,
+        "longitude": -0.007537205363628146,
+        "todo": "Appeler pr demander les dates (pas dispo sur le site)",
+        "miscellaneous": "il y a des emplacements pr tentes",
+        "distanceIntoHike": 464.03
+      },
+      {
+        "name": "Plusieurs hotels",
+        "type": "hotel",
+        "latitude": 42.7309734516908,
+        "longitude": -0.008770982201784695,
+        "distanceIntoHike": 464.43
+      },
+      {
+        "name": "Vival",
+        "type": "shop",
+        "phone": "05 62 92 46 08",
+        "latitude": 42.732891796098485,
+        "longitude": -0.00956690149754751,
+        "opening": "tous les jours 9h-19h sauf mardi et mercredi",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 464.68
+      },
+      {
+        "name": "Chalet la Grange de Holle",
+        "type": "refuge",
+        "website": "https://chaletlagrangedeholle.ffcam.fr",
+        "phone": "05 62 92 48 77",
+        "latitude": 42.73944605897574,
+        "longitude": -0.02269148611560981,
+        "todo": "Appeler pr vérifier: s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "carte bleue acceptée",
+        "miscellaneous": "Je vois des tentes sur les photos google map - c'est reservable en ligne - 62 couchages - demi-pension",
+        "distanceIntoHike": 466.54
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 42.75718,
+        "longitude": -0.09386,
+        "distanceIntoHike": 476.24
+      },
+      {
+        "name": "Refuge de Bayssellance",
+        "type": "refuge",
+        "website": "https://refugebayssellance.ffcam.fr",
+        "phone": "09 74 77 66 52",
+        "latitude": 42.77931598420688,
+        "longitude": -0.12413139259939628,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "cash only",
+        "miscellaneous": "c'est reservable en ligne - 58 couchages - demi-pension",
+        "distanceIntoHike": 481.82
+      },
+      {
+        "name": "Refuge des Oulettes de Gaube",
+        "type": "refuge",
+        "website": "https://refugeoulettesdegaube.ffcam.fr",
+        "phone": "09 88 18 41 46",
+        "latitude": 42.792687426534265,
+        "longitude": -0.14112964802361133,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "cash only",
+        "miscellaneous": "c'est reservable en ligne - 95 couchages - demi-pension",
+        "distanceIntoHike": 487.9
+      },
+      {
+        "name": "Frontière France => Espagne",
+        "type": "point of interest",
+        "latitude": 42.78917,
+        "longitude": -0.15585,
+        "distanceIntoHike": 489.91
+      },
+      {
+        "name": "Frontière Espagne => France",
+        "type": "point of interest",
+        "latitude": 42.78888,
+        "longitude": -0.17292,
+        "distanceIntoHike": 491.83
+      },
+      {
+        "name": "Refuge Wallon",
+        "type": "refuge",
+        "website": "https://www.refuge-marcadau.csvss.fr/fr",
+        "phone": "09 88 77 37 90",
+        "email": "contact@refuge-wallon.net",
+        "latitude": 42.820025470854695,
+        "longitude": -0.19467155820473983,
+        "todo": "Appeler pr vérifier: s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "carte bleue possible",
+        "miscellaneous": "112 couchages - demi-pension",
+        "distanceIntoHike": 497.35
+      },
+      {
+        "name": "Frontière France => Espagne",
+        "type": "point of interest",
+        "latitude": 42.8132,
+        "longitude": -0.2393,
+        "distanceIntoHike": 503.82
+      },
+      {
+        "name": "Refugio Respomuso",
+        "type": "refuge",
+        "website": "https://www.alberguesyrefugios.com/respomuso",
+        "phone": "+34 974 337 556",
+        "email": "refugiorespomuso@hotmail.com",
+        "latitude": 42.81683719031287,
+        "longitude": -0.28759150693128266,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "miscellaneous": "c'est reservable en ligne - 90 couchages - demi-pension",
+        "distanceIntoHike": 508.28
+      },
+      {
+        "name": "Frontière Espagne => France",
+        "type": "point of interest",
+        "latitude": 42.8399,
+        "longitude": -0.32171,
+        "distanceIntoHike": 514.64
+      },
+      {
+        "name": "Aire de bivouac - C'est à côté d'un refuge qui est en travaux jusqu'en 2025",
+        "type": "bivouac",
+        "latitude": 42.84584,
+        "longitude": -0.32894,
+        "distanceIntoHike": 515.63
+      },
+      {
+        "name": "Chalet l'Hermine",
+        "type": "restaurant",
+        "phone": "07 70 22 35 21",
+        "latitude": 42.863374337237836,
+        "longitude": -0.39179501999095506,
+        "opening": "tous les jours 8h-21h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 523.12
+      },
+      {
+        "name": "Refuge de Pombie",
+        "type": "refuge",
+        "website": "https://refugedepombie.ffcam.fr",
+        "phone": "09 72 19 23 80",
+        "latitude": 42.83551733467937,
+        "longitude": -0.42688683153527285,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "cash only",
+        "miscellaneous": "c'est reservable en ligne - 45 couchages - demi-pension",
+        "distanceIntoHike": 526.89
+      },
+      {
+        "name": "Refuge Ayous",
+        "type": "refuge",
+        "website": "https://www.refuge-ayous.fr",
+        "phone": "05 59 05 37 00",
+        "email": "refuge.ayous@gmail.com (hors saison)",
+        "latitude": 42.84779247753937,
+        "longitude": -0.4904522719027546,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "miscellaneous": "du 7 mai au 13 octobre - c'est reservable en ligne - 47 couchages - demi-pension",
+        "distanceIntoHike": 533.27
+      },
+      {
+        "name": "Frontière France => Espagne",
+        "type": "point of interest",
+        "latitude": 42.82444,
+        "longitude": -0.49912,
+        "distanceIntoHike": 535.56
+      },
+      {
+        "name": "Cafetería Restaurante Yeti",
+        "type": "restaurant",
+        "phone": "+34 974 37 43 55",
+        "latitude": 42.8104499648932,
+        "longitude": -0.5052084715225653,
+        "opening": "tous les jours 9h-18h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 538.11
+      },
+      {
+        "name": "Cafeteria Restaurante Tito Paco",
+        "type": "restaurant",
+        "phone": "+34 974 37 31 37",
+        "latitude": 42.810249484628066,
+        "longitude": -0.5061063284520786,
+        "opening": "tous les jours 8h15-17h30",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 538.2
+      },
+      {
+        "name": "Albergue Aysa",
+        "type": "hotel",
+        "phone": "+34 974 37 30 23",
+        "latitude": 42.79588959305422,
+        "longitude": -0.5245464120187506,
+        "distanceIntoHike": 540.51
+      },
+      {
+        "name": "EROSKI",
+        "type": "shop",
+        "phone": "+34 974 37 32 87",
+        "latitude": 42.75274866567837,
+        "longitude": -0.5149882694779617,
+        "opening": "tous les jours 10h30-19h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 540.55
+      },
+      {
+        "name": "Supermercado el Canfranero",
+        "type": "shop",
+        "phone": "+34 974 37 34 77",
+        "latitude": 42.75188208182794,
+        "longitude": -0.5151385304349666,
+        "opening": "tous les jours 9h-21h sauf ve,di: 9h-20h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 540.55
+      },
+      {
+        "name": "Candanchu Hotel (il y a aussi 2 autres hotels ds le village)",
+        "type": "hotel",
+        "phone": "+34 974 37 30 25",
+        "latitude": 42.78899300409835,
+        "longitude": -0.5285890489364178,
+        "distanceIntoHike": 540.62
+      },
+      {
+        "name": "Frontière Espagne => France",
+        "type": "point of interest",
+        "latitude": 42.79577,
+        "longitude": -0.52578,
+        "distanceIntoHike": 540.62
+      },
+      {
+        "name": "Bar Restaurante Estanés",
+        "type": "restaurant",
+        "phone": "+34 974 37 33 50",
+        "latitude": 42.7882873607751,
+        "longitude": -0.5297330969973099,
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 540.69
+      },
+      {
+        "name": "Supermercado Azon",
+        "type": "shop",
+        "phone": "+34 685 91 20 28",
+        "latitude": 42.787954859585454,
+        "longitude": -0.5304001584335004,
+        "opening": "lu,ma,me,je,ve: 9h-16h/16h-20h - sa,di: 8h-20h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 540.91
+      },
+      {
+        "name": "Refugio Pepe Garcés",
+        "type": "refuge",
+        "website": "https://refugiopepegarces.com",
+        "phone": "+34 974 37 23 78",
+        "email": "refugepepegarces@gmail.com",
+        "latitude": 42.78751273830681,
+        "longitude": -0.5317004324286615,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "carte bleue / cash",
+        "miscellaneous": "46 places - demi-pension",
+        "distanceIntoHike": 540.91
+      },
+      {
+        "name": "Bar Excursionistas",
+        "type": "restaurant",
+        "website": "",
+        "phone": "+34 974 09 36 85",
+        "latitude": 42.78875064957497,
+        "longitude": -0.5306800755613903,
+        "opening": "tous les jours 11h-23h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 540.91
+      },
+      {
+        "name": "Refuge d'Arlet",
+        "type": "refuge",
+        "website": "https://sites.google.com/site/refugearlet  ---  https://www.pyrenees-bearnaises.com/offres/refuge-darlet-borce-fr-2195510",
+        "phone": "09 72 16 71 96 / 05 59 36 00 99",
+        "email": "refuge.arlet@yahoo.fr",
+        "latitude": 42.840644348699,
+        "longitude": -0.6156710046802747,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "cash only",
+        "miscellaneous": "1 juin 2024 au 29 septembre 2024 - 44 couchages - demi-pension",
+        "distanceIntoHike": 556.85
+      },
+      {
+        "name": "Frontière France => Espagne",
+        "type": "point of interest",
+        "latitude": 42.8743,
+        "longitude": -0.66632,
+        "distanceIntoHike": 565.14
+      },
+      {
+        "name": "Frontière Espagne => France",
+        "type": "point of interest",
+        "latitude": 42.88634,
+        "longitude": -0.71393,
+        "distanceIntoHike": 571.46
+      },
+      {
+        "name": "Camping du Lauzart",
+        "type": "camping",
+        "website": "https://www.camping-gite-lescun-pyrenees.com",
+        "phone": "05 59 34 51 77",
+        "email": "campingdulauzart@pyreneesloisirs.fr",
+        "latitude": 42.927830746303535,
+        "longitude": -0.6422004375054623,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "miscellaneous": "50 spots pr tentes, avec des zones dédiées aux randonneurs itinérants!",
+        "distanceIntoHike": 582.33
+      },
+      {
+        "name": "Lopez Jean-Pierre",
+        "type": "restaurant",
+        "website": "https://bar-des-bergers.fr",
+        "phone": "05 59 34 74 07",
+        "latitude": 42.933133092414934,
+        "longitude": -0.6344963250893011,
+        "opening": "ouvert tte l'année midi et soir",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 583.37
+      },
+      {
+        "name": "L'epicerie de Lescun",
+        "type": "shop",
+        "phone": "05 59 34 69 10",
+        "latitude": 42.93404840745838,
+        "longitude": -0.6350472916908875,
+        "opening": "???",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 583.48
+      },
+      {
+        "name": "Intermarché Contact Accous",
+        "type": "shop",
+        "phone": "05 59 34 79 25",
+        "latitude": 42.97699254202507,
+        "longitude": -0.6053119613681758,
+        "opening": "Tous les jours 9h30-12h30/15h-19h sauf dimanche 9h-12h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 583.64
+      },
+      {
+        "name": "Centre de l'Abérouat",
+        "type": "refuge",
+        "website": "http://aberouat.fr --- https://www.tourisme64.com/hebergements/hebergement-collectif/lescun/HCOLLAQU0640001B-centre-de-montagne-et-refuge-de-l-aberouat",
+        "phone": "05 59 34 71 67 / 06 30 93 24 72",
+        "email": "aberouat@laligue64.org",
+        "latitude": 42.95034160636248,
+        "longitude": -0.6658152320634305,
+        "todo": "Le site marchait pas en janvier, revérifier - Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "carte bleue acceptée",
+        "miscellaneous": "29 couchages - demi-pension",
+        "distanceIntoHike": 587.97
+      },
+      {
+        "name": "La Bodega",
+        "type": "restaurant",
+        "phone": "05 59 66 10 91",
+        "latitude": 42.977273835529544,
+        "longitude": -0.7451205635119923,
+        "opening": "tous les jours 10h-23h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 603.44
+      },
+      {
+        "name": "Mum's bar",
+        "type": "restaurant",
+        "phone": "07 78 39 39 76",
+        "latitude": 42.97732485608609,
+        "longitude": -0.7454692502405899,
+        "opening": "tous les jours 8h-23h sauf lundi 8h-18h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 603.44
+      },
+      {
+        "name": "Epicerie de la Marmotte",
+        "type": "shop",
+        "phone": "07 86 32 03 17",
+        "latitude": 42.97758162124934,
+        "longitude": -0.745210359872998,
+        "opening": "tous les jours 09h–12h30/14h30–18h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "miscellaneous": "ca à l'air très sommaire",
+        "distanceIntoHike": 603.44
+      },
+      {
+        "name": "Refuge Jeandel",
+        "type": "refuge",
+        "website": "https://www.refugejeandel.com",
+        "phone": "06 73 14 97 23 / 05 59 66 14 46",
+        "email": "refugejeandel@orange.fr",
+        "latitude": 42.978189487798495,
+        "longitude": -0.7493391088181475,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "payment": "cash only",
+        "miscellaneous": "19 couchages - demi-pension",
+        "distanceIntoHike": 603.96
+      },
+      {
+        "name": "Refugio de Belagua",
+        "type": "refuge",
+        "website": "https://refugiobelagua.es/en",
+        "phone": "+34 623 10 73 17",
+        "latitude": 42.945028180224334,
+        "longitude": -0.834582864695952,
+        "todo": "Appeler pr vérifier: s'ils sont ouvert, s'ils ont des emplacements tente, s'il vaut mieux reserver pr dinner, le type de payment, s'ils font restauration ds journée, ...",
+        "miscellaneous": "ouvert tte l'année - c'est reservable en ligne - 56 couchages - demi-pension",
+        "distanceIntoHike": 613.94
+      },
+      {
+        "name": "Restaurante Venta de Juan Pito",
+        "type": "restaurant",
+        "phone": "+34 619 60 95 30",
+        "latitude": 42.93783124445947,
+        "longitude": -0.8573690078501601,
+        "opening": "ve,sa,di: 9h30-20h30",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 615.36
+      },
+      {
+        "name": "Restaurant des Chalets d'Iraty",
+        "type": "restaurant",
+        "phone": "05 54 45 00 20",
+        "latitude": 43.038522785999135,
+        "longitude": -1.0259337513507414,
+        "opening": "ve,sa,di: 8h-18h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 642.1
+      },
+      {
+        "name": "Aire Naturelle De Camping D'Iraty",
+        "type": "camping",
+        "website": "https://chalets-iraty.com/les-hebergements/le-camping",
+        "phone": "05 59 28 51 29",
+        "latitude": 43.03727964504591,
+        "longitude": -1.0494833194492728,
+        "opening": "de juin à octobre",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "miscellaneous": "50 spots - pas de reservation",
+        "distanceIntoHike": 645.08
+      },
+      {
+        "name": "Etxola",
+        "type": "restaurant",
+        "phone": "09 88 19 12 37",
+        "latitude": 43.04847759802136,
+        "longitude": -1.0731324765221986,
+        "opening": "???",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 647.32
+      },
+      {
+        "name": "Restaurant le Kayolar",
+        "type": "restaurant",
+        "latitude": 43.044421231457726,
+        "longitude": -1.0738526119376959,
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 647.39
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 43.04289,
+        "longitude": -1.07279,
+        "distanceIntoHike": 647.47
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 43.04016,
+        "longitude": -1.07383,
+        "distanceIntoHike": 647.79
+      },
+      {
+        "name": "Restaurant Chalet Pedro Iraty",
+        "type": "restaurant",
+        "website": "https://www.chaletpedro.com",
+        "phone": "05 59 28 55 98",
+        "latitude": 43.03670486525769,
+        "longitude": -1.0746958471017296,
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 648.29
+      },
+      {
+        "name": "Frontière France => Espagne",
+        "type": "point of interest",
+        "latitude": 43.04467,
+        "longitude": -1.26614,
+        "distanceIntoHike": 670.21
+      },
+      {
+        "name": "Dendaberri",
+        "type": "shop",
+        "phone": "+34 948 79 03 14",
+        "latitude": 42.993667858274655,
+        "longitude": -1.3294161616255211,
+        "opening": "lu,me,je,ve,sa: 8h-13h30/16h30-19h30 - ma: 8h-13h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 676.86
+      },
+      {
+        "name": "Aritza",
+        "type": "restaurant",
+        "website": "http://www.restauranteasadoraritza.com",
+        "phone": "+34 747 49 14 40",
+        "latitude": 42.99149879483229,
+        "longitude": -1.3322846425620376,
+        "opening": "lu,me,di: 13h30-15h30 - je,ve,sa: 13h30-15h30/20h30-22h15",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 676.86
+      },
+      {
+        "name": "Bar Frontón",
+        "type": "restaurant",
+        "latitude": 42.98915715785536,
+        "longitude": -1.335861214740292,
+        "opening": "tous les jours 7h30-15h/17h-21h sauf mardi",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 676.86
+      },
+      {
+        "name": "Hotel Loizu",
+        "type": "hotel",
+        "website": "https://loizu.com",
+        "phone": "+34 948 76 00 08",
+        "latitude": 42.98761113505129,
+        "longitude": -1.3369127032961978,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "distanceIntoHike": 676.86
+      },
+      {
+        "name": "Hotel Roncesvalles (il y a 4 hotels ds le village)",
+        "type": "hotel",
+        "website": "https://hotelroncesvalles.roncesvalles.es",
+        "phone": "+34 948 76 01 05",
+        "latitude": 43.00991449344769,
+        "longitude": -1.320094505629792,
+        "opening": "Ca fait aussi restaurant on dirait",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "distanceIntoHike": 676.86
+      },
+      {
+        "name": "Frontière Espagne => France",
+        "type": "point of interest",
+        "latitude": 43.02901,
+        "longitude": -1.35738,
+        "distanceIntoHike": 679.99
+      },
+      {
+        "name": "Bar-Brasserie ALFAROENEA Ostatua",
+        "type": "restaurant",
+        "phone": "05 59 37 58 61",
+        "latitude": 43.09610753565033,
+        "longitude": -1.4260071495525917,
+        "opening": "tous les jours 9h-19h sauf mercredi",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 692.67
+      },
+      {
+        "name": "Ferme Auberge Auzkia- repas avec produits de la ferme",
+        "type": "restaurant",
+        "website": "https://www.ferme-auzkia.com",
+        "phone": "05 59 37 55 65",
+        "email": "contact@ferme-auzkia.com",
+        "latitude": 43.091258832775765,
+        "longitude": -1.428576545177183,
+        "todo": "Reverifier les horaires avant de partir",
+        "miscellaneous": "Reservation obligatoire",
+        "distanceIntoHike": 692.67
+      },
+      {
+        "name": "Petit casino",
+        "type": "shop",
+        "latitude": 43.09761975646942,
+        "longitude": -1.4267305666813472,
+        "opening": "ma,ma,je,ve,sa: 8h30-12h30/15h-19h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 692.96
+      },
+      {
+        "name": "Frontière France => Espagne",
+        "type": "point of interest",
+        "latitude": 43.09099,
+        "longitude": -1.47126,
+        "distanceIntoHike": 698.49
+      },
+      {
+        "name": "EROSKI Elizondo",
+        "type": "shop",
+        "phone": "+34 944 94 34 44",
+        "latitude": 43.146597951993485,
+        "longitude": -1.51598769664004,
+        "opening": "tous les jours 9h-21h sauf dimanche",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 707.36
+      },
+      {
+        "name": "Supermercados Dia",
+        "type": "shop",
+        "phone": "+34 912 17 04 53",
+        "latitude": 43.14243402212982,
+        "longitude": -1.521226197470535,
+        "opening": "tous les jours 9h-21h sauf dimanche",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 707.95
+      },
+      {
+        "name": "Plusieurs restaurants",
+        "type": "restaurant",
+        "latitude": 43.14460477207672,
+        "longitude": -1.5200996587821651,
+        "distanceIntoHike": 708.05
+      },
+      {
+        "name": "BM Supermercados",
+        "type": "shop",
+        "phone": "+34 948 58 19 17",
+        "latitude": 43.138426497636715,
+        "longitude": -1.526206218789321,
+        "opening": "tus les jours 9h-21h sauf dimanche",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 708.2
+      },
+      {
+        "name": "Hordago Ostatua - Bar Restaurant",
+        "type": "restaurant",
+        "website": "https://www.chambresdhotes-hordago.com",
+        "phone": "06 85 55 10 13",
+        "latitude": 43.26118250507743,
+        "longitude": -1.619277002269274,
+        "opening": "???",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 729.77
+      },
+      {
+        "name": "Lizuniaga",
+        "type": "restaurant",
+        "phone": "+34 948 63 10 31",
+        "latitude": 43.2827149783276,
+        "longitude": -1.6317382532796907,
+        "opening": "ve,sa,di: 11h30-15h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 734.78
+      },
+      {
+        "name": "Udako Etxea",
+        "type": "restaurant",
+        "phone": "+34 948 63 11 15",
+        "latitude": 43.30817651917582,
+        "longitude": -1.6338741771986451,
+        "opening": "lu,ma,me,je: 11h-16h - ve: 10h-19h - sa,di: 9h30-18h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 739.21
+      },
+      {
+        "name": "Venta Gorria",
+        "type": "restaurant",
+        "phone": "+34 948 63 09 39",
+        "latitude": 43.30945413963837,
+        "longitude": -1.6841691905506901,
+        "opening": "tous les jours 8h30-19h sauf lundi et mardi",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 746.07
+      },
+      {
+        "name": "Frontière Espagne => France",
+        "type": "point of interest",
+        "latitude": 43.30958,
+        "longitude": -1.68463,
+        "distanceIntoHike": 746.12
+      },
+      {
+        "name": "Venta Peio 1",
+        "type": "shop",
+        "phone": "+34 975 18 04 61",
+        "latitude": 43.30942899594381,
+        "longitude": -1.68764666038001,
+        "opening": "tous les jours 8h30-18h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 746.32
+      },
+      {
+        "name": "Restaurante Mendiko",
+        "type": "restaurant",
+        "website": "https://www.mendikoibardin.com",
+        "phone": "+34 699 81 08 70",
+        "latitude": 43.30997830212971,
+        "longitude": -1.6884438563467374,
+        "opening": "10h-19h tous les jours",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 746.44
+      },
+      {
+        "name": "Venta Arrago bide",
+        "type": "shop",
+        "phone": "+34 948 63 07 06",
+        "latitude": 43.310022367135225,
+        "longitude": -1.6885263574420406,
+        "opening": "tous les jours 8h-19h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 746.44
+      },
+      {
+        "name": "Supermercado Beola Etxea",
+        "type": "shop",
+        "phone": "+34 948 63 07 09",
+        "latitude": 43.31047521555553,
+        "longitude": -1.689577743667889,
+        "opening": "tous les jours 8h30-18h30",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 746.56
+      },
+      {
+        "name": "Venta Gora",
+        "type": "restaurant",
+        "phone": "+34 948 63 07 29",
+        "latitude": 43.31133073535744,
+        "longitude": -1.6910580247350626,
+        "opening": "tous les jours 8h30-19h30",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 746.71
+      },
+      {
+        "name": "Elizalde",
+        "type": "restaurant",
+        "phone": "+34 948 63 10 24",
+        "latitude": 43.31171079874666,
+        "longitude": -1.6929914933170396,
+        "opening": "9h-19h tous les jours",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 746.89
       }
     ]
   }

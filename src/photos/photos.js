@@ -3,6 +3,7 @@ var photoTags = [];
 
 function drawPhotos(svg, width, height) {
   drawLoader();
+  setPageDescription("Vanity Hikes: Photos taken on my hikes - Xavier Guihot");
   loadPhotos().then(_ => {
     displayPhotos(svg, width, height, "All photos");
     removeLoader();

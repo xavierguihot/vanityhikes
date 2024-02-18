@@ -1,6 +1,7 @@
 
 function drawMapAndTraces(svg, width, height) {
   drawLoader();
+  setPageDescription("Vanity Hikes: My hikes displayed on a world map - Xavier Guihot");
   loadHikeTraces().then(_ => {
     loadPhotos().then(_ => {
       loadWishlistHikeTraces().then(_ => {

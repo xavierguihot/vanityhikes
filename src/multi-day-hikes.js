@@ -1,6 +1,7 @@
 
 function drawMultiDayHikes(svg, width, height) {
   drawLoader();
+  setPageDescription("Vanity Hikes: A listing of all my multi-day hikes - Xavier Guihot");
   loadHikeTraces().then(_ => {
     loadPhotos().then(_ => {
       loadMultiDayHikes().then(_ => {

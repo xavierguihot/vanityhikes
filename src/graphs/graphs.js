@@ -1,6 +1,7 @@
 
 function drawGraphs(svg, width, height) {
   drawLoader();
+  setPageDescription("Vanity Hikes: Some graphs based on my hikes - Xavier Guihot");
   loadHikeTraces().then(_ => {
     loadTimeline().then(_ => {
       displayGraphs(svg, width, height, "Rolling cumulated distance over previous 365 days");

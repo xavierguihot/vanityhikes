@@ -1,6 +1,7 @@
 
 function drawUserStats(svg, width, height) {
   drawLoader();
+  setPageDescription("Vanity Hikes: Some statistics and metrics based on my hikes - Xavier Guihot");
   loadUserStats().then(_ => {
     displayUserStats(svg, width, height);
     removeLoader();

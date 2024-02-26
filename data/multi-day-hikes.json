@@ -1,5 +1,96 @@
 [
   {
+    "name": "Les Ballons d'Alsaces",
+    "contiguousHikes": [
+      "2024-02-25T08:14:34",
+      "2024-02-24T20:14:32",
+      "2024-02-24T18:46:17",
+      "2024-02-24T08:45:21",
+      "2024-02-23T08:37:03",
+      "2024-02-22T08:37:48",
+      "2024-02-21T08:05:54",
+      "2024-02-20T17:48:32",
+      "2024-02-20T15:12:29"
+    ],
+    "overridenHikes": [
+      "2024-02-24T20:14:32",
+      "2024-02-24T18:46:17",
+      "2024-02-24T08:45:21",
+      "2024-02-23T08:37:03",
+      "2024-02-22T08:37:48",
+      "2024-02-21T08:05:54"
+    ],
+    "start": "2024-02-21T08:05:54",
+    "end": "2024-02-24T20:27:46",
+    "days": 4,
+    "walkingDays": 4,
+    "distance": 121.36935950927587,
+    "elevation": 5072,
+    "durationInSeconds": 111208,
+    "idleTimeInSeconds": 4374,
+    "coordinates": {
+      "centerLatitude": 47.95003244653344,
+      "centerLongitude": 7.090868968516588,
+      "widthInKm": 39,
+      "heightInKm": 28
+    },
+    "timeline": [
+      {
+        "date": "2024-02-21",
+        "distance": 33.837169137627214,
+        "elevation": 1863
+      },
+      {
+        "date": "2024-02-22",
+        "distance": 24.16737103959168,
+        "elevation": 1427
+      },
+      {
+        "date": "2024-02-23",
+        "distance": 29.62442786611911,
+        "elevation": 1104
+      },
+      {
+        "date": "2024-02-24",
+        "distance": 33.74039146593786,
+        "elevation": 677
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 47.85809502148083,
+        "longitude": 6.822643720222486
+      },
+      {
+        "type": "hotel",
+        "latitude": 47.92552718426155,
+        "longitude": 6.95061568562186
+      },
+      {
+        "type": "hotel",
+        "latitude": 47.92727064843099,
+        "longitude": 7.028461251404771
+      },
+      {
+        "type": "hotel",
+        "latitude": 47.98256096588307,
+        "longitude": 7.119355055249771
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.07961341219731,
+        "longitude": 7.352198767873414
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/0t9hgy",
+    "photo": "P1134398.JPG",
+    "type": "Itinérance en auberges",
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
     "contiguousHikes": [
       "2024-02-12T13:45",
       "2024-02-12T09:05:03",

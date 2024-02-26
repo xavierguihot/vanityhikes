@@ -1,7 +1,7 @@
 
 function drawTimeseriesGraph(selectedGraph, graphContainer, graphHolder, graphWidth, graphHeight, margin) {
 
-  var colors = ["#008EFC", "fuchsia", "chocolate", "maroon", "gold"];
+  var colors = ["#008EFC", "fuchsia", "chocolate", "#45e6f5", "#28f711", "gold"];
 
   var maxValue = d3.max(data.timeline, selectedGraph.dimension);
   var currentValue = selectedGraph.dimension(data.timeline[0]);

@@ -106,7 +106,7 @@ function readHikesCsv(csv, isWish) {
 function drawOutdatedDataBannerIfNeeded() {
   var lastUpdatedDate = data.timeline.find(d => d.daysAgo == 0).date;
   var daysSinceLastUpdate = Math.trunc((new Date() - new Date(lastUpdatedDate)) / (1000 * 60 * 60 * 24));
-  if (daysSinceLastUpdate >= 7) { // days
+  if (daysSinceLastUpdate >= 10) { // days
     drawBanner(`The data may be outdated, I've probably been out in the wilderness for a while. Last update: ${lastUpdatedDate}`, bannerContainer);
   }
 }

@@ -1,45 +1,5 @@
 [
   {
-    "hike": "Iceland Whale Watching",
-    "locations": [
-      {
-        "name": "Eglise Hallgrímskirkja",
-        "type": "point of interest",
-        "latitude": 64.14202426785526,
-        "longitude": -21.926611801583746,
-        "distanceIntoHike": 1.56
-      },
-      {
-        "name": "Harpa concert hall",
-        "type": "point of interest",
-        "latitude": 64.15020304973312,
-        "longitude": -21.932274922518072,
-        "distanceIntoHike": 2.95
-      },
-      {
-        "name": "Old Harbour",
-        "type": "point of interest",
-        "latitude": 64.15098861848642,
-        "longitude": -21.94369106798294,
-        "distanceIntoHike": 4.25
-      },
-      {
-        "name": "Whales of Iceland Museum",
-        "type": "point of interest",
-        "latitude": 64.15538567549035,
-        "longitude": -21.948326169592356,
-        "distanceIntoHike": 5.21
-      },
-      {
-        "name": "Whale watching tour meeting point",
-        "type": "point of interest",
-        "latitude": 64.8980738902572,
-        "longitude": -23.704520251177872,
-        "distanceIntoHike": 5.49
-      }
-    ]
-  },
-  {
     "hike": "Chartres to Voisins",
     "locations": [
       {
@@ -3842,14 +3802,6 @@
         "distanceIntoHike": 0.0
       },
       {
-        "name": "Skógar Campsite",
-        "type": "bivouac",
-        "latitude": 63.52805567107387,
-        "longitude": -19.512596907971567,
-        "miscellaneous": "Il y a pas mal de spots pour tentes -- mais il y a du traffic (c'est un parking) et c'est mal noté sur Google (douches sales)",
-        "distanceIntoHike": 0.0
-      },
-      {
         "name": "Hoskuldsskali",
         "type": "bivouac",
         "latitude": 63.933165715675536,
@@ -3911,6 +3863,14 @@
         "longitude": -19.440961366046036,
         "miscellaneous": "Il y a quelques spots pour tentes",
         "distanceIntoHike": 78.32
+      },
+      {
+        "name": "Skógar Campsite",
+        "type": "bivouac",
+        "latitude": 63.52805567107387,
+        "longitude": -19.512596907971567,
+        "miscellaneous": "Il y a pas mal de spots pour tentes -- mais il y a du traffic (c'est un parking) et c'est mal noté sur Google (douches sales)",
+        "distanceIntoHike": 90.98
       }
     ]
   },

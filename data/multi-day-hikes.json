@@ -2,6 +2,7 @@
   {
     "name": "GR Ceinture Verte Ile de France",
     "overridenHikes": [
+      "2024-03-27T09:18:01",
       "2024-03-26T09:08:57",
       "2024-03-25T08:46:34",
       "2024-03-24T09:11:08",
@@ -11,13 +12,13 @@
       "2024-03-20T11:46:07"
     ],
     "start": "2024-03-20T11:46:07",
-    "end": "2024-03-26T17:08:45",
-    "days": 7,
-    "walkingDays": 7,
-    "distance": 234.3504319816011,
-    "elevation": 2702,
-    "durationInSeconds": 185263,
-    "idleTimeInSeconds": 13731,
+    "end": "2024-03-27T17:24:44",
+    "days": 8,
+    "walkingDays": 8,
+    "distance": 268.93479252350244,
+    "elevation": 3259,
+    "durationInSeconds": 214466,
+    "idleTimeInSeconds": 16415,
     "coordinates": {
       "centerLatitude": 48.87175873853266,
       "centerLongitude": 2.3178577004000545,
@@ -59,6 +60,11 @@
         "date": "2024-03-26",
         "distance": 36.422542480437514,
         "elevation": 282
+      },
+      {
+        "date": "2024-03-27",
+        "distance": 34.584360541901354,
+        "elevation": 556
       }
     ],
     "descriptionFR": "Description: Work in Progress",

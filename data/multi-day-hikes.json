@@ -67,6 +67,48 @@
         "elevation": 556
       }
     ],
+    "locations": [
+      {
+        "type": "train",
+        "latitude": 48.81235,
+        "longitude": 2.18807
+      },
+      {
+        "type": "train",
+        "latitude": 48.93332,
+        "longitude": 2.04107
+      },
+      {
+        "type": "train",
+        "latitude": 49.04958,
+        "longitude": 2.03469
+      },
+      {
+        "type": "train",
+        "latitude": 49.03277,
+        "longitude": 2.33776
+      },
+      {
+        "type": "train",
+        "latitude": 48.96285,
+        "longitude": 2.51258
+      },
+      {
+        "type": "train",
+        "latitude": 48.84345,
+        "longitude": 2.61639
+      },
+      {
+        "type": "train",
+        "latitude": 48.68093,
+        "longitude": 2.53297
+      },
+      {
+        "type": "train",
+        "latitude": 48.70772,
+        "longitude": 2.23716
+      }
+    ],
     "descriptionFR": "Description: Work in Progress",
     "type": "Itinérance",
     "hasGpxFile": false,

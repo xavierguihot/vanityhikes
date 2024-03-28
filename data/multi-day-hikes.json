@@ -110,6 +110,7 @@
       }
     ],
     "descriptionFR": "Description: Work in Progress",
+    "photo": "P1157247.JPG",
     "type": "Itinérance",
     "hasGpxFile": false,
     "hide": false
@@ -263,7 +264,7 @@
     "hide": true
   },
   {
-    "name": "Iceland",
+    "name": "Iceland en Mars",
     "contiguousHikes": [
       "2024-03-17T05:59:58",
       "2024-03-16T23:59:45",
@@ -1817,7 +1818,7 @@
     "hide": false
   },
   {
-    "name": "Traversée de Belledonne (basée sur le GR738)",
+    "name": "GR738++ - Traversée de Belledonne",
     "contiguousHikes": [
       "2023-08-16T04:40:12",
       "2023-08-15T06:53:02",

@@ -458,6 +458,7 @@
         "phone": "02 33 47 14 84",
         "latitude": 49.07004885474978,
         "longitude": -1.5969657409792404,
+        "opening": "A partir du 15 mai",
         "todo": "Appeler pr confirmer dates et si possibile avec tente",
         "distanceIntoHike": 112.38
       },
@@ -586,10 +587,10 @@
         "type": "camping",
         "website": "https://www.campinghavreregneville.fr",
         "phone": "06 80 74 99 68",
+        "email": "camping.du.havre.de.regneville@gmail.com",
         "latitude": 49.00867584698819,
         "longitude": -1.5550133150456935,
-        "opening": "A partir du 1er avril",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "miscellaneous": "ils ont été cambriollé, donc ils repoussent l'ouverture, mais possible d'y poser la tente qd mm. Il n'y aura probablement pas de sanitaires.",
         "distanceIntoHike": 142.1
       },
       {
@@ -603,10 +604,12 @@
         "name": "Camping municipal les Gravelets",
         "type": "camping",
         "website": "https://www.camping-montmartin.com/",
-        "phone": "02 33 47 70 20",
+        "phone": "06 19 21 74 58 / 02 33 47 70 20",
+        "email": "mairie@montmartin-sur-mer.fr",
         "latitude": 48.99266690022568,
         "longitude": -1.5293130089849991,
-        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "opening": "A partir du 6 avril",
+        "miscellaneous": "Details confirmed by phone",
         "distanceIntoHike": 144.04
       },
       {
@@ -727,7 +730,7 @@
         "latitude": 48.860178506226006,
         "longitude": -1.5775069617180695,
         "opening": "A partir du 1er avril",
-        "todo": "Attendre réponse à mon email de demande de renseignements",
+        "miscellaneous": "Details confirmed by phone - ils acceuillent les tentes",
         "distanceIntoHike": 173.48
       },
       {
@@ -1576,6 +1579,16 @@
         "opening": "!!!! A partir du 14 juin",
         "todo": "Attendre la réponse à ma demande de détails (via le formulaire de contact du site)",
         "distanceIntoHike": 180.54
+      },
+      {
+        "name": "Restaurant Les Tamarins",
+        "type": "restaurant",
+        "website": "http://www.lestamarins.com",
+        "phone": "02 33 04 74 04",
+        "latitude": 49.637487872588174,
+        "longitude": -1.847559548327074,
+        "opening": "lu,je: 12h-14h - ve-sa-di: 12h-14h/19h-21h",
+        "distanceIntoHike": 180.96
       },
       {
         "name": "Point of view",

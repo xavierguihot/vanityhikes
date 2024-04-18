@@ -135,6 +135,86 @@
         "elevation": 1047
       }
     ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 49.63356418473386,
+        "longitude": -1.6227490336859858
+      },
+      {
+        "type": "hotel",
+        "latitude": 49.522880183592804,
+        "longitude": -1.867328942351796
+      },
+      {
+        "type": "hotel",
+        "latitude": 49.37725354684407,
+        "longitude": -1.7860139653755278
+      },
+      {
+        "type": "hotel",
+        "latitude": 49.23416669729359,
+        "longitude": -1.597199421582264
+      },
+      {
+        "type": "hotel",
+        "latitude": 49.089257013796214,
+        "longitude": -1.5964654413627033
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.97758153630282,
+        "longitude": -1.5607411781704887
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.83407872118468,
+        "longitude": -1.600638979543729
+      },
+      {
+        "type": "hotel",
+        "latitude": 49.38226818515824,
+        "longitude": -1.222336112231537
+      },
+      {
+        "type": "hotel",
+        "latitude": 49.587546716406244,
+        "longitude": -1.2711027863048463
+      },
+      {
+        "type": "hotel",
+        "latitude": 49.68747233478626,
+        "longitude": -1.2900991334023693
+      },
+      {
+        "type": "hotel",
+        "latitude": 49.667091108629684,
+        "longitude": -1.4548751822882091
+      },
+      {
+        "type": "hotel",
+        "latitude": 49.660786055096494,
+        "longitude": -1.6800683291060148
+      },
+      {
+        "type": "hotel",
+        "latitude": 49.71158379357324,
+        "longitude": -1.9318144419709666
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.665678063993965,
+        "longitude": -1.4466683171886603
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.613631709331464,
+        "longitude": -1.5091096220591957
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/ou5ed4",
+    "type": "Itinérance",
     "hasGpxFile": false,
     "hide": false
   },

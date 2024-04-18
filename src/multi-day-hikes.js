@@ -213,12 +213,10 @@ function displayMultiDayHikes(svg, width, height) {
       initialZoom = 50000;
     } else if (75 <= maxDimensionInKm && maxDimensionInKm <= 120) {
       initialZoom = 30000;
-    } else if (75 <= maxDimensionInKm && maxDimensionInKm <= 120) {
-      initialZoom = 20000;
     } else if (120 <= maxDimensionInKm && maxDimensionInKm <= 250) {
-      initialZoom = 10000;
+      initialZoom = 25000;
     } else {
-      initialZoom = 5000;
+      initialZoom = 15000;
     }
 
     // Initial center:

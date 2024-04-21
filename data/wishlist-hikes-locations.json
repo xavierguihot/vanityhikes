@@ -306,8 +306,9 @@
         "email": "info@beinglascampsite.co.uk",
         "latitude": 56.33115291790908,
         "longitude": -4.716796801642019,
-        "opening": "A partir du ???",
+        "opening": "Ouvert pr 2024 (vu sur le site)",
         "todo": "Envoyer email pr confirmer dates",
+        "miscellaneous": "Il y aurait une petite épicerie - il y a plein de places pr les tentes",
         "distanceIntoHike": 66.18
       },
       {
@@ -342,8 +343,8 @@
         "phone": "+44 1838 400 235",
         "latitude": 56.43587966491903,
         "longitude": -4.710929662233809,
-        "opening": "7h30-20h tous les jours",
-        "todo": "Reverifier les horaires avant de partir",
+        "opening": "7h30-21h tous les jours",
+        "miscellaneous": "Horaires mises a jr il y a 3 semaines",
         "distanceIntoHike": 85.14
       },
       {
@@ -354,7 +355,8 @@
         "email": "internet@thegreenwellystop.co.uk",
         "latitude": 56.438178296142965,
         "longitude": -4.712639775775581,
-        "todo": "Ajouter les horaires",
+        "opening": "7h-22h tous les jours",
+        "miscellaneous": "Horaires mises a jr sur google il y a 1 semaine - All day menu",
         "distanceIntoHike": 85.46
       },
       {
@@ -375,8 +377,8 @@
         "email": "info@bridgeoforchy.co.uk",
         "latitude": 56.51768012726148,
         "longitude": -4.768907322930978,
-        "opening": "Pas de détail sur les jours d'ouverture",
         "todo": "Reverifier les horaires avant de partir",
+        "miscellaneous": "Dinner: 18h-20h30 (reservable en ligne) - Lunch: 12h-15h",
         "distanceIntoHike": 95.95
       },
       {
@@ -434,7 +436,7 @@
         "email": "stay@blackwaterhostel.co.uk",
         "latitude": 56.71435377122547,
         "longitude": -4.9603399405652135,
-        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "miscellaneous": "bookable onligne - 15 pounds - phone charging - grande surface de gazon pr les tentes",
         "distanceIntoHike": 129.38
       },
       {
@@ -445,8 +447,7 @@
         "email": "Tailraceinn1@outlook.com",
         "latitude": 56.714915579647,
         "longitude": -4.963988237852119,
-        "opening": "tous les jours on dirait. lunch: 11h-16h - dinner: 16h-21h",
-        "todo": "Reverifier les horaires avant de partir",
+        "opening": "dinner: 4pm-9pm - breakfast: 8am-10am",
         "distanceIntoHike": 129.56
       },
       {
@@ -542,21 +543,12 @@
         "distanceIntoHike": 17.78
       },
       {
-        "name": "Open Street Map indique une aire de bivouac",
+        "name": "Loch Lochy Glas Dhoire (official trailblazer rest rite)",
         "type": "bivouac",
         "latitude": 56.99841713405166,
         "longitude": -4.876444915579773,
+        "miscellaneous": "max 8 tents - space for wild camping at shore and under trees - x2 composting toilets",
         "distanceIntoHike": 31.91
-      },
-      {
-        "name": "Laggan Lock Kiosk",
-        "type": "restaurant",
-        "latitude": 57.02563017130704,
-        "longitude": -4.82520452945969,
-        "opening": "tous les jours 9h30-16h30",
-        "todo": "Reverifier les horaires avant de partir",
-        "miscellaneous": "C'est juste un petit café",
-        "distanceIntoHike": 36.54
       },
       {
         "name": "Open Street Map indique une aire de bivouac",

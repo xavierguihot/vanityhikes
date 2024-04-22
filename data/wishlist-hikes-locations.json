@@ -806,7 +806,6 @@
         "latitude": 57.6049382914651,
         "longitude": -5.30501640107123,
         "opening": "Epicerie & coffee bar du lundi of vendredi 9h-16h45",
-        "todo": "Reverifier les horaires avant de partir",
         "distanceIntoHike": 18.82
       },
       {
@@ -817,8 +816,7 @@
         "latitude": 57.60427573046657,
         "longitude": -5.30478325034429,
         "opening": "A partir du 15 mars",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "miscellaneous": "Seulement 5 spots pour tentes",
+        "miscellaneous": "Seulement 5 spots pour tentes - bookable online",
         "distanceIntoHike": 18.82
       },
       {
@@ -828,8 +826,7 @@
         "phone": "+44 1445 793 315",
         "latitude": 57.602831110205855,
         "longitude": -5.305269753242926,
-        "opening": "tous les jours 9h-15h/17h-19h30 sauf lundi et mardi",
-        "todo": "Reverifier les horaires avant de partir",
+        "opening": "tous les jours 9h-15h/17h-19h30 sauf lundi, mardi et mercredi",
         "distanceIntoHike": 18.82
       },
       {
@@ -844,13 +841,21 @@
         "distanceIntoHike": 31.75
       },
       {
+        "name": "The Dundonnell Hotel",
+        "type": "hotel",
+        "website": "http://www.dundonnellhotel.com",
+        "latitude": 57.84155353717296,
+        "longitude": -5.2211975451237675,
+        "opening": "C'est dispo sur booking.com (donc ouvert pr la saison)",
+        "miscellaneous": "possible de pitch la tente - shower - dinner - breakfast"
+      },
+      {
         "name": "The Durness Shop",
         "type": "shop",
         "phone": "+44 1971 511 209",
         "latitude": 58.56871001813571,
         "longitude": -4.745995619193896,
-        "opening": "tous les jours 8h-18h sauf samedi 9h-18h et dimanche 9h-16h",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "opening": "tous les jours 8h-18h sauf samedi 9h-18h et fermé le dimanche",
         "distanceIntoHike": 31.75
       },
       {
@@ -860,7 +865,6 @@
         "latitude": 58.56806578707676,
         "longitude": -4.740480505825823,
         "opening": "tous les jours 10h30-17h/20h30-22h sauf dimanche 12h-17h",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
         "distanceIntoHike": 31.75
       },
       {
@@ -899,8 +903,7 @@
         "phone": "+44 3456 719 361",
         "latitude": 57.89694612151029,
         "longitude": -5.162996404611335,
-        "opening": "tous les jours 6h-22h sauf dimanche 7h-18h",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "opening": "tous les jours 7h-22h (horaires mises a jr il y a 6 jrs)",
         "distanceIntoHike": 77.41
       },
       {
@@ -932,20 +935,8 @@
         "type": "restaurant",
         "latitude": 58.45648985999961,
         "longitude": -5.051819141721631,
-        "todo": "Reverifier les horaires avant de partir",
+        "opening": "je,ve,sa: 11h-16h",
         "distanceIntoHike": 198.48
-      },
-      {
-        "name": "Worth A Look",
-        "type": "restaurant",
-        "website": "https://worthalookkinlochbervie.weebly.com",
-        "phone": "+44 7880 343 101",
-        "email": "worthalookkinlochbervie@aol.com",
-        "latitude": 58.45861658967624,
-        "longitude": -5.054247341637863,
-        "opening": "lu,ma: 11h-16h - me,ve: 11h-19h",
-        "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 198.53
       },
       {
         "name": "SPAR Kinlochbervie",
@@ -953,7 +944,7 @@
         "phone": "+44 1971 521 324",
         "latitude": 58.45880233860483,
         "longitude": -5.054725630993037,
-        "opening": "tous les jours 8h-20h sauf samedi 8h-18h",
+        "opening": "tous les jours 8h-20h sauf samedi/dimanche 9h-18h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
         "distanceIntoHike": 198.58
       },

@@ -841,15 +841,6 @@
         "distanceIntoHike": 31.75
       },
       {
-        "name": "The Dundonnell Hotel",
-        "type": "hotel",
-        "website": "http://www.dundonnellhotel.com",
-        "latitude": 57.84155353717296,
-        "longitude": -5.2211975451237675,
-        "opening": "C'est dispo sur booking.com (donc ouvert pr la saison)",
-        "miscellaneous": "possible de pitch la tente - shower - dinner - breakfast"
-      },
-      {
         "name": "The Durness Shop",
         "type": "shop",
         "phone": "+44 1971 511 209",
@@ -883,6 +874,16 @@
         "longitude": -5.254169819404087,
         "miscellaneous": "Il y a de quoi piquer quelques tentes à côté du bothy",
         "distanceIntoHike": 45.92
+      },
+      {
+        "name": "The Dundonnell Hotel",
+        "type": "hotel",
+        "website": "http://www.dundonnellhotel.com",
+        "latitude": 57.84155353717296,
+        "longitude": -5.2211975451237675,
+        "opening": "C'est dispo sur booking.com (donc ouvert pr la saison)",
+        "miscellaneous": "possible de pitch la tente - shower - dinner - breakfast",
+        "distanceIntoHike": 54.09
       },
       {
         "name": "Broomfield Holiday Park",

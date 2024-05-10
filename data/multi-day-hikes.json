@@ -1,5 +1,233 @@
 [
   {
+    "contiguousHikes": [
+      "2024-05-10T05:39:42",
+      "2024-05-09T19:58:06"
+    ],
+    "start": "2024-05-09T19:58:06",
+    "end": "2024-05-10T05:47:40",
+    "days": 2,
+    "walkingDays": 0,
+    "distance": 1.3525755861721356,
+    "elevation": 8,
+    "durationInSeconds": 1087,
+    "idleTimeInSeconds": 0,
+    "coordinates": {
+      "centerLatitude": 55.86062627378851,
+      "centerLongitude": -4.253089651465416,
+      "widthInKm": 0,
+      "heightInKm": 0
+    },
+    "timeline": [
+      {
+        "date": "2024-05-09",
+        "distance": 0.630297932533003,
+        "elevation": 8
+      },
+      {
+        "date": "2024-05-10",
+        "distance": 0.7222776536391327,
+        "elevation": 0
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "name": "CWT - Cape Wrath Trail (second half)",
+    "contiguousHikes": [
+      "2024-05-09T08:49:36",
+      "2024-05-08T08:25:50",
+      "2024-05-07T09:02:38",
+      "2024-05-06T09:16:04",
+      "2024-05-05T09:26:59",
+      "2024-05-04T08:28:45",
+      "2024-05-03T08:31:03",
+      "2024-05-02T10:00:47",
+      "2024-05-01T13:43:36"
+    ],
+    "overridenHikes": [
+      "2024-05-08T08:25:50",
+      "2024-05-07T09:02:38",
+      "2024-05-06T09:16:04",
+      "2024-05-05T09:26:59",
+      "2024-05-04T08:28:45",
+      "2024-05-03T08:31:03",
+      "2024-05-02T10:00:47",
+      "2024-05-01T13:43:36"
+    ],
+    "start": "2024-05-01T13:43:36",
+    "end": "2024-05-08T15:56:09",
+    "days": 8,
+    "walkingDays": 8,
+    "distance": 236.54641482378466,
+    "elevation": 6240,
+    "durationInSeconds": 219185,
+    "idleTimeInSeconds": 17224,
+    "coordinates": {
+      "centerLatitude": 58.0241936724633,
+      "centerLongitude": -5.040132673457265,
+      "widthInKm": 37,
+      "heightInKm": 120
+    },
+    "timeline": [
+      {
+        "date": "2024-05-01",
+        "distance": 20.085462381760017,
+        "elevation": 654
+      },
+      {
+        "date": "2024-05-02",
+        "distance": 23.28707425605172,
+        "elevation": 662
+      },
+      {
+        "date": "2024-05-03",
+        "distance": 32.15297128820498,
+        "elevation": 921
+      },
+      {
+        "date": "2024-05-04",
+        "distance": 33.9376614425962,
+        "elevation": 529
+      },
+      {
+        "date": "2024-05-05",
+        "distance": 31.449323802700917,
+        "elevation": 637
+      },
+      {
+        "date": "2024-05-06",
+        "distance": 21.312369185240563,
+        "elevation": 955
+      },
+      {
+        "date": "2024-05-07",
+        "distance": 42.77354401889847,
+        "elevation": 1080
+      },
+      {
+        "date": "2024-05-08",
+        "distance": 31.54800844833181,
+        "elevation": 799
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/e78n7i",
+    "type": "Itinérance en bivouac",
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
+    "contiguousHikes": [
+      "2024-05-01T10:28:53",
+      "2024-04-30T14:06:06",
+      "2024-04-29T17:50:57"
+    ],
+    "start": "2024-04-29T17:50:57",
+    "end": "2024-05-01T10:43:23",
+    "days": 3,
+    "walkingDays": 0,
+    "distance": 4.895001948662718,
+    "elevation": 42,
+    "durationInSeconds": 5251,
+    "idleTimeInSeconds": 1923,
+    "coordinates": {
+      "centerLatitude": 57.479736087843776,
+      "centerLongitude": -4.231541161425412,
+      "widthInKm": 0,
+      "heightInKm": 0
+    },
+    "timeline": [
+      {
+        "date": "2024-04-29",
+        "distance": 1.1209554103172907,
+        "elevation": 8
+      },
+      {
+        "date": "2024-04-30",
+        "distance": 2.4965122544226657,
+        "elevation": 18
+      },
+      {
+        "date": "2024-05-01",
+        "distance": 1.2775342839227617,
+        "elevation": 16
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "name": "WHW - West Highland Way",
+    "contiguousHikes": [
+      "2024-04-29T08:32:49",
+      "2024-04-28T09:02:36",
+      "2024-04-27T09:01:57",
+      "2024-04-26T09:05:02",
+      "2024-04-25T20:54:09",
+      "2024-04-25T19:49:30",
+      "2024-04-25T09:16:17",
+      "2024-04-24T19:04:05",
+      "2024-04-24T18:22:45"
+    ],
+    "overridenHikes": [
+      "2024-04-29T08:32:49",
+      "2024-04-28T09:02:36",
+      "2024-04-27T09:01:57",
+      "2024-04-26T09:05:02",
+      "2024-04-25T20:54:09",
+      "2024-04-25T19:49:30",
+      "2024-04-25T09:16:17"
+    ],
+    "start": "2024-04-25T09:16:17",
+    "end": "2024-04-29T14:44:49",
+    "days": 5,
+    "walkingDays": 5,
+    "distance": 159.59406460907326,
+    "elevation": 3859,
+    "durationInSeconds": 143194,
+    "idleTimeInSeconds": 10967,
+    "coordinates": {
+      "centerLatitude": 56.381580121815205,
+      "centerLongitude": -4.71341916359961,
+      "widthInKm": 48,
+      "heightInKm": 97
+    },
+    "timeline": [
+      {
+        "date": "2024-04-25",
+        "distance": 33.396060948747255,
+        "elevation": 685
+      },
+      {
+        "date": "2024-04-26",
+        "distance": 36.67867182180084,
+        "elevation": 865
+      },
+      {
+        "date": "2024-04-27",
+        "distance": 34.84544589728013,
+        "elevation": 893
+      },
+      {
+        "date": "2024-04-28",
+        "distance": 29.573586289186668,
+        "elevation": 761
+      },
+      {
+        "date": "2024-04-29",
+        "distance": 25.10029965205838,
+        "elevation": 653
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/e78n7i",
+    "type": "Itinérance en bivouac",
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
     "name": "GR223 - Tour du Cotentin",
     "contiguousHikes": [
       "2024-04-16T08:39:24",

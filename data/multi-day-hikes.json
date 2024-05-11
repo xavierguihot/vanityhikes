@@ -112,7 +112,45 @@
         "elevation": 799
       }
     ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 57.60647489606465,
+        "longitude": -5.292514621289902
+      },
+      {
+        "type": "bivouac",
+        "latitude": 57.75703777297925,
+        "longitude": -5.211473659427249
+      },
+      {
+        "type": "bivouac",
+        "latitude": 57.89539844137467,
+        "longitude": -5.164095577373746
+      },
+      {
+        "type": "hotel",
+        "latitude": 57.968054418125554,
+        "longitude": -4.73249250566615
+      },
+      {
+        "type": "bivouac",
+        "latitude": 58.15100146629707,
+        "longitude": -4.971373306644327
+      },
+      {
+        "type": "bivouac",
+        "latitude": 58.2585962842823,
+        "longitude": -4.928363522680063
+      },
+      {
+        "type": "bivouac",
+        "latitude": 58.479205920505876,
+        "longitude": -5.069223403473097
+      }
+    ],
     "descriptionFR": "Description: Work in Progress",
+    "photo": "P1192478.JPG",
     "lighterPack": "https://lighterpack.com/r/e78n7i",
     "type": "Itinérance en bivouac",
     "hasGpxFile": false,
@@ -221,7 +259,35 @@
         "elevation": 653
       }
     ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 55.941875833791656,
+        "longitude": -4.3164395753925815
+      },
+      {
+        "type": "hotel",
+        "latitude": 56.08329721757123,
+        "longitude": -4.529963267987279
+      },
+      {
+        "type": "bivouac",
+        "latitude": 56.33036966182749,
+        "longitude": -4.717393222810833
+      },
+      {
+        "type": "bivouac",
+        "latitude": 56.5320688158433,
+        "longitude": -4.813869800728491
+      },
+      {
+        "type": "bivouac",
+        "latitude": 56.71397370478511,
+        "longitude": -4.959689983514547
+      }
+    ],
     "descriptionFR": "Description: Work in Progress",
+    "photo": "P1192283.JPG",
     "lighterPack": "https://lighterpack.com/r/e78n7i",
     "type": "Itinérance en bivouac",
     "hasGpxFile": false,

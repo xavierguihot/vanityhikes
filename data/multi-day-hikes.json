@@ -153,7 +153,7 @@
     "lighterPack": "https://lighterpack.com/r/e78n7i",
     "photo": "P1192478.JPG",
     "type": "Itinérance en bivouac",
-    "hasGpxFile": false,
+    "hasGpxFile": true,
     "hide": false
   },
   {
@@ -290,7 +290,7 @@
     "lighterPack": "https://lighterpack.com/r/e78n7i",
     "photo": "P1192283.JPG",
     "type": "Itinérance en bivouac",
-    "hasGpxFile": false,
+    "hasGpxFile": true,
     "hide": false
   },
   {
@@ -510,7 +510,7 @@
     "lighterPack": "https://lighterpack.com/r/ou5ed4",
     "photo": "P1179732.JPG",
     "type": "Itinérance",
-    "hasGpxFile": false,
+    "hasGpxFile": true,
     "hide": false
   },
   {
@@ -720,7 +720,7 @@
     "descriptionFR": "Description: Work in Progress",
     "photo": "P1157247.JPG",
     "type": "Itinérance",
-    "hasGpxFile": false,
+    "hasGpxFile": true,
     "hide": false
   },
   {

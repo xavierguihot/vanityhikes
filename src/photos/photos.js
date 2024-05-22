@@ -77,6 +77,7 @@ function displayPhotos(svg, width, height, photosTagFilter) {
         d3.select(event.currentTarget).attr("opacity", "0.85");
         console.log(photo);
         console.log(photo.name);
+        console.log(`gpx: ${photo.latitude}, ${photo.longitude}`);
       })
       .on("mouseout", event => d3.select(event.currentTarget).attr("opacity", "1"))
       .on("click", (event, photo) => drawPhoto(photo, orderedPhotos, width, height));

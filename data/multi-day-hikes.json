@@ -1098,7 +1098,7 @@
     "lighterPack": "https://lighterpack.com/r/0t9hgy",
     "photo": "P1134398.JPG",
     "type": "Itinérance en auberges",
-    "hasGpxFile": false,
+    "hasGpxFile": true,
     "hide": false
   },
   {
@@ -1422,7 +1422,7 @@
     "lighterPack": "https://lighterpack.com/r/6nc939",
     "photo": "P1133423.JPG",
     "type": "Télétravail en gite (raquettes)",
-    "hasGpxFile": false,
+    "hasGpxFile": true,
     "hide": false
   },
   {
@@ -1925,7 +1925,7 @@
     "lighterPack": "https://lighterpack.com/r/cf70tx",
     "photo": "P1130139.JPG",
     "type": "Voyage",
-    "hasGpxFile": false,
+    "hasGpxFile": true,
     "hide": false
   },
   {

@@ -420,13 +420,12 @@
         "distanceIntoHike": 97.96
       },
       {
-        "name": "Cozinha a Lenha",
+        "name": "Restaurante Jungle Rain",
         "type": "restaurant",
         "phone": "+351 291 820 150",
         "latitude": 32.74896416745947,
         "longitude": -17.117288010314308,
-        "opening": "10h-19h tous les jours",
-        "todo": "Reverifier les horaires avant de partir",
+        "opening": "mercredi: 9h30-21h",
         "distanceIntoHike": 109.98
       },
       {

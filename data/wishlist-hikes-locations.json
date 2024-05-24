@@ -169,8 +169,7 @@
         "type": "shop",
         "latitude": 32.72446904355482,
         "longitude": -16.819098105246063,
-        "opening": "tous les jours 8h-20h",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "opening": "dimanche/lundi: 8h-20h",
         "distanceIntoHike": 41.48
       },
       {
@@ -189,8 +188,7 @@
         "phone": "+351 291 552 076",
         "latitude": 32.72503574448879,
         "longitude": -16.820771691841685,
-        "opening": "8h-20h tous les jours",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "opening": "dimanche/lundi: 8h-20h",
         "distanceIntoHike": 41.61
       },
       {
@@ -296,8 +294,7 @@
         "phone": "+351 291 102 171",
         "latitude": 32.712358017822204,
         "longitude": -16.887990642978615,
-        "opening": "tous les jours 8h-22h",
-        "todo": "Reverifier les horaires avant de partir",
+        "opening": "lundi: 8h-23h30",
         "distanceIntoHike": 60.87
       },
       {
@@ -342,8 +339,7 @@
         "type": "restaurant",
         "latitude": 32.73505903473833,
         "longitude": -16.92866759435584,
-        "opening": "tous les jours 9h-18h sauf dimanche",
-        "todo": "Reverifier les horaires avant de partir",
+        "opening": "mardi: 9h-18h",
         "miscellaneous": "C'est un café - pas bien noté sur Google map",
         "distanceIntoHike": 67.52
       },
@@ -355,7 +351,6 @@
         "email": "info@picoruivo.com",
         "latitude": 32.760390239511146,
         "longitude": -16.941469398189923,
-        "todo": "Réserver si je pense y dormir",
         "distanceIntoHike": 73.37
       },
       {
@@ -380,8 +375,7 @@
         "phone": "+351 291 952 319",
         "latitude": 32.75393092954278,
         "longitude": -17.019150617055153,
-        "opening": "tous les jours 7h30 - 20h",
-        "todo": "Reverifier les horaires avant de partir",
+        "opening": "mardi: 7h30-20h",
         "distanceIntoHike": 87.14
       },
       {

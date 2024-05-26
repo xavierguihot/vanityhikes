@@ -26,7 +26,7 @@
         "latitude": 45.34270877422378,
         "longitude": 5.814516535288425,
         "opening": "ma-me-je-ve: 8h-12h15/15h-19h - di: 8h-12h15",
-        "distanceIntoHike": 64.57
+        "distanceIntoHike": 64.84
       },
       {
         "name": "Fin 2e jour?",
@@ -34,7 +34,7 @@
         "latitude": 45.34267,
         "longitude": 5.81501,
         "miscellaneous": "34km / +2250",
-        "distanceIntoHike": 64.57
+        "distanceIntoHike": 64.84
       },
       {
         "name": "Fin 3e jour?",
@@ -42,7 +42,7 @@
         "latitude": 45.34498,
         "longitude": 5.87774,
         "miscellaneous": "26km / +2550",
-        "distanceIntoHike": 89.92
+        "distanceIntoHike": 90.96
       },
       {
         "name": "Boulangerie d'Entremont le vieux",
@@ -50,7 +50,7 @@
         "latitude": 45.45225826777173,
         "longitude": 5.882133693137357,
         "opening": "lu-je-ve-sa-di: 6h30-13h/15h-19h",
-        "distanceIntoHike": 123.05
+        "distanceIntoHike": 124.09
       },
       {
         "name": "Camping Ourson",
@@ -60,7 +60,7 @@
         "latitude": 45.45266766644253,
         "longitude": 5.883174827627855,
         "miscellaneous": "C'est ouvert tte l'année",
-        "distanceIntoHike": 123.08
+        "distanceIntoHike": 124.11
       },
       {
         "name": "Fin 4e jour?",
@@ -68,7 +68,7 @@
         "latitude": 45.45313,
         "longitude": 5.8843,
         "miscellaneous": "33km / +1450",
-        "distanceIntoHike": 123.14
+        "distanceIntoHike": 124.18
       }
     ]
   },

@@ -1,5 +1,93 @@
 [
   {
+    "name": "Traversée de la Chartreuse",
+    "contiguousHikes": [
+      "2024-05-31T08:57:34",
+      "2024-05-30T08:11:05",
+      "2024-05-29T18:03:18",
+      "2024-05-29T14:27:18",
+      "2024-05-29T06:35:30",
+      "2024-05-28T06:24:44",
+      "2024-05-27T15:32:48"
+    ],
+    "overridenHikes": [
+      "2024-05-31T08:57:34",
+      "2024-05-30T08:11:05",
+      "2024-05-29T18:03:18",
+      "2024-05-29T14:27:18",
+      "2024-05-29T06:35:30",
+      "2024-05-28T06:24:44"
+    ],
+    "start": "2024-05-28T06:24:44",
+    "end": "2024-05-31T15:01:53",
+    "days": 4,
+    "walkingDays": 4,
+    "distance": 101.43367079045841,
+    "elevation": 6416,
+    "durationInSeconds": 114068,
+    "idleTimeInSeconds": 8495,
+    "coordinates": {
+      "centerLatitude": 45.379504915326834,
+      "centerLongitude": 5.833324617706239,
+      "widthInKm": 17,
+      "heightInKm": 42
+    },
+    "timeline": [
+      {
+        "date": "2024-05-28",
+        "distance": 31.717768356835123,
+        "elevation": 2775
+      },
+      {
+        "date": "2024-05-29",
+        "distance": 19.116424225462517,
+        "elevation": 966
+      },
+      {
+        "date": "2024-05-30",
+        "distance": 27.510694046286027,
+        "elevation": 1575
+      },
+      {
+        "date": "2024-05-31",
+        "distance": 23.08878416187473,
+        "elevation": 1099
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 45.18749566069929,
+        "longitude": 5.721459520745934
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.290493037794555,
+        "longitude": 5.766803232656223
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.341733203616485,
+        "longitude": 5.814978807378324
+      },
+      {
+        "type": "bivouac",
+        "latitude": 45.45264963127686,
+        "longitude": 5.883174650191721
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.57117898049165,
+        "longitude": 5.919188756159642
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/wukclg",
+    "type": "Itinérance",
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
     "contiguousHikes": [
       "2024-05-10T05:39:42",
       "2024-05-09T19:58:06"

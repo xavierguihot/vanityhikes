@@ -1,5 +1,73 @@
 [
   {
+    "name": "GR2 - Paris => Rouen",
+    "overridenHikes": [
+      "2024-06-07T07:34:41",
+      "2024-06-06T08:30:23",
+      "2024-06-05T08:25:25",
+      "2024-06-04T18:54:27",
+      "2024-06-04T08:00:01"
+    ],
+    "start": "2024-06-04T08:00:01",
+    "end": "2024-06-07T15:23:08",
+    "days": 4,
+    "walkingDays": 4,
+    "distance": 166.99518270376961,
+    "elevation": 3409,
+    "durationInSeconds": 127096,
+    "idleTimeInSeconds": 4952,
+    "coordinates": {
+      "centerLatitude": 49.159170971252024,
+      "centerLongitude": 1.5345098404213786,
+      "widthInKm": 78,
+      "heightInKm": 40
+    },
+    "timeline": [
+      {
+        "date": "2024-06-04",
+        "distance": 46.48068187235015,
+        "elevation": 1000
+      },
+      {
+        "date": "2024-06-05",
+        "distance": 44.21119110127557,
+        "elevation": 817
+      },
+      {
+        "date": "2024-06-06",
+        "distance": 38.061624771993706,
+        "elevation": 766
+      },
+      {
+        "date": "2024-06-07",
+        "distance": 38.24168495815018,
+        "elevation": 824
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 49.065213521675766,
+        "longitude": 1.7003316085311402
+      },
+      {
+        "type": "hotel",
+        "latitude": 49.168672506743874,
+        "longitude": 1.4014898090284562
+      },
+      {
+        "type": "hotel",
+        "latitude": 49.26388494081372,
+        "longitude": 1.2695597300911496
+      }
+    ],
+    "photo": "P1193444.JPG",
+    "descriptionFR": "Description: Work in Progress",
+    "type": "Itinérance",
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
     "name": "Traversée de la Chartreuse",
     "contiguousHikes": [
       "2024-05-31T08:57:34",

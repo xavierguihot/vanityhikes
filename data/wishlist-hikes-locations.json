@@ -509,6 +509,13 @@
         "distanceIntoHike": 0.0
       },
       {
+        "name": "Bus from Offersoy",
+        "type": "train",
+        "latitude": 68.13210406931024,
+        "longitude": 13.427195458493939,
+        "distanceIntoHike": 0.0
+      },
+      {
         "name": "Express Boat from Bodø arrival",
         "type": "train",
         "latitude": 68.23136920076253,
@@ -599,113 +606,21 @@
         "distanceIntoHike": 6.99
       },
       {
-        "name": "Lofoten Liebchens Platz",
-        "type": "camping",
-        "phone": "+47 988 93 820 / +47 988 93 857",
-        "latitude": 68.28087206052518,
-        "longitude": 14.080183348617716,
-        "opening": "???",
-        "todo": "Appeler pr confirmer qu'ils sont ouvert",
-        "distanceIntoHike": 29.92
-      },
-      {
-        "name": "Aimee's Restaurant",
-        "type": "restaurant",
-        "website": "https://aimees-restaurant.business.site/?utm_source=gmb&utm_medium=referral",
-        "phone": "+47 480 28 344",
-        "latitude": 68.22832626659199,
-        "longitude": 14.071780879233739,
-        "opening": "lu,ma,je: 11h-16 - me: 11h-22h",
-        "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 41.01
-      },
-      {
-        "name": "Brustranda Fjordcamping",
-        "type": "camping",
-        "website": "https://brustranda.com",
-        "phone": "+47 969 10 407",
-        "email": "booking@lofotcamping.no",
-        "latitude": 68.20404445636898,
-        "longitude": 13.887322778652894,
-        "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "miscellaneous": "une 20aine d'emplacements tente",
-        "distanceIntoHike": 55.97
-      },
-      {
-        "name": "Lofoten Camping Storfjord",
-        "type": "camping",
-        "website": "https://lofotencamp.no",
-        "phone": "+47 976 23 606",
-        "email": "info@lofotencamp.no",
-        "latitude": 68.15843749740183,
-        "longitude": 13.752568694945987,
-        "opening": "A partir du 1er février",
-        "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 80.27
-      },
-      {
-        "name": "KIWI Leknes",
-        "type": "shop",
-        "phone": "+47 760 72 302",
-        "latitude": 68.14311989915677,
-        "longitude": 13.617529331875852,
-        "opening": "tous les jours 7h-23h sauf lundi et dimanche",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 88.46
-      },
-      {
-        "name": "REMA 1000 LEKNES",
-        "type": "shop",
-        "phone": "+47 760 55 790",
-        "latitude": 68.1446651056267,
-        "longitude": 13.619440173779385,
-        "opening": "ma,me,je,ve,sa: 7h-23h - di: 10h-15h",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 88.48
-      },
-      {
-        "name": "Coop Prix Leknes",
-        "type": "shop",
-        "phone": "+47 760 80 911",
-        "latitude": 68.14742880615606,
-        "longitude": 13.61481842608784,
-        "opening": "ma,me,je,ve: 8h-22h - sa: 9h-21h - di: 8h-13h",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 88.7
-      },
-      {
-        "name": "Extra Leknes",
-        "type": "shop",
-        "phone": "+47 948 86 020",
-        "latitude": 68.14868671863594,
-        "longitude": 13.619024156533852,
-        "opening": "ma,me,je,ve,sa: 7h-23h - di: 7h-15h",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 88.88
-      },
-      {
-        "name": "Uttakleiv camping",
-        "type": "camping",
-        "latitude": 68.20923694509001,
-        "longitude": 13.507018084955213,
-        "miscellaneous": "Aire de bivouac ?publique? avec plein de place - ca à l'air superbe",
-        "distanceIntoHike": 110.42
-      },
-      {
-        "name": "Selon les commentaires Google Map il est possible de bivouaquer",
-        "type": "bivouac",
-        "website": "https://www.hauklandbeach.no/tenting.html",
-        "latitude": 68.19855007366341,
-        "longitude": 13.530518518106822,
-        "miscellaneous": "Il y a une image sur le site qui montre exactement l'emplacement pr tentes (le reste est interdit au bivouac)",
-        "distanceIntoHike": 114.44
-      },
-      {
         "name": "Open Street Map écrit bivouac (et pas le symbole d'une tente comme d'habitude)",
         "type": "bivouac",
         "latitude": 68.1262479933027,
         "longitude": 13.440518624463802,
-        "distanceIntoHike": 137.92
+        "distanceIntoHike": 8.01
+      },
+      {
+        "name": "Nusfjord General Store (petite épicerie)",
+        "type": "shop",
+        "phone": "+47 760 93 020",
+        "latitude": 68.0346850644862,
+        "longitude": 13.349662044752487,
+        "opening": "tous les jrs 10h-17h",
+        "miscellaneous": "Horaires mises à jour par l'entreprise il y a 1 semaine",
+        "distanceIntoHike": 24.13
       },
       {
         "name": "Karoline Restaurant",
@@ -717,7 +632,28 @@
         "longitude": 13.350042007272059,
         "opening": "tous les jours 10h-17h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 154.04
+        "distanceIntoHike": 24.13
+      },
+      {
+        "name": "Lofoten Liebchens Platz",
+        "type": "camping",
+        "phone": "+47 988 93 820 / +47 988 93 857",
+        "latitude": 68.28087206052518,
+        "longitude": 14.080183348617716,
+        "opening": "???",
+        "todo": "Appeler pr confirmer qu'ils sont ouvert",
+        "distanceIntoHike": 29.89
+      },
+      {
+        "name": "Aimee's Restaurant",
+        "type": "restaurant",
+        "website": "https://aimees-restaurant.business.site/?utm_source=gmb&utm_medium=referral",
+        "phone": "+47 480 28 344",
+        "latitude": 68.22832626659199,
+        "longitude": 14.071780879233739,
+        "opening": "lu,ma,je: 11h-16 - me: 11h-22h",
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 40.99
       },
       {
         "name": "Bunnpris Ramberg",
@@ -729,7 +665,7 @@
         "longitude": 13.228266977098974,
         "opening": "tous les jours 9h-22h sauf dimanche",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 178.21
+        "distanceIntoHike": 48.67
       },
       {
         "name": "Café Lille Martine",
@@ -739,7 +675,7 @@
         "longitude": 13.228493325384859,
         "opening": "me,je: 11h-16h - ve: 7h-14h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 178.21
+        "distanceIntoHike": 48.67
       },
       {
         "name": "Kafe Friisgarden",
@@ -751,7 +687,7 @@
         "longitude": 13.23031343016168,
         "opening": "tous les jours 12h-19h",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 178.21
+        "distanceIntoHike": 48.67
       },
       {
         "name": "Ramberg Gjestegård",
@@ -763,7 +699,19 @@
         "longitude": 13.234158567935312,
         "todo": "Reverifier les horaires avant de partir",
         "miscellaneous": "Je vois des pitchs de tentes sur les photos du site - Ca fait resto aussi",
-        "distanceIntoHike": 178.21
+        "distanceIntoHike": 48.67
+      },
+      {
+        "name": "Brustranda Fjordcamping",
+        "type": "camping",
+        "website": "https://brustranda.com",
+        "phone": "+47 969 10 407",
+        "email": "booking@lofotcamping.no",
+        "latitude": 68.20404445636898,
+        "longitude": 13.887322778652894,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "miscellaneous": "une 20aine d'emplacements tente",
+        "distanceIntoHike": 56.5
       },
       {
         "name": "By The Way Lofoten",
@@ -773,7 +721,7 @@
         "longitude": 13.172464311752714,
         "todo": "Reverifier les horaires avant de partir",
         "miscellaneous": "C'est une camionette",
-        "distanceIntoHike": 188.8
+        "distanceIntoHike": 59.26
       },
       {
         "name": "Aire de bivouac",
@@ -781,7 +729,7 @@
         "latitude": 68.09854632895313,
         "longitude": 13.164545411791368,
         "miscellaneous": "C'est juste un terrain plat publique avec beaucoup d'espace pour beaucoup de tentes",
-        "distanceIntoHike": 190.47
+        "distanceIntoHike": 60.92
       },
       {
         "name": "Possible de bivouaquer",
@@ -789,14 +737,90 @@
         "latitude": 68.07708217365862,
         "longitude": 13.099773779825115,
         "miscellaneous": "Je vois des photos sur Google Map avec plusieurs tentes",
-        "distanceIntoHike": 199.93
+        "distanceIntoHike": 70.38
+      },
+      {
+        "name": "Lofoten Camping Storfjord",
+        "type": "camping",
+        "website": "https://lofotencamp.no",
+        "phone": "+47 976 23 606",
+        "email": "info@lofotencamp.no",
+        "latitude": 68.15843749740183,
+        "longitude": 13.752568694945987,
+        "opening": "A partir du 1er février",
+        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "distanceIntoHike": 80.8
+      },
+      {
+        "name": "KIWI Leknes",
+        "type": "shop",
+        "phone": "+47 760 72 302",
+        "latitude": 68.14311989915677,
+        "longitude": 13.617529331875852,
+        "opening": "tous les jours 7h-23h sauf lundi et dimanche",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 88.99
+      },
+      {
+        "name": "REMA 1000 LEKNES",
+        "type": "shop",
+        "phone": "+47 760 55 790",
+        "latitude": 68.1446651056267,
+        "longitude": 13.619440173779385,
+        "opening": "ma,me,je,ve,sa: 7h-23h - di: 10h-15h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 89.01
+      },
+      {
+        "name": "Coop Prix Leknes",
+        "type": "shop",
+        "phone": "+47 760 80 911",
+        "latitude": 68.14742880615606,
+        "longitude": 13.61481842608784,
+        "opening": "ma,me,je,ve: 8h-22h - sa: 9h-21h - di: 8h-13h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 89.23
+      },
+      {
+        "name": "Extra Leknes",
+        "type": "shop",
+        "phone": "+47 948 86 020",
+        "latitude": 68.14868671863594,
+        "longitude": 13.619024156533852,
+        "opening": "ma,me,je,ve,sa: 7h-23h - di: 7h-15h",
+        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "distanceIntoHike": 89.41
       },
       {
         "name": "Petit ferry 18-773 - Kirkefjord",
         "type": "train",
         "latitude": 67.99230596608247,
         "longitude": 13.015395972004786,
-        "distanceIntoHike": 221.13
+        "distanceIntoHike": 91.63
+      },
+      {
+        "name": "Uttakleiv camping",
+        "type": "camping",
+        "latitude": 68.20923694509001,
+        "longitude": 13.507018084955213,
+        "miscellaneous": "Aire de bivouac ?publique? avec plein de place - ca à l'air superbe",
+        "distanceIntoHike": 110.95
+      },
+      {
+        "name": "Selon les commentaires Google Map il est possible de bivouaquer",
+        "type": "bivouac",
+        "website": "https://www.hauklandbeach.no/tenting.html",
+        "latitude": 68.19855007366341,
+        "longitude": 13.530518518106822,
+        "miscellaneous": "Il y a une image sur le site qui montre exactement l'emplacement pr tentes (le reste est interdit au bivouac)",
+        "distanceIntoHike": 114.97
+      },
+      {
+        "name": "Bus to Napp",
+        "type": "train",
+        "latitude": 68.15655202482533,
+        "longitude": 13.527976293037904,
+        "distanceIntoHike": 126.43
       }
     ]
   },
@@ -804,20 +828,15 @@
     "hike": "Lofotens - west",
     "locations": [
       {
-        "name": "Petit ferry 18-773 - Vindstad",
-        "type": "train",
-        "latitude": 67.9572161711962,
-        "longitude": 13.005300338045645,
-        "distanceIntoHike": 0.0
-      },
-      {
-        "name": "Kafé Vindstad",
-        "type": "restaurant",
-        "phone": "+47 414 14 161",
-        "latitude": 67.9589410503525,
-        "longitude": 13.004423834900342,
-        "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 0.2
+        "name": "Moskenes Camping",
+        "type": "camping",
+        "website": "https://moskenescamping.no",
+        "phone": "+47 994 89 405",
+        "email": "info@moskenescamping.no",
+        "latitude": 67.90008786872687,
+        "longitude": 13.052399518955982,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "distanceIntoHike": 0.06
       },
       {
         "name": "Joker",
@@ -851,11 +870,27 @@
         "distanceIntoHike": 2.58
       },
       {
+        "name": "Petit ferry 18-773 - Vindstad",
+        "type": "train",
+        "latitude": 67.9572161711962,
+        "longitude": 13.005300338045645,
+        "distanceIntoHike": 10.36
+      },
+      {
+        "name": "Kafé Vindstad",
+        "type": "restaurant",
+        "phone": "+47 414 14 161",
+        "latitude": 67.9589410503525,
+        "longitude": 13.004423834900342,
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 10.36
+      },
+      {
         "name": "Open Street Map indique une aire de bivouac",
         "type": "bivouac",
         "latitude": 67.93967727100066,
         "longitude": 12.9844610867965,
-        "distanceIntoHike": 9.5
+        "distanceIntoHike": 10.36
       },
       {
         "name": "Å dagligvarer",
@@ -866,17 +901,6 @@
         "opening": "Tous les jours 9h-18h sauf dimanche",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
         "distanceIntoHike": 17.16
-      },
-      {
-        "name": "Moskenes Camping",
-        "type": "camping",
-        "website": "https://moskenescamping.no",
-        "phone": "+47 994 89 405",
-        "email": "info@moskenescamping.no",
-        "latitude": 67.90008786872687,
-        "longitude": 13.052399518955982,
-        "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 28.43
       }
     ]
   },

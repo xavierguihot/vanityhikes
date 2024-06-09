@@ -502,17 +502,24 @@
     "hike": "Lofotens - east",
     "locations": [
       {
-        "name": "Ferry pick-up location",
-        "type": "train",
-        "latitude": 67.89983741275093,
-        "longitude": 13.043858288603442,
-        "distanceIntoHike": 0.0
-      },
-      {
         "name": "Bus from Offersoy",
         "type": "train",
         "latitude": 68.13210406931024,
         "longitude": 13.427195458493939,
+        "distanceIntoHike": 0.0
+      },
+      {
+        "name": "Fast Hotel Svolvær",
+        "type": "hotel",
+        "latitude": 68.2310934670768,
+        "longitude": 14.563093543083248,
+        "distanceIntoHike": 0.0
+      },
+      {
+        "name": "Sørvågen INN",
+        "type": "hotel",
+        "latitude": 67.8905989333649,
+        "longitude": 13.016837907687263,
         "distanceIntoHike": 0.0
       },
       {
@@ -575,13 +582,6 @@
         "distanceIntoHike": 2.14
       },
       {
-        "name": "Express Boat to Svolvær pickup location",
-        "type": "train",
-        "latitude": 67.28415076867832,
-        "longitude": 14.372893997182473,
-        "distanceIntoHike": 2.4
-      },
-      {
         "name": "Sandsletta Camping",
         "type": "camping",
         "website": "https://www.camping-lofoten.no",
@@ -611,6 +611,20 @@
         "latitude": 68.1262479933027,
         "longitude": 13.440518624463802,
         "distanceIntoHike": 8.01
+      },
+      {
+        "name": "Express Boat to Svolvær pickup location",
+        "type": "train",
+        "latitude": 67.28415076867832,
+        "longitude": 14.372893997182473,
+        "distanceIntoHike": 17.21
+      },
+      {
+        "name": "Ferry pick-up location",
+        "type": "train",
+        "latitude": 67.89983741275093,
+        "longitude": 13.043858288603442,
+        "distanceIntoHike": 21.9
       },
       {
         "name": "Nusfjord General Store (petite épicerie)",
@@ -663,8 +677,8 @@
         "email": "bpramberg@bunnpris.no",
         "latitude": 68.08911777818481,
         "longitude": 13.228266977098974,
-        "opening": "tous les jours 9h-22h sauf dimanche",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
+        "opening": "lu,ma,me,je,ve: 9h-22h - sa: 9h-21h - di: 12h-18h",
+        "miscellaneous": "Horaires mises à jr l'etablissement il y a une semaine",
         "distanceIntoHike": 48.67
       },
       {
@@ -828,25 +842,47 @@
     "hike": "Lofotens - west",
     "locations": [
       {
-        "name": "Moskenes Camping",
-        "type": "camping",
-        "website": "https://moskenescamping.no",
-        "phone": "+47 994 89 405",
-        "email": "info@moskenescamping.no",
-        "latitude": 67.90008786872687,
-        "longitude": 13.052399518955982,
-        "todo": "Appeler pr confirmer dates et si possibile avec tente",
-        "distanceIntoHike": 0.06
-      },
-      {
         "name": "Joker",
         "type": "shop",
         "phone": "+47 760 91 116",
         "latitude": 67.89170136876933,
         "longitude": 13.026624788725531,
-        "opening": "ma,me,je,ve: 9h-21h - sa: 10h-18h",
+        "opening": "lu,ma,me,je,ve: 9h-21h - sa: 10h-18h - di: 10h-17h",
+        "miscellaneous": "Horaires mises à jr l'etablissement il y a une semaine",
+        "distanceIntoHike": 0.13
+      },
+      {
+        "name": "Petit ferry 18-773 - Vindstad",
+        "type": "train",
+        "latitude": 67.9572161711962,
+        "longitude": 13.005300338045645,
+        "distanceIntoHike": 8.3
+      },
+      {
+        "name": "Kafé Vindstad",
+        "type": "restaurant",
+        "phone": "+47 414 14 161",
+        "latitude": 67.9589410503525,
+        "longitude": 13.004423834900342,
+        "todo": "Reverifier les horaires avant de partir",
+        "distanceIntoHike": 8.3
+      },
+      {
+        "name": "Open Street Map indique une aire de bivouac",
+        "type": "bivouac",
+        "latitude": 67.93967727100066,
+        "longitude": 12.9844610867965,
+        "distanceIntoHike": 8.3
+      },
+      {
+        "name": "Å dagligvarer",
+        "type": "shop",
+        "phone": "+47 760 91 488",
+        "latitude": 67.88111673574419,
+        "longitude": 12.98200170092821,
+        "opening": "Tous les jours 9h-18h sauf dimanche",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 2.29
+        "distanceIntoHike": 14.91
       },
       {
         "name": "Maren Anna",
@@ -857,7 +893,7 @@
         "longitude": 13.023605883663123,
         "opening": "tous les jours 18h-21h sauf lundi et dimanche",
         "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 2.52
+        "distanceIntoHike": 17.21
       },
       {
         "name": "Matkroken Sørvågen",
@@ -867,40 +903,18 @@
         "longitude": 13.021577313375063,
         "opening": "lu,ma,me,je,ve: 9h-20h - sa: 10h-18h - di: 17h-20h",
         "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 2.58
+        "distanceIntoHike": 17.21
       },
       {
-        "name": "Petit ferry 18-773 - Vindstad",
-        "type": "train",
-        "latitude": 67.9572161711962,
-        "longitude": 13.005300338045645,
-        "distanceIntoHike": 10.36
-      },
-      {
-        "name": "Kafé Vindstad",
-        "type": "restaurant",
-        "phone": "+47 414 14 161",
-        "latitude": 67.9589410503525,
-        "longitude": 13.004423834900342,
-        "todo": "Reverifier les horaires avant de partir",
-        "distanceIntoHike": 10.36
-      },
-      {
-        "name": "Open Street Map indique une aire de bivouac",
-        "type": "bivouac",
-        "latitude": 67.93967727100066,
-        "longitude": 12.9844610867965,
-        "distanceIntoHike": 10.36
-      },
-      {
-        "name": "Å dagligvarer",
-        "type": "shop",
-        "phone": "+47 760 91 488",
-        "latitude": 67.88111673574419,
-        "longitude": 12.98200170092821,
-        "opening": "Tous les jours 9h-18h sauf dimanche",
-        "todo": "Appeler pr vérifier si c'est bien en activité et les horaires d'ouverture",
-        "distanceIntoHike": 17.16
+        "name": "Moskenes Camping",
+        "type": "camping",
+        "website": "https://moskenescamping.no",
+        "phone": "+47 994 89 405",
+        "email": "info@moskenescamping.no",
+        "latitude": 67.90008786872687,
+        "longitude": 13.052399518955982,
+        "todo": "Appeler pr confirmer dates et si possibile avec tente",
+        "distanceIntoHike": 21.9
       }
     ]
   },

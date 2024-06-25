@@ -2,9 +2,6 @@
   {
     "name": "P1216465.JPG",
     "googleDriveId": "1wdgS49M15q0SJaNTeISjkll3gffXNROw",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-23T06:22:38",
     "timeZone": "+01:00",
@@ -16,6 +13,8 @@
     "fNumber": "f/6.1",
     "focalLength": "71.5 mm",
     "sizeBytes": 8233472,
+    "latitude": 67.83377341926098,
+    "longitude": 13.170667681843042,
     "multiDayHike": "Lofotens"
   },
   {
@@ -1960,9 +1959,6 @@
   {
     "name": "P1194113.JPG",
     "googleDriveId": "1oEG9y0hiHmFwLEqPAeZlRme3IgJ-TJG8",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T11:12:59",
     "timeZone": "+01:00",
@@ -1974,14 +1970,13 @@
     "fNumber": "f/7.1",
     "focalLength": "11.3 mm",
     "sizeBytes": 8202240,
+    "latitude": 68.21972661651671,
+    "longitude": 14.71845617517829,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1194064.JPG",
     "googleDriveId": "19xj_WanyAI61leR-jDjMXWB8KTqheFQ5",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T11:04:18",
     "timeZone": "+01:00",
@@ -1993,14 +1988,13 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 8529920,
+    "latitude": 68.2459373306483,
+    "longitude": 14.789882814511657,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1194019.JPG",
     "googleDriveId": "1vpvBJHvw_xf-7zxyFHzbKMzqeVMfqgrt",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T11:00:51",
     "timeZone": "+01:00",
@@ -2012,14 +2006,13 @@
     "fNumber": "f/6.4",
     "focalLength": "117.1 mm",
     "sizeBytes": 10663936,
+    "latitude": 68.2571088988334,
+    "longitude": 14.794311309233308,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1194016.JPG",
     "googleDriveId": "11IOBfQ48UbMwiTEgQ8ebdGZsdRQTKmSk",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T11:00:08",
     "timeZone": "+01:00",
@@ -2031,14 +2024,13 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 10897408,
+    "latitude": 68.2571118324995,
+    "longitude": 14.794212486594915,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1194010.JPG",
     "googleDriveId": "1-UU_HrHKRWahwdxYFrDQfTkFPrPa67eX",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T10:59:10",
     "timeZone": "+01:00",
@@ -2050,14 +2042,13 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 9978368,
+    "latitude": 68.25709498487413,
+    "longitude": 14.793979302048683,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1194002.JPG",
     "googleDriveId": "1vPA1V3u1r7IRlzxTveGKLolzAa86ofBI",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T10:58:55",
     "timeZone": "+01:00",
@@ -2069,14 +2060,13 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 10564096,
+    "latitude": 68.25696741230786,
+    "longitude": 14.793989192694426,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1193992.JPG",
     "googleDriveId": "1XETpx1sqcMHU9s_qMG2iV6qVcafp4QH0",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T10:57:53",
     "timeZone": "+01:00",
@@ -2088,14 +2078,13 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 11190272,
+    "latitude": 68.25655686669052,
+    "longitude": 14.794148113578558,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1193989.JPG",
     "googleDriveId": "1d8elCEqqD8nxq_5tyB2kBBEnNTiUPCyZ",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T10:57:51",
     "timeZone": "+01:00",
@@ -2107,14 +2096,13 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 10358784,
+    "latitude": 68.25655678287148,
+    "longitude": 14.794148365035653,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1193986.JPG",
     "googleDriveId": "1BODa-Z-jhtAHYY-LuVeQ9Ff72P5vZGka",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T10:57:47",
     "timeZone": "+01:00",
@@ -2126,14 +2114,13 @@
     "fNumber": "f/6.2",
     "focalLength": "85.1 mm",
     "sizeBytes": 10165760,
+    "latitude": 68.25655669905245,
+    "longitude": 14.794148448854685,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1193935.JPG",
     "googleDriveId": "1qymJhQGNzgGxXVOeq3lCWd6EDv1H-55D",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T10:55:54",
     "timeZone": "+01:00",
@@ -2145,14 +2132,13 @@
     "fNumber": "f/7.1",
     "focalLength": "11.1 mm",
     "sizeBytes": 6587904,
+    "latitude": 68.25658729299903,
+    "longitude": 14.794027330353856,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1193788.JPG",
     "googleDriveId": "1srIY1JUjnhVNQ92-J2iIpEpyrnEJAmFm",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T10:45:39",
     "timeZone": "+01:00",
@@ -2164,14 +2150,13 @@
     "fNumber": "f/4.5",
     "focalLength": "12.8 mm",
     "sizeBytes": 10683392,
+    "latitude": 68.31737277098,
+    "longitude": 14.913733815774322,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1193756.JPG",
     "googleDriveId": "1mIEDadTNJujWdpwkUpWgqXJNQcom04Q2",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T10:39:03",
     "timeZone": "+01:00",
@@ -2183,14 +2168,13 @@
     "fNumber": "f/5.8",
     "focalLength": "57.1 mm",
     "sizeBytes": 9029632,
+    "latitude": 68.36400515399873,
+    "longitude": 14.97199784964323,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1193754.JPG",
     "googleDriveId": "1YzLtbXi_FNONcEhbbX-rmVJcKGjR_uj5",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T10:38:59",
     "timeZone": "+01:00",
@@ -2202,14 +2186,13 @@
     "fNumber": "f/7.1",
     "focalLength": "19.8 mm",
     "sizeBytes": 9282560,
+    "latitude": 68.36401470936835,
+    "longitude": 14.970565298572183,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1193711.JPG",
     "googleDriveId": "1AWoTuZcFmiDVPhmflEUwCzGkP6Iw-eCa",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T10:24:19",
     "timeZone": "+01:00",
@@ -2221,14 +2204,13 @@
     "fNumber": "f/5.6",
     "focalLength": "19.3 mm",
     "sizeBytes": 10480640,
+    "latitude": 68.36399207822978,
+    "longitude": 14.98098031617701,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1193645.JPG",
     "googleDriveId": "1F3YDC_X8wTeZ6dxDfP0kHMqM4PKfclAp",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T10:06:50",
     "timeZone": "+01:00",
@@ -2240,14 +2222,13 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 8595968,
+    "latitude": 68.27400086447597,
+    "longitude": 14.773982847109437,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1193618.JPG",
     "googleDriveId": "111KsrcV_cS3Ib5wue105mGGhJTJJSWYE",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T10:02:25",
     "timeZone": "+01:00",
@@ -2259,14 +2240,13 @@
     "fNumber": "f/8.0",
     "focalLength": "39.6 mm",
     "sizeBytes": 7022080,
+    "latitude": 68.25911284424365,
+    "longitude": 14.745089588686824,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1193606.JPG",
     "googleDriveId": "1yrIgSMjQuRek_tRpboJR_-wn9JUPVpxo",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T10:00:25",
     "timeZone": "+01:00",
@@ -2278,14 +2258,13 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 10099712,
+    "latitude": 68.25799419544637,
+    "longitude": 14.743806570768356,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1193573.JPG",
     "googleDriveId": "1hLw-rlAkCMor42n_Ejx8xoQ_9bCfZ-NC",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T09:51:10",
     "timeZone": "+01:00",
@@ -2297,14 +2276,13 @@
     "fNumber": "f/4.0",
     "focalLength": "8.9 mm",
     "sizeBytes": 10411520,
+    "latitude": 68.23582607321441,
+    "longitude": 14.662894131615758,
     "multiDayHike": "Lofotens"
   },
   {
     "name": "P1193558.JPG",
     "googleDriveId": "18Ro8wNOEH8eFA5tTNtjtch7FfXJT9Qch",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-06-13T09:48:50",
     "timeZone": "+01:00",
@@ -2316,6 +2294,8 @@
     "fNumber": "f/8.0",
     "focalLength": "12.2 mm",
     "sizeBytes": 7299072,
+    "latitude": 68.23623033240438,
+    "longitude": 14.60659590549767,
     "multiDayHike": "Lofotens"
   },
   {

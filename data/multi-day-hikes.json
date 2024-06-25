@@ -172,6 +172,57 @@
         "elevation": 26
       }
     ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 68.23109585005487,
+        "longitude": 14.562951251608922
+      },
+      {
+        "type": "hotel",
+        "latitude": 68.14593318661468,
+        "longitude": 13.613068063639906
+      },
+      {
+        "type": "hotel",
+        "latitude": 68.15310639235622,
+        "longitude": 13.512446452264582
+      },
+      {
+        "type": "hotel",
+        "latitude": 68.03102997957025,
+        "longitude": 13.347073936485128
+      },
+      {
+        "type": "hotel",
+        "latitude": 68.09219010587086,
+        "longitude": 13.235173160832048
+      },
+      {
+        "type": "hotel",
+        "latitude": 68.08358499222005,
+        "longitude": 13.170176681460779
+      },
+      {
+        "type": "hotel",
+        "latitude": 67.93341332744791,
+        "longitude": 13.091105582696642
+      },
+      {
+        "type": "hotel",
+        "latitude": 67.89040750571085,
+        "longitude": 13.01809229660648
+      },
+      {
+        "type": "hotel",
+        "latitude": 67.89058156198253,
+        "longitude": 13.016803310234899
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/vjgu67",
+    "photo": "P1205362.JPG",
+    "type": "Voyage",
     "hasGpxFile": false,
     "hide": false
   },

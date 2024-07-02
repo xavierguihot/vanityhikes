@@ -1,5 +1,185 @@
 [
   {
+    "name": "P1227009.JPG",
+    "googleDriveId": "1dr9b1mHQeosivEG1omGaC9FaRQ3VotoM",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-07-02T13:35:27",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/125 sec",
+    "fNumber": "f/6.2",
+    "focalLength": "79.1 mm",
+    "sizeBytes": 10413568,
+    "latitude": 48.65740112029016,
+    "longitude": 1.882038675248623
+  },
+  {
+    "name": "P1227005.JPG",
+    "googleDriveId": "1ERIObzmP6PL8Ezaj71DSgz4vYcOrPVXq",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-07-02T13:35:21",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/125 sec",
+    "fNumber": "f/6.4",
+    "focalLength": "109.7 mm",
+    "sizeBytes": 10337792,
+    "latitude": 48.657395504415035,
+    "longitude": 1.8820185586810112
+  },
+  {
+    "name": "P1226979.JPG",
+    "googleDriveId": "1kwAV35GZ2ShB1mWrvUi5mOphDLrCbjGt",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-07-02T13:13:18",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/160 sec",
+    "fNumber": "f/6.4",
+    "focalLength": "132 mm",
+    "sizeBytes": 9903104,
+    "latitude": 48.66298170760274,
+    "longitude": 1.8771263770759106
+  },
+  {
+    "name": "P1226935.JPG",
+    "googleDriveId": "14eiJE6VHzuAmiiDRsmrxassvGZCBWmQW",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-07-02T09:54:52",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/125 sec",
+    "fNumber": "f/6.4",
+    "focalLength": "132 mm",
+    "sizeBytes": 10031104,
+    "latitude": 48.70800887234509,
+    "longitude": 2.040339130908251
+  },
+  {
+    "name": "P1226905.JPG",
+    "googleDriveId": "1zHpFAJYHI1HsHQwDP6yjzCVfRAddETkk",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-07-02T09:54:26",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/125 sec",
+    "fNumber": "f/6.4",
+    "focalLength": "131.9 mm",
+    "sizeBytes": 9384960,
+    "latitude": 48.707734029740095,
+    "longitude": 2.040049536153674
+  },
+  {
+    "name": "P1226851.JPG",
+    "googleDriveId": "1Z46cdn_aL7y3R6iQ111d9R4zOVsOo49Z",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-07-02T09:51:14",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "0.01 sec",
+    "fNumber": "f/5.0",
+    "focalLength": "32.8 mm",
+    "sizeBytes": 10387968,
+    "latitude": 48.70673113502562,
+    "longitude": 2.0403734128922224
+  },
+  {
+    "name": "P1226828.JPG",
+    "googleDriveId": "1RRX8C8BP7n5bWRT8PysGDX5KldqCvWou",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-07-02T09:48:43",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/200 sec",
+    "fNumber": "f/5.5",
+    "focalLength": "43.1 mm",
+    "sizeBytes": 11036672,
+    "latitude": 48.70675250887871,
+    "longitude": 2.0417885296046734
+  },
+  {
+    "name": "P1226765.JPG",
+    "googleDriveId": "1aI4lc9nd1rs4j0lgl_t9Wpd43zs1XQax",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-07-02T09:41:07",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "0.01 sec",
+    "fNumber": "f/5.6",
+    "focalLength": "47.9 mm",
+    "sizeBytes": 10049536,
+    "latitude": 48.706511445343494,
+    "longitude": 2.0466492790728807
+  },
+  {
+    "name": "P1226743.JPG",
+    "googleDriveId": "1rT2DT_nSZuVorEw1IDJnf7EDVzp_cixw",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-07-02T09:37:23",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200",
+    "exposureTime": "1/200 sec",
+    "fNumber": "f/5.1",
+    "focalLength": "34.6 mm",
+    "sizeBytes": 10763264,
+    "latitude": 48.706426033750176,
+    "longitude": 2.0488849002867937
+  },
+  {
     "name": "P1226727.JPG",
     "googleDriveId": "1_nPoQUVuuR05liFpQE_ofO5AhkTvoNsO",
     "tags": [

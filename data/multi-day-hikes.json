@@ -1,6 +1,298 @@
 [
   {
     "contiguousHikes": [
+      "2024-07-17T09:50:15",
+      "2024-07-16T14:43:07"
+    ],
+    "start": "2024-07-16T14:43:07",
+    "end": "2024-07-17T09:58:21",
+    "days": 2,
+    "walkingDays": 0,
+    "distance": 5.310094093567202,
+    "elevation": 62,
+    "durationInSeconds": 5579,
+    "idleTimeInSeconds": 1576,
+    "coordinates": {
+      "centerLatitude": 64.13841082714498,
+      "centerLongitude": -21.932956581003964,
+      "widthInKm": 1,
+      "heightInKm": 1
+    },
+    "timeline": [
+      {
+        "date": "2024-07-16",
+        "distance": 4.602127963495364,
+        "elevation": 60
+      },
+      {
+        "date": "2024-07-17",
+        "distance": 0.7079661300718382,
+        "elevation": 2
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "contiguousHikes": [
+      "2024-07-16T10:36:22",
+      "2024-07-15T22:51:18"
+    ],
+    "start": "2024-07-15T22:51:18",
+    "end": "2024-07-16T11:38:03",
+    "days": 2,
+    "walkingDays": 1,
+    "distance": 5.961300598052908,
+    "elevation": 32,
+    "durationInSeconds": 4311,
+    "idleTimeInSeconds": 60,
+    "coordinates": {
+      "centerLatitude": 66.06378490570933,
+      "centerLongitude": -23.144867084920406,
+      "widthInKm": 2,
+      "heightInKm": 2
+    },
+    "timeline": [
+      {
+        "date": "2024-07-15",
+        "distance": 0.8359859370961767,
+        "elevation": 2
+      },
+      {
+        "date": "2024-07-16",
+        "distance": 5.1253146609567315,
+        "elevation": 30
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "name": "Hornstrandir",
+    "contiguousHikes": [
+      "2024-07-15T18:11:45",
+      "2024-07-15T11:38:13",
+      "2024-07-14T20:19:20",
+      "2024-07-14T09:51:19",
+      "2024-07-13T19:59:42"
+    ],
+    "start": "2024-07-13T19:59:42",
+    "end": "2024-07-15T18:33:06",
+    "days": 3,
+    "walkingDays": 3,
+    "distance": 56.590289057283364,
+    "elevation": 2646,
+    "durationInSeconds": 67355,
+    "idleTimeInSeconds": 10222,
+    "coordinates": {
+      "centerLatitude": 66.39956092927605,
+      "centerLongitude": -22.656368971802294,
+      "widthInKm": 19,
+      "heightInKm": 14
+    },
+    "timeline": [
+      {
+        "date": "2024-07-13",
+        "distance": 15.531232069738131,
+        "elevation": 653
+      },
+      {
+        "date": "2024-07-14",
+        "distance": 29.683512011830356,
+        "elevation": 1455
+      },
+      {
+        "date": "2024-07-15",
+        "distance": 11.375544975714876,
+        "elevation": 537
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
+    "contiguousHikes": [
+      "2024-07-13T17:03:14",
+      "2024-07-13T16:31:39",
+      "2024-07-13T15:35:54",
+      "2024-07-13T12:59:37",
+      "2024-07-11T15:16:16",
+      "2024-07-11T14:10:19",
+      "2024-07-11T11:29:15"
+    ],
+    "start": "2024-07-11T11:29:15",
+    "end": "2024-07-13T17:22:20",
+    "days": 3,
+    "walkingDays": 2,
+    "distance": 17.750321048159044,
+    "elevation": 151,
+    "durationInSeconds": 24005,
+    "idleTimeInSeconds": 9878,
+    "coordinates": {
+      "centerLatitude": 66.06428161729127,
+      "centerLongitude": -23.143704305402935,
+      "widthInKm": 2,
+      "heightInKm": 2
+    },
+    "timeline": [
+      {
+        "date": "2024-07-11",
+        "distance": 9.552178098452455,
+        "elevation": 111
+      },
+      {
+        "date": "2024-07-12",
+        "distance": 0.0,
+        "elevation": 0
+      },
+      {
+        "date": "2024-07-13",
+        "distance": 8.19814294970659,
+        "elevation": 38
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "contiguousHikes": [
+      "2024-07-11T08:25:31",
+      "2024-07-10T18:04:21",
+      "2024-07-10T14:50:56",
+      "2024-07-10T10:42:50",
+      "2024-07-09T20:39:21"
+    ],
+    "start": "2024-07-09T20:39:21",
+    "end": "2024-07-11T08:51:38",
+    "days": 3,
+    "walkingDays": 1,
+    "distance": 10.463724911479732,
+    "elevation": 158,
+    "durationInSeconds": 11368,
+    "idleTimeInSeconds": 4194,
+    "coordinates": {
+      "centerLatitude": 64.14172532502562,
+      "centerLongitude": -21.934230462647974,
+      "widthInKm": 1,
+      "heightInKm": 2
+    },
+    "timeline": [
+      {
+        "date": "2024-07-09",
+        "distance": 1.3323024382453652,
+        "elevation": 30
+      },
+      {
+        "date": "2024-07-10",
+        "distance": 6.933651276178124,
+        "elevation": 110
+      },
+      {
+        "date": "2024-07-11",
+        "distance": 2.1977711970562415,
+        "elevation": 17
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "name": "Laugavegur & Fimmvörðuháls trails",
+    "contiguousHikes": [
+      "2024-07-09T11:35:07",
+      "2024-07-08T10:11:49",
+      "2024-07-07T19:23:08",
+      "2024-07-07T09:31:26",
+      "2024-07-06T09:44:54",
+      "2024-07-05T19:06:17"
+    ],
+    "overridenHikes": [
+      "2024-07-08T10:11:49",
+      "2024-07-07T19:23:08",
+      "2024-07-07T09:31:26",
+      "2024-07-06T09:44:54"
+    ],
+    "start": "2024-07-06T09:44:54",
+    "end": "2024-07-08T18:06:36",
+    "days": 3,
+    "walkingDays": 3,
+    "distance": 94.20450474787563,
+    "elevation": 3364,
+    "durationInSeconds": 98842,
+    "idleTimeInSeconds": 12435,
+    "coordinates": {
+      "centerLatitude": 63.7585550872609,
+      "centerLongitude": -19.28797817789018,
+      "widthInKm": 22,
+      "heightInKm": 51
+    },
+    "timeline": [
+      {
+        "date": "2024-07-06",
+        "distance": 31.154525668339524,
+        "elevation": 1490
+      },
+      {
+        "date": "2024-07-07",
+        "distance": 37.707029703944826,
+        "elevation": 809
+      },
+      {
+        "date": "2024-07-08",
+        "distance": 25.342949375591292,
+        "elevation": 1064
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
+    "contiguousHikes": [
+      "2024-07-05T13:26",
+      "2024-07-05T12:33:21",
+      "2024-07-04T21:14:55",
+      "2024-07-04T18:04:31",
+      "2024-07-04T14:03:39",
+      "2024-07-04T13:19:05",
+      "2024-07-03T20:00:07",
+      "2024-07-03T19:36:06"
+    ],
+    "start": "2024-07-03T19:36:06",
+    "end": "2024-07-05T13:32:24",
+    "days": 3,
+    "walkingDays": 1,
+    "distance": 12.858361721120247,
+    "elevation": 170,
+    "durationInSeconds": 10252,
+    "idleTimeInSeconds": 1361,
+    "coordinates": {
+      "centerLatitude": 64.1418928373605,
+      "centerLongitude": -21.93054795730859,
+      "widthInKm": 1,
+      "heightInKm": 2
+    },
+    "timeline": [
+      {
+        "date": "2024-07-03",
+        "distance": 3.3451592167911963,
+        "elevation": 42
+      },
+      {
+        "date": "2024-07-04",
+        "distance": 7.456344332115577,
+        "elevation": 101
+      },
+      {
+        "date": "2024-07-05",
+        "distance": 2.0568581722134747,
+        "elevation": 26
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "contiguousHikes": [
       "2024-06-24T08:41:59",
       "2024-06-23T14:46:12",
       "2024-06-23T11:32:03",

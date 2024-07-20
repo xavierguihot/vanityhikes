@@ -16,6 +16,8 @@
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
     "sizeBytes": 3928991,
+    "latitude": 66.05570789031042,
+    "longitude": -23.142789417656957,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
@@ -140,6 +142,8 @@
     "fNumber": "f/5.0",
     "focalLength": "32.8 mm",
     "sizeBytes": 10299392,
+    "latitude": 66.36440066179028,
+    "longitude": -22.622899980569244,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
@@ -243,6 +247,8 @@
     "fNumber": "f/6.4",
     "focalLength": "129.4 mm",
     "sizeBytes": 10846208,
+    "latitude": 66.42629369422652,
+    "longitude": -22.490165954581236,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
@@ -262,6 +268,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 10074624,
+    "latitude": 66.42632958077508,
+    "longitude": -22.49016961432563,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
@@ -281,6 +289,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 10050048,
+    "latitude": 66.42632958077508,
+    "longitude": -22.49016961432563,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
@@ -300,6 +310,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 10217472,
+    "latitude": 66.42632958077508,
+    "longitude": -22.49016961432563,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
@@ -319,6 +331,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 10489856,
+    "latitude": 66.42632958077508,
+    "longitude": -22.49016961432563,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
@@ -338,6 +352,8 @@
     "fNumber": "f/6.4",
     "focalLength": "117.1 mm",
     "sizeBytes": 9223680,
+    "latitude": 66.42660405405749,
+    "longitude": -22.489617278814354,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
@@ -357,6 +373,8 @@
     "fNumber": "f/6.4",
     "focalLength": "128.4 mm",
     "sizeBytes": 9752064,
+    "latitude": 66.42660405405749,
+    "longitude": -22.489617278814354,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
@@ -376,6 +394,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 9917440,
+    "latitude": 66.42660405405749,
+    "longitude": -22.489617278814354,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
@@ -1067,6 +1087,8 @@
     "fNumber": "f/5.7",
     "focalLength": "50.5 mm",
     "sizeBytes": 7910912,
+    "latitude": 66.1160755574035,
+    "longitude": -23.07086362522538,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
@@ -1086,6 +1108,8 @@
     "fNumber": "f/7.1",
     "focalLength": "69.7 mm",
     "sizeBytes": 7826432,
+    "latitude": 66.11695320566163,
+    "longitude": -23.067753200685846,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
@@ -1105,6 +1129,8 @@
     "fNumber": "f/8.0",
     "focalLength": "24.2 mm",
     "sizeBytes": 7842816,
+    "latitude": 66.10918045550126,
+    "longitude": -23.073645326744163,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
@@ -3022,7 +3048,9 @@
     "exposureTime": "1/640 sec",
     "fNumber": "f/6.4",
     "focalLength": "124.6 mm",
-    "sizeBytes": 8863232
+    "sizeBytes": 8863232,
+    "latitude": 64.14521021538981,
+    "longitude": -21.944157818880846
   },
   {
     "name": "P1227094.JPG",
@@ -4043,6 +4071,8 @@
     "fNumber": "f/6.4",
     "focalLength": "121.3 mm",
     "sizeBytes": 9844224,
+    "latitude": 67.8904384185637,
+    "longitude": 13.01805911992574,
     "multiDayHike": "Lofotens"
   },
   {
@@ -4062,6 +4092,8 @@
     "fNumber": "f/6.4",
     "focalLength": "109.7 mm",
     "sizeBytes": 9816576,
+    "latitude": 67.8904384185637,
+    "longitude": 13.01805911992574,
     "multiDayHike": "Lofotens"
   },
   {
@@ -4081,6 +4113,8 @@
     "fNumber": "f/6.3",
     "focalLength": "98.9 mm",
     "sizeBytes": 10447872,
+    "latitude": 67.8904384185637,
+    "longitude": 13.01805911992574,
     "multiDayHike": "Lofotens"
   },
   {
@@ -4244,6 +4278,8 @@
     "fNumber": "f/7.1",
     "focalLength": "25.8 mm",
     "sizeBytes": 8431616,
+    "latitude": 67.9277690258217,
+    "longitude": 13.074198543552075,
     "multiDayHike": "Lofotens"
   },
   {
@@ -4263,6 +4299,8 @@
     "fNumber": "f/5.6",
     "focalLength": "32.2 mm",
     "sizeBytes": 9511936,
+    "latitude": 67.9277690258217,
+    "longitude": 13.074198543552075,
     "multiDayHike": "Lofotens"
   },
   {
@@ -4282,6 +4320,8 @@
     "fNumber": "f/5.6",
     "focalLength": "12.5 mm",
     "sizeBytes": 8485376,
+    "latitude": 67.9277690258217,
+    "longitude": 13.074198543552075,
     "multiDayHike": "Lofotens"
   },
   {
@@ -4301,6 +4341,8 @@
     "fNumber": "f/6.3",
     "focalLength": "8.8 mm",
     "sizeBytes": 8074752,
+    "latitude": 67.9277690258217,
+    "longitude": 13.074198543552075,
     "multiDayHike": "Lofotens"
   },
   {
@@ -4320,6 +4362,8 @@
     "fNumber": "f/6.3",
     "focalLength": "11.5 mm",
     "sizeBytes": 7733760,
+    "latitude": 67.9277690258217,
+    "longitude": 13.074198543552075,
     "multiDayHike": "Lofotens"
   },
   {
@@ -4339,6 +4383,8 @@
     "fNumber": "f/8.0",
     "focalLength": "27.9 mm",
     "sizeBytes": 7849472,
+    "latitude": 67.9277690258217,
+    "longitude": 13.074198543552075,
     "multiDayHike": "Lofotens"
   },
   {
@@ -4358,6 +4404,8 @@
     "fNumber": "f/6.4",
     "focalLength": "111.8 mm",
     "sizeBytes": 9318912,
+    "latitude": 67.9277690258217,
+    "longitude": 13.074198543552075,
     "multiDayHike": "Lofotens"
   },
   {
@@ -4377,6 +4425,8 @@
     "fNumber": "f/6.3",
     "focalLength": "25.8 mm",
     "sizeBytes": 7805952,
+    "latitude": 67.9277690258217,
+    "longitude": 13.074198543552075,
     "multiDayHike": "Lofotens"
   },
   {
@@ -4396,6 +4446,8 @@
     "fNumber": "f/5.0",
     "focalLength": "8.8 mm",
     "sizeBytes": 8269824,
+    "latitude": 67.9277690258217,
+    "longitude": 13.074198543552075,
     "multiDayHike": "Lofotens"
   },
   {
@@ -4415,6 +4467,8 @@
     "fNumber": "f/5.6",
     "focalLength": "21.5 mm",
     "sizeBytes": 9583616,
+    "latitude": 67.9277690258217,
+    "longitude": 13.074198543552075,
     "multiDayHike": "Lofotens"
   },
   {
@@ -7497,6 +7551,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 10176000,
+    "latitude": 57.606423521159236,
+    "longitude": -5.292491151022253,
     "multiDayHike": "CWT - Cape Wrath Trail (second half)"
   },
   {
@@ -11837,6 +11893,8 @@
     "fNumber": "f/2.4",
     "focalLength": "1.5 mm",
     "sizeBytes": 1448817,
+    "latitude": 63.454317277065236,
+    "longitude": -19.050541466264033,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -11856,6 +11914,8 @@
     "fNumber": "f/1.6",
     "focalLength": "6 mm",
     "sizeBytes": 2017524,
+    "latitude": 63.744770001357494,
+    "longitude": -18.167070355534584,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -12673,6 +12733,8 @@
     "fNumber": "f/8.0",
     "focalLength": "69.7 mm",
     "sizeBytes": 9328128,
+    "latitude": 64.21114787060392,
+    "longitude": -21.2599060266934,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13280,6 +13342,8 @@
     "fNumber": "f/8.0",
     "focalLength": "50.5 mm",
     "sizeBytes": 8813568,
+    "latitude": 64.94002385631883,
+    "longitude": -23.74494844388299,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13299,6 +13363,8 @@
     "fNumber": "f/5.6",
     "focalLength": "33.4 mm",
     "sizeBytes": 8864256,
+    "latitude": 64.98070840321822,
+    "longitude": -23.638516441099487,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13318,6 +13384,8 @@
     "fNumber": "f/7.1",
     "focalLength": "36.4 mm",
     "sizeBytes": 10511360,
+    "latitude": 64.95180422812045,
+    "longitude": -23.671616083684768,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13337,6 +13405,8 @@
     "fNumber": "f/6.3",
     "focalLength": "101.4 mm",
     "sizeBytes": 10240000,
+    "latitude": 64.96822180127043,
+    "longitude": -24.13514852221802,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13356,6 +13426,8 @@
     "fNumber": "f/6.3",
     "focalLength": "62.9 mm",
     "sizeBytes": 10045952,
+    "latitude": 64.9595483156635,
+    "longitude": -24.105060857169075,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13375,6 +13447,8 @@
     "fNumber": "f/5.9",
     "focalLength": "62.9 mm",
     "sizeBytes": 9919488,
+    "latitude": 64.9595483156635,
+    "longitude": -24.105060857169075,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13394,6 +13468,8 @@
     "fNumber": "f/5.9",
     "focalLength": "62.9 mm",
     "sizeBytes": 10378752,
+    "latitude": 64.9595483156635,
+    "longitude": -24.105060857169075,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13413,6 +13489,8 @@
     "fNumber": "f/8.0",
     "focalLength": "62.9 mm",
     "sizeBytes": 10128384,
+    "latitude": 64.9595483156635,
+    "longitude": -24.105060857169075,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13432,6 +13510,8 @@
     "fNumber": "f/7.1",
     "focalLength": "34.1 mm",
     "sizeBytes": 10216960,
+    "latitude": 64.9595483156635,
+    "longitude": -24.105060857169075,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13451,6 +13531,8 @@
     "fNumber": "f/8.0",
     "focalLength": "34.1 mm",
     "sizeBytes": 10478592,
+    "latitude": 64.9595483156635,
+    "longitude": -24.105060857169075,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13470,6 +13552,8 @@
     "fNumber": "f/7.1",
     "focalLength": "106.5 mm",
     "sizeBytes": 10486784,
+    "latitude": 64.94763626175106,
+    "longitude": -24.08075396023654,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13489,6 +13573,8 @@
     "fNumber": "f/6.4",
     "focalLength": "106.5 mm",
     "sizeBytes": 10079232,
+    "latitude": 64.94763626175106,
+    "longitude": -24.08075396023654,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13508,6 +13594,8 @@
     "fNumber": "f/6.4",
     "focalLength": "106.5 mm",
     "sizeBytes": 10022912,
+    "latitude": 64.94763626175106,
+    "longitude": -24.08075396023654,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13527,6 +13615,8 @@
     "fNumber": "f/8.0",
     "focalLength": "64.5 mm",
     "sizeBytes": 8834560,
+    "latitude": 64.95925806081347,
+    "longitude": -23.88891584245145,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13546,6 +13636,8 @@
     "fNumber": "f/8.0",
     "focalLength": "18.7 mm",
     "sizeBytes": 9366528,
+    "latitude": 64.95925806081347,
+    "longitude": -23.88891584245145,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13565,6 +13657,8 @@
     "fNumber": "f/8.0",
     "focalLength": "57.1 mm",
     "sizeBytes": 8577536,
+    "latitude": 64.95955376811041,
+    "longitude": -23.856305715042783,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13584,6 +13678,8 @@
     "fNumber": "f/4.6",
     "focalLength": "25.2 mm",
     "sizeBytes": 10687488,
+    "latitude": 64.92627935721838,
+    "longitude": -23.754291437860985,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13603,6 +13699,8 @@
     "fNumber": "f/5.2",
     "focalLength": "35.8 mm",
     "sizeBytes": 10856960,
+    "latitude": 64.92627935721838,
+    "longitude": -23.754291437860985,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13622,6 +13720,8 @@
     "fNumber": "f/4.5",
     "focalLength": "13.4 mm",
     "sizeBytes": 10292224,
+    "latitude": 64.919826607595,
+    "longitude": -23.68433613955874,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13641,6 +13741,8 @@
     "fNumber": "f/3.3",
     "focalLength": "8.8 mm",
     "sizeBytes": 10324480,
+    "latitude": 64.89823037199483,
+    "longitude": -23.703933527680967,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13660,6 +13762,8 @@
     "fNumber": "f/1.6",
     "focalLength": "6 mm",
     "sizeBytes": 4649308,
+    "latitude": 64.89823037199483,
+    "longitude": -23.703933527680967,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13679,6 +13783,8 @@
     "fNumber": "f/8.0",
     "focalLength": "27.4 mm",
     "sizeBytes": 8635904,
+    "latitude": 64.89799639297141,
+    "longitude": -23.70473060436755,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13698,6 +13804,8 @@
     "fNumber": "f/8.0",
     "focalLength": "14 mm",
     "sizeBytes": 7480320,
+    "latitude": 64.89783660274378,
+    "longitude": -23.705260425497634,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13717,6 +13825,8 @@
     "fNumber": "f/4.9",
     "focalLength": "31.1 mm",
     "sizeBytes": 10536448,
+    "latitude": 64.92326996192058,
+    "longitude": -23.275075393159497,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13736,6 +13846,8 @@
     "fNumber": "f/4.5",
     "focalLength": "22 mm",
     "sizeBytes": 7300096,
+    "latitude": 64.92326996192058,
+    "longitude": -23.275075393159497,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13755,6 +13867,8 @@
     "fNumber": "f/5.0",
     "focalLength": "11.5 mm",
     "sizeBytes": 8864256,
+    "latitude": 64.92326996192058,
+    "longitude": -23.275075393159497,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13774,6 +13888,8 @@
     "fNumber": "f/7.1",
     "focalLength": "51.4 mm",
     "sizeBytes": 8871424,
+    "latitude": 64.95159830595777,
+    "longitude": -23.15879139871118,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13793,6 +13909,8 @@
     "fNumber": "f/6.4",
     "focalLength": "111.8 mm",
     "sizeBytes": 9997312,
+    "latitude": 64.95159830595777,
+    "longitude": -23.15879139871118,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13812,6 +13930,8 @@
     "fNumber": "f/8.0",
     "focalLength": "15.1 mm",
     "sizeBytes": 9566720,
+    "latitude": 64.95159830595777,
+    "longitude": -23.15879139871118,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13831,6 +13951,8 @@
     "fNumber": "f/6.0",
     "focalLength": "69.7 mm",
     "sizeBytes": 9110528,
+    "latitude": 64.97089405564653,
+    "longitude": -22.948028851778133,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13850,6 +13972,8 @@
     "fNumber": "f/5.0",
     "focalLength": "24.2 mm",
     "sizeBytes": 10406400,
+    "latitude": 64.97089405564653,
+    "longitude": -22.948028851778133,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13869,6 +13993,8 @@
     "fNumber": "f/8.0",
     "focalLength": "71.5 mm",
     "sizeBytes": 7666176,
+    "latitude": 64.14193236057602,
+    "longitude": -21.92702513960126,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -13888,6 +14014,8 @@
     "fNumber": "f/7.1",
     "focalLength": "8.8 mm",
     "sizeBytes": 9254912,
+    "latitude": 64.14193236057602,
+    "longitude": -21.92702513960126,
     "multiDayHike": "Iceland en Mars"
   },
   {
@@ -16749,6 +16877,8 @@
     "fNumber": "f/8.0",
     "focalLength": "22.6 mm",
     "sizeBytes": 7055360,
+    "latitude": 22.32668788866593,
+    "longitude":  114.16008170375841,
     "multiDayHike": "Hong Kong"
   },
   {
@@ -19114,6 +19244,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 9321472,
+    "latitude": 47.86730090512948,
+    "longitude": -4.224185760150412,
     "multiDayHike": "GR34 - Sentier des Douaniers (Brest => Pont l'Abbé)"
   },
   {
@@ -19133,6 +19265,8 @@
     "fNumber": "f/7.1",
     "focalLength": "132 mm",
     "sizeBytes": 7635968,
+    "latitude": 47.86730090512948,
+    "longitude": -4.224185760150412,
     "multiDayHike": "GR34 - Sentier des Douaniers (Brest => Pont l'Abbé)"
   },
   {
@@ -19152,6 +19286,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 7979008,
+    "latitude": 47.86730090512948,
+    "longitude": -4.224185760150412,
     "multiDayHike": "GR34 - Sentier des Douaniers (Brest => Pont l'Abbé)"
   },
   {
@@ -35011,6 +35147,8 @@
     "fNumber": "f/8.0",
     "focalLength": "19.8 mm",
     "sizeBytes": 8778240,
+    "latitude": 47.34751614207625,
+    "longitude": -3.1536423470373665,
     "multiDayHike": "GR340 - Tour de Belle-Île-en-Mer"
   },
   {
@@ -35030,6 +35168,8 @@
     "fNumber": "f/8.0",
     "focalLength": "30 mm",
     "sizeBytes": 10086912,
+    "latitude": 47.360838288153325,
+    "longitude": -3.1454319748326416,
     "multiDayHike": "GR340 - Tour de Belle-Île-en-Mer"
   },
   {
@@ -35070,6 +35210,8 @@
     "fNumber": "f/1.9",
     "focalLength": "6.8 mm",
     "sizeBytes": 3563173,
+    "latitude": 47.45329287430639,
+    "longitude": -3.124691882483959,
     "multiDayHike": "GR340 - Tour de Belle-Île-en-Mer"
   },
   {
@@ -52110,6 +52252,8 @@
     "fNumber": "f/2.0",
     "focalLength": "4.6 mm",
     "sizeBytes": 4391133,
+    "latitude": 45.157494687515175,
+    "longitude": 2.702453131952854,
     "multiDayHike": "GR400 - Tour des Volcans du Cantal"
   },
   {
@@ -54476,42 +54620,6 @@
     "latitude": 45.37408391945064,
     "longitude": 7.069516992196441,
     "multiDayHike": "Bonneval sur Arc"
-  },
-  {
-    "name": "20211224_155013.jpg",
-    "googleDriveId": "",
-    "tags": [
-      ""
-    ],
-    "description": "",
-    "dateTime": "2021-12-24T15:50:12",
-    "timeZone": "+01:00",
-    "height": 384,
-    "width": 512,
-    "cameraMaker": "samsung",
-    "cameraModel": "SM-A127F",
-    "exposureTime": "0.04 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "4.6 mm",
-    "sizeBytes": 2910495
-  },
-  {
-    "name": "20211224_154944.jpg",
-    "googleDriveId": "",
-    "tags": [
-      ""
-    ],
-    "description": "",
-    "dateTime": "2021-12-24T15:49:43",
-    "timeZone": "+01:00",
-    "height": 384,
-    "width": 512,
-    "cameraMaker": "samsung",
-    "cameraModel": "SM-A127F",
-    "exposureTime": "0.02 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "4.6 mm",
-    "sizeBytes": 3132675
   },
   {
     "name": "20210919_082831.jpg",

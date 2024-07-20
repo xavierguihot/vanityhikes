@@ -15,7 +15,8 @@
     "exposureTime": "567/1000000 sec",
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
-    "sizeBytes": 3928991
+    "sizeBytes": 3928991,
+    "multiDayHike": "Hornstrandir nature reserve"
   },
   {
     "name": "P1272321.JPG",
@@ -35,7 +36,8 @@
     "focalLength": "30.6 mm",
     "sizeBytes": 7660032,
     "latitude": 66.07397558167577,
-    "longitude": -23.129174318164587
+    "longitude": -23.129174318164587,
+    "multiDayHike": "Hornstrandir nature reserve"
   },
   {
     "name": "P1272318.JPG",
@@ -55,13 +57,14 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 5087232,
     "latitude": 66.07400994747877,
-    "longitude": -23.12903568148613
+    "longitude": -23.12903568148613,
+    "multiDayHike": "Hornstrandir nature reserve"
   },
   {
     "name": "P1272298.JPG",
     "googleDriveId": "1K_AHI20ItpIEDIpFnxYozpT-E_O8WcAQ",
     "tags": [
-      ""
+      "Iceland"
     ],
     "description": "",
     "dateTime": "2024-07-15T21:35:43",
@@ -74,13 +77,15 @@
     "fNumber": "f/6.2",
     "focalLength": "85.1 mm",
     "sizeBytes": 10537984,
+    "latitude": 66.12693269737065,
+    "longitude": -23.053015926852822,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
     "name": "P1272277.JPG",
     "googleDriveId": "1cLaS5nlYZzoLMTqWNiqNzP6qk6HlS0pf",
     "tags": [
-      ""
+      "Iceland"
     ],
     "description": "",
     "dateTime": "2024-07-15T21:29:17",
@@ -93,13 +98,15 @@
     "fNumber": "f/5.8",
     "focalLength": "57.1 mm",
     "sizeBytes": 8637440,
+    "latitude": 66.16258051246405,
+    "longitude": -23.02841730415821,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
     "name": "P1272273.JPG",
     "googleDriveId": "1smqbfrNfp7qamubQPrysY2aLUHqxvOz-",
     "tags": [
-      ""
+      "Iceland"
     ],
     "description": "",
     "dateTime": "2024-07-15T21:29:15",
@@ -112,6 +119,8 @@
     "fNumber": "f/5.8",
     "focalLength": "57.1 mm",
     "sizeBytes": 8714240,
+    "latitude": 66.16276449523866,
+    "longitude": -23.028305741026998,
     "multiDayHike": "Hornstrandir nature reserve"
   },
   {
@@ -1122,7 +1131,7 @@
     "name": "P1250244.JPG",
     "googleDriveId": "13k4AbBZlsMdpzUijrnAMujEr2SrHw5NC",
     "tags": [
-      ""
+      "Iceland"
     ],
     "description": "",
     "dateTime": "2024-07-10T15:33:26",
@@ -1134,13 +1143,15 @@
     "exposureTime": "1/250 sec",
     "fNumber": "f/6.4",
     "focalLength": "130.2 mm",
-    "sizeBytes": 8723456
+    "sizeBytes": 8723456,
+    "latitude": 64.21737665310502,
+    "longitude": -22.21022109501064
   },
   {
     "name": "P1250243.JPG",
     "googleDriveId": "1fVegTpUSlUerP9qf1aWq19cVtVd0EW7w",
     "tags": [
-      ""
+      "Iceland"
     ],
     "description": "",
     "dateTime": "2024-07-10T15:33:26",
@@ -1152,13 +1163,15 @@
     "exposureTime": "1/250 sec",
     "fNumber": "f/6.4",
     "focalLength": "130.2 mm",
-    "sizeBytes": 8654848
+    "sizeBytes": 8654848,
+    "latitude": 64.21737665310502,
+    "longitude": -22.21022109501064
   },
   {
     "name": "P1250154.JPG",
     "googleDriveId": "1PZMRShbgQewjBQroNmugBz6GEo-tyhP-",
     "tags": [
-      ""
+      "Iceland"
     ],
     "description": "",
     "dateTime": "2024-07-10T12:13:49",
@@ -1170,13 +1183,15 @@
     "exposureTime": "1/320 sec",
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
-    "sizeBytes": 7631872
+    "sizeBytes": 7631872,
+    "latitude": 64.17191429995,
+    "longitude": -21.966265719383955
   },
   {
     "name": "P1250098.JPG",
     "googleDriveId": "16TMAreQisq4quDtNqTZ8-kt_Zn3OQWfP",
     "tags": [
-      ""
+      "Iceland"
     ],
     "description": "",
     "dateTime": "2024-07-10T12:09:41",
@@ -1188,13 +1203,15 @@
     "exposureTime": "1/320 sec",
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
-    "sizeBytes": 7806976
+    "sizeBytes": 7806976,
+    "latitude": 64.17246012948453,
+    "longitude": -21.968847094103694
   },
   {
     "name": "P1250069.JPG",
     "googleDriveId": "1sNPSQskpAMXEwh_aS3H8G6R105T-HKrV",
     "tags": [
-      ""
+      "Iceland"
     ],
     "description": "",
     "dateTime": "2024-07-10T12:06:05",
@@ -1206,13 +1223,15 @@
     "exposureTime": "1/200 sec",
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
-    "sizeBytes": 5046784
+    "sizeBytes": 5046784,
+    "latitude": 64.17467890307307,
+    "longitude": -21.970457592979074
   },
   {
     "name": "P1250023.JPG",
     "googleDriveId": "1gr_jokLfmjrD12AZn7WcbB4avWGuOLme",
     "tags": [
-      ""
+      "Iceland"
     ],
     "description": "",
     "dateTime": "2024-07-10T11:55:41",
@@ -1224,13 +1243,15 @@
     "exposureTime": "1/125 sec",
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
-    "sizeBytes": 10037248
+    "sizeBytes": 10037248,
+    "latitude": 64.1725451219827,
+    "longitude": -21.925759753212333
   },
   {
     "name": "P1250014.JPG",
     "googleDriveId": "1Eyed9mijfTp4HBSo2Yy8J77pRZwmpahN",
     "tags": [
-      ""
+      "Iceland"
     ],
     "description": "",
     "dateTime": "2024-07-10T11:54:55",
@@ -1242,13 +1263,15 @@
     "exposureTime": "1/125 sec",
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
-    "sizeBytes": 9552384
+    "sizeBytes": 9552384,
+    "latitude": 64.17223859578371,
+    "longitude": -21.92382420413196
   },
   {
     "name": "P1249992.JPG",
     "googleDriveId": "18I63K_r5rKUZLqBt1DqsRWaIKFdxhXXr",
     "tags": [
-      ""
+      "Iceland"
     ],
     "description": "",
     "dateTime": "2024-07-10T11:53:33",
@@ -1260,7 +1283,9 @@
     "exposureTime": "1/125 sec",
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
-    "sizeBytes": 5829632
+    "sizeBytes": 5829632,
+    "latitude": 64.17204413563013,
+    "longitude": -21.92322355695069
   },
   {
     "name": "P1249941.JPG",
@@ -3003,7 +3028,7 @@
     "name": "P1227094.JPG",
     "googleDriveId": "1WqxggVWq3FWax8GVuVXtQeIQ2u9gkfQJ",
     "tags": [
-      ""
+      "Iceland"
     ],
     "description": "",
     "dateTime": "2024-07-04T16:49:12",
@@ -3015,13 +3040,15 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/6.2",
     "focalLength": "81 mm",
-    "sizeBytes": 7328256
+    "sizeBytes": 7328256,
+    "latitude": 64.1666024364531,
+    "longitude": -21.931867143139243
   },
   {
     "name": "P1227053.JPG",
     "googleDriveId": "1kGW3HkzFs1NWiVb2p811ZG9a2ekZxFSz",
     "tags": [
-      ""
+      "Iceland"
     ],
     "description": "",
     "dateTime": "2024-07-04T15:01:51",
@@ -3033,7 +3060,9 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/5.6",
     "focalLength": "28.4 mm",
-    "sizeBytes": 9346560
+    "sizeBytes": 9346560,
+    "latitude": 64.16919227689505,
+    "longitude": -22.04430928453803
   },
   {
     "name": "P1227009.JPG",

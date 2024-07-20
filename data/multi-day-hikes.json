@@ -107,6 +107,22 @@
         "elevation": 537
       }
     ],
+    "locations": [
+      {
+        "type": "bivouac",
+        "latitude": 66.41442618889417,
+        "longitude": -22.6704791946429
+      },
+      {
+        "type": "bivouac",
+        "latitude": 66.42612732367091,
+        "longitude": -22.490942110049968
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/zqas97",
+    "photo": "P1261847.JPG",
+    "type": "Itinérance en bivouac",
     "hasGpxFile": false,
     "hide": false
   },
@@ -243,6 +259,32 @@
         "elevation": 1064
       }
     ],
+    "locations": [
+      {
+        "type": "bivouac",
+        "latitude": 63.99018030454386,
+        "longitude": -19.05928586864397
+      },
+      {
+        "type": "bivouac",
+        "latitude": 63.8318829805271,
+        "longitude": -19.205477947903915
+      },
+      {
+        "type": "bivouac",
+        "latitude": 63.67759688719894,
+        "longitude": -19.48263685062986
+      },
+      {
+        "type": "hotel",
+        "latitude": 63.52689797828273,
+        "longitude": -19.510723011429054
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/zqas97",
+    "photo": "P1227534.JPG",
+    "type": "Itinérance en bivouac",
     "hasGpxFile": false,
     "hide": false
   },

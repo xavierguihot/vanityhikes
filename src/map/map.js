@@ -21,7 +21,7 @@ function displayMapAndTraces(svg, width, height) {
   var constants = {
     initialScale: 1 / (2 * Math.PI),
     initialCenter: [3.25, 46.5],
-    initialZoom: 24000,
+    initialZoom: 23500,
     maxZoom: 16000000,
     photoIconsMinZoom: 300000,
     wishList5kmMarkersAndLocationsMinZoom: 300000

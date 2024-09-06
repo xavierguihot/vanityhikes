@@ -206,6 +206,188 @@
         "elevation": 1491
       }
     ],
+    "locations": [
+      {
+        "name": "Chalet de l'Albère",
+        "type": "refuge",
+        "latitude": 42.47895866315942,
+        "longitude": 2.922992846364155
+      },
+      {
+        "name": "Fontaine des Salines",
+        "type": "bivouac",
+        "latitude": 42.42077622610466,
+        "longitude": 2.7501592109998017
+      },
+      {
+        "name": "Refuge de Batère",
+        "type": "refuge",
+        "latitude": 42.50169661758863,
+        "longitude": 2.5485138873056643
+      },
+      {
+        "name": "Refuge de Mariailles",
+        "type": "refuge",
+        "latitude": 42.501684892566,
+        "longitude": 2.4077634855609915
+      },
+      {
+        "name": "Refuge d'Ulldeter",
+        "type": "refuge",
+        "latitude": 42.41968670956292,
+        "longitude": 2.257727852957201
+      },
+      {
+        "name": "Chalet l'Angélique",
+        "type": "hotel",
+        "latitude": 42.519891306151585,
+        "longitude": 2.0672976943680914
+      },
+      {
+        "name": "Refuge des Bésines",
+        "type": "bivouac",
+        "latitude": 42.60413380820976,
+        "longitude": 1.8687335137750372
+      },
+      {
+        "name": "Lac de Cabana Sorda",
+        "type": "bivouac",
+        "latitude": 42.612070605335255,
+        "longitude": 1.671097353526956
+      },
+      {
+        "name": "Refuge du Fourcat",
+        "type": "refuge",
+        "latitude": 42.66505808001458,
+        "longitude": 1.4897157990457102
+      },
+      {
+        "name": "Refuge des étangs de Bassies",
+        "type": "refuge",
+        "latitude": 42.765276164333336,
+        "longitude": 1.4135367912814785
+      },
+      {
+        "name": "Camping Municipal d'Ustou",
+        "type": "bivouac",
+        "latitude": 42.79748386863613,
+        "longitude": 1.262460742629969
+      },
+      {
+        "name": "Gite d'étape d'Esbintz",
+        "type": "refuge",
+        "latitude": 42.8534073033479,
+        "longitude": 1.1457872031786458
+      },
+      {
+        "name": "La Maison du Valier",
+        "type": "refuge",
+        "latitude": 42.83088895487077,
+        "longitude": 1.0325884417810505
+      },
+      {
+        "name": "Gite d'étape d'Eylie",
+        "type": "refuge",
+        "latitude": 42.83432974618264,
+        "longitude": 0.9345508787713033
+      },
+      {
+        "name": "Eco gite la Grange",
+        "type": "refuge",
+        "latitude": 42.87456847265663,
+        "longitude": 0.7349189013496059
+      },
+      {
+        "name": "Hôtel des 2 Nations",
+        "type": "hotel",
+        "latitude": 42.78999529203497,
+        "longitude": 0.5909446406225569
+      },
+      {
+        "name": "Les Granges d'Astau",
+        "type": "refuge",
+        "latitude": 42.76370052837514,
+        "longitude": 0.502297752433065
+      },
+      {
+        "name": "Camping La Mousquère",
+        "type": "bivouac",
+        "latitude": 42.82674532968097,
+        "longitude": 0.3357563361163864
+      },
+      {
+        "name": "Refuge d'Orédon",
+        "type": "refuge",
+        "latitude": 42.82633188883106,
+        "longitude": 0.1682688504103706
+      },
+      {
+        "name": "Hôtel Le Montaigu",
+        "type": "hotel",
+        "latitude": 42.875065813930235,
+        "longitude": -0.0009558064402947345
+      },
+      {
+        "name": "Chalet Refuge du Clôt",
+        "type": "refuge",
+        "latitude": 42.85191837078696,
+        "longitude": -0.14723095948680884
+      },
+      {
+        "name": "Refuge de Larribet",
+        "type": "refuge",
+        "latitude": 42.85820267606245,
+        "longitude": -0.2888320873188138
+      },
+      {
+        "name": "Refuge de Pombie",
+        "type": "refuge",
+        "latitude": 42.83551717348411,
+        "longitude": -0.4269259404272556
+      },
+      {
+        "name": "Auberge de l'Ours",
+        "type": "refuge",
+        "latitude": 42.90791727652784,
+        "longitude": -0.5727746302560275
+      },
+      {
+        "name": "Refuge Jeandel",
+        "type": "refuge",
+        "latitude": 42.9783144011814,
+        "longitude": -0.7493245394919817
+      },
+      {
+        "name": "Chalets d'Iraty",
+        "type": "refuge",
+        "latitude": 43.0387680808334,
+        "longitude": -1.0281077730141346
+      },
+      {
+        "name": "Maison Laurentzenia",
+        "type": "hotel",
+        "latitude": 43.16200523140746,
+        "longitude": -1.237336452471244
+      },
+      {
+        "name": "Logis Hôtel Noblia",
+        "type": "hotel",
+        "latitude": 43.26835508687522,
+        "longitude": -1.3452060422512617
+      },
+      {
+        "name": "Hôtel Lastiry",
+        "type": "hotel",
+        "latitude": 43.312581171188924,
+        "longitude": -1.5808357841459442
+      },
+      {
+        "name": "Logis Hôtel Bergeret Sport",
+        "type": "hotel",
+        "latitude": 43.37133811376096,
+        "longitude": -1.772319547215078
+      }
+    ],
     "descriptionFR": "Description: Work in Progress",
     "lighterPack": "https://lighterpack.com/r/qrfv3d",
     "photo": "P1055290.JPG",

@@ -1042,6 +1042,8 @@
     "fNumber": "f/4.4",
     "focalLength": "20.4 mm",
     "sizeBytes": 5530624,
+    "latitude": 42.8355083368749,
+    "longitude": -0.4268655388730374,
     "multiDayHike": "Traversée des Pyrénées"
   },
   {
@@ -1061,6 +1063,8 @@
     "fNumber": "f/4.7",
     "focalLength": "25.8 mm",
     "sizeBytes": 5987840,
+    "latitude": 42.8355083368749,
+    "longitude": -0.4268655388730374,
     "multiDayHike": "Traversée des Pyrénées"
   },
   {
@@ -1080,6 +1084,8 @@
     "fNumber": "f/4.0",
     "focalLength": "8.8 mm",
     "sizeBytes": 10584576,
+    "latitude": 42.83537351843416,
+    "longitude": -0.4272892948271452,
     "multiDayHike": "Traversée des Pyrénées"
   },
   {
@@ -1531,6 +1537,8 @@
     "fNumber": "f/3.3",
     "focalLength": "8.8 mm",
     "sizeBytes": 10137600,
+    "latitude": 42.82621439720396,
+    "longitude": 0.16831026017411685,
     "multiDayHike": "Traversée des Pyrénées"
   },
   {
@@ -1550,6 +1558,8 @@
     "fNumber": "f/7.1",
     "focalLength": "9.1 mm",
     "sizeBytes": 9192960,
+    "latitude": 42.82621439720396,
+    "longitude": 0.16831026017411685,
     "multiDayHike": "Traversée des Pyrénées"
   },
   {
@@ -2937,6 +2947,8 @@
     "fNumber": "f/3.3",
     "focalLength": "8.8 mm",
     "sizeBytes": 8349696,
+    "latitude": 42.47894613435163,
+    "longitude": 2.9229115355352984,
     "multiDayHike": "Traversée des Pyrénées"
   },
   {
@@ -3046,6 +3058,8 @@
     "fNumber": "f/8.0",
     "focalLength": "66.2 mm",
     "sizeBytes": 9397760,
+    "latitude": 48.92374673672292,
+    "longitude": 2.359196608175763,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3065,6 +3079,8 @@
     "fNumber": "f/8.0",
     "focalLength": "132 mm",
     "sizeBytes": 9798656,
+    "latitude": 48.92374673672292,
+    "longitude": 2.359196608175763,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3084,6 +3100,8 @@
     "fNumber": "f/8.0",
     "focalLength": "132 mm",
     "sizeBytes": 10162176,
+    "latitude": 48.92374673672292,
+    "longitude": 2.359196608175763,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3103,6 +3121,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 9431040,
+    "latitude": 48.92374673672292,
+    "longitude": 2.359196608175763,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3122,6 +3142,8 @@
     "fNumber": "f/7.1",
     "focalLength": "61.4 mm",
     "sizeBytes": 9639424,
+    "latitude": 48.92374673672292,
+    "longitude": 2.359196608175763,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3141,6 +3163,8 @@
     "fNumber": "f/8.0",
     "focalLength": "98.9 mm",
     "sizeBytes": 9609728,
+    "latitude": 48.92374673672292,
+    "longitude": 2.359196608175763,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3160,6 +3184,8 @@
     "fNumber": "f/6.4",
     "focalLength": "111.8 mm",
     "sizeBytes": 9944576,
+    "latitude": 48.92374673672292,
+    "longitude": 2.359196608175763,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3179,6 +3205,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 9614336,
+    "latitude": 48.92374673672292,
+    "longitude": 2.359196608175763,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3198,6 +3226,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 8294912,
+    "latitude": 48.92374673672292,
+    "longitude": 2.359196608175763,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3217,6 +3247,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 8221184,
+    "latitude": 48.92374673672292,
+    "longitude": 2.359196608175763,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3236,6 +3268,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 10636288,
+    "latitude": 48.92374673672292,
+    "longitude": 2.359196608175763,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3255,6 +3289,8 @@
     "fNumber": "f/6.3",
     "focalLength": "91.7 mm",
     "sizeBytes": 9016320,
+    "latitude": 48.92374673672292,
+    "longitude": 2.359196608175763,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3274,6 +3310,8 @@
     "fNumber": "f/4.5",
     "focalLength": "8.8 mm",
     "sizeBytes": 10421760,
+    "latitude": 48.92374673672292,
+    "longitude": 2.359196608175763,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3293,6 +3331,8 @@
     "fNumber": "f/4.0",
     "focalLength": "220 mm",
     "sizeBytes": 5925192,
+    "latitude": 48.75652192792823,
+    "longitude": 2.0412675744507855,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3312,6 +3352,8 @@
     "fNumber": "f/4.0",
     "focalLength": "124.9 mm",
     "sizeBytes": 5829308,
+    "latitude": 48.75433176401092,
+    "longitude": 2.046240404863752,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3478,6 +3520,8 @@
     "fNumber": "f/6.4",
     "focalLength": "111.8 mm",
     "sizeBytes": 8023040,
+    "latitude": 48.925155968929786,
+    "longitude": 2.3612991900581277,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3497,6 +3541,8 @@
     "fNumber": "f/6.4",
     "focalLength": "103.9 mm",
     "sizeBytes": 8116736,
+    "latitude": 48.925155968929786,
+    "longitude": 2.3612991900581277,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3516,6 +3562,8 @@
     "fNumber": "f/3.3",
     "focalLength": "8.8 mm",
     "sizeBytes": 9692160,
+    "latitude": 48.925155968929786,
+    "longitude": 2.3612991900581277,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3535,6 +3583,8 @@
     "fNumber": "f/3.3",
     "focalLength": "8.8 mm",
     "sizeBytes": 9986560,
+    "latitude": 48.925155968929786,
+    "longitude": 2.3612991900581277,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3554,6 +3604,8 @@
     "fNumber": "f/3.5",
     "focalLength": "10.8 mm",
     "sizeBytes": 10523648,
+    "latitude": 48.925155968929786,
+    "longitude": 2.3612991900581277,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3573,6 +3625,8 @@
     "fNumber": "f/3.3",
     "focalLength": "8.8 mm",
     "sizeBytes": 10490368,
+    "latitude": 48.925155968929786,
+    "longitude": 2.3612991900581277,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3592,6 +3646,8 @@
     "fNumber": "f/3.3",
     "focalLength": "8.8 mm",
     "sizeBytes": 10198016,
+    "latitude": 48.925155968929786,
+    "longitude": 2.3612991900581277,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3611,6 +3667,8 @@
     "fNumber": "f/6.4",
     "focalLength": "129.4 mm",
     "sizeBytes": 9866240,
+    "latitude": 48.925155968929786,
+    "longitude": 2.3612991900581277,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3630,6 +3688,8 @@
     "fNumber": "f/6.2",
     "focalLength": "79.1 mm",
     "sizeBytes": 9234432,
+    "latitude": 48.925155968929786,
+    "longitude": 2.3612991900581277,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3649,6 +3709,8 @@
     "fNumber": "f/6.4",
     "focalLength": "117.1 mm",
     "sizeBytes": 10423808,
+    "latitude": 48.925155968929786,
+    "longitude": 2.3612991900581277,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3668,6 +3730,8 @@
     "fNumber": "f/6.4",
     "focalLength": "126 mm",
     "sizeBytes": 10298368,
+    "latitude": 48.925155968929786,
+    "longitude": 2.3612991900581277,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3687,6 +3751,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 7395328,
+    "latitude": 48.925155968929786,
+    "longitude": 2.3612991900581277,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3706,6 +3772,8 @@
     "fNumber": "f/6.0",
     "focalLength": "67.9 mm",
     "sizeBytes": 6103552,
+    "latitude": 48.925155968929786,
+    "longitude": 2.3612991900581277,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3725,6 +3793,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 6805504,
+    "latitude": 48.92518166428968,
+    "longitude": 2.3595978960214063,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3744,6 +3814,8 @@
     "fNumber": "f/6.4",
     "focalLength": "126 mm",
     "sizeBytes": 9624064,
+    "latitude": 48.832388299799966,
+    "longitude": 2.2845620787080314,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3763,6 +3835,8 @@
     "fNumber": "f/4.5",
     "focalLength": "23.1 mm",
     "sizeBytes": 9813504,
+    "latitude": 48.832388299799966,
+    "longitude": 2.2845620787080314,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3782,6 +3856,8 @@
     "fNumber": "f/6.4",
     "focalLength": "131.3 mm",
     "sizeBytes": 9060864,
+    "latitude": 48.832388299799966,
+    "longitude": 2.2845620787080314,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3801,6 +3877,8 @@
     "fNumber": "f/6.4",
     "focalLength": "124.6 mm",
     "sizeBytes": 8687616,
+    "latitude": 48.89547568561348,
+    "longitude": 2.2296057616583163,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3820,6 +3898,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 8769536,
+    "latitude": 48.89547568561348,
+    "longitude": 2.2296057616583163,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3839,6 +3919,8 @@
     "fNumber": "f/5.0",
     "focalLength": "32.8 mm",
     "sizeBytes": 9910784,
+    "latitude": 48.89547568561348,
+    "longitude": 2.2296057616583163,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3858,6 +3940,8 @@
     "fNumber": "f/3.9",
     "focalLength": "14.7 mm",
     "sizeBytes": 8964096,
+    "latitude": 48.89547568561348,
+    "longitude": 2.2296057616583163,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3899,6 +3983,8 @@
     "fNumber": "f/6.4",
     "focalLength": "130.8 mm",
     "sizeBytes": 7963648,
+    "latitude": 48.865472390111435,
+    "longitude": 2.312312237690041,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3918,6 +4004,8 @@
     "fNumber": "f/6.4",
     "focalLength": "131.9 mm",
     "sizeBytes": 7585280,
+    "latitude": 48.865472390111435,
+    "longitude": 2.312312237690041,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3937,6 +4025,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 7570944,
+    "latitude": 48.865472390111435,
+    "longitude": 2.312312237690041,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3956,6 +4046,8 @@
     "fNumber": "f/3.3",
     "focalLength": "8.8 mm",
     "sizeBytes": 10031104,
+    "latitude": 48.865472390111435,
+    "longitude": 2.312312237690041,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3975,6 +4067,8 @@
     "fNumber": "f/3.8",
     "focalLength": "13.7 mm",
     "sizeBytes": 9785856,
+    "latitude": 48.865472390111435,
+    "longitude": 2.312312237690041,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -3994,6 +4088,8 @@
     "fNumber": "f/6.4",
     "focalLength": "129.4 mm",
     "sizeBytes": 8634368,
+    "latitude": 48.865472390111435,
+    "longitude": 2.312312237690041,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4013,6 +4109,8 @@
     "fNumber": "f/6.4",
     "focalLength": "119.3 mm",
     "sizeBytes": 7532032,
+    "latitude": 48.865472390111435,
+    "longitude": 2.312312237690041,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4032,6 +4130,8 @@
     "fNumber": "f/4.7",
     "focalLength": "26.3 mm",
     "sizeBytes": 9956864,
+    "latitude": 48.865472390111435,
+    "longitude": 2.312312237690041,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4073,6 +4173,8 @@
     "fNumber": "f/6.4",
     "focalLength": "127.3 mm",
     "sizeBytes": 10214912,
+    "latitude": 48.92356332189239,
+    "longitude": 2.3547312646750505,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4092,6 +4194,8 @@
     "fNumber": "f/5.4",
     "focalLength": "41 mm",
     "sizeBytes": 10615296,
+    "latitude": 48.92356332189239,
+    "longitude": 2.3547312646750505,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4111,6 +4215,8 @@
     "fNumber": "f/6.1",
     "focalLength": "77.1 mm",
     "sizeBytes": 9981952,
+    "latitude": 48.92356332189239,
+    "longitude": 2.3547312646750505,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4130,6 +4236,8 @@
     "fNumber": "f/6.4",
     "focalLength": "103.9 mm",
     "sizeBytes": 10303488,
+    "latitude": 48.92356332189239,
+    "longitude": 2.3547312646750505,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4149,6 +4257,8 @@
     "fNumber": "f/5.6",
     "focalLength": "47 mm",
     "sizeBytes": 9418752,
+    "latitude": 48.92356332189239,
+    "longitude": 2.3547312646750505,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4168,6 +4278,8 @@
     "fNumber": "f/8.0",
     "focalLength": "131.7 mm",
     "sizeBytes": 10464256,
+    "latitude": 48.856837543051384,
+    "longitude": 2.29725995117698,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4187,6 +4299,8 @@
     "fNumber": "f/7.1",
     "focalLength": "123 mm",
     "sizeBytes": 9789440,
+    "latitude": 48.856837543051384,
+    "longitude": 2.29725995117698,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4206,6 +4320,8 @@
     "fNumber": "f/8.0",
     "focalLength": "117.1 mm",
     "sizeBytes": 10238976,
+    "latitude": 48.856837543051384,
+    "longitude": 2.29725995117698,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4225,6 +4341,8 @@
     "fNumber": "f/6.3",
     "focalLength": "13.4 mm",
     "sizeBytes": 10458112,
+    "latitude": 48.856837543051384,
+    "longitude": 2.29725995117698,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4244,6 +4362,8 @@
     "fNumber": "f/6.4",
     "focalLength": "132 mm",
     "sizeBytes": 9080320,
+    "latitude": 48.85666809536041,
+    "longitude": 2.297045317397361,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4329,6 +4449,8 @@
     "fNumber": "f/4.0",
     "focalLength": "220 mm",
     "sizeBytes": 7868831,
+    "latitude": 48.85848414925889,
+    "longitude": 2.2945421763378984,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4854,6 +4976,8 @@
     "fNumber": "f/5.0",
     "focalLength": "83.9 mm",
     "sizeBytes": 9396031,
+    "latitude": 48.84207521128293,
+    "longitude": 2.32180101182798,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4873,6 +4997,8 @@
     "fNumber": "f/4.0",
     "focalLength": "43.5 mm",
     "sizeBytes": 5125303,
+    "latitude": 48.84207521128293,
+    "longitude": 2.32180101182798,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4892,6 +5018,8 @@
     "fNumber": "f/4.0",
     "focalLength": "43.5 mm",
     "sizeBytes": 5027889,
+    "latitude": 48.84207521128293,
+    "longitude": 2.32180101182798,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4911,6 +5039,8 @@
     "fNumber": "f/4.0",
     "focalLength": "62.4 mm",
     "sizeBytes": 5362409,
+    "latitude": 48.84207521128293,
+    "longitude": 2.32180101182798,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4930,6 +5060,8 @@
     "fNumber": "f/4.0",
     "focalLength": "87.1 mm",
     "sizeBytes": 5788958,
+    "latitude": 48.84207521128293,
+    "longitude": 2.32180101182798,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4949,6 +5081,8 @@
     "fNumber": "f/4.0",
     "focalLength": "87.1 mm",
     "sizeBytes": 4875674,
+    "latitude": 48.84217202153437,
+    "longitude": 2.3221153043341354,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4968,6 +5102,8 @@
     "fNumber": "f/4.0",
     "focalLength": "87.1 mm",
     "sizeBytes": 5212766,
+    "latitude": 48.84217202153437,
+    "longitude": 2.3221153043341354,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -4987,6 +5123,8 @@
     "fNumber": "f/4.0",
     "focalLength": "220 mm",
     "sizeBytes": 8448931,
+    "latitude": 48.842201439838725,
+    "longitude": 2.3221637643381627,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -5006,6 +5144,8 @@
     "fNumber": "f/4.5",
     "focalLength": "132.2 mm",
     "sizeBytes": 8114171,
+    "latitude": 48.842201439838725,
+    "longitude": 2.3221637643381627,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -5025,6 +5165,8 @@
     "fNumber": "f/4.5",
     "focalLength": "101.6 mm",
     "sizeBytes": 6140571,
+    "latitude": 48.842201439838725,
+    "longitude": 2.3221637643381627,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -5044,6 +5186,8 @@
     "fNumber": "f/4.0",
     "focalLength": "52.8 mm",
     "sizeBytes": 9943116,
+    "latitude": 48.842201439838725,
+    "longitude": 2.3221637643381627,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -5063,6 +5207,8 @@
     "fNumber": "f/4.0",
     "focalLength": "135.9 mm",
     "sizeBytes": 8362415,
+    "latitude": 48.842201439838725,
+    "longitude": 2.3221637643381627,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -5082,6 +5228,8 @@
     "fNumber": "f/4.0",
     "focalLength": "17.6 mm",
     "sizeBytes": 5678287,
+    "latitude": 48.842217580067775,
+    "longitude": 2.322127423222391,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -5101,6 +5249,8 @@
     "fNumber": "f/4.5",
     "focalLength": "139.5 mm",
     "sizeBytes": 9228959,
+    "latitude": 48.842217580067775,
+    "longitude": 2.322127423222391,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -5120,6 +5270,8 @@
     "fNumber": "f/4.0",
     "focalLength": "220 mm",
     "sizeBytes": 8075703,
+    "latitude": 48.842217580067775,
+    "longitude": 2.322127423222391,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -5139,6 +5291,8 @@
     "fNumber": "f/4.5",
     "focalLength": "49.5 mm",
     "sizeBytes": 8012625,
+    "latitude": 48.842217580067775,
+    "longitude": 2.322127423222391,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -5158,6 +5312,8 @@
     "fNumber": "f/4.0",
     "focalLength": "220 mm",
     "sizeBytes": 8251123,
+    "latitude": 48.842217580067775,
+    "longitude": 2.322127423222391,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -5177,6 +5333,8 @@
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
     "sizeBytes": 4376720,
+    "latitude": 48.83025475047664,
+    "longitude": 2.289219665438555,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -5196,6 +5354,8 @@
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
     "sizeBytes": 4440409,
+    "latitude": 48.85351572582782,
+    "longitude": 2.3020167112391583,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -5215,6 +5375,8 @@
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
     "sizeBytes": 8547979,
+    "latitude": 48.85351572582782,
+    "longitude": 2.3020167112391583,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {
@@ -5234,6 +5396,8 @@
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
     "sizeBytes": 6211880,
+    "latitude": 48.853208838565585,
+    "longitude": 2.3017831859287634,
     "multiDayHike": "Jeux Olympiques Paris 2024"
   },
   {

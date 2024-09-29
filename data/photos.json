@@ -168,7 +168,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 6679546,
     "latitude": 32.81041589565575,
-    "longitude": -17.04626005142927
+    "longitude": -17.04626005142927,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "PXL_20240925_133318581.MP.jpg",
@@ -188,7 +189,8 @@
     "focalLength": "6.9 mm",
     "sizeBytes": 7687310,
     "latitude": 32.79404106364442,
-    "longitude": -17.03616498860626
+    "longitude": -17.03616498860626,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "PXL_20240925_133303308.MP.jpg",
@@ -208,7 +210,8 @@
     "focalLength": "6.9 mm",
     "sizeBytes": 8542251,
     "latitude": 32.79404106364442,
-    "longitude": -17.03616498860626
+    "longitude": -17.03616498860626,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "PXL_20240925_133150393.MP.jpg",
@@ -228,7 +231,8 @@
     "focalLength": "6.9 mm",
     "sizeBytes": 9830708,
     "latitude": 32.79404106364442,
-    "longitude": -17.03616498860626
+    "longitude": -17.03616498860626,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "PXL_20240925_133118200.MP.jpg",
@@ -248,7 +252,8 @@
     "focalLength": "6.9 mm",
     "sizeBytes": 12728225,
     "latitude": 32.79397667314153,
-    "longitude": -17.036073430517245
+    "longitude": -17.036073430517245,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC09502.JPG",
@@ -266,7 +271,8 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/5.0",
     "focalLength": "10.2 mm",
-    "sizeBytes": 7181562
+    "sizeBytes": 7181562,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC09488.JPG",
@@ -284,7 +290,8 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/4.5",
     "focalLength": "47.9 mm",
-    "sizeBytes": 4797141
+    "sizeBytes": 4797141,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC09391.JPG",
@@ -304,7 +311,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 5246633,
     "latitude": 32.85274635069072,
-    "longitude": -17.093723583966494
+    "longitude": -17.093723583966494,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC09267.JPG",
@@ -324,7 +332,8 @@
     "focalLength": "52.8 mm",
     "sizeBytes": 4998339,
     "latitude": 32.9151030164212,
-    "longitude": -17.1765248849988
+    "longitude": -17.1765248849988,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC09155.JPG",
@@ -344,7 +353,8 @@
     "focalLength": "11 mm",
     "sizeBytes": 7392544,
     "latitude": 32.88290846161544,
-    "longitude": -17.284457562491298
+    "longitude": -17.284457562491298,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC09112.JPG",
@@ -364,7 +374,8 @@
     "focalLength": "51.1 mm",
     "sizeBytes": 6702186,
     "latitude": 32.86718996241689,
-    "longitude": -17.16574039310217
+    "longitude": -17.16574039310217,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC09102.JPG",
@@ -384,7 +395,8 @@
     "focalLength": "32.4 mm",
     "sizeBytes": 6736589,
     "latitude": 32.86750964820385,
-    "longitude": -17.166022025048733
+    "longitude": -17.166022025048733,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC09090.JPG",
@@ -404,7 +416,8 @@
     "focalLength": "28.1 mm",
     "sizeBytes": 6857202,
     "latitude": 32.867568489164114,
-    "longitude": -17.16611959040165
+    "longitude": -17.16611959040165,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC09042.JPG",
@@ -424,7 +437,8 @@
     "focalLength": "174.9 mm",
     "sizeBytes": 9171802,
     "latitude": 32.86239383742213,
-    "longitude": -17.172920582816005
+    "longitude": -17.172920582816005,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08998.JPG",
@@ -444,7 +458,8 @@
     "focalLength": "38 mm",
     "sizeBytes": 6031103,
     "latitude": 32.847978975623846,
-    "longitude": -17.152709970250726
+    "longitude": -17.152709970250726,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08970.JPG",
@@ -462,7 +477,8 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/4.5",
     "focalLength": "8.8 mm",
-    "sizeBytes": 7615036
+    "sizeBytes": 7615036,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08949.JPG",
@@ -480,7 +496,8 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/6.3",
     "focalLength": "11.3 mm",
-    "sizeBytes": 5589826
+    "sizeBytes": 5589826,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08942.JPG",
@@ -498,7 +515,8 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/8.0",
     "focalLength": "22.2 mm",
-    "sizeBytes": 5152484
+    "sizeBytes": 5152484,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08922.JPG",
@@ -516,7 +534,8 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/5.0",
     "focalLength": "15.7 mm",
-    "sizeBytes": 6447803
+    "sizeBytes": 6447803,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08874.JPG",
@@ -536,7 +555,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 9471428,
     "latitude": 32.81437969766557,
-    "longitude": -17.144706090912223
+    "longitude": -17.144706090912223,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08810.JPG",
@@ -556,7 +576,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 7939223,
     "latitude": 32.812283635139465,
-    "longitude": -17.141678212210536
+    "longitude": -17.141678212210536,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08769.JPG",
@@ -576,7 +597,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 9027831,
     "latitude": 32.80780116096139,
-    "longitude": -17.139286352321506
+    "longitude": -17.139286352321506,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08736.JPG",
@@ -596,7 +618,8 @@
     "focalLength": "9.1 mm",
     "sizeBytes": 4382738,
     "latitude": 32.808899441733956,
-    "longitude": -17.12542997673154
+    "longitude": -17.12542997673154,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08673.JPG",
@@ -616,7 +639,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 7151535,
     "latitude": 32.809972912073135,
-    "longitude": -17.131964592263103
+    "longitude": -17.131964592263103,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08639.JPG",
@@ -636,7 +660,8 @@
     "focalLength": "93.9 mm",
     "sizeBytes": 3641155,
     "latitude": 32.810381362214684,
-    "longitude": -17.140106186270714
+    "longitude": -17.140106186270714,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8254.JPG",
@@ -654,7 +679,8 @@
     "exposureTime": "1/200 sec",
     "fNumber": "f/6.2",
     "focalLength": "79.1 mm",
-    "sizeBytes": 5846528
+    "sizeBytes": 5846528,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8245.JPG",
@@ -672,7 +698,8 @@
     "exposureTime": "1/500 sec",
     "fNumber": "f/6.2",
     "focalLength": "79.1 mm",
-    "sizeBytes": 5228544
+    "sizeBytes": 5228544,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8193.JPG",
@@ -690,7 +717,8 @@
     "exposureTime": "0.01 sec",
     "fNumber": "f/5.5",
     "focalLength": "43.1 mm",
-    "sizeBytes": 7174144
+    "sizeBytes": 7174144,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8104.JPG",
@@ -708,7 +736,8 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/4.5",
     "focalLength": "8.8 mm",
-    "sizeBytes": 8602112
+    "sizeBytes": 8602112,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8090.JPG",
@@ -726,7 +755,8 @@
     "exposureTime": "1/400 sec",
     "fNumber": "f/4.3",
     "focalLength": "19.3 mm",
-    "sizeBytes": 8016896
+    "sizeBytes": 8016896,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8065.JPG",
@@ -744,7 +774,8 @@
     "exposureTime": "1/640 sec",
     "fNumber": "f/4.4",
     "focalLength": "20.4 mm",
-    "sizeBytes": 5944832
+    "sizeBytes": 5944832,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8033.JPG",
@@ -762,7 +793,8 @@
     "exposureTime": "1/125 sec",
     "fNumber": "f/5.1",
     "focalLength": "33.4 mm",
-    "sizeBytes": 10043392
+    "sizeBytes": 10043392,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8028.JPG",
@@ -780,7 +812,8 @@
     "exposureTime": "1/80 sec",
     "fNumber": "f/5.1",
     "focalLength": "33.4 mm",
-    "sizeBytes": 9975296
+    "sizeBytes": 9975296,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8021.JPG",
@@ -798,7 +831,8 @@
     "exposureTime": "1/2000 sec",
     "fNumber": "f/8.0",
     "focalLength": "83.1 mm",
-    "sizeBytes": 7317504
+    "sizeBytes": 7317504,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08510.JPG",
@@ -818,7 +852,8 @@
     "focalLength": "47.9 mm",
     "sizeBytes": 7992631,
     "latitude": 32.75587250478566,
-    "longitude": -17.130182767286897
+    "longitude": -17.130182767286897,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08403.JPG",
@@ -838,7 +873,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 8936869,
     "latitude": 32.75782758370042,
-    "longitude": -17.12048666551709
+    "longitude": -17.12048666551709,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08349.JPG",
@@ -858,7 +894,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 9547325,
     "latitude": 32.758933240547776,
-    "longitude": -17.12102897465229
+    "longitude": -17.12102897465229,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08271.JPG",
@@ -878,7 +915,8 @@
     "focalLength": "19.7 mm",
     "sizeBytes": 8899756,
     "latitude": 32.759734969586134,
-    "longitude": -17.122485665604472
+    "longitude": -17.122485665604472,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC08230.JPG",
@@ -898,7 +936,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 9414704,
     "latitude": 32.760029174387455,
-    "longitude": -17.12236387655139
+    "longitude": -17.12236387655139,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07977.JPG",
@@ -918,7 +957,8 @@
     "focalLength": "19.7 mm",
     "sizeBytes": 8069254,
     "latitude": 32.76655649766326,
-    "longitude": -17.129446333274245
+    "longitude": -17.129446333274245,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07969.JPG",
@@ -938,7 +978,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 9533926,
     "latitude": 32.766525987535715,
-    "longitude": -17.129578096792102
+    "longitude": -17.129578096792102,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07938.JPG",
@@ -958,7 +999,8 @@
     "focalLength": "97.5 mm",
     "sizeBytes": 9348294,
     "latitude": 32.76588410139084,
-    "longitude": -17.13305415585637
+    "longitude": -17.13305415585637,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07910.JPG",
@@ -978,7 +1020,8 @@
     "focalLength": "19.7 mm",
     "sizeBytes": 7999420,
     "latitude": 32.76406338438392,
-    "longitude": -17.13122329674661
+    "longitude": -17.13122329674661,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07852.JPG",
@@ -996,7 +1039,8 @@
     "exposureTime": "1/80 sec",
     "fNumber": "f/3.5",
     "focalLength": "21.3 mm",
-    "sizeBytes": 6696675
+    "sizeBytes": 6696675,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07839.JPG",
@@ -1014,7 +1058,8 @@
     "exposureTime": "0.01 sec",
     "fNumber": "f/2.8",
     "focalLength": "12 mm",
-    "sizeBytes": 7417023
+    "sizeBytes": 7417023,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07745.JPG",
@@ -1034,7 +1079,8 @@
     "focalLength": "78.4 mm",
     "sizeBytes": 4040983,
     "latitude": 32.64120714738965,
-    "longitude": -17.239762656390667
+    "longitude": -17.239762656390667,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07725.JPG",
@@ -1054,7 +1100,8 @@
     "focalLength": "101.6 mm",
     "sizeBytes": 5337228,
     "latitude": 32.63873373158276,
-    "longitude": -17.241179114207625
+    "longitude": -17.241179114207625,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07718.JPG",
@@ -1074,7 +1121,8 @@
     "focalLength": "33.5 mm",
     "sizeBytes": 7144289,
     "latitude": 32.63859970495105,
-    "longitude": -17.24127508699894
+    "longitude": -17.24127508699894,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07653.JPG",
@@ -1094,7 +1142,8 @@
     "focalLength": "200.7 mm",
     "sizeBytes": 6157530,
     "latitude": 32.63692139647901,
-    "longitude": -17.240177895873785
+    "longitude": -17.240177895873785,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07607.JPG",
@@ -1114,7 +1163,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 5390036,
     "latitude": 32.61460172943771,
-    "longitude": -17.214197348803282
+    "longitude": -17.214197348803282,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07584.JPG",
@@ -1134,7 +1184,8 @@
     "focalLength": "23.1 mm",
     "sizeBytes": 6788097,
     "latitude": 32.61456568725407,
-    "longitude": -17.214220315217972
+    "longitude": -17.214220315217972,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07553.JPG",
@@ -1154,7 +1205,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 6902019,
     "latitude": 32.61625246144831,
-    "longitude": -17.2134780138731
+    "longitude": -17.2134780138731,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07471.JPG",
@@ -1174,7 +1226,8 @@
     "focalLength": "12.3 mm",
     "sizeBytes": 7326291,
     "latitude": 32.64854969456792,
-    "longitude": -17.150352308526635
+    "longitude": -17.150352308526635,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07436.JPG",
@@ -1194,7 +1247,8 @@
     "focalLength": "97.5 mm",
     "sizeBytes": 6358299,
     "latitude": 32.65110709704459,
-    "longitude": -17.152862856164575
+    "longitude": -17.152862856164575,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07435.JPG",
@@ -1214,7 +1268,8 @@
     "focalLength": "97.5 mm",
     "sizeBytes": 6061871,
     "latitude": 32.65110709704459,
-    "longitude": -17.152862856164575
+    "longitude": -17.152862856164575,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07422.JPG",
@@ -1234,7 +1289,8 @@
     "focalLength": "101.6 mm",
     "sizeBytes": 7140728,
     "latitude": 32.651510098949075,
-    "longitude": -17.153278179466724
+    "longitude": -17.153278179466724,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07403.JPG",
@@ -1254,7 +1310,8 @@
     "focalLength": "43.5 mm",
     "sizeBytes": 8070408,
     "latitude": 32.65226740390062,
-    "longitude": -17.154270764440298
+    "longitude": -17.154270764440298,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07402.JPG",
@@ -1274,7 +1331,8 @@
     "focalLength": "43.5 mm",
     "sizeBytes": 8389407,
     "latitude": 32.65226740390062,
-    "longitude": -17.154270764440298
+    "longitude": -17.154270764440298,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07364.JPG",
@@ -1294,7 +1352,8 @@
     "focalLength": "87.1 mm",
     "sizeBytes": 7415250,
     "latitude": 32.65396281145513,
-    "longitude": -17.155667943879962
+    "longitude": -17.155667943879962,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07359.JPG",
@@ -1314,7 +1373,8 @@
     "focalLength": "70.3 mm",
     "sizeBytes": 8009582,
     "latitude": 32.654676027596,
-    "longitude": -17.156285103410482
+    "longitude": -17.156285103410482,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07316.JPG",
@@ -1334,7 +1394,8 @@
     "focalLength": "52.8 mm",
     "sizeBytes": 8397297,
     "latitude": 32.65589626505971,
-    "longitude": -17.1574221085757
+    "longitude": -17.1574221085757,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07285.JPG",
@@ -1354,7 +1415,8 @@
     "focalLength": "110.1 mm",
     "sizeBytes": 5452117,
     "latitude": 32.65671970322728,
-    "longitude": -17.15826784260571
+    "longitude": -17.15826784260571,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07256.JPG",
@@ -1374,7 +1436,8 @@
     "focalLength": "34.7 mm",
     "sizeBytes": 7431212,
     "latitude": 32.700121365487576,
-    "longitude": -17.13067788630724
+    "longitude": -17.13067788630724,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07225.JPG",
@@ -1394,7 +1457,8 @@
     "focalLength": "67.5 mm",
     "sizeBytes": 6619163,
     "latitude": 32.700490672141314,
-    "longitude": -17.130998242646456
+    "longitude": -17.130998242646456,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07198.JPG",
@@ -1414,7 +1478,8 @@
     "focalLength": "13 mm",
     "sizeBytes": 9471483,
     "latitude": 32.70070315338671,
-    "longitude": -17.131155570968986
+    "longitude": -17.131155570968986,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07163.JPG",
@@ -1434,7 +1499,8 @@
     "focalLength": "34.7 mm",
     "sizeBytes": 7751992,
     "latitude": 32.701590126380324,
-    "longitude": -17.132260808721185
+    "longitude": -17.132260808721185,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07122.JPG",
@@ -1454,7 +1520,8 @@
     "focalLength": "32.4 mm",
     "sizeBytes": 6110204,
     "latitude": 32.702019196003675,
-    "longitude": -17.13332824409008
+    "longitude": -17.13332824409008,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07081.JPG",
@@ -1474,7 +1541,8 @@
     "focalLength": "113.7 mm",
     "sizeBytes": 7155052,
     "latitude": 32.70063165575266,
-    "longitude": -17.132521234452724
+    "longitude": -17.132521234452724,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07057.JPG",
@@ -1494,7 +1562,8 @@
     "focalLength": "17.6 mm",
     "sizeBytes": 6687412,
     "latitude": 32.70049595274031,
-    "longitude": -17.132318979129195
+    "longitude": -17.132318979129195,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07053.JPG",
@@ -1514,7 +1583,8 @@
     "focalLength": "36.7 mm",
     "sizeBytes": 9106635,
     "latitude": 32.70038112066686,
-    "longitude": -17.13206173852086
+    "longitude": -17.13206173852086,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07034.JPG",
@@ -1534,7 +1604,8 @@
     "focalLength": "60.3 mm",
     "sizeBytes": 6337837,
     "latitude": 32.700270898640156,
-    "longitude": -17.132014213129878
+    "longitude": -17.132014213129878,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC07010.JPG",
@@ -1554,7 +1625,8 @@
     "focalLength": "52.8 mm",
     "sizeBytes": 8359325,
     "latitude": 32.69977510906756,
-    "longitude": -17.132293581962585
+    "longitude": -17.132293581962585,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06959.JPG",
@@ -1574,7 +1646,8 @@
     "focalLength": "44.9 mm",
     "sizeBytes": 9999700,
     "latitude": 32.69976354204118,
-    "longitude": -17.132958685979247
+    "longitude": -17.132958685979247,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06942.JPG",
@@ -1594,7 +1667,8 @@
     "focalLength": "15.7 mm",
     "sizeBytes": 6739095,
     "latitude": 32.701048320159316,
-    "longitude": -17.134396685287356
+    "longitude": -17.134396685287356,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06868.JPG",
@@ -1614,7 +1688,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 4642964,
     "latitude": 32.65640596859157,
-    "longitude": -17.004421027377248
+    "longitude": -17.004421027377248,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06865.JPG",
@@ -1634,7 +1709,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 3553203,
     "latitude": 32.65641418285668,
-    "longitude": -17.004447849467397
+    "longitude": -17.004447849467397,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06811.JPG",
@@ -1654,7 +1730,8 @@
     "focalLength": "10 mm",
     "sizeBytes": 4928304,
     "latitude": 32.656503869220614,
-    "longitude": -17.004351373761892
+    "longitude": -17.004351373761892,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06802.JPG",
@@ -1674,7 +1751,8 @@
     "focalLength": "10 mm",
     "sizeBytes": 4078371,
     "latitude": 32.65652474015951,
-    "longitude": -17.004387667402625
+    "longitude": -17.004387667402625,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06719.JPG",
@@ -1692,7 +1770,8 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/4.0",
     "focalLength": "8.8 mm",
-    "sizeBytes": 5097694
+    "sizeBytes": 5097694,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06693.JPG",
@@ -1712,7 +1791,8 @@
     "focalLength": "12.3 mm",
     "sizeBytes": 8817638,
     "latitude": 32.64794535934925,
-    "longitude": -16.975757936015725
+    "longitude": -16.975757936015725,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06688.JPG",
@@ -1732,7 +1812,8 @@
     "focalLength": "15.7 mm",
     "sizeBytes": 9799637,
     "latitude": 32.64803127385676,
-    "longitude": -16.975615611299872
+    "longitude": -16.975615611299872,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06650.JPG",
@@ -1752,7 +1833,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 8574343,
     "latitude": 32.71147549152374,
-    "longitude": -16.963421870023012
+    "longitude": -16.963421870023012,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06631.JPG",
@@ -1772,7 +1854,8 @@
     "focalLength": "18.9 mm",
     "sizeBytes": 8694914,
     "latitude": 32.71035525016487,
-    "longitude": -16.96574466302991
+    "longitude": -16.96574466302991,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06604.JPG",
@@ -1792,7 +1875,8 @@
     "focalLength": "13 mm",
     "sizeBytes": 7036214,
     "latitude": 32.710360530763865,
-    "longitude": -16.96577257476747
+    "longitude": -16.96577257476747,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06594.JPG",
@@ -1812,7 +1896,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 8673250,
     "latitude": 32.71035491488874,
-    "longitude": -16.96577995084226
+    "longitude": -16.96577995084226,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06585.JPG",
@@ -1832,7 +1917,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 7943858,
     "latitude": 32.716125939041376,
-    "longitude": -16.95546107366681
+    "longitude": -16.95546107366681,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06512.JPG",
@@ -1852,7 +1938,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 5100548,
     "latitude": 32.73549551144242,
-    "longitude": -16.928743422031403
+    "longitude": -16.928743422031403,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06418.JPG",
@@ -1872,7 +1959,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 6998327,
     "latitude": 32.73922260850668,
-    "longitude": -16.933560082688928
+    "longitude": -16.933560082688928,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06401.JPG",
@@ -1892,7 +1980,8 @@
     "focalLength": "9.3 mm",
     "sizeBytes": 3562989,
     "latitude": 32.73895639926195,
-    "longitude": -16.933791004121304
+    "longitude": -16.933791004121304,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06374.JPG",
@@ -1912,7 +2001,8 @@
     "focalLength": "44.9 mm",
     "sizeBytes": 3435625,
     "latitude": 32.738478630781174,
-    "longitude": -16.93424630910158
+    "longitude": -16.93424630910158,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06350.JPG",
@@ -1932,7 +2022,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 4613214,
     "latitude": 32.73898749612272,
-    "longitude": -16.935987900942564
+    "longitude": -16.935987900942564,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06241.JPG",
@@ -1952,7 +2043,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 8309480,
     "latitude": 32.73884114809334,
-    "longitude": -16.93543109111488
+    "longitude": -16.93543109111488,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06189.JPG",
@@ -1972,7 +2064,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 5147448,
     "latitude": 32.73847251199186,
-    "longitude": -16.934184953570366
+    "longitude": -16.934184953570366,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06159.JPG",
@@ -1990,7 +2083,8 @@
     "exposureTime": "1/30 sec",
     "fNumber": "f/2.4",
     "focalLength": "8.8 mm",
-    "sizeBytes": 5311872
+    "sizeBytes": 5311872,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC06042.JPG",
@@ -2010,7 +2104,8 @@
     "focalLength": "110.1 mm",
     "sizeBytes": 4981224,
     "latitude": 32.601367961615324,
-    "longitude": -16.87785596586764
+    "longitude": -16.87785596586764,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05993.JPG",
@@ -2030,7 +2125,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 6923353,
     "latitude": 32.596772918477654,
-    "longitude": -16.882830625399947
+    "longitude": -16.882830625399947,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05979.JPG",
@@ -2050,7 +2146,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 6355012,
     "latitude": 32.596558928489685,
-    "longitude": -16.88307110220194
+    "longitude": -16.88307110220194,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05866.JPG",
@@ -2070,7 +2167,8 @@
     "focalLength": "9.5 mm",
     "sizeBytes": 7167420,
     "latitude": 32.600400522351265,
-    "longitude": -16.928000366315246
+    "longitude": -16.928000366315246,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05842.JPG",
@@ -2090,7 +2188,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 5424668,
     "latitude": 32.602760111913085,
-    "longitude": -16.93542673252523
+    "longitude": -16.93542673252523,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05803.JPG",
@@ -2110,7 +2209,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 5134309,
     "latitude": 32.6052668876946,
-    "longitude": -16.94318619556725
+    "longitude": -16.94318619556725,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05793.JPG",
@@ -2130,7 +2230,8 @@
     "focalLength": "15.7 mm",
     "sizeBytes": 7390846,
     "latitude": 32.60584616102278,
-    "longitude": -16.945030968636274
+    "longitude": -16.945030968636274,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05660.JPG",
@@ -2150,7 +2251,8 @@
     "focalLength": "14.2 mm",
     "sizeBytes": 7402546,
     "latitude": 32.64176177792251,
-    "longitude": -16.9810573104769
+    "longitude": -16.9810573104769,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05597.JPG",
@@ -2170,7 +2272,8 @@
     "focalLength": "33.5 mm",
     "sizeBytes": 8221534,
     "latitude": 32.619314705953,
-    "longitude": -16.97729400359094
+    "longitude": -16.97729400359094,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05527.JPG",
@@ -2188,7 +2291,8 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/8.0",
     "focalLength": "105.8 mm",
-    "sizeBytes": 6906705
+    "sizeBytes": 6906705,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05462.JPG",
@@ -2208,7 +2312,8 @@
     "focalLength": "58.3 mm",
     "sizeBytes": 8178300,
     "latitude": 32.67364762723446,
-    "longitude": -16.9037298951298
+    "longitude": -16.9037298951298,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ7988.JPG",
@@ -2226,7 +2331,8 @@
     "exposureTime": "1/400 sec",
     "fNumber": "f/3.3",
     "focalLength": "8.8 mm",
-    "sizeBytes": 9760256
+    "sizeBytes": 9760256,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05408.JPG",
@@ -2246,7 +2352,8 @@
     "focalLength": "58.3 mm",
     "sizeBytes": 4753625,
     "latitude": 32.67304823733866,
-    "longitude": -16.90287577919662
+    "longitude": -16.90287577919662,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05323.JPG",
@@ -2266,7 +2373,8 @@
     "focalLength": "16.9 mm",
     "sizeBytes": 10025249,
     "latitude": 32.67263903282583,
-    "longitude": -16.90418293699622
+    "longitude": -16.90418293699622,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05322.JPG",
@@ -2286,7 +2394,8 @@
     "focalLength": "27.2 mm",
     "sizeBytes": 7935758,
     "latitude": 32.67372088506818,
-    "longitude": -16.902420558035374
+    "longitude": -16.902420558035374,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05282.JPG",
@@ -2306,7 +2415,8 @@
     "focalLength": "151.1 mm",
     "sizeBytes": 8687803,
     "latitude": 32.67460106872022,
-    "longitude": -16.901535764336586
+    "longitude": -16.901535764336586,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05253.JPG",
@@ -2326,7 +2436,8 @@
     "focalLength": "17.6 mm",
     "sizeBytes": 10133929,
     "latitude": 32.674895441159606,
-    "longitude": -16.901369635015726
+    "longitude": -16.901369635015726,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05239.JPG",
@@ -2346,7 +2457,8 @@
     "focalLength": "13.3 mm",
     "sizeBytes": 8201897,
     "latitude": 32.67475630156696,
-    "longitude": -16.901503577828407
+    "longitude": -16.901503577828407,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05213.JPG",
@@ -2366,7 +2478,8 @@
     "focalLength": "13.7 mm",
     "sizeBytes": 8913957,
     "latitude": 32.67564084380865,
-    "longitude": -16.901170313358307
+    "longitude": -16.901170313358307,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05199.JPG",
@@ -2386,7 +2499,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 9299493,
     "latitude": 32.675634725019336,
-    "longitude": -16.900970237329602
+    "longitude": -16.900970237329602,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05111.JPG",
@@ -2406,7 +2520,8 @@
     "focalLength": "113.7 mm",
     "sizeBytes": 8841135,
     "latitude": 32.64870601706207,
-    "longitude": -16.903668958693743
+    "longitude": -16.903668958693743,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05031.JPG",
@@ -2426,7 +2541,8 @@
     "focalLength": "16.9 mm",
     "sizeBytes": 9136613,
     "latitude": 32.64868472702801,
-    "longitude": -16.90419903025031
+    "longitude": -16.90419903025031,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC05005.JPG",
@@ -2446,7 +2562,8 @@
     "focalLength": "42.1 mm",
     "sizeBytes": 7637052,
     "latitude": 32.64868472702801,
-    "longitude": -16.90419903025031
+    "longitude": -16.90419903025031,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ7983.JPG",
@@ -2464,7 +2581,8 @@
     "exposureTime": "1/60 sec",
     "fNumber": "f/3.3",
     "focalLength": "8.8 mm",
-    "sizeBytes": 6685696
+    "sizeBytes": 6685696,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04984.JPG",
@@ -2484,7 +2602,8 @@
     "focalLength": "18.9 mm",
     "sizeBytes": 7267548,
     "latitude": 32.64564670622349,
-    "longitude": -16.87024561688304
+    "longitude": -16.87024561688304,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04959.JPG",
@@ -2504,7 +2623,8 @@
     "focalLength": "43.5 mm",
     "sizeBytes": 7550759,
     "latitude": 32.637224067002535,
-    "longitude": -16.85008571483195
+    "longitude": -16.85008571483195,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04948.JPG",
@@ -2524,7 +2644,8 @@
     "focalLength": "34.7 mm",
     "sizeBytes": 8805521,
     "latitude": 32.63721635565162,
-    "longitude": -16.850090492516756
+    "longitude": -16.850090492516756,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04943.JPG",
@@ -2544,7 +2665,8 @@
     "focalLength": "18.9 mm",
     "sizeBytes": 9291359,
     "latitude": 32.637214343994856,
-    "longitude": -16.85010289773345
+    "longitude": -16.85010289773345,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04916.JPG",
@@ -2564,7 +2686,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 7180290,
     "latitude": 32.638841858133674,
-    "longitude": -16.850951481610537
+    "longitude": -16.850951481610537,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04883.JPG",
@@ -2584,7 +2707,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 8667691,
     "latitude": 32.63919658027589,
-    "longitude": -16.851110570132732
+    "longitude": -16.851110570132732,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04872.JPG",
@@ -2604,7 +2728,8 @@
     "focalLength": "62.4 mm",
     "sizeBytes": 8866913,
     "latitude": 32.77622795663774,
-    "longitude": -16.936395512893796
+    "longitude": -16.936395512893796,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04741.JPG",
@@ -2624,7 +2749,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 8526884,
     "latitude": 32.77954970486462,
-    "longitude": -16.933369729667902
+    "longitude": -16.933369729667902,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04723.JPG",
@@ -2644,7 +2770,8 @@
     "focalLength": "13.7 mm",
     "sizeBytes": 8477133,
     "latitude": 32.77974223718047,
-    "longitude": -16.933008134365082
+    "longitude": -16.933008134365082,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04683.JPG",
@@ -2664,7 +2791,8 @@
     "focalLength": "60.3 mm",
     "sizeBytes": 8499739,
     "latitude": 32.7841442450881,
-    "longitude": -16.92367429845035
+    "longitude": -16.92367429845035,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04624.JPG",
@@ -2684,7 +2812,8 @@
     "focalLength": "33.5 mm",
     "sizeBytes": 9515055,
     "latitude": 32.78295845724642,
-    "longitude": -16.922277621924877
+    "longitude": -16.922277621924877,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04616.JPG",
@@ -2704,7 +2833,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 7238690,
     "latitude": 32.782858880236745,
-    "longitude": -16.92215750925243
+    "longitude": -16.92215750925243,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04543.JPG",
@@ -2724,7 +2854,8 @@
     "focalLength": "12.3 mm",
     "sizeBytes": 6938126,
     "latitude": 32.792740389704704,
-    "longitude": -16.8483302090317
+    "longitude": -16.8483302090317,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04467.JPG",
@@ -2744,7 +2875,8 @@
     "focalLength": "28.1 mm",
     "sizeBytes": 4635872,
     "latitude": 32.79185920022428,
-    "longitude": -16.855139415711164
+    "longitude": -16.855139415711164,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04457.JPG",
@@ -2764,7 +2896,8 @@
     "focalLength": "90.5 mm",
     "sizeBytes": 5044273,
     "latitude": 32.79181226156652,
-    "longitude": -16.855615759268403
+    "longitude": -16.855615759268403,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04406.JPG",
@@ -2784,7 +2917,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 6843791,
     "latitude": 32.79449472203851,
-    "longitude": -16.86258539557457
+    "longitude": -16.86258539557457,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04381.JPG",
@@ -2804,7 +2938,8 @@
     "focalLength": "83.9 mm",
     "sizeBytes": 4810127,
     "latitude": 32.79455306008458,
-    "longitude": -16.862646583467722
+    "longitude": -16.862646583467722,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04341.JPG",
@@ -2824,7 +2959,8 @@
     "focalLength": "28.1 mm",
     "sizeBytes": 7384988,
     "latitude": 32.76398937217891,
-    "longitude": -16.925886115059257
+    "longitude": -16.925886115059257,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04324.JPG",
@@ -2844,7 +2980,8 @@
     "focalLength": "31.3 mm",
     "sizeBytes": 4109975,
     "latitude": 32.76404318399727,
-    "longitude": -16.926114270463586
+    "longitude": -16.926114270463586,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04305.JPG",
@@ -2864,7 +3001,8 @@
     "focalLength": "52.8 mm",
     "sizeBytes": 3622264,
     "latitude": 32.76362526230514,
-    "longitude": -16.926820864900947
+    "longitude": -16.926820864900947,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04299.JPG",
@@ -2884,7 +3022,8 @@
     "focalLength": "26.4 mm",
     "sizeBytes": 6476842,
     "latitude": 32.763453517109156,
-    "longitude": -16.92759501747787
+    "longitude": -16.92759501747787,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04293.JPG",
@@ -2904,7 +3043,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 7579505,
     "latitude": 32.76345167309046,
-    "longitude": -16.92760046571493
+    "longitude": -16.92760046571493,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04283.JPG",
@@ -2924,7 +3064,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 6796874,
     "latitude": 32.76324179023504,
-    "longitude": -16.928146043792367
+    "longitude": -16.928146043792367,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04273.JPG",
@@ -2944,7 +3085,8 @@
     "focalLength": "39.4 mm",
     "sizeBytes": 5161098,
     "latitude": 32.763140704482794,
-    "longitude": -16.928403535857797
+    "longitude": -16.928403535857797,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04255.JPG",
@@ -2964,7 +3106,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 9599273,
     "latitude": 32.760533429682255,
-    "longitude": -16.939003625884652
+    "longitude": -16.939003625884652,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04208.JPG",
@@ -2984,7 +3127,8 @@
     "focalLength": "21.3 mm",
     "sizeBytes": 9777612,
     "latitude": 32.76016395539045,
-    "longitude": -16.940896091982722
+    "longitude": -16.940896091982722,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04138.JPG",
@@ -3004,7 +3148,8 @@
     "focalLength": "73.2 mm",
     "sizeBytes": 4580348,
     "latitude": 32.760117100551724,
-    "longitude": -16.94169237278402
+    "longitude": -16.94169237278402,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04121.JPG",
@@ -3024,7 +3169,8 @@
     "focalLength": "27.2 mm",
     "sizeBytes": 8113289,
     "latitude": 32.76123432442546,
-    "longitude": -16.93535984493792
+    "longitude": -16.93535984493792,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04119.JPG",
@@ -3044,7 +3190,8 @@
     "focalLength": "12.6 mm",
     "sizeBytes": 6098427,
     "latitude": 32.76308127678931,
-    "longitude": -16.932875951752067
+    "longitude": -16.932875951752067,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04076.JPG",
@@ -3064,7 +3211,8 @@
     "focalLength": "12.3 mm",
     "sizeBytes": 5743638,
     "latitude": 32.7640416752547,
-    "longitude": -16.92602852359414
+    "longitude": -16.92602852359414,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04065.JPG",
@@ -3084,7 +3232,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 5350124,
     "latitude": 32.7642628736794,
-    "longitude": -16.92572459578514
+    "longitude": -16.92572459578514,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04043.JPG",
@@ -3104,7 +3253,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 4045494,
     "latitude": 32.76395785622299,
-    "longitude": -16.92324422299862
+    "longitude": -16.92324422299862,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04024.JPG",
@@ -3124,7 +3274,8 @@
     "focalLength": "67.5 mm",
     "sizeBytes": 3775870,
     "latitude": 32.7639571018517,
-    "longitude": -16.92324615083635
+    "longitude": -16.92324615083635,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC04000.JPG",
@@ -3144,7 +3295,8 @@
     "focalLength": "46.4 mm",
     "sizeBytes": 3302955,
     "latitude": 32.76395693421364,
-    "longitude": -16.923246905207634
+    "longitude": -16.923246905207634,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03993.JPG",
@@ -3164,7 +3316,8 @@
     "focalLength": "13 mm",
     "sizeBytes": 3321660,
     "latitude": 32.763956766575575,
-    "longitude": -16.923247072845697
+    "longitude": -16.923247072845697,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03926.JPG",
@@ -3184,7 +3337,8 @@
     "focalLength": "31.3 mm",
     "sizeBytes": 5202737,
     "latitude": 32.740128776058555,
-    "longitude": -16.886504665017128
+    "longitude": -16.886504665017128,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03818.JPG",
@@ -3204,7 +3358,8 @@
     "focalLength": "14.2 mm",
     "sizeBytes": 8057771,
     "latitude": 32.74727862328291,
-    "longitude": -16.82572857476771
+    "longitude": -16.82572857476771,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03791.JPG",
@@ -3222,7 +3377,8 @@
     "exposureTime": "1/500 sec",
     "fNumber": "f/4.0",
     "focalLength": "8.8 mm",
-    "sizeBytes": 5393951
+    "sizeBytes": 5393951,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03773.JPG",
@@ -3242,7 +3398,8 @@
     "focalLength": "220 mm",
     "sizeBytes": 4832994,
     "latitude": 32.77252986095846,
-    "longitude": -16.827937625348568
+    "longitude": -16.827937625348568,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03696.JPG",
@@ -3262,7 +3419,8 @@
     "focalLength": "73.2 mm",
     "sizeBytes": 5246215,
     "latitude": 32.77598354034126,
-    "longitude": -16.82642108760774
+    "longitude": -16.82642108760774,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03680.JPG",
@@ -3282,7 +3440,8 @@
     "focalLength": "58.3 mm",
     "sizeBytes": 7858840,
     "latitude": 32.77595663443208,
-    "longitude": -16.82630566880107
+    "longitude": -16.82630566880107,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03667.JPG",
@@ -3302,7 +3461,8 @@
     "focalLength": "67.5 mm",
     "sizeBytes": 6796367,
     "latitude": 32.77595738880336,
-    "longitude": -16.826297286897898
+    "longitude": -16.826297286897898,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03613.JPG",
@@ -3322,7 +3482,8 @@
     "focalLength": "13 mm",
     "sizeBytes": 5813631,
     "latitude": 32.739339116960764,
-    "longitude": -16.681175278499722
+    "longitude": -16.681175278499722,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03583.JPG",
@@ -3342,7 +3503,8 @@
     "focalLength": "44.9 mm",
     "sizeBytes": 7596105,
     "latitude": 32.739636255428195,
-    "longitude": -16.681252056732774
+    "longitude": -16.681252056732774,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03566.JPG",
@@ -3362,7 +3524,8 @@
     "focalLength": "9.8 mm",
     "sizeBytes": 6970604,
     "latitude": 32.7399417757988,
-    "longitude": -16.681370493024588
+    "longitude": -16.681370493024588,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03519.JPG",
@@ -3382,7 +3545,8 @@
     "focalLength": "8.9 mm",
     "sizeBytes": 7114791,
     "latitude": 32.746581165120006,
-    "longitude": -16.690342565998435
+    "longitude": -16.690342565998435,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03478.JPG",
@@ -3402,7 +3566,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 7728917,
     "latitude": 32.74666339159012,
-    "longitude": -16.690527135506272
+    "longitude": -16.690527135506272,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03447.JPG",
@@ -3422,7 +3587,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 7005547,
     "latitude": 32.747301338240504,
-    "longitude": -16.691179163753986
+    "longitude": -16.691179163753986,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03408.JPG",
@@ -3442,7 +3608,8 @@
     "focalLength": "28.1 mm",
     "sizeBytes": 7688332,
     "latitude": 32.748255701735616,
-    "longitude": -16.69170613400638
+    "longitude": -16.69170613400638,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03270.JPG",
@@ -3462,7 +3629,8 @@
     "focalLength": "13.7 mm",
     "sizeBytes": 9685260,
     "latitude": 32.747900476679206,
-    "longitude": -16.699277088046074
+    "longitude": -16.699277088046074,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03204.JPG",
@@ -3482,7 +3650,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 6573737,
     "latitude": 32.74795143865049,
-    "longitude": -16.700585670769215
+    "longitude": -16.700585670769215,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03174.JPG",
@@ -3502,7 +3671,8 @@
     "focalLength": "11 mm",
     "sizeBytes": 9568965,
     "latitude": 32.74783283472061,
-    "longitude": -16.700641745701432
+    "longitude": -16.700641745701432,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03169.JPG",
@@ -3522,7 +3692,8 @@
     "focalLength": "8.8 mm",
     "sizeBytes": 7815749,
     "latitude": 32.74780777283013,
-    "longitude": -16.700637135654688
+    "longitude": -16.700637135654688,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03026.JPG",
@@ -3542,7 +3713,8 @@
     "focalLength": "12 mm",
     "sizeBytes": 6776552,
     "latitude": 32.751216692849994,
-    "longitude": -16.70832677744329
+    "longitude": -16.70832677744329,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03018.JPG",
@@ -3562,7 +3734,8 @@
     "focalLength": "16.9 mm",
     "sizeBytes": 5521028,
     "latitude": 32.75123613886535,
-    "longitude": -16.708268858492374
+    "longitude": -16.708268858492374,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC03000.JPG",
@@ -3582,7 +3755,8 @@
     "focalLength": "13.7 mm",
     "sizeBytes": 7338850,
     "latitude": 32.751204539090395,
-    "longitude": -16.708368938416243
+    "longitude": -16.708368938416243,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC02986.JPG",
@@ -3602,7 +3776,8 @@
     "focalLength": "8.9 mm",
     "sizeBytes": 6242624,
     "latitude": 32.75123563595116,
-    "longitude": -16.708439011126757
+    "longitude": -16.708439011126757,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC02849.JPG",
@@ -3622,7 +3797,8 @@
     "focalLength": "24.8 mm",
     "sizeBytes": 9983125,
     "latitude": 32.650670148432255,
-    "longitude": -16.83829036541283
+    "longitude": -16.83829036541283,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC02831.JPG",
@@ -3642,7 +3818,8 @@
     "focalLength": "47.9 mm",
     "sizeBytes": 5133793,
     "latitude": 32.650555819272995,
-    "longitude": -16.838453393429518
+    "longitude": -16.838453393429518,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC02800.JPG",
@@ -3662,7 +3839,8 @@
     "focalLength": "12 mm",
     "sizeBytes": 9475323,
     "latitude": 32.65042807906866,
-    "longitude": -16.83856336399913
+    "longitude": -16.83856336399913,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC02785.JPG",
@@ -3682,7 +3860,8 @@
     "focalLength": "15.7 mm",
     "sizeBytes": 9525167,
     "latitude": 32.65036362223327,
-    "longitude": -16.838507037609816
+    "longitude": -16.838507037609816,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC02715.JPG",
@@ -3702,7 +3881,8 @@
     "focalLength": "13 mm",
     "sizeBytes": 9700920,
     "latitude": 32.64992030337453,
-    "longitude": -16.837725089862943
+    "longitude": -16.837725089862943,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC02693.JPG",
@@ -3722,7 +3902,8 @@
     "focalLength": "40.7 mm",
     "sizeBytes": 9469951,
     "latitude": 32.649773536249995,
-    "longitude": -16.837977804243565
+    "longitude": -16.837977804243565,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "DSC02673.JPG",
@@ -3742,7 +3923,8 @@
     "focalLength": "36.7 mm",
     "sizeBytes": 9731378,
     "latitude": 32.64997939579189,
-    "longitude": -16.838247114792466
+    "longitude": -16.838247114792466,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ7867.JPG",
@@ -3760,7 +3942,8 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/5.6",
     "focalLength": "30.6 mm",
-    "sizeBytes": 9740288
+    "sizeBytes": 9740288,
+    "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ7762.JPG",

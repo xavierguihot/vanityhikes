@@ -15,7 +15,9 @@
     "exposureTime": "10001/1000000 sec",
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
-    "sizeBytes": 3123793
+    "sizeBytes": 3123793,
+    "latitude": 38.770254981244854,
+    "longitude": -9.13047972521297
   },
   {
     "name": "PXL_20240927_000317256.MP.jpg",
@@ -33,7 +35,9 @@
     "exposureTime": "8647/500000 sec",
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
-    "sizeBytes": 8469733
+    "sizeBytes": 8469733,
+    "latitude": 38.770254981244854,
+    "longitude": -9.13047972521297
   },
   {
     "name": "PXL_20240926_224049151.MP.jpg",
@@ -51,7 +55,9 @@
     "exposureTime": "19143/500000 sec",
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
-    "sizeBytes": 8149761
+    "sizeBytes": 8149761,
+    "latitude": 38.770254981244854,
+    "longitude": -9.13047972521297
   },
   {
     "name": "DSC09775.JPG",
@@ -69,7 +75,9 @@
     "exposureTime": "1/250 sec",
     "fNumber": "f/4.0",
     "focalLength": "97.5 mm",
-    "sizeBytes": 4927459
+    "sizeBytes": 4927459,
+    "latitude": 32.79393240922022,
+    "longitude": -17.0360074914755
   },
   {
     "name": "DSC09762.JPG",
@@ -87,7 +95,9 @@
     "exposureTime": "1/80 sec",
     "fNumber": "f/3.5",
     "focalLength": "21.3 mm",
-    "sizeBytes": 8244293
+    "sizeBytes": 8244293,
+    "latitude": 32.79399631363006,
+    "longitude": -17.035875476690016
   },
   {
     "name": "DSC09740.JPG",
@@ -105,7 +115,9 @@
     "exposureTime": "1/160 sec",
     "fNumber": "f/4.0",
     "focalLength": "52.8 mm",
-    "sizeBytes": 5654920
+    "sizeBytes": 5654920,
+    "latitude": 32.79391372881492,
+    "longitude": -17.035982365230183
   },
   {
     "name": "DSC09730.JPG",
@@ -123,7 +135,9 @@
     "exposureTime": "0.01 sec",
     "fNumber": "f/3.5",
     "focalLength": "33.5 mm",
-    "sizeBytes": 5830963
+    "sizeBytes": 5830963,
+    "latitude": 32.79391372881492,
+    "longitude": -17.035982365230183
   },
   {
     "name": "DSC09711.JPG",
@@ -141,7 +155,9 @@
     "exposureTime": "0.01 sec",
     "fNumber": "f/3.5",
     "focalLength": "30.5 mm",
-    "sizeBytes": 5560784
+    "sizeBytes": 5560784,
+    "latitude": 32.79391372881492,
+    "longitude": -17.035982365230183
   },
   {
     "name": "DSC09637.JPG",
@@ -176,7 +192,9 @@
     "exposureTime": "6/15625 sec",
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
-    "sizeBytes": 7687310
+    "sizeBytes": 7687310,
+    "latitude": 32.79404106364442,
+    "longitude": -17.03616498860626
   },
   {
     "name": "PXL_20240925_133303308.MP.jpg",
@@ -194,7 +212,9 @@
     "exposureTime": "13/31250 sec",
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
-    "sizeBytes": 8542251
+    "sizeBytes": 8542251,
+    "latitude": 32.79404106364442,
+    "longitude": -17.03616498860626
   },
   {
     "name": "PXL_20240925_133150393.MP.jpg",
@@ -212,7 +232,9 @@
     "exposureTime": "93/250000 sec",
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
-    "sizeBytes": 9830708
+    "sizeBytes": 9830708,
+    "latitude": 32.79404106364442,
+    "longitude": -17.03616498860626
   },
   {
     "name": "PXL_20240925_133118200.MP.jpg",
@@ -230,7 +252,9 @@
     "exposureTime": "617/1000000 sec",
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
-    "sizeBytes": 12728225
+    "sizeBytes": 12728225,
+    "latitude": 32.79397667314153,
+    "longitude": -17.036073430517245
   },
   {
     "name": "DSC09502.JPG",

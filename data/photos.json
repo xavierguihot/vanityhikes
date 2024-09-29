@@ -2,9 +2,6 @@
   {
     "name": "PXL_20240927_040646544.jpg",
     "googleDriveId": "1metpkxxnxiUEg1dRtn0TA6QN7EMl5UI1",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-09-27T05:06:46",
     "timeZone": "+01:00",
@@ -22,9 +19,6 @@
   {
     "name": "PXL_20240927_000317256.MP.jpg",
     "googleDriveId": "1JG4204riClGjzUZFQemslVNLLiMNAm86",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-09-27T01:03:17",
     "timeZone": "+01:00",
@@ -42,9 +36,6 @@
   {
     "name": "PXL_20240926_224049151.MP.jpg",
     "googleDriveId": "1ue_wONC5NjnKMGPd-jN1kgA0zJ2Qc7GS",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2024-09-26T23:40:49",
     "timeZone": "+01:00",
@@ -63,7 +54,7 @@
     "name": "DSC09775.JPG",
     "googleDriveId": "1d3aGADkD7fRQBQyu6pVqvBiJ-u5IG_jk",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-26T11:48:45",
@@ -83,7 +74,7 @@
     "name": "DSC09762.JPG",
     "googleDriveId": "1BnEMrDW8YGVZpV9sBckISXcX-NznTqLb",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-26T10:41:03",
@@ -103,7 +94,7 @@
     "name": "DSC09740.JPG",
     "googleDriveId": "1P2OsgNhORWXH_yetzOtWMpSVXCZ54Ayx",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-26T10:39:00",
@@ -123,7 +114,7 @@
     "name": "DSC09730.JPG",
     "googleDriveId": "1RvZEm4fQrEMNn41qna66GQfgCaXCGtoO",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-26T10:36:47",
@@ -143,7 +134,7 @@
     "name": "DSC09711.JPG",
     "googleDriveId": "1y-6u_cPs8csWLNqlGZ9hd2VcY497uV_c",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-26T10:36:00",
@@ -162,6 +153,9 @@
   {
     "name": "DSC09637.JPG",
     "googleDriveId": "1mL6fiVIrAmWdSDW6iIp25IyQfcV1E2Pp",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-25T14:47:10",
     "timeZone": "+02:00",
@@ -180,7 +174,7 @@
     "name": "PXL_20240925_133318581.MP.jpg",
     "googleDriveId": "1X3Jc0cJOydEBVT2Tio9J_hikcR7t4Sve",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-25T14:33:18",
@@ -200,7 +194,7 @@
     "name": "PXL_20240925_133303308.MP.jpg",
     "googleDriveId": "17ITNVAOo1KPfqtoMdSxEF2gqET7_NlEL",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-25T14:33:03",
@@ -220,7 +214,7 @@
     "name": "PXL_20240925_133150393.MP.jpg",
     "googleDriveId": "1eIgPoZMlCsYcM2tJa84iACXBlHbwY4Kq",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-25T14:31:50",
@@ -240,7 +234,7 @@
     "name": "PXL_20240925_133118200.MP.jpg",
     "googleDriveId": "1lflycE8fPD2Buu31ovlhMbPd7orPdfoJ",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-25T14:31:18",
@@ -296,7 +290,7 @@
     "name": "DSC09391.JPG",
     "googleDriveId": "1A-rwE_zutya_AYu2WonS-U2tD9zLh7kH",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-24T18:02:50",
@@ -308,13 +302,15 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/4.0",
     "focalLength": "8.8 mm",
-    "sizeBytes": 5246633
+    "sizeBytes": 5246633,
+    "latitude": 32.85274635069072,
+    "longitude": -17.093723583966494
   },
   {
     "name": "DSC09267.JPG",
     "googleDriveId": "1AFFU56ZTf8NpTKEkOKAZLmyKMWcW_lnU",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-24T17:36:36",
@@ -326,13 +322,15 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/5.0",
     "focalLength": "52.8 mm",
-    "sizeBytes": 4998339
+    "sizeBytes": 4998339,
+    "latitude": 32.9151030164212,
+    "longitude": -17.1765248849988
   },
   {
     "name": "DSC09155.JPG",
     "googleDriveId": "1FnUsXWG8zKp8pN0dVWlV8LdIrw7U_IKr",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-24T17:07:55",
@@ -344,11 +342,16 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/4.0",
     "focalLength": "11 mm",
-    "sizeBytes": 7392544
+    "sizeBytes": 7392544,
+    "latitude": 32.88290846161544,
+    "longitude": -17.284457562491298
   },
   {
     "name": "DSC09112.JPG",
     "googleDriveId": "1y6x_qn_rPwcewlZof5Tzs7XYFpmH0ad1",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-24T15:23:00",
     "timeZone": "+02:00",
@@ -366,6 +369,9 @@
   {
     "name": "DSC09102.JPG",
     "googleDriveId": "1jaYGiWg5eRzi52oFmUa2NSOddu1gf2IN",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-24T15:22:20",
     "timeZone": "+02:00",
@@ -383,6 +389,9 @@
   {
     "name": "DSC09090.JPG",
     "googleDriveId": "1TJR834wGIxpGM2tnxl-LWsMfBhn0f5wa",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-24T15:22:10",
     "timeZone": "+02:00",
@@ -400,6 +409,9 @@
   {
     "name": "DSC09042.JPG",
     "googleDriveId": "1BhtwVaE77FJHVw92KAZnCycJheLzX5q2",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-24T14:48:23",
     "timeZone": "+02:00",
@@ -417,6 +429,9 @@
   {
     "name": "DSC08998.JPG",
     "googleDriveId": "1T6CVYKg5mSbxE4-Ha9dyiTZff1BS5Jwx",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-24T11:27:46",
     "timeZone": "+02:00",
@@ -506,6 +521,9 @@
   {
     "name": "DSC08874.JPG",
     "googleDriveId": "1OBbA0bg0_3wlNFCId9zMd7SOBzlw-3Qu",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-24T10:47:37",
     "timeZone": "+02:00",
@@ -523,6 +541,9 @@
   {
     "name": "DSC08810.JPG",
     "googleDriveId": "1MXFCFDG_n4kW1lZL0yCiUqI5huW1Lf2f",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-24T10:35:18",
     "timeZone": "+02:00",
@@ -540,6 +561,9 @@
   {
     "name": "DSC08769.JPG",
     "googleDriveId": "1n9U6yPkfJNqrTIE-yMOrHZmj5AmFYHKd",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-24T10:20:29",
     "timeZone": "+02:00",
@@ -557,6 +581,9 @@
   {
     "name": "DSC08736.JPG",
     "googleDriveId": "1k_SzSFoKMSY4LrTesBMEMBwUJwlFgee4",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-24T09:57:05",
     "timeZone": "+02:00",
@@ -574,6 +601,9 @@
   {
     "name": "DSC08673.JPG",
     "googleDriveId": "1W96IHFo4RS8NpoUKZPTo8-YBdN6JCZy2",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-24T09:45:36",
     "timeZone": "+02:00",
@@ -591,6 +621,9 @@
   {
     "name": "DSC08639.JPG",
     "googleDriveId": "15sIiIG0Gms8TxVtiP01Pm9EJCqT7OGC-",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-24T09:30:20",
     "timeZone": "+02:00",
@@ -770,6 +803,9 @@
   {
     "name": "DSC08510.JPG",
     "googleDriveId": "1pOIkyxh_E5I1_yFvDSqeY-h2JH1o63zJ",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-23T14:55:44",
     "timeZone": "+02:00",
@@ -787,6 +823,9 @@
   {
     "name": "DSC08403.JPG",
     "googleDriveId": "14OvaY68FEJ7qYZHlYC6qmfb1DShMZ6ol",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-23T14:35:14",
     "timeZone": "+02:00",
@@ -804,6 +843,9 @@
   {
     "name": "DSC08349.JPG",
     "googleDriveId": "1tp5Hd1yXFi9HBFeYhMxq5GMmMhYr-FlX",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-23T14:24:55",
     "timeZone": "+02:00",
@@ -821,6 +863,9 @@
   {
     "name": "DSC08271.JPG",
     "googleDriveId": "1x3tpXu0L7DosWBKKf2sxZmfndp5TymlF",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-23T14:07:51",
     "timeZone": "+02:00",
@@ -838,6 +883,9 @@
   {
     "name": "DSC08230.JPG",
     "googleDriveId": "1f84ppDShSenSwCnfa8DyosrXSjgHocJy",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-23T14:03:04",
     "timeZone": "+02:00",
@@ -855,6 +903,9 @@
   {
     "name": "DSC07977.JPG",
     "googleDriveId": "1b9yuQHttseD6tG0VAl1p9Wm2BEQf02n1",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-23T11:55:18",
     "timeZone": "+02:00",
@@ -872,6 +923,9 @@
   {
     "name": "DSC07969.JPG",
     "googleDriveId": "11AEIzbvzd1EVOLbCKTl0s1n-fuV6QvdZ",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-23T11:55:05",
     "timeZone": "+02:00",
@@ -889,6 +943,9 @@
   {
     "name": "DSC07938.JPG",
     "googleDriveId": "1cgNVAVuhbFliJspq-RE0WP6GtbREfKxH",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-23T11:33:28",
     "timeZone": "+02:00",
@@ -906,6 +963,9 @@
   {
     "name": "DSC07910.JPG",
     "googleDriveId": "1UteYjQXVSxjRFdOZHxh1YvidG_eWkrEM",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-23T11:19:56",
     "timeZone": "+02:00",
@@ -960,7 +1020,7 @@
     "name": "DSC07745.JPG",
     "googleDriveId": "1tl1cv0Lso8LQzfjw2_-aDQwcWwJnuPRN",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T19:28:16",
@@ -972,13 +1032,15 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/4.0",
     "focalLength": "78.4 mm",
-    "sizeBytes": 4040983
+    "sizeBytes": 4040983,
+    "latitude": 32.64120714738965,
+    "longitude": -17.239762656390667
   },
   {
     "name": "DSC07725.JPG",
     "googleDriveId": "1DW0wFnPtg96TypL6NfSFyowNNaReRBPD",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T19:24:07",
@@ -990,13 +1052,15 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/5.6",
     "focalLength": "101.6 mm",
-    "sizeBytes": 5337228
+    "sizeBytes": 5337228,
+    "latitude": 32.63873373158276,
+    "longitude": -17.241179114207625
   },
   {
     "name": "DSC07718.JPG",
     "googleDriveId": "1MEBKUgQJEmKieLEs4Q9HIioAWZ8BCtRQ",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T19:23:54",
@@ -1008,13 +1072,15 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/4.0",
     "focalLength": "33.5 mm",
-    "sizeBytes": 7144289
+    "sizeBytes": 7144289,
+    "latitude": 32.63859970495105,
+    "longitude": -17.24127508699894
   },
   {
     "name": "DSC07653.JPG",
     "googleDriveId": "1ZF8kUMt0KlBkFVQ22vXlVip0aAHeG-hx",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T19:20:31",
@@ -1026,13 +1092,15 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/4.0",
     "focalLength": "200.7 mm",
-    "sizeBytes": 6157530
+    "sizeBytes": 6157530,
+    "latitude": 32.63692139647901,
+    "longitude": -17.240177895873785
   },
   {
     "name": "DSC07607.JPG",
     "googleDriveId": "1aJ3Akgb-T6YF3UeS74WKD0lp4ATatfHD",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T19:07:51",
@@ -1044,13 +1112,15 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/4.0",
     "focalLength": "8.8 mm",
-    "sizeBytes": 5390036
+    "sizeBytes": 5390036,
+    "latitude": 32.61460172943771,
+    "longitude": -17.214197348803282
   },
   {
     "name": "DSC07584.JPG",
     "googleDriveId": "1MfUBfcLXWRI9f8Vh3wHEiv1yXuuLy1C4",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T19:07:30",
@@ -1062,13 +1132,15 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/4.0",
     "focalLength": "23.1 mm",
-    "sizeBytes": 6788097
+    "sizeBytes": 6788097,
+    "latitude": 32.61456568725407,
+    "longitude": -17.214220315217972
   },
   {
     "name": "DSC07553.JPG",
     "googleDriveId": "1Y4n2Jj4k--a2A5x_Sw9NzJacvtR1p5Ln",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T19:05:02",
@@ -1080,13 +1152,15 @@
     "exposureTime": "1/500 sec",
     "fNumber": "f/4.0",
     "focalLength": "8.8 mm",
-    "sizeBytes": 6902019
+    "sizeBytes": 6902019,
+    "latitude": 32.61625246144831,
+    "longitude": -17.2134780138731
   },
   {
     "name": "DSC07471.JPG",
     "googleDriveId": "14tBz1lliFYeJRJXMmH5cdCLp8sL7IDEj",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T18:21:42",
@@ -1098,13 +1172,15 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/4.5",
     "focalLength": "12.3 mm",
-    "sizeBytes": 7326291
+    "sizeBytes": 7326291,
+    "latitude": 32.64854969456792,
+    "longitude": -17.150352308526635
   },
   {
     "name": "DSC07436.JPG",
     "googleDriveId": "1OvORy91bWynu9wM_vQG_ag5AkqTqa6X2",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T18:17:03",
@@ -1116,13 +1192,15 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/4.0",
     "focalLength": "97.5 mm",
-    "sizeBytes": 6358299
+    "sizeBytes": 6358299,
+    "latitude": 32.65110709704459,
+    "longitude": -17.152862856164575
   },
   {
     "name": "DSC07435.JPG",
     "googleDriveId": "1oSAXM3NAM0xz-C8SndPSoJA1AehSmAcY",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T18:17:03",
@@ -1134,13 +1212,15 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/4.0",
     "focalLength": "97.5 mm",
-    "sizeBytes": 6061871
+    "sizeBytes": 6061871,
+    "latitude": 32.65110709704459,
+    "longitude": -17.152862856164575
   },
   {
     "name": "DSC07422.JPG",
     "googleDriveId": "1nKe3wm8V-Pqs19pOLxOWo5MRJqYrZxz1",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T18:16:22",
@@ -1152,13 +1232,15 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/4.0",
     "focalLength": "101.6 mm",
-    "sizeBytes": 7140728
+    "sizeBytes": 7140728,
+    "latitude": 32.651510098949075,
+    "longitude": -17.153278179466724
   },
   {
     "name": "DSC07403.JPG",
     "googleDriveId": "1Xkg0PXUpSJ3WcIwqBrD_1fj4faQ94h25",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T18:14:58",
@@ -1170,13 +1252,15 @@
     "exposureTime": "1/640 sec",
     "fNumber": "f/4.0",
     "focalLength": "43.5 mm",
-    "sizeBytes": 8070408
+    "sizeBytes": 8070408,
+    "latitude": 32.65226740390062,
+    "longitude": -17.154270764440298
   },
   {
     "name": "DSC07402.JPG",
     "googleDriveId": "1Emw10hqsn-pRQNxXZVFPTU2OIMRN6Mhe",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T18:14:58",
@@ -1188,13 +1272,15 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/4.0",
     "focalLength": "43.5 mm",
-    "sizeBytes": 8389407
+    "sizeBytes": 8389407,
+    "latitude": 32.65226740390062,
+    "longitude": -17.154270764440298
   },
   {
     "name": "DSC07364.JPG",
     "googleDriveId": "1QRskbzHBPjY4NoVTaMxiLeuhk-K4EUW3",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T18:12:28",
@@ -1206,13 +1292,15 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/4.0",
     "focalLength": "87.1 mm",
-    "sizeBytes": 7415250
+    "sizeBytes": 7415250,
+    "latitude": 32.65396281145513,
+    "longitude": -17.155667943879962
   },
   {
     "name": "DSC07359.JPG",
     "googleDriveId": "1-Lb2O6l_rl08VshNr1TU-LsWfXamZDqX",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T18:11:26",
@@ -1224,13 +1312,15 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/4.0",
     "focalLength": "70.3 mm",
-    "sizeBytes": 8009582
+    "sizeBytes": 8009582,
+    "latitude": 32.654676027596,
+    "longitude": -17.156285103410482
   },
   {
     "name": "DSC07316.JPG",
     "googleDriveId": "1ASR-b6JXAVvrZ9AAWGhdnEr8akL5yN2u",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T18:09:27",
@@ -1242,13 +1332,15 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/4.0",
     "focalLength": "52.8 mm",
-    "sizeBytes": 8397297
+    "sizeBytes": 8397297,
+    "latitude": 32.65589626505971,
+    "longitude": -17.1574221085757
   },
   {
     "name": "DSC07285.JPG",
     "googleDriveId": "14x-gWeBekjRwoS3GCuju3lvNJ2Iban6c",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T18:07:18",
@@ -1260,11 +1352,16 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/4.0",
     "focalLength": "110.1 mm",
-    "sizeBytes": 5452117
+    "sizeBytes": 5452117,
+    "latitude": 32.65671970322728,
+    "longitude": -17.15826784260571
   },
   {
     "name": "DSC07256.JPG",
     "googleDriveId": "1Muj6NWkNvIIux0fl78oDEmh_xX5_7APm",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T12:19:44",
     "timeZone": "+02:00",
@@ -1282,6 +1379,9 @@
   {
     "name": "DSC07225.JPG",
     "googleDriveId": "1gSWM17rq88X4EtLJrj0wFn72_OkB_hjn",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T12:16:56",
     "timeZone": "+02:00",
@@ -1299,6 +1399,9 @@
   {
     "name": "DSC07198.JPG",
     "googleDriveId": "18OPH1eo2wQVrJh1kdN5EVnwbm2DTF0wE",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T12:14:36",
     "timeZone": "+02:00",
@@ -1316,6 +1419,9 @@
   {
     "name": "DSC07163.JPG",
     "googleDriveId": "1L_7PXrVH9FLvdKUJaSFrzcu5TjlvFQcw",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T12:10:17",
     "timeZone": "+02:00",
@@ -1333,6 +1439,9 @@
   {
     "name": "DSC07122.JPG",
     "googleDriveId": "1d4NOChJUscsCfOTZ77oadF9_EHBZruER",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T12:07:00",
     "timeZone": "+02:00",
@@ -1350,6 +1459,9 @@
   {
     "name": "DSC07081.JPG",
     "googleDriveId": "1a68APfdaDh2Xbm4RKtSdaVT4sd3XIO-1",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T12:01:53",
     "timeZone": "+02:00",
@@ -1367,6 +1479,9 @@
   {
     "name": "DSC07057.JPG",
     "googleDriveId": "1Ii8bEkOGm76zxtw5SLWR_LQxLgyv-o7N",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T12:00:59",
     "timeZone": "+02:00",
@@ -1384,6 +1499,9 @@
   {
     "name": "DSC07053.JPG",
     "googleDriveId": "1FVgbQjgVie2xG_CfZ14gGvpe5j80kGnk",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T11:59:56",
     "timeZone": "+02:00",
@@ -1401,6 +1519,9 @@
   {
     "name": "DSC07034.JPG",
     "googleDriveId": "106NDOFW01PA3xGI0alOOj7VBLKknZyk4",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T11:59:27",
     "timeZone": "+02:00",
@@ -1418,6 +1539,9 @@
   {
     "name": "DSC07010.JPG",
     "googleDriveId": "1p7KctdW3tVeXy5zSAG0CWeekhA9RgFdk",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T11:57:17",
     "timeZone": "+02:00",
@@ -1435,6 +1559,9 @@
   {
     "name": "DSC06959.JPG",
     "googleDriveId": "1K0BoKhXv_ry9QDehfPgHaWXE2pml54k9",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T11:56:10",
     "timeZone": "+02:00",
@@ -1452,6 +1579,9 @@
   {
     "name": "DSC06942.JPG",
     "googleDriveId": "1p1H-dMGfJjR0hB17yLKv392aCjpbEt7S",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T11:51:30",
     "timeZone": "+02:00",
@@ -1469,6 +1599,9 @@
   {
     "name": "DSC06868.JPG",
     "googleDriveId": "1bm9uMF6TNYzRuCQSwFFkDB8vQtB8h7aP",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T11:03:40",
     "timeZone": "+02:00",
@@ -1486,6 +1619,9 @@
   {
     "name": "DSC06865.JPG",
     "googleDriveId": "1UrzU-XdXV7JLryLZxI_Qel7RJ8LTUWeC",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T11:02:21",
     "timeZone": "+02:00",
@@ -1503,6 +1639,9 @@
   {
     "name": "DSC06811.JPG",
     "googleDriveId": "1AMVw_cHdChBqkzWOldivfrKi39noBzpl",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T10:58:28",
     "timeZone": "+02:00",
@@ -1520,6 +1659,9 @@
   {
     "name": "DSC06802.JPG",
     "googleDriveId": "12TbS6QM37FLQyBgSmdpTS1nQoOQWdxXT",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-22T10:58:13",
     "timeZone": "+02:00",
@@ -1555,6 +1697,9 @@
   {
     "name": "DSC06693.JPG",
     "googleDriveId": "1zGVegxptLKVPJOy4AdJZh3kL4AuS6kGQ",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-21T15:27:57",
     "timeZone": "+02:00",
@@ -1572,6 +1717,9 @@
   {
     "name": "DSC06688.JPG",
     "googleDriveId": "1E0wJRRvYFvOEAhLNKVlcDDw5cAINhvOc",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-21T15:27:43",
     "timeZone": "+02:00",
@@ -1589,6 +1737,9 @@
   {
     "name": "DSC06650.JPG",
     "googleDriveId": "1ec69W7LcszFMCyPIDJcJmAaZtPkdI9F0",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-21T12:00:38",
     "timeZone": "+02:00",
@@ -1606,6 +1757,9 @@
   {
     "name": "DSC06631.JPG",
     "googleDriveId": "11s-vyyV7LGEVCZta3EGKX5uKdjw5BD5t",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-21T11:22:03",
     "timeZone": "+02:00",
@@ -1623,6 +1777,9 @@
   {
     "name": "DSC06604.JPG",
     "googleDriveId": "13rOay3qNA8B-y9thr0Qub_G7BeJssZ83",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-21T11:20:30",
     "timeZone": "+02:00",
@@ -1640,6 +1797,9 @@
   {
     "name": "DSC06594.JPG",
     "googleDriveId": "1YQNIz2cRrtBCjLdK0QJHfHX2f_B1Ydx7",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-21T11:19:57",
     "timeZone": "+02:00",
@@ -1657,6 +1817,9 @@
   {
     "name": "DSC06585.JPG",
     "googleDriveId": "1nHMI-wz9xXf1T0rCjn9DtOCFH1PYKZQZ",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-21T10:41:14",
     "timeZone": "+02:00",
@@ -1674,6 +1837,9 @@
   {
     "name": "DSC06512.JPG",
     "googleDriveId": "1zBb7_PHAQh7I4mzoExv__jGFQJf4xr3T",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-21T09:39:44",
     "timeZone": "+02:00",
@@ -1691,6 +1857,9 @@
   {
     "name": "DSC06418.JPG",
     "googleDriveId": "14VQQaMROAjB50kzreKVRE_rMArSYhdhi",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-21T09:19:12",
     "timeZone": "+02:00",
@@ -1708,6 +1877,9 @@
   {
     "name": "DSC06401.JPG",
     "googleDriveId": "1j5cBGLlYFeNTMcO0MxhFyMm0ZcltYaXa",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-21T09:18:06",
     "timeZone": "+02:00",
@@ -1725,6 +1897,9 @@
   {
     "name": "DSC06374.JPG",
     "googleDriveId": "1RQxsl17CnA-8Erte9rEnHRvO_ymkhT0M",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-21T09:15:08",
     "timeZone": "+02:00",
@@ -1742,6 +1917,9 @@
   {
     "name": "DSC06350.JPG",
     "googleDriveId": "1U7gEWSNDbWKA8lYp1JYRLZH3Grbue1in",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-21T09:11:05",
     "timeZone": "+02:00",
@@ -1759,6 +1937,9 @@
   {
     "name": "DSC06241.JPG",
     "googleDriveId": "1YEadq4D_YIzQx8Ocr3OBpS7YJT5Mba1m",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-21T08:58:21",
     "timeZone": "+02:00",
@@ -1776,6 +1957,9 @@
   {
     "name": "DSC06189.JPG",
     "googleDriveId": "1ohC24XFYXJFh69G1somLuWO4mnQ-MVk7",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-21T08:55:22",
     "timeZone": "+02:00",
@@ -1812,7 +1996,7 @@
     "name": "DSC06042.JPG",
     "googleDriveId": "1nezMtOvhmFiBv70wqxR1EbYNH904qPlh",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-20T20:55:14",
@@ -1824,13 +2008,15 @@
     "exposureTime": "1/640 sec",
     "fNumber": "f/4.0",
     "focalLength": "110.1 mm",
-    "sizeBytes": 4981224
+    "sizeBytes": 4981224,
+    "latitude": 32.601367961615324,
+    "longitude": -16.87785596586764
   },
   {
     "name": "DSC05993.JPG",
     "googleDriveId": "1uJDl_WrqsKhzhKZD7DNVjrCVIf30q8Ht",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-20T20:51:58",
@@ -1842,13 +2028,15 @@
     "exposureTime": "1/250 sec",
     "fNumber": "f/3.5",
     "focalLength": "8.8 mm",
-    "sizeBytes": 6923353
+    "sizeBytes": 6923353,
+    "latitude": 32.596772918477654,
+    "longitude": -16.882830625399947
   },
   {
     "name": "DSC05979.JPG",
     "googleDriveId": "1aBVkMpfI4XNAHjpBfK-jFrTzKW6HJ_Ef",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-20T20:51:49",
@@ -1860,13 +2048,15 @@
     "exposureTime": "1/320 sec",
     "fNumber": "f/4.0",
     "focalLength": "8.8 mm",
-    "sizeBytes": 6355012
+    "sizeBytes": 6355012,
+    "latitude": 32.596558928489685,
+    "longitude": -16.88307110220194
   },
   {
     "name": "DSC05866.JPG",
     "googleDriveId": "1fb6vXMmKLBWiwCLS3-Zjv7vmwGqEqgEO",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-20T20:30:34",
@@ -1878,13 +2068,15 @@
     "exposureTime": "1/400 sec",
     "fNumber": "f/4.0",
     "focalLength": "9.5 mm",
-    "sizeBytes": 7167420
+    "sizeBytes": 7167420,
+    "latitude": 32.600400522351265,
+    "longitude": -16.928000366315246
   },
   {
     "name": "DSC05842.JPG",
     "googleDriveId": "1Xr-fKUHVTjc8DGXLOoF12TGcAxM0Dqov",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-20T20:27:32",
@@ -1896,13 +2088,15 @@
     "exposureTime": "1/250 sec",
     "fNumber": "f/4.0",
     "focalLength": "8.8 mm",
-    "sizeBytes": 5424668
+    "sizeBytes": 5424668,
+    "latitude": 32.602760111913085,
+    "longitude": -16.93542673252523
   },
   {
     "name": "DSC05803.JPG",
     "googleDriveId": "1QbDJFgDC3GhkLqpks20gqTEx-2dNcOoD",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-20T20:24:21",
@@ -1914,13 +2108,15 @@
     "exposureTime": "1/250 sec",
     "fNumber": "f/3.5",
     "focalLength": "8.8 mm",
-    "sizeBytes": 5134309
+    "sizeBytes": 5134309,
+    "latitude": 32.6052668876946,
+    "longitude": -16.94318619556725
   },
   {
     "name": "DSC05793.JPG",
     "googleDriveId": "1fdhwf800taS7_o634pXnrfBM7w5QyzLP",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-20T20:23:33",
@@ -1932,13 +2128,15 @@
     "exposureTime": "1/400 sec",
     "fNumber": "f/4.0",
     "focalLength": "15.7 mm",
-    "sizeBytes": 7390846
+    "sizeBytes": 7390846,
+    "latitude": 32.60584616102278,
+    "longitude": -16.945030968636274
   },
   {
     "name": "DSC05660.JPG",
     "googleDriveId": "1w8dcG7-8unntHCcPjOdL5acDr_PADn2P",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-20T19:59:11",
@@ -1950,13 +2148,15 @@
     "exposureTime": "1/500 sec",
     "fNumber": "f/4.0",
     "focalLength": "14.2 mm",
-    "sizeBytes": 7402546
+    "sizeBytes": 7402546,
+    "latitude": 32.64176177792251,
+    "longitude": -16.9810573104769
   },
   {
     "name": "DSC05597.JPG",
     "googleDriveId": "1lC6jT_Qcfbgl9NpdGs9Pz3qh2JqYVZFi",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-20T19:42:42",
@@ -1968,7 +2168,9 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/4.0",
     "focalLength": "33.5 mm",
-    "sizeBytes": 8221534
+    "sizeBytes": 8221534,
+    "latitude": 32.619314705953,
+    "longitude": -16.97729400359094
   },
   {
     "name": "DSC05527.JPG",
@@ -1991,6 +2193,9 @@
   {
     "name": "DSC05462.JPG",
     "googleDriveId": "1Fkq0D1HqjULW484vTQh1ClzrPjOohRXj",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-20T14:18:08",
     "timeZone": "+02:00",
@@ -2026,6 +2231,9 @@
   {
     "name": "DSC05408.JPG",
     "googleDriveId": "1QU5bpYs-3YrQoH7mXA5Ww9Pvey9v8IzY",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-20T13:30:21",
     "timeZone": "+02:00",
@@ -2043,6 +2251,9 @@
   {
     "name": "DSC05323.JPG",
     "googleDriveId": "1FSNlugOrZiC1KmVNDJocYE-BKWV5kFMP",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-20T13:20:55",
     "timeZone": "+02:00",
@@ -2060,6 +2271,9 @@
   {
     "name": "DSC05322.JPG",
     "googleDriveId": "15VCYbJ5_r-wPHbmFHXWrFDcgzXx103Gf",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-20T13:10:57",
     "timeZone": "+02:00",
@@ -2077,6 +2291,9 @@
   {
     "name": "DSC05282.JPG",
     "googleDriveId": "1BagaxMDH1O6CX9vcXZD9ojyOpMLj91Ec",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-20T13:01:12",
     "timeZone": "+02:00",
@@ -2094,6 +2311,9 @@
   {
     "name": "DSC05253.JPG",
     "googleDriveId": "1Z4CTChlhFzc2YMkScHw2I5blsah0Qmwo",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-20T12:59:16",
     "timeZone": "+02:00",
@@ -2111,6 +2331,9 @@
   {
     "name": "DSC05239.JPG",
     "googleDriveId": "1v8clvDviMXPD16AHc2krTD_DslC6Wlte",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-20T12:58:33",
     "timeZone": "+02:00",
@@ -2128,6 +2351,9 @@
   {
     "name": "DSC05213.JPG",
     "googleDriveId": "18VZc1EimtL69kvWal5sDsVe6Gd22nhNV",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-20T12:42:37",
     "timeZone": "+02:00",
@@ -2145,6 +2371,9 @@
   {
     "name": "DSC05199.JPG",
     "googleDriveId": "1G8dni0PabuQfVo0piPxPh7sRDuO976WY",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-20T12:37:53",
     "timeZone": "+02:00",
@@ -2162,6 +2391,9 @@
   {
     "name": "DSC05111.JPG",
     "googleDriveId": "1H0h9WMS3s-9NRsTh8cnF9KcU7-s8v6Nj",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-20T11:25:26",
     "timeZone": "+02:00",
@@ -2179,6 +2411,9 @@
   {
     "name": "DSC05031.JPG",
     "googleDriveId": "1hAI6sR287XELmdSNP5XC_Xxt09a_zRbE",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-20T11:19:02",
     "timeZone": "+02:00",
@@ -2196,6 +2431,9 @@
   {
     "name": "DSC05005.JPG",
     "googleDriveId": "1G9Obd82ZP9tOMAzwLUqNA24oiafTZZcI",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-20T11:17:45",
     "timeZone": "+02:00",
@@ -2231,6 +2469,9 @@
   {
     "name": "DSC04984.JPG",
     "googleDriveId": "1S5gjmtbMyEqE02JytbPIhapeI-TNxrlq",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-19T15:35:11",
     "timeZone": "+02:00",
@@ -2248,6 +2489,9 @@
   {
     "name": "DSC04959.JPG",
     "googleDriveId": "1yLIFb_BbquCoMsaQli-M1yOwANh2VhGV",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-19T15:09:40",
     "timeZone": "+02:00",
@@ -2265,6 +2509,9 @@
   {
     "name": "DSC04948.JPG",
     "googleDriveId": "1gR61GyDtC5adI-b-P1PABM_W0EeDVqhN",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-19T15:08:50",
     "timeZone": "+02:00",
@@ -2282,6 +2529,9 @@
   {
     "name": "DSC04943.JPG",
     "googleDriveId": "1w6h_GcHfbjcNsyTcOyuImUnVAzTPYmGq",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-19T15:08:47",
     "timeZone": "+02:00",
@@ -2299,6 +2549,9 @@
   {
     "name": "DSC04916.JPG",
     "googleDriveId": "1z8mz2JytbJvupM9E28OdYjyV9DDzYSmM",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-19T15:00:24",
     "timeZone": "+02:00",
@@ -2316,6 +2569,9 @@
   {
     "name": "DSC04883.JPG",
     "googleDriveId": "1ZjtJqJ-j_FQ5ExvBchsQLctXMCfhNbD-",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-19T14:59:17",
     "timeZone": "+02:00",
@@ -2333,6 +2589,9 @@
   {
     "name": "DSC04872.JPG",
     "googleDriveId": "1Il4U-2ETZ_ZD5CFksVu9IzExMKbnN1G1",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-19T11:28:01",
     "timeZone": "+02:00",
@@ -2350,6 +2609,9 @@
   {
     "name": "DSC04741.JPG",
     "googleDriveId": "1vqhz6kMiTr7wJB7j6NXzhTg09hhMOeYH",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-19T11:00:58",
     "timeZone": "+02:00",
@@ -2367,6 +2629,9 @@
   {
     "name": "DSC04723.JPG",
     "googleDriveId": "1jnV6XDSwnD_8azxBWhZCshBJoQfnTIAI",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-19T11:00:20",
     "timeZone": "+02:00",
@@ -2384,6 +2649,9 @@
   {
     "name": "DSC04683.JPG",
     "googleDriveId": "1HSsCuumUceNyeXgUGeS2DcfJb9Av3IDz",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-19T10:33:15",
     "timeZone": "+02:00",
@@ -2401,6 +2669,9 @@
   {
     "name": "DSC04624.JPG",
     "googleDriveId": "1VvTWP5CP-WXI_rtN-GuwcDg_3LaC05zP",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-19T10:28:36",
     "timeZone": "+02:00",
@@ -2418,6 +2689,9 @@
   {
     "name": "DSC04616.JPG",
     "googleDriveId": "1EaOguM1GvGYt3fAXH2AA5dCUAg0XS4nr",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-19T10:28:25",
     "timeZone": "+02:00",
@@ -2435,6 +2709,9 @@
   {
     "name": "DSC04543.JPG",
     "googleDriveId": "173P0LMiw6ysOV5iaYL5mzCFXutPA3JMa",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T15:40:11",
     "timeZone": "+02:00",
@@ -2452,6 +2729,9 @@
   {
     "name": "DSC04467.JPG",
     "googleDriveId": "1b_JDXJU42jhtXBM85MCIQliYkWPd9_RE",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T14:49:40",
     "timeZone": "+02:00",
@@ -2469,6 +2749,9 @@
   {
     "name": "DSC04457.JPG",
     "googleDriveId": "10Kesh4SW1N2TvgGYgDlrjea_D2hwP7QT",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T14:49:01",
     "timeZone": "+02:00",
@@ -2486,6 +2769,9 @@
   {
     "name": "DSC04406.JPG",
     "googleDriveId": "137N7SQqKkylpAD9i_GMJEoMj53JV0haJ",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T14:30:09",
     "timeZone": "+02:00",
@@ -2503,6 +2789,9 @@
   {
     "name": "DSC04381.JPG",
     "googleDriveId": "1igyD5irlGUjDGPOPIO75KmscOs4Rhwjq",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T14:27:03",
     "timeZone": "+02:00",
@@ -2520,6 +2809,9 @@
   {
     "name": "DSC04341.JPG",
     "googleDriveId": "1T_uenVtiGEAyMRfwfcEFTAkc1vjZubSY",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T11:05:03",
     "timeZone": "+02:00",
@@ -2537,6 +2829,9 @@
   {
     "name": "DSC04324.JPG",
     "googleDriveId": "1ousvV3oXtDdFYlH2otUS7_m4nTAIdI2o",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T11:04:10",
     "timeZone": "+02:00",
@@ -2554,6 +2849,9 @@
   {
     "name": "DSC04305.JPG",
     "googleDriveId": "1PQfZjjvxCFEPTawANT3MeXGDtmberQrG",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T11:03:02",
     "timeZone": "+02:00",
@@ -2571,6 +2869,9 @@
   {
     "name": "DSC04299.JPG",
     "googleDriveId": "1uCaNFSb5N3Vigk8wTCYRok4oJ-izeIa1",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T11:01:59",
     "timeZone": "+02:00",
@@ -2588,6 +2889,9 @@
   {
     "name": "DSC04293.JPG",
     "googleDriveId": "1dlY5Vzuz6ImQnfb2oeq30hiOC_81zk6E",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T11:01:55",
     "timeZone": "+02:00",
@@ -2605,6 +2909,9 @@
   {
     "name": "DSC04283.JPG",
     "googleDriveId": "1FLHFY7qnp366Md9OAWxKyg5Y-d2ZYu3m",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T11:00:39",
     "timeZone": "+02:00",
@@ -2622,6 +2929,9 @@
   {
     "name": "DSC04273.JPG",
     "googleDriveId": "11PQPDZ8wwsR07qqNpuQeEj4648EsvphS",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T11:00:03",
     "timeZone": "+02:00",
@@ -2639,6 +2949,9 @@
   {
     "name": "DSC04255.JPG",
     "googleDriveId": "1Dm8jGyCf4qYKkvlHKqTCEhlJUoExZskI",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T10:42:14",
     "timeZone": "+02:00",
@@ -2656,6 +2969,9 @@
   {
     "name": "DSC04208.JPG",
     "googleDriveId": "1KrtXbLrvBDg9EgsQjuwGG36t89gyykxq",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T10:37:20",
     "timeZone": "+02:00",
@@ -2673,6 +2989,9 @@
   {
     "name": "DSC04138.JPG",
     "googleDriveId": "1QM_aLhzuitPtBaNddrpMzPBxLKva1b-c",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T10:03:50",
     "timeZone": "+02:00",
@@ -2690,6 +3009,9 @@
   {
     "name": "DSC04121.JPG",
     "googleDriveId": "1kIlFFtUUN_OkoQsl4VpNSupnMmg7pSGH",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T09:30:14",
     "timeZone": "+02:00",
@@ -2707,6 +3029,9 @@
   {
     "name": "DSC04119.JPG",
     "googleDriveId": "1cDF2-EQuSKFJttFrqhMtilp0dZBTiI0r",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T09:25:07",
     "timeZone": "+02:00",
@@ -2724,6 +3049,9 @@
   {
     "name": "DSC04076.JPG",
     "googleDriveId": "13ygoJfi5a0rwyj0MEenuiPXHfi9uRyzJ",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T09:06:01",
     "timeZone": "+02:00",
@@ -2741,6 +3069,9 @@
   {
     "name": "DSC04065.JPG",
     "googleDriveId": "18vLjmPN02IPgCxdMXIrEOeyGik8X6pwY",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T09:05:05",
     "timeZone": "+02:00",
@@ -2758,6 +3089,9 @@
   {
     "name": "DSC04043.JPG",
     "googleDriveId": "1pY1qf4hv7bLTWk0M9TIZTFsv5oG1bnO4",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T08:55:51",
     "timeZone": "+02:00",
@@ -2775,6 +3109,9 @@
   {
     "name": "DSC04024.JPG",
     "googleDriveId": "1gpPQcU3P-EUUxkR9aJO-945pfws4G1l-",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T08:54:26",
     "timeZone": "+02:00",
@@ -2792,6 +3129,9 @@
   {
     "name": "DSC04000.JPG",
     "googleDriveId": "1HIEe95mHUgLjyM39d0Y92XMc33YYy0GY",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T08:53:24",
     "timeZone": "+02:00",
@@ -2809,6 +3149,9 @@
   {
     "name": "DSC03993.JPG",
     "googleDriveId": "1n-CLP4gRMl48mnLoQxhy5bfp_cPJkQ1S",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-18T08:53:14",
     "timeZone": "+02:00",
@@ -2826,6 +3169,9 @@
   {
     "name": "DSC03926.JPG",
     "googleDriveId": "1jCbayH8gn6Eb4VKyqQ5MyD3QhzD8o1wW",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T18:41:43",
     "timeZone": "+02:00",
@@ -2843,6 +3189,9 @@
   {
     "name": "DSC03818.JPG",
     "googleDriveId": "12LGQoFJLHAEJ8vkXrKGXxJJXgIGo52Kr",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T16:17:44",
     "timeZone": "+02:00",
@@ -2878,6 +3227,9 @@
   {
     "name": "DSC03773.JPG",
     "googleDriveId": "1PX2VqMmtrXP1Le-cK6NHCbdCkUrP0MzF",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T15:26:03",
     "timeZone": "+02:00",
@@ -2895,6 +3247,9 @@
   {
     "name": "DSC03696.JPG",
     "googleDriveId": "1KiFDkIFRfJNY1y0Vc0IVT5YM737jc4Zg",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T15:14:51",
     "timeZone": "+02:00",
@@ -2912,6 +3267,9 @@
   {
     "name": "DSC03680.JPG",
     "googleDriveId": "1mgYNWyGt7oM_KMYEhqbdOKTU_vllhNAc",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T15:14:14",
     "timeZone": "+02:00",
@@ -2929,6 +3287,9 @@
   {
     "name": "DSC03667.JPG",
     "googleDriveId": "1h2rABmclX6j0nf3ZDDzUKOgzMdBPk7bP",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T15:13:42",
     "timeZone": "+02:00",
@@ -2946,6 +3307,9 @@
   {
     "name": "DSC03613.JPG",
     "googleDriveId": "1KbAOpZToQ-HZr1hAZyjsRMp_j5iJERh9",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T11:07:01",
     "timeZone": "+02:00",
@@ -2963,6 +3327,9 @@
   {
     "name": "DSC03583.JPG",
     "googleDriveId": "1mEt_fWqpBv8E8XKmMH0j93LA-DlRPG2x",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T11:05:04",
     "timeZone": "+02:00",
@@ -2980,6 +3347,9 @@
   {
     "name": "DSC03566.JPG",
     "googleDriveId": "1tlC11yYl8fBTAZwPbdi-b5zeCK7wVYyL",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T11:03:35",
     "timeZone": "+02:00",
@@ -2997,6 +3367,9 @@
   {
     "name": "DSC03519.JPG",
     "googleDriveId": "1Xw-5zIsDVn8pqBgN1zfvghZD_Xjmgx7b",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T10:34:20",
     "timeZone": "+02:00",
@@ -3014,6 +3387,9 @@
   {
     "name": "DSC03478.JPG",
     "googleDriveId": "1ka5RYDKcdn-2DXLxCxtkfwniAdxiuxit",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T10:33:27",
     "timeZone": "+02:00",
@@ -3031,6 +3407,9 @@
   {
     "name": "DSC03447.JPG",
     "googleDriveId": "1HLi8ADQODL_ArrW1-MPtCgM0N6V2Bind",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T10:31:28",
     "timeZone": "+02:00",
@@ -3048,6 +3427,9 @@
   {
     "name": "DSC03408.JPG",
     "googleDriveId": "1pryHlCrU_dLl_PFxyL6k-zTZPbDQKK8g",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T10:28:25",
     "timeZone": "+02:00",
@@ -3065,6 +3447,9 @@
   {
     "name": "DSC03270.JPG",
     "googleDriveId": "1vYpNtUxGIwmGtorsH9QJwi-577qb4nRV",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T09:56:59",
     "timeZone": "+02:00",
@@ -3082,6 +3467,9 @@
   {
     "name": "DSC03204.JPG",
     "googleDriveId": "15nnXjpXyOT78PNkcN6GIPAavQxgcVOyT",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T09:45:54",
     "timeZone": "+02:00",
@@ -3099,6 +3487,9 @@
   {
     "name": "DSC03174.JPG",
     "googleDriveId": "1gNEQrziSViD2MLWvzcuU_xs_JSmsZS_X",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T09:45:01",
     "timeZone": "+02:00",
@@ -3116,6 +3507,9 @@
   {
     "name": "DSC03169.JPG",
     "googleDriveId": "1Oil604MAeX5vYJLHvwdznDZZpnr7PH0x",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T09:44:56",
     "timeZone": "+02:00",
@@ -3133,6 +3527,9 @@
   {
     "name": "DSC03026.JPG",
     "googleDriveId": "1ywnmO8TkdDpIF0KHG8GZoX1iGSAenpRF",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T08:51:50",
     "timeZone": "+02:00",
@@ -3150,6 +3547,9 @@
   {
     "name": "DSC03018.JPG",
     "googleDriveId": "1SFt28pGj2kDPBSGz3G_8SbqA99_xepj8",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T08:46:39",
     "timeZone": "+02:00",
@@ -3167,6 +3567,9 @@
   {
     "name": "DSC03000.JPG",
     "googleDriveId": "1q6ECg_Slp8Pm7xdRS0Sav2AZc1Db6h2_",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T08:45:31",
     "timeZone": "+02:00",
@@ -3184,6 +3587,9 @@
   {
     "name": "DSC02986.JPG",
     "googleDriveId": "1PvLZxbYDKVAYPrtErddGAVFzYvleyL7q",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-17T08:41:17",
     "timeZone": "+02:00",
@@ -3201,6 +3607,9 @@
   {
     "name": "DSC02849.JPG",
     "googleDriveId": "1XUsn6joii1NJBZMlmNhRuBEIc15mlwAx",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-16T17:41:32",
     "timeZone": "+02:00",
@@ -3218,6 +3627,9 @@
   {
     "name": "DSC02831.JPG",
     "googleDriveId": "1D89SOs3XpPaKF_269bhMuCdzXMwPmLej",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-16T17:40:05",
     "timeZone": "+02:00",
@@ -3235,6 +3647,9 @@
   {
     "name": "DSC02800.JPG",
     "googleDriveId": "18-tiMJ4jA01LHWTPGMRWmPtyqiT2xS6f",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-16T17:38:28",
     "timeZone": "+02:00",
@@ -3252,6 +3667,9 @@
   {
     "name": "DSC02785.JPG",
     "googleDriveId": "1biPUaVtIZc-xs_kFK9uO0EXZyNC-6zkc",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-16T17:37:58",
     "timeZone": "+02:00",
@@ -3269,6 +3687,9 @@
   {
     "name": "DSC02715.JPG",
     "googleDriveId": "1TDuVcV9X4UktHCJkGrnLVAhk71OwnQ26",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-16T17:23:14",
     "timeZone": "+02:00",
@@ -3286,6 +3707,9 @@
   {
     "name": "DSC02693.JPG",
     "googleDriveId": "1w7BosFZsOkGjKEVpHeHP5xo8pXjK1ABh",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-16T17:20:45",
     "timeZone": "+02:00",
@@ -3303,6 +3727,9 @@
   {
     "name": "DSC02673.JPG",
     "googleDriveId": "12x__Kd2Pvtfhu8DhGUeVr_uiD5INLckA",
+    "tags": [
+      "Madeira"
+    ],
     "description": "",
     "dateTime": "2024-09-16T17:19:54",
     "timeZone": "+02:00",

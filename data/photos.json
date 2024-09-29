@@ -259,7 +259,7 @@
     "name": "DSC09502.JPG",
     "googleDriveId": "1-Gus5w-Hf7PMXVxvK6LlfYs65KOza1zs",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-25T12:18:05",
@@ -280,7 +280,7 @@
     "name": "DSC09488.JPG",
     "googleDriveId": "1J6Dg8zmqbOS2NYurjB--p1UUg9Zc31qE",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-25T12:17:32",
@@ -469,7 +469,7 @@
     "name": "DSC08970.JPG",
     "googleDriveId": "1ljdmRFv-NLoLlGH2aoegnrQ1ogEJTsg8",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-24T11:27:09",
@@ -490,7 +490,7 @@
     "name": "DSC08949.JPG",
     "googleDriveId": "16xujV-WYen-WjwpR1wJBk2kWlAZcfvdL",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-24T11:26:31",
@@ -511,7 +511,7 @@
     "name": "DSC08942.JPG",
     "googleDriveId": "15gZ04gaeRRmm7FowpzMW6MnCQKTyHLG-",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-24T11:26:23",
@@ -532,7 +532,7 @@
     "name": "DSC08922.JPG",
     "googleDriveId": "15SUjAWL4RW1yBGp1Fe_cmWz5p7WHgO3Z",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-24T11:25:07",
@@ -679,7 +679,7 @@
     "name": "P2TZ8254.JPG",
     "googleDriveId": "1muJwNTRycSWCosEnBKJ7dxh4cjCIbQJH",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-23T20:57:16",
@@ -692,13 +692,15 @@
     "fNumber": "f/6.2",
     "focalLength": "79.1 mm",
     "sizeBytes": 5846528,
+    "latitude": 32.738846596330404,
+    "longitude": -17.212943248450756,
     "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8245.JPG",
     "googleDriveId": "1W39ibGixqzjtV84cNQD8iNout7lyPmzK",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-23T20:57:13",
@@ -711,13 +713,15 @@
     "fNumber": "f/6.2",
     "focalLength": "79.1 mm",
     "sizeBytes": 5228544,
+    "latitude": 32.73886922746897,
+    "longitude": -17.212936291471124,
     "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8193.JPG",
     "googleDriveId": "1_b8hTUbjUskwpI49gR41OeorN2ex25T9",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-23T20:55:01",
@@ -730,13 +734,15 @@
     "fNumber": "f/5.5",
     "focalLength": "43.1 mm",
     "sizeBytes": 7174144,
+    "latitude": 32.73910308256745,
+    "longitude": -17.212917432188988,
     "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8104.JPG",
     "googleDriveId": "1jyWg6wSf2Q_1m8eLoTKUKN7gVVqweUsd",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-23T20:53:06",
@@ -749,13 +755,15 @@
     "fNumber": "f/4.5",
     "focalLength": "8.8 mm",
     "sizeBytes": 8602112,
+    "latitude": 32.73908296599984,
+    "longitude": -17.21291265450418,
     "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8090.JPG",
     "googleDriveId": "1qkTDrTZlkuUD9z695ty-ooAxdasE9mho",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-23T20:52:00",
@@ -768,13 +776,15 @@
     "fNumber": "f/4.3",
     "focalLength": "19.3 mm",
     "sizeBytes": 8016896,
+    "latitude": 32.73908765986562,
+    "longitude": -17.21289706416428,
     "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8065.JPG",
     "googleDriveId": "14XfgCxno3btlszom6xKS_88ZZiicKn9W",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-23T20:49:08",
@@ -787,13 +797,15 @@
     "fNumber": "f/4.4",
     "focalLength": "20.4 mm",
     "sizeBytes": 5944832,
+    "latitude": 32.73778603412211,
+    "longitude": -17.212867476046085,
     "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8033.JPG",
     "googleDriveId": "1Uw2qQ0veovwHm_wPIIkVdu9zUJt3e3Wz",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-23T20:47:25",
@@ -806,13 +818,15 @@
     "fNumber": "f/5.1",
     "focalLength": "33.4 mm",
     "sizeBytes": 10043392,
+    "latitude": 32.73705018684268,
+    "longitude": -17.212335309013724,
     "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8028.JPG",
     "googleDriveId": "19JJN3UzK6S0F7fDdG_Nu3CORabDj9M2u",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-23T20:47:18",
@@ -825,13 +839,15 @@
     "fNumber": "f/5.1",
     "focalLength": "33.4 mm",
     "sizeBytes": 9975296,
+    "latitude": 32.73700115270913,
+    "longitude": -17.21229499205947,
     "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ8021.JPG",
     "googleDriveId": "1CG7F7YDt3d1LFEb9SLtJh4u5LDdimjT2",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-23T20:46:57",
@@ -844,6 +860,8 @@
     "fNumber": "f/8.0",
     "focalLength": "83.1 mm",
     "sizeBytes": 7317504,
+    "latitude": 32.736874502152205,
+    "longitude": -17.212113356217742,
     "multiDayHike": "Madeira"
   },
   {
@@ -1039,7 +1057,7 @@
     "name": "DSC07852.JPG",
     "googleDriveId": "1UG370ls91He6Pd8zRg8-SKJlKkFdtP2y",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T20:41:50",
@@ -1060,7 +1078,7 @@
     "name": "DSC07839.JPG",
     "googleDriveId": "16IKhS7BQUMg_mZfJ8M7fwhedFgZulhg7",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T20:40:56",
@@ -1774,7 +1792,7 @@
     "name": "DSC06719.JPG",
     "googleDriveId": "1OsSs2ZTFn81D61jzWQ65Ol_AIfXBQSzH",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-22T10:44:17",
@@ -2089,7 +2107,7 @@
     "name": "DSC06159.JPG",
     "googleDriveId": "1OF0ovo3LUPIOWcSVeN0b6GzIkgi32EbC",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-21T08:42:35",
@@ -2299,7 +2317,7 @@
     "name": "DSC05527.JPG",
     "googleDriveId": "1m8_N8dvquGykaMDVQ0XqmIgLSx1_abpT",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-20T18:38:32",
@@ -2341,7 +2359,7 @@
     "name": "P2TZ7988.JPG",
     "googleDriveId": "1NqCed8_ewflKBZZR6Vup8bIyv2GbF0qn",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-20T13:42:40",
@@ -2593,7 +2611,7 @@
     "name": "P2TZ7983.JPG",
     "googleDriveId": "1LAj-xPurJpt3_dCzk1r29XTFP9isD1hD",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-19T21:19:45",
@@ -3391,7 +3409,7 @@
     "name": "DSC03791.JPG",
     "googleDriveId": "1vObimHfbD_S9lOvH7UPfiDMF2bOYD_7Z",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-17T16:16:52",
@@ -3958,7 +3976,7 @@
     "name": "P2TZ7867.JPG",
     "googleDriveId": "1y-d2-YHRKP4Zrvzc0dWo9hxhLOlv83hD",
     "tags": [
-      ""
+      "Madeira"
     ],
     "description": "",
     "dateTime": "2024-09-16T12:28:05",
@@ -3971,13 +3989,16 @@
     "fNumber": "f/5.6",
     "focalLength": "30.6 mm",
     "sizeBytes": 9740288,
+    "latitude": 32.641349555924535,
+    "longitude": -16.833184445276856,
     "multiDayHike": "Madeira"
   },
   {
     "name": "P2TZ7762.JPG",
     "googleDriveId": "1qvJ_e6axfelishZoQDu1TdEqEThtV8bk",
     "tags": [
-      ""
+      "Ile de France",
+      "Voisins le Bretonneux"
     ],
     "description": "",
     "dateTime": "2024-09-12T17:06:25",
@@ -3989,13 +4010,16 @@
     "exposureTime": "1/125 sec",
     "fNumber": "f/5.9",
     "focalLength": "59.9 mm",
-    "sizeBytes": 9677312
+    "sizeBytes": 9677312,
+    "latitude": 48.75534860417247,
+    "longitude": 2.0341082755476236
   },
   {
     "name": "P2TZ7756.JPG",
     "googleDriveId": "1vXM9Q7bc-50A9aEP1BSnQRGpNb8oZWB_",
     "tags": [
-      ""
+      "Ile de France",
+      "Voisins le Bretonneux"
     ],
     "description": "",
     "dateTime": "2024-09-12T17:06:21",
@@ -4007,7 +4031,9 @@
     "exposureTime": "1/125 sec",
     "fNumber": "f/6.3",
     "focalLength": "87.3 mm",
-    "sizeBytes": 10631168
+    "sizeBytes": 10631168,
+    "latitude": 48.75534240156412,
+    "longitude": 2.0341772586107254
   },
   {
     "name": "P1087737.JPG",

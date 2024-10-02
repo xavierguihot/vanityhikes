@@ -137,57 +137,57 @@
     "locations": [
       {
         "type": "hotel",
-        "name": "Sentido Galosol",
         "latitude": 32.64240515137851,
-        "longitude": -16.83201558172318
+        "longitude": -16.83201558172318,
+        "name": "Sentido Galosol"
       },
       {
         "type": "hotel",
-        "name": "Casa do Ribeiro Frio",
         "latitude": 32.73869461932268,
-        "longitude": -16.887273788333292
+        "longitude": -16.887273788333292,
+        "name": "Casa do Ribeiro Frio"
       },
       {
         "type": "hotel",
-        "name": "Paraíso Resiliente",
         "latitude": 32.78858770260675,
-        "longitude": -16.850778616221362
+        "longitude": -16.850778616221362,
+        "name": "Paraíso Resiliente"
       },
       {
         "type": "hotel",
-        "name": "Turim Santa Maria Hotel",
         "latitude": 32.6511393871532,
-        "longitude": -16.903561965562712
+        "longitude": -16.903561965562712,
+        "name": "Turim Santa Maria Hotel"
       },
       {
         "type": "hotel",
-        "name": "Pestana Fisherman Village",
         "latitude": 32.64858238965891,
-        "longitude": -16.975509688860654
+        "longitude": -16.975509688860654,
+        "name": "Pestana Fisherman Village"
       },
       {
         "type": "hotel",
-        "name": "Hotel Atrio",
         "latitude": 32.74644074879038,
-        "longitude": -17.189595129913947
+        "longitude": -17.189595129913947,
+        "name": "Hotel Atrio"
       },
       {
         "type": "hotel",
-        "name": "Hotel Tarmarplace",
         "latitude": 32.73684212715335,
-        "longitude": -17.209588959821268
+        "longitude": -17.209588959821268,
+        "name": "Hotel Tarmarplace"
       },
       {
         "type": "hotel",
-        "name": "The Jolie Apartments",
         "latitude": 32.86731969317412,
-        "longitude": -17.17062899522403
+        "longitude": -17.17062899522403,
+        "name": "The Jolie Apartments"
       },
       {
         "type": "hotel",
-        "name": "Casa Da Piedade",
         "latitude": 32.79405409731599,
-        "longitude": -17.03591494672125
+        "longitude": -17.03591494672125,
+        "name": "Casa Da Piedade"
       }
     ],
     "descriptionFR": "Description: Work in Progress",

@@ -865,6 +865,27 @@
     "multiDayHike": "Madeira"
   },
   {
+    "name": "IMG_4890.HEIC",
+    "googleDriveId": "1oUNJrF3qKIGbObqXMXYtho74yLAPw4tW",
+    "tags": [
+      "Madeira"
+    ],
+    "description": "",
+    "dateTime": "2024-09-23T19:45:37",
+    "timeZone": "+01:00",
+    "height": 4032,
+    "width": 3024,
+    "cameraMaker": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": "1/4854 sec",
+    "fNumber": "f/1.6",
+    "focalLength": "6 mm",
+    "sizeBytes": 1028566,
+    "latitude": 32.736834939569235,
+    "longitude": -17.21190858632326,
+    "multiDayHike": "Madeira"
+  },
+  {
     "name": "DSC08510.JPG",
     "googleDriveId": "1pOIkyxh_E5I1_yFvDSqeY-h2JH1o63zJ",
     "tags": [
@@ -1789,6 +1810,27 @@
     "multiDayHike": "Madeira"
   },
   {
+    "name": "IMG_4829.HEIC",
+    "googleDriveId": "1BNRNeS69Rji-HwTrB_gsPgE6VpauRqQb",
+    "tags": [
+      "Madeira"
+    ],
+    "description": "",
+    "dateTime": "2024-09-22T10:57:43",
+    "timeZone": "+01:00",
+    "height": 4032,
+    "width": 3024,
+    "cameraMaker": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": "1/670 sec",
+    "fNumber": "f/1.6",
+    "focalLength": "6 mm",
+    "sizeBytes": 1832746,
+    "latitude": 32.69981970079243,
+    "longitude": -17.13225963525474,
+    "multiDayHike": "Madeira"
+  },
+  {
     "name": "DSC06719.JPG",
     "googleDriveId": "1OsSs2ZTFn81D61jzWQ65Ol_AIfXBQSzH",
     "tags": [
@@ -2290,6 +2332,25 @@
     "sizeBytes": 7402546,
     "latitude": 32.64176177792251,
     "longitude": -16.9810573104769,
+    "multiDayHike": "Madeira"
+  },
+  {
+    "name": "IMG_4787.HEIC",
+    "googleDriveId": "1vKySELLdM5DdzHajUm6y0DfMPvr443aY",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-09-20T19:49:29",
+    "timeZone": "+01:00",
+    "height": 3024,
+    "width": 4032,
+    "cameraMaker": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": "1/438 sec",
+    "fNumber": "f/2.4",
+    "focalLength": "1.5 mm",
+    "sizeBytes": 1418986,
     "multiDayHike": "Madeira"
   },
   {

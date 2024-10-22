@@ -1,6 +1,5 @@
 [
   {
-    "name": "Jordan",
     "contiguousHikes": [
       "2024-10-10T08:44:48",
       "2024-10-10T05:18:30",
@@ -63,6 +62,7 @@
     "hide": true
   },
   {
+    "name": "Jordan",
     "contiguousHikes": [
       "2024-10-15T08:48:44",
       "2024-10-15T07:39:11",

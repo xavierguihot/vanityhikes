@@ -193,6 +193,78 @@
         "elevation": 202
       }
     ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 31.7229236702303,
+        "longitude": 35.7944570119301,
+        "name": "Aitch Boutique Hotel"
+      },
+      {
+        "type": "bivouac",
+        "latitude": 29.59625,
+        "longitude": 35.45709
+      },
+      {
+        "type": "bivouac",
+        "latitude": 29.46600,
+        "longitude": 35.48631
+      },
+      {
+        "type": "bivouac",
+        "latitude": 29.39455,
+        "longitude": 35.38308
+      },
+      {
+        "type": "hotel",
+        "latitude": 29.47557,
+        "longitude": 35.39484
+      },
+      {
+        "type": "hotel",
+        "latitude": 29.53203987733502,
+        "longitude": 35.00227693863129,
+        "name": "My Hotel by Trend"
+      },
+      {
+        "type": "bivouac",
+        "latitude": 30.18486,
+        "longitude": 35.29066
+      },
+      {
+        "type": "bivouac",
+        "latitude": 30.25634,
+        "longitude": 35.35506
+      },
+      {
+        "type": "hotel",
+        "latitude": 30.32693337364488,
+        "longitude": 35.473383335843,
+        "name": "Shaqilath Hotel"
+      },
+      {
+        "type": "hotel",
+        "latitude": 30.368722565966845,
+        "longitude": 35.462484361975946,
+        "name": "Seven Wonders Bedouin Camp"
+      },
+      {
+        "type": "hotel",
+        "latitude": 30.6756390752251,
+        "longitude": 35.60939486730757,
+        "name": "Dana Tower Hotel"
+      },
+      {
+        "type": "hotel",
+        "latitude": 31.170935972517572,
+        "longitude": 35.73198189140391,
+        "name": "Mujeb Hotel"
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/89b7dd",
+    "photo": "DSC05763.JPG",
+    "type": "Voyage",
     "hasGpxFile": false,
     "hide": false
   },

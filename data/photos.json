@@ -2,6 +2,9 @@
   {
     "name": "DSC04078.JPG",
     "googleDriveId": "1h_TuDzPj1Z_aYSd9fKz5w68pXlm1i-Vz",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-17T16:12:44",
     "timeZone": "+02:00",
@@ -20,6 +23,9 @@
   {
     "name": "DSC04066.JPG",
     "googleDriveId": "1thyHa-YNGSgOY8GGHu0xVZlTJxbYNa9A",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-17T16:12:27",
     "timeZone": "+02:00",
@@ -38,6 +44,9 @@
   {
     "name": "DSC04058.JPG",
     "googleDriveId": "1woNWSO3T3qnUdGNAQTJG12LL8kbRbnPW",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-17T16:12:03",
     "timeZone": "+02:00",
@@ -56,6 +65,9 @@
   {
     "name": "DSC04021.JPG",
     "googleDriveId": "1kiSspk3yHvQh9_ocRmsOvMskTHXp8_g_",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-17T16:10:04",
     "timeZone": "+02:00",
@@ -74,6 +86,9 @@
   {
     "name": "DSC03992.JPG",
     "googleDriveId": "1-XuqJttTMozYZruH9aUkF9H3xh3xoI5n",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-17T16:08:55",
     "timeZone": "+02:00",
@@ -92,6 +107,9 @@
   {
     "name": "DSC03978.JPG",
     "googleDriveId": "1m0zWwDDJriMUtH2TJ7yHn1RUiWtl4S1q",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-17T16:08:37",
     "timeZone": "+02:00",
@@ -110,6 +128,9 @@
   {
     "name": "DSC03876.JPG",
     "googleDriveId": "15rNFl_BIxDgzUhmyMczYACnh0tP2KrNr",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-17T14:11:53",
     "timeZone": "+02:00",
@@ -261,6 +282,9 @@
   {
     "name": "DSC03031.JPG",
     "googleDriveId": "1cVUkZCCJVgqPoGigJWXYAsLJvZhcEec4",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-16T16:10:33",
     "timeZone": "+02:00",
@@ -296,7 +320,7 @@
     "name": "P2TZ0049.JPG",
     "googleDriveId": "1aEWrxcBQVh4skfqbAx6I7hxDaL-0WIF3",
     "tags": [
-      ""
+      "Jordan"
     ],
     "description": "",
     "dateTime": "2024-10-16T13:46:14",
@@ -309,13 +333,15 @@
     "fNumber": "f/5.1",
     "focalLength": "34.1 mm",
     "sizeBytes": 10472448,
+    "latitude": 31.30028335377574,
+    "longitude": 35.62411450780928,
     "multiDayHike": "Jordan"
   },
   {
     "name": "P2TZ0031.JPG",
     "googleDriveId": "1VRCYrSs3FA1uNJ1ZyYrfJQIfiRMsjML1",
     "tags": [
-      ""
+      "Jordan"
     ],
     "description": "",
     "dateTime": "2024-10-16T13:41:00",
@@ -328,13 +354,15 @@
     "fNumber": "f/4.4",
     "focalLength": "20.4 mm",
     "sizeBytes": 10527744,
+    "latitude": 31.300466414541006,
+    "longitude": 35.6212520878762,
     "multiDayHike": "Jordan"
   },
   {
     "name": "P2TZ9976.JPG",
     "googleDriveId": "1r__LN2vomznFU8sZh7XFLPBLNcFRtZiO",
     "tags": [
-      ""
+      "Jordan"
     ],
     "description": "",
     "dateTime": "2024-10-16T13:33:04",
@@ -347,13 +375,15 @@
     "fNumber": "f/3.8",
     "focalLength": "14 mm",
     "sizeBytes": 10884096,
+    "latitude": 31.30028335377574,
+    "longitude": 35.61786496080458,
     "multiDayHike": "Jordan"
   },
   {
     "name": "P2TZ9956.JPG",
     "googleDriveId": "1RUBppUWpbuDTPNr-LN1odaq9urDCsuzR",
     "tags": [
-      ""
+      "Jordan"
     ],
     "description": "",
     "dateTime": "2024-10-16T13:24:51",
@@ -366,13 +396,15 @@
     "fNumber": "f/6.3",
     "focalLength": "91.7 mm",
     "sizeBytes": 8473088,
+    "latitude": 31.300266589969397,
+    "longitude": 35.61482601799071,
     "multiDayHike": "Jordan"
   },
   {
     "name": "P2TZ9904.JPG",
     "googleDriveId": "1aP1vUYJxcjy-uer8_X6Vx9wTAT_mtjIq",
     "tags": [
-      ""
+      "Jordan"
     ],
     "description": "",
     "dateTime": "2024-10-16T13:09:46",
@@ -385,13 +417,15 @@
     "fNumber": "f/6.4",
     "focalLength": "119.3 mm",
     "sizeBytes": 10485248,
+    "latitude": 31.30050228908658,
+    "longitude": 35.61141215264797,
     "multiDayHike": "Jordan"
   },
   {
     "name": "P2TZ9873.JPG",
     "googleDriveId": "1vV1VRRQYFyOzYZspbvF5WIhdKmG-1PWR",
     "tags": [
-      ""
+      "Jordan"
     ],
     "description": "",
     "dateTime": "2024-10-16T13:08:42",
@@ -404,11 +438,16 @@
     "fNumber": "f/6.3",
     "focalLength": "22 mm",
     "sizeBytes": 11153408,
+    "latitude": 31.300457194447517,
+    "longitude": 35.6114537268877,
     "multiDayHike": "Jordan"
   },
   {
     "name": "P2TZ9784.JPG",
     "googleDriveId": "1kXhuCQnAid5MTLyH91ECdulF1AvxvC85",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-16T12:01:23",
     "timeZone": "+01:00",
@@ -420,11 +459,16 @@
     "fNumber": "f/3.8",
     "focalLength": "13.4 mm",
     "sizeBytes": 10735616,
+    "latitude": 31.300161480903625,
+    "longitude": 35.618637101724744,
     "multiDayHike": "Jordan"
   },
   {
     "name": "P2TZ9595.JPG",
     "googleDriveId": "19bB1rApU6HdBjsNTzMUszrI2Hmyhp69x",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-16T11:44:33",
     "timeZone": "+01:00",
@@ -436,6 +480,8 @@
     "fNumber": "f/4.5",
     "focalLength": "23.1 mm",
     "sizeBytes": 10692096,
+    "latitude": 31.300212191417813,
+    "longitude": 35.622804248705506,
     "multiDayHike": "Jordan"
   },
   {
@@ -498,6 +544,9 @@
   {
     "name": "DSC02773.JPG",
     "googleDriveId": "1fdCJpNvVHBvGWgsVxg94DU6wMgMjZ_S8",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T16:08:58",
     "timeZone": "+02:00",
@@ -516,6 +565,9 @@
   {
     "name": "DSC02733.JPG",
     "googleDriveId": "1ZAflXf5K--5r7pGqOB2MGO36OH3fq9mR",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T16:02:01",
     "timeZone": "+02:00",
@@ -534,6 +586,9 @@
   {
     "name": "DSC02706.JPG",
     "googleDriveId": "17dFaYTvGI1qmDKahyQ6FDiH_Fot4Stoa",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T15:36:17",
     "timeZone": "+02:00",
@@ -552,6 +607,9 @@
   {
     "name": "DSC02635.JPG",
     "googleDriveId": "1wZMJ_whRhf15KPigiKcOCxUdHsTKdR-f",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T13:08:09",
     "timeZone": "+02:00",
@@ -570,6 +628,9 @@
   {
     "name": "DSC02538.JPG",
     "googleDriveId": "1YMTnJ1m--MN4O9oZXjmFYlLkmaBGnq0U",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T10:51:21",
     "timeZone": "+02:00",
@@ -588,6 +649,9 @@
   {
     "name": "P2TZ9490.JPG",
     "googleDriveId": "1uLMs1dAjSRCNJAX0CuSlWUsrsGRgQjLt",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T10:23:52",
     "timeZone": "+01:00",
@@ -599,11 +663,16 @@
     "fNumber": "f/6.4",
     "focalLength": "109.7 mm",
     "sizeBytes": 9638400,
+    "latitude": 30.337787233293056,
+    "longitude": 35.43042305856943,
     "multiDayHike": "Jordan"
   },
   {
     "name": "DSC02417.JPG",
     "googleDriveId": "1kKf5a_qeZgSdoGNIlNDzhYq0BO5sSRlU",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T10:09:39",
     "timeZone": "+02:00",
@@ -622,6 +691,9 @@
   {
     "name": "DSC02402.JPG",
     "googleDriveId": "1ToZWzGMjt3Gpvbrng6LYLVgQgy_PIiDr",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T10:01:27",
     "timeZone": "+02:00",
@@ -640,6 +712,9 @@
   {
     "name": "DSC02343.JPG",
     "googleDriveId": "196PrXLzAsD-KrViLh7t9-UzkY-Qq2AsI",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T09:53:15",
     "timeZone": "+02:00",
@@ -658,6 +733,9 @@
   {
     "name": "DSC02341.JPG",
     "googleDriveId": "1tB2Amzpyr8G8GJQjZBIRpc9FCLzw6mq1",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T09:53:08",
     "timeZone": "+02:00",
@@ -676,6 +754,9 @@
   {
     "name": "DSC02323.JPG",
     "googleDriveId": "1KNMTlSMsMTKcbaX9rh7msAmOVrAk12SN",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T09:44:39",
     "timeZone": "+02:00",
@@ -694,6 +775,9 @@
   {
     "name": "DSC02308.JPG",
     "googleDriveId": "16CI0P2h1zrNVCTkdTg6wnq9X1EPZ0IiS",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T09:42:47",
     "timeZone": "+02:00",
@@ -712,6 +796,9 @@
   {
     "name": "DSC02294.JPG",
     "googleDriveId": "1zV5p1wRPB4lhULgK293t1H8Qv4ESlWF0",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T09:42:01",
     "timeZone": "+02:00",
@@ -730,6 +817,9 @@
   {
     "name": "DSC02290.JPG",
     "googleDriveId": "1iGR4MGDRx5IWhR2fnT41ikPqIYZZYUOs",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T09:37:31",
     "timeZone": "+02:00",
@@ -748,6 +838,9 @@
   {
     "name": "DSC02117.JPG",
     "googleDriveId": "19kQQtEVlhrPHoKQdjTQ5AxuBTv6VYRr2",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T08:10:09",
     "timeZone": "+02:00",
@@ -766,6 +859,9 @@
   {
     "name": "DSC02115.JPG",
     "googleDriveId": "1A5tHGGOCsrUa6CQXvLifOVkEwT8Fbhe5",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-15T08:10:05",
     "timeZone": "+02:00",
@@ -822,6 +918,9 @@
   {
     "name": "DSC02017.JPG",
     "googleDriveId": "1fId1QZJrN-OgzsSZtWidwIIvCwUCXSeW",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T15:26:16",
     "timeZone": "+02:00",
@@ -840,6 +939,9 @@
   {
     "name": "DSC02015.JPG",
     "googleDriveId": "1sG-OYxGRH7dO51N8J3jnptduKW75WjCq",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T15:14:49",
     "timeZone": "+02:00",
@@ -858,6 +960,9 @@
   {
     "name": "DSC02001.JPG",
     "googleDriveId": "1wgtV1dOTtTfa6Pqn5BysvTTx_h8gJZRG",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T15:10:18",
     "timeZone": "+02:00",
@@ -876,6 +981,9 @@
   {
     "name": "DSC01977.JPG",
     "googleDriveId": "1yrLTEytGLkTWLvUmARGyKgEgMM1t29KS",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T15:06:27",
     "timeZone": "+02:00",
@@ -894,6 +1002,9 @@
   {
     "name": "DSC01969.JPG",
     "googleDriveId": "1tZvrSxK2kUg2-eLj72dnxe7kdmNi4997",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T15:05:57",
     "timeZone": "+02:00",
@@ -912,6 +1023,9 @@
   {
     "name": "DSC01935.JPG",
     "googleDriveId": "1-CIZgDvx7Byb0rD2utKMKpon0_OA_Z6Q",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T14:29:48",
     "timeZone": "+02:00",
@@ -930,6 +1044,9 @@
   {
     "name": "DSC01866.JPG",
     "googleDriveId": "1MH-1PgsNaipUTDZt-g6lVqUJ07PeRJS7",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T12:51:18",
     "timeZone": "+02:00",
@@ -948,6 +1065,9 @@
   {
     "name": "DSC01831.JPG",
     "googleDriveId": "1o3wjTvDodewW6XCZZ71-5yP7sLmak3hT",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T12:50:14",
     "timeZone": "+02:00",
@@ -966,6 +1086,9 @@
   {
     "name": "DSC01823.JPG",
     "googleDriveId": "1_0eVlBFOuNL6TelILn669xobCfw453r1",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T12:50:02",
     "timeZone": "+02:00",
@@ -984,6 +1107,9 @@
   {
     "name": "DSC01675.JPG",
     "googleDriveId": "1zDt4Z3Tz6waKO6QBU1mBzzdYViiJsRFW",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T11:11:31",
     "timeZone": "+02:00",
@@ -1002,6 +1128,9 @@
   {
     "name": "DSC01604.JPG",
     "googleDriveId": "188HLdL5WKG5qv1zAdr5foZib5H13x-QH",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T11:04:37",
     "timeZone": "+02:00",
@@ -1020,6 +1149,9 @@
   {
     "name": "DSC01576.JPG",
     "googleDriveId": "1x5j0nBQNr5PaiaZ1yR01AN-KhkPEe7ok",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T10:20:51",
     "timeZone": "+02:00",
@@ -1038,6 +1170,9 @@
   {
     "name": "DSC01572.JPG",
     "googleDriveId": "1DTFwAfTV-5swlIDetm6-_CYHA_FkQbDY",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T10:14:56",
     "timeZone": "+02:00",
@@ -1056,6 +1191,9 @@
   {
     "name": "DSC01569.JPG",
     "googleDriveId": "1-hs-8rLsTogbVxh4euqmcS3iPjECv_Ya",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T10:13:52",
     "timeZone": "+02:00",
@@ -1074,6 +1212,9 @@
   {
     "name": "DSC01514.JPG",
     "googleDriveId": "1WZaxCKMgwKrrbQy_BdNvMRW5fk7KMAAm",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T10:11:50",
     "timeZone": "+02:00",
@@ -1092,6 +1233,9 @@
   {
     "name": "DSC01470.JPG",
     "googleDriveId": "12tOoUQgGFs5pjI-pJwowANPPHdOtvg6t",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T10:00:36",
     "timeZone": "+02:00",
@@ -1110,6 +1254,9 @@
   {
     "name": "DSC01449BIS.JPG",
     "googleDriveId": "1VFay1-A28P-mK71pDr3qc_ChpWL6OYEH",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T09:58:37",
     "timeZone": "+02:00",
@@ -1128,6 +1275,9 @@
   {
     "name": "DSC01410.JPG",
     "googleDriveId": "1BVKK4Lty6jFyMkK5Riiu6vtfUFyCQtsd",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T09:10:28",
     "timeZone": "+02:00",
@@ -1146,6 +1296,9 @@
   {
     "name": "DSC01333BIS.JPG",
     "googleDriveId": "1gxPXsyuMYNETrINuMeRZaNdEJVoGpIqI",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T08:49:43",
     "timeZone": "+02:00",
@@ -1164,6 +1317,9 @@
   {
     "name": "DSC01315.JPG",
     "googleDriveId": "1vARtgw6lN9TtyhmmHz94aZifF3Z1KoRw",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T08:48:52",
     "timeZone": "+02:00",
@@ -1182,6 +1338,9 @@
   {
     "name": "DSC01270.JPG",
     "googleDriveId": "1YJDHqaMxdDsvMSIrtVLThWXvTGuzHQr_",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-14T08:27:52",
     "timeZone": "+02:00",
@@ -1295,6 +1454,9 @@
   {
     "name": "DSC00910.JPG",
     "googleDriveId": "1tZzYiQ4EzTo5A87zsDsBsQ0I1lthmPVC",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-13T13:05:22",
     "timeZone": "+02:00",
@@ -1313,6 +1475,9 @@
   {
     "name": "DSC00906.JPG",
     "googleDriveId": "1TzA20DP1Q97F0K78BG3mpc8CSUjBJFLx",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-13T13:05:17",
     "timeZone": "+02:00",
@@ -1369,6 +1534,9 @@
   {
     "name": "DSC00741.JPG",
     "googleDriveId": "12CzdY2boHJ57KlZvo1JE6WAe_AZJE4S2",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-13T09:47:11",
     "timeZone": "+02:00",
@@ -1387,6 +1555,9 @@
   {
     "name": "DSC00729.JPG",
     "googleDriveId": "15DF22OmC3o8I36IfK2uF3egMT-vWiNuG",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-13T09:42:23",
     "timeZone": "+02:00",
@@ -1405,6 +1576,9 @@
   {
     "name": "DSC00395.JPG",
     "googleDriveId": "1YBM8HcTmxkHtQRgbnKEF7EiNcPEpmccy",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-13T07:27:53",
     "timeZone": "+02:00",
@@ -1423,6 +1597,9 @@
   {
     "name": "DSC00184.JPG",
     "googleDriveId": "1mjROgoqR0GifkE1E_-85nn_BMBBo_heU",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-13T06:34:24",
     "timeZone": "+02:00",
@@ -1441,6 +1618,9 @@
   {
     "name": "DSC00173.JPG",
     "googleDriveId": "1YnN_6vjFCp1DvmKbEjew9iNN1RV3UsqR",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-13T06:33:53",
     "timeZone": "+02:00",
@@ -1459,6 +1639,9 @@
   {
     "name": "DSC00150.JPG",
     "googleDriveId": "1udaYX7QoPltCveoFQV_3wNh07t9oRpfV",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-13T06:32:35",
     "timeZone": "+02:00",
@@ -1477,6 +1660,9 @@
   {
     "name": "DSC00015.JPG",
     "googleDriveId": "1UI6tujovap4bDKSrZWbtcPLSYJja90Qc",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-12T16:58:56",
     "timeZone": "+02:00",
@@ -1495,6 +1681,9 @@
   {
     "name": "DSC09954.JPG",
     "googleDriveId": "13CHhfk9HiCoGOb3mcezrMT523US0gDpv",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-12T16:56:18",
     "timeZone": "+02:00",
@@ -1513,6 +1702,9 @@
   {
     "name": "DSC09839.JPG",
     "googleDriveId": "1Zz542qq0GK_XW8N3zI9rpbmS6HckMGlL",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-12T16:53:41",
     "timeZone": "+02:00",
@@ -1531,6 +1723,9 @@
   {
     "name": "DSC09795.JPG",
     "googleDriveId": "1X8MHX9-60CMIXCLQx2_pI1KZLfuBvw8Q",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-12T16:53:06",
     "timeZone": "+02:00",
@@ -1549,6 +1744,9 @@
   {
     "name": "DSC09757.JPG",
     "googleDriveId": "1mmrLd4FW5LXm_wir6aouR-TmKFMgloGK",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-12T16:52:22",
     "timeZone": "+02:00",
@@ -1567,6 +1765,9 @@
   {
     "name": "DSC09566.JPG",
     "googleDriveId": "12_ZW_ssVdU2g8OiTGLRHRo3aJQg8MHcl",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-12T15:12:05",
     "timeZone": "+02:00",
@@ -1585,6 +1786,9 @@
   {
     "name": "DSC09473.JPG",
     "googleDriveId": "1PZE9Sl9JEXdZe49pfa4Sq4CpPgcG8xxu",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-12T13:22:10",
     "timeZone": "+02:00",
@@ -1619,6 +1823,9 @@
   {
     "name": "DSC09372.JPG",
     "googleDriveId": "1e_Xwnna_nQvUry6T-jo77K9Res_XyjKJ",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-12T10:24:06",
     "timeZone": "+02:00",
@@ -1637,6 +1844,9 @@
   {
     "name": "P2TZ9425.JPG",
     "googleDriveId": "16LprbsgDylax-dnjiqdtqiBSV9Q4coQ0",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-12T10:12:12",
     "timeZone": "+01:00",
@@ -1648,11 +1858,16 @@
     "fNumber": "f/8.0",
     "focalLength": "103.9 mm",
     "sizeBytes": 10368512,
+    "latitude": 30.22076522000134,
+    "longitude": 35.32670765183866,
     "multiDayHike": "Jordan"
   },
   {
     "name": "DSC09301.JPG",
     "googleDriveId": "1RGianf2mzoy1YreVBRBg7d21QZMT4bAv",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-12T09:03:55",
     "timeZone": "+02:00",
@@ -1671,6 +1886,9 @@
   {
     "name": "DSC09167.JPG",
     "googleDriveId": "1OSghglcHWS3BIAkkBCwClyiN580zY7Ko",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-12T08:30:14",
     "timeZone": "+02:00",
@@ -1689,6 +1907,9 @@
   {
     "name": "DSC09141.JPG",
     "googleDriveId": "1Hy5hm78tIzkWh-v14qdSyWAz0zece83O",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-12T08:06:06",
     "timeZone": "+02:00",
@@ -1707,6 +1928,9 @@
   {
     "name": "DSC08997.JPG",
     "googleDriveId": "14njdRYaqxEfLA08V0gG_NNUgq-BEJnJH",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T16:14:14",
     "timeZone": "+02:00",
@@ -1725,6 +1949,9 @@
   {
     "name": "DSC08966.JPG",
     "googleDriveId": "18YiMiStTlk_yjeeul0Lud-Of3OsKu5jl",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T16:12:24",
     "timeZone": "+02:00",
@@ -1743,6 +1970,9 @@
   {
     "name": "DSC08940.JPG",
     "googleDriveId": "1tBKASo4IdRrT8b1Aj07JFwFOaJV4CLUR",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T16:10:56",
     "timeZone": "+02:00",
@@ -1761,6 +1991,9 @@
   {
     "name": "DSC08907.JPG",
     "googleDriveId": "1Xc_IOG-5W-nsxQGpuCNRuz2ZhXw9gzrf",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T16:09:29",
     "timeZone": "+02:00",
@@ -1779,6 +2012,9 @@
   {
     "name": "DSC08845.JPG",
     "googleDriveId": "1YV1eJ3WoRVcfC_jQgej2sx9fBFTKOszS",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T16:07:33",
     "timeZone": "+02:00",
@@ -1797,6 +2033,9 @@
   {
     "name": "DSC08812.JPG",
     "googleDriveId": "14FpSpPEpi1GdfNcRCa9s9SSomOdTQ-XK",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T16:06:18",
     "timeZone": "+02:00",
@@ -1816,7 +2055,7 @@
     "name": "P2TZ9324.JPG",
     "googleDriveId": "1aVgynbYCSIt46aGR50l7pIkN7r6dwoie",
     "tags": [
-      ""
+      "Jordan"
     ],
     "description": "",
     "dateTime": "2024-10-11T13:39:31",
@@ -1829,13 +2068,15 @@
     "fNumber": "f/5.6",
     "focalLength": "25.2 mm",
     "sizeBytes": 11190272,
+    "latitude": 30.11338021606207,
+    "longitude": 35.26879666373134,
     "multiDayHike": "Jordan"
   },
   {
     "name": "P2TZ9320.JPG",
     "googleDriveId": "1iWgZ8NXCYkwQSPp9OrQ7g-S15u3xgyB2",
     "tags": [
-      ""
+      "Jordan"
     ],
     "description": "",
     "dateTime": "2024-10-11T13:39:28",
@@ -1848,11 +2089,16 @@
     "fNumber": "f/6.3",
     "focalLength": "14.7 mm",
     "sizeBytes": 10501120,
+    "latitude": 30.113381640985608,
+    "longitude": 35.26879574172199,
     "multiDayHike": "Jordan"
   },
   {
     "name": "DSC08676.JPG",
     "googleDriveId": "16R4cwbkfwpwWk-DhAUtHRtwzCgqnzxWK",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T13:18:25",
     "timeZone": "+02:00",
@@ -1871,6 +2117,9 @@
   {
     "name": "DSC08664.JPG",
     "googleDriveId": "1Z6PiueKYaqDC2ArwTC5YFrgCRxOoXYuI",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T13:17:37",
     "timeZone": "+02:00",
@@ -1889,6 +2138,9 @@
   {
     "name": "DSC08522.JPG",
     "googleDriveId": "1wWz4c4qxlVLVgG8FUba0gwwSTv-cXgxw",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T11:11:35",
     "timeZone": "+02:00",
@@ -1907,6 +2159,9 @@
   {
     "name": "DSC08453.JPG",
     "googleDriveId": "1upl4fcZZJPphm0YOGRbz-1HgWsd3jf3u",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T11:03:24",
     "timeZone": "+02:00",
@@ -1925,6 +2180,9 @@
   {
     "name": "DSC08412.JPG",
     "googleDriveId": "10qfWxvmHI50bISBz5hKsMQ4ynB5bKPkM",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T11:02:12",
     "timeZone": "+02:00",
@@ -1943,6 +2201,9 @@
   {
     "name": "DSC08378.JPG",
     "googleDriveId": "1B8tuWRAzyCy9SdxZB57nz8p_NzzIsxOy",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T11:00:16",
     "timeZone": "+02:00",
@@ -1961,6 +2222,9 @@
   {
     "name": "DSC08377.JPG",
     "googleDriveId": "17x6DDTWDfLnO7whGLAiONMDmDBuZV6co",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:59:44",
     "timeZone": "+02:00",
@@ -1979,6 +2243,9 @@
   {
     "name": "DSC08371.JPG",
     "googleDriveId": "1z1HVmVWTAQpviV4A6aSNn2gcxczjOKWg",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:58:15",
     "timeZone": "+02:00",
@@ -1997,6 +2264,9 @@
   {
     "name": "DSC08348.JPG",
     "googleDriveId": "18Hsb4ZRIGtUJthpoxdWkmggVmj-lXOie",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:57:22",
     "timeZone": "+02:00",
@@ -2015,6 +2285,9 @@
   {
     "name": "DSC08346.JPG",
     "googleDriveId": "1MVwjPnCTc14l05l904zYeGlGx3cEtKBJ",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:57:18",
     "timeZone": "+02:00",
@@ -2033,6 +2306,9 @@
   {
     "name": "DSC08341.JPG",
     "googleDriveId": "1ScTzTUQXhRCrTlwx6BgVc8VITg2sQKI2",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:57:14",
     "timeZone": "+02:00",
@@ -2051,6 +2327,9 @@
   {
     "name": "DSC08334.JPG",
     "googleDriveId": "1h_Z-YaKqR3FTtFlrf0yIzNDcmeSG_WdI",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:56:15",
     "timeZone": "+02:00",
@@ -2069,6 +2348,9 @@
   {
     "name": "DSC08332.JPG",
     "googleDriveId": "14yMPPp3lbPnxieQ7IOYoGbMf56LdtCAM",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:56:11",
     "timeZone": "+02:00",
@@ -2087,6 +2369,9 @@
   {
     "name": "DSC08322.JPG",
     "googleDriveId": "1PaH0scF8t0xSXglU1VacnaLNvFo_pxuS",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:54:16",
     "timeZone": "+02:00",
@@ -2105,6 +2390,9 @@
   {
     "name": "DSC08283.JPG",
     "googleDriveId": "1TO6WLqjcQMAKT_7pSMOiDJqcr8lEsw2D",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:47:45",
     "timeZone": "+02:00",
@@ -2123,6 +2411,9 @@
   {
     "name": "DSC08241.JPG",
     "googleDriveId": "1JG3i7-ZEvQQWLI5MR2x1fuwL-uASTWN7",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:44:29",
     "timeZone": "+02:00",
@@ -2141,6 +2432,9 @@
   {
     "name": "DSC08235.JPG",
     "googleDriveId": "1qf9r9bKXnZxiK5t1AEwAcpi_F_PrIwH7",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:43:55",
     "timeZone": "+02:00",
@@ -2159,6 +2453,9 @@
   {
     "name": "DSC08231.JPG",
     "googleDriveId": "147qm0N2Y5AlxPKp_Q6ZJQfPYLwR_Ltlf",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:42:51",
     "timeZone": "+02:00",
@@ -2177,6 +2474,9 @@
   {
     "name": "DSC08187.JPG",
     "googleDriveId": "1d249xJvh-H6QN84EJivHz6yvaJTPwj0B",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:37:24",
     "timeZone": "+02:00",
@@ -2195,6 +2495,9 @@
   {
     "name": "DSC08164.JPG",
     "googleDriveId": "1vrJvC4hjDQxvO6Ifptj2ReqovjVG9bqi",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:30:13",
     "timeZone": "+02:00",
@@ -2213,6 +2516,9 @@
   {
     "name": "DSC07936.JPG",
     "googleDriveId": "15eq9tCjKW_fkViIfer5jKwc5SZ1nGFti",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T10:06:20",
     "timeZone": "+02:00",
@@ -2231,6 +2537,9 @@
   {
     "name": "DSC07880.JPG",
     "googleDriveId": "1ygRxxw1CEYQGv84IafM3mQ4PhtSh9p5c",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T09:09:40",
     "timeZone": "+02:00",
@@ -2249,6 +2558,9 @@
   {
     "name": "DSC07841.JPG",
     "googleDriveId": "1Cg33mt4t5CQTjh0w00L5hWP0BDMFMrV1",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T09:08:10",
     "timeZone": "+02:00",
@@ -2267,6 +2579,9 @@
   {
     "name": "DSC07784.JPG",
     "googleDriveId": "1rYf93FNzjcec5IZa5M6CMMjDY_8JZpzf",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T08:51:32",
     "timeZone": "+02:00",
@@ -2285,6 +2600,9 @@
   {
     "name": "DSC07733.JPG",
     "googleDriveId": "1PjTQGpl7tCE0cM1xC-UarjsVSOfKZ-Ad",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-11T08:36:27",
     "timeZone": "+02:00",
@@ -2398,6 +2716,9 @@
   {
     "name": "DSC07685.JPG",
     "googleDriveId": "1BPfsY-oLLfy-bLYhvmwYql9-3YnFFart",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-10T08:45:29",
     "timeZone": "+02:00",
@@ -2492,6 +2813,9 @@
   {
     "name": "DSC07538.JPG",
     "googleDriveId": "1II-OZaJ5XHHHUXMk2HHyrP2qVNtFrrVP",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-10T06:09:29",
     "timeZone": "+02:00",
@@ -2510,6 +2834,9 @@
   {
     "name": "DSC07515.JPG",
     "googleDriveId": "1MKWxN5s3Ry3nrEe30jBCqQK4_tHkSz1y",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-10T06:07:40",
     "timeZone": "+02:00",
@@ -2528,6 +2855,9 @@
   {
     "name": "DSC07505.JPG",
     "googleDriveId": "1Hd8yn4v_5Q3R7oUbhP3oL46_LVQ7SYBC",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-10T06:07:23",
     "timeZone": "+02:00",
@@ -2546,6 +2876,9 @@
   {
     "name": "DSC07475.JPG",
     "googleDriveId": "1BPMeiwskk7FVKOf5MdDgjsZKN0sqrY55",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-10T06:04:58",
     "timeZone": "+02:00",
@@ -2564,6 +2897,9 @@
   {
     "name": "DSC07460.JPG",
     "googleDriveId": "1L4a2kXIW0VDS-kYP-frManGJeVpFzmcK",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-10T06:04:29",
     "timeZone": "+02:00",
@@ -2582,6 +2918,9 @@
   {
     "name": "DSC07435BIS.JPG",
     "googleDriveId": "1ZqyPXYX691lK2rQbZfWOihsKpR-lC3fS",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-10T06:03:03",
     "timeZone": "+02:00",
@@ -2600,6 +2939,9 @@
   {
     "name": "DSC07416.JPG",
     "googleDriveId": "1cLIQHhie8kAEvXVhZ3VZ7R51nYJfKa78",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-10T05:59:17",
     "timeZone": "+02:00",
@@ -2618,6 +2960,9 @@
   {
     "name": "DSC07398.JPG",
     "googleDriveId": "1yUp1o3wMW7J_qdWAROE9pj-au_mA_nhj",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-10T05:57:43",
     "timeZone": "+02:00",
@@ -2636,6 +2981,9 @@
   {
     "name": "DSC07378.JPG",
     "googleDriveId": "1luWKUtUN6TAdRq55Tf-FGL1sLlnF-3WQ",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-10T05:55:27",
     "timeZone": "+02:00",
@@ -2730,6 +3078,9 @@
   {
     "name": "DSC06951.JPG",
     "googleDriveId": "15iz4RruAfkgFEuFqzX0H2nWqzCyQs3S-",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T15:55:50",
     "timeZone": "+02:00",
@@ -2748,6 +3099,9 @@
   {
     "name": "DSC06935.JPG",
     "googleDriveId": "1iEtpavsLKFo3jP-ZANpdzLwPP-0Vzmk0",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T15:54:40",
     "timeZone": "+02:00",
@@ -2766,6 +3120,9 @@
   {
     "name": "DSC06891.JPG",
     "googleDriveId": "1Vwnh54nMy8zQpZ4Xcy7IB2Xd9rfQMxDX",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T15:52:12",
     "timeZone": "+02:00",
@@ -2784,6 +3141,9 @@
   {
     "name": "DSC06862.JPG",
     "googleDriveId": "1Af1tymI5Id41IuHBd-onr_zYY9Of94eP",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T15:50:59",
     "timeZone": "+02:00",
@@ -2802,6 +3162,9 @@
   {
     "name": "DSC06857.JPG",
     "googleDriveId": "1T590d1npZFc8eVBTuk68bfRPo5O8YbJB",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T15:50:50",
     "timeZone": "+02:00",
@@ -2820,6 +3183,9 @@
   {
     "name": "DSC06744.JPG",
     "googleDriveId": "1KCcjHUKre2XLd8EeISGPn530jZyHLhJL",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T15:39:29",
     "timeZone": "+02:00",
@@ -2838,6 +3204,9 @@
   {
     "name": "DSC06716.JPG",
     "googleDriveId": "1AJIcyJJRAEwLusk3ITnjMPf1hArGVngy",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T15:38:55",
     "timeZone": "+02:00",
@@ -2856,6 +3225,9 @@
   {
     "name": "DSC06701.JPG",
     "googleDriveId": "1qJggjo-IxYPhbLlqCsmt-jGUFYX5F5Zu",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T15:38:33",
     "timeZone": "+02:00",
@@ -2874,6 +3246,9 @@
   {
     "name": "DSC06526.JPG",
     "googleDriveId": "11rq8KxAkXiYzR9F52BFN7PYswoB_Oxxk",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T13:15:58",
     "timeZone": "+02:00",
@@ -2911,6 +3286,9 @@
   {
     "name": "DSC06352.JPG",
     "googleDriveId": "1Hl5p3vj_vdv30F2ONY28fv7aPEZyQNhl",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T10:24:14",
     "timeZone": "+02:00",
@@ -2929,6 +3307,9 @@
   {
     "name": "DSC06341.JPG",
     "googleDriveId": "1aMWlAwjt-7rjzFEP06KQyqLQ828qGEOL",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T10:24:03",
     "timeZone": "+02:00",
@@ -2947,6 +3328,9 @@
   {
     "name": "DSC06327.JPG",
     "googleDriveId": "1XAgSIOQNU8j_e851Ilc0ezeV3pmXlZat",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T10:23:42",
     "timeZone": "+02:00",
@@ -2965,6 +3349,9 @@
   {
     "name": "DSC06278.JPG",
     "googleDriveId": "1skwu7ZhjQqeoQbTgomFWnstz0qB2jJ2A",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T10:15:00",
     "timeZone": "+02:00",
@@ -2983,6 +3370,9 @@
   {
     "name": "DSC06226.JPG",
     "googleDriveId": "1FzhF3U5V1fPnjVgT4ituQ6aLvtsNNA4z",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T10:12:41",
     "timeZone": "+02:00",
@@ -3001,6 +3391,9 @@
   {
     "name": "DSC06149.JPG",
     "googleDriveId": "1bWL7bp4zDkuwI3M51P2oyWkNi6neVA2S",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T10:08:18",
     "timeZone": "+02:00",
@@ -3019,6 +3412,9 @@
   {
     "name": "DSC06134.JPG",
     "googleDriveId": "11PBZkZI8CbvvSN19BKPHnPII_QuvmfD2",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T10:07:27",
     "timeZone": "+02:00",
@@ -3037,6 +3433,9 @@
   {
     "name": "DSC06068.JPG",
     "googleDriveId": "1X-761dAG4s1hdu43S1x0Y63GHTwFCh8P",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T10:01:42",
     "timeZone": "+02:00",
@@ -3055,6 +3454,9 @@
   {
     "name": "DSC06051.JPG",
     "googleDriveId": "1EKsCReplfz3Gb4AgEHHUrpUHMnJ6DetK",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T09:59:30",
     "timeZone": "+02:00",
@@ -3073,6 +3475,9 @@
   {
     "name": "DSC05994.JPG",
     "googleDriveId": "1WltNxIlbKlp-G3_KEBRbQDdDzbsNn_zV",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T09:53:48",
     "timeZone": "+02:00",
@@ -3091,6 +3496,9 @@
   {
     "name": "DSC05993BIS.JPG",
     "googleDriveId": "1RLbrIejCPAO38MFjK0ABshnSKJLNTckt",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T09:53:33",
     "timeZone": "+02:00",
@@ -3109,6 +3517,9 @@
   {
     "name": "DSC05988.JPG",
     "googleDriveId": "1Ifm_4cG5SWfLKYFtpxbNOp_uEInjxv7a",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T09:53:30",
     "timeZone": "+02:00",
@@ -3127,6 +3538,9 @@
   {
     "name": "DSC05944.JPG",
     "googleDriveId": "1u4TbB1qcDapMdwnTjEfZ9bCpEWoxgSs_",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T08:59:52",
     "timeZone": "+02:00",
@@ -3145,6 +3559,9 @@
   {
     "name": "DSC05932.JPG",
     "googleDriveId": "1S4Eq4m97uz6Tb-SWFfN0QuSITiHJuNyw",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T08:56:20",
     "timeZone": "+02:00",
@@ -3163,6 +3580,9 @@
   {
     "name": "DSC05910.JPG",
     "googleDriveId": "1beSb4kiDryJ2HR7WIa9OXtZDK5ha4AF7",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T08:50:17",
     "timeZone": "+02:00",
@@ -3181,6 +3601,9 @@
   {
     "name": "DSC05870.JPG",
     "googleDriveId": "1ufVSZ0jw897M58-9yTx-sWb8yf8UnMOL",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T08:44:31",
     "timeZone": "+02:00",
@@ -3199,6 +3622,9 @@
   {
     "name": "DSC05847.JPG",
     "googleDriveId": "1_oRHj-fMiS21NOE51JtDdyV1dyf8hcRj",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T08:44:09",
     "timeZone": "+02:00",
@@ -3217,6 +3643,9 @@
   {
     "name": "DSC05797.JPG",
     "googleDriveId": "1DkiS4qNNZ1OuHfl4rZ4RpVBOzIEnOA4j",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T08:21:38",
     "timeZone": "+02:00",
@@ -3235,6 +3664,9 @@
   {
     "name": "DSC05779.JPG",
     "googleDriveId": "1AhLJz5couBVhaLQr8jsVZ0g7S62FQQQR",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T08:19:52",
     "timeZone": "+02:00",
@@ -3253,6 +3685,9 @@
   {
     "name": "DSC05775.JPG",
     "googleDriveId": "1VcLlb0AXpofr2HmY_zur_QtaM7j5Ws2d",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T08:19:47",
     "timeZone": "+02:00",
@@ -3271,6 +3706,9 @@
   {
     "name": "DSC05763.JPG",
     "googleDriveId": "1Kvx_J3ooW8ujnWw-kVaUxj-jfj_oN2W0",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T08:18:35",
     "timeZone": "+02:00",
@@ -3289,6 +3727,9 @@
   {
     "name": "DSC05699.JPG",
     "googleDriveId": "1ELfUUhWh_rqFTOXdc3OQ4S8AZK0SJxs0",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T08:06:28",
     "timeZone": "+02:00",
@@ -3307,6 +3748,9 @@
   {
     "name": "DSC05587.JPG",
     "googleDriveId": "1WDZ3VxYx8EFoMsEer-HuMmS9HRO-z-ao",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T06:05:00",
     "timeZone": "+02:00",
@@ -3325,6 +3769,9 @@
   {
     "name": "DSC05557.JPG",
     "googleDriveId": "1AwgEhBh9cHKn_3FWm843FqkC_N5vZ8aL",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T06:04:32",
     "timeZone": "+02:00",
@@ -3343,6 +3790,9 @@
   {
     "name": "DSC05522.JPG",
     "googleDriveId": "1zJqbEGOnIRfuTOblkVO0WfVnSjnz7FAt",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-09T06:03:44",
     "timeZone": "+02:00",
@@ -3361,6 +3811,9 @@
   {
     "name": "DSC05418.JPG",
     "googleDriveId": "18C-icjU_5ifEwX8qpwwpE-00JYtra63Y",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T17:05:04",
     "timeZone": "+02:00",
@@ -3379,6 +3832,9 @@
   {
     "name": "DSC05390.JPG",
     "googleDriveId": "1sviLzslMfGdhB69kyFvYf00UVECk1ySG",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T17:03:54",
     "timeZone": "+02:00",
@@ -3397,6 +3853,9 @@
   {
     "name": "DSC05357.JPG",
     "googleDriveId": "1xsuiuelNlvRKjw0OMGaKa4aNY7YtHECs",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T17:02:51",
     "timeZone": "+02:00",
@@ -3415,6 +3874,9 @@
   {
     "name": "DSC05321.JPG",
     "googleDriveId": "1F_MevJnW5-pkuWCetfBnyYXT074h5i9F",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T16:51:12",
     "timeZone": "+02:00",
@@ -3433,6 +3895,9 @@
   {
     "name": "DSC05306.JPG",
     "googleDriveId": "1h5CjUugIckPxcWshtltFMQDVIUsZShH1",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T16:50:38",
     "timeZone": "+02:00",
@@ -3451,6 +3916,9 @@
   {
     "name": "DSC05245.JPG",
     "googleDriveId": "1oSeOnIpqfoZNTyDbTOs8KJ8JU8QWeHn3",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T16:47:48",
     "timeZone": "+02:00",
@@ -3469,6 +3937,9 @@
   {
     "name": "DSC05240.JPG",
     "googleDriveId": "1N_rbGdRuRJHh5XhiSqOYHL-t7L5ZEaEV",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T16:40:12",
     "timeZone": "+02:00",
@@ -3487,6 +3958,9 @@
   {
     "name": "DSC05217.JPG",
     "googleDriveId": "1bN9BKh33WuZxwbe-gxG_hmXb-OdXEVDK",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T16:39:38",
     "timeZone": "+02:00",
@@ -3505,6 +3979,9 @@
   {
     "name": "DSC05210.JPG",
     "googleDriveId": "1lJNc3pWFBbXC_rTberbx1YLJML5zTQs2",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T16:39:22",
     "timeZone": "+02:00",
@@ -3523,6 +4000,9 @@
   {
     "name": "DSC05172.JPG",
     "googleDriveId": "17SRnxriDFh1ngq5Gl9zAaSUkD-QwRSBN",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T16:36:20",
     "timeZone": "+02:00",
@@ -3541,6 +4021,9 @@
   {
     "name": "DSC05157.JPG",
     "googleDriveId": "1w4gTbd3mznsfWMH33Hna0Bx3tlJYGPb6",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T16:33:51",
     "timeZone": "+02:00",
@@ -3559,6 +4042,9 @@
   {
     "name": "DSC05153.JPG",
     "googleDriveId": "1t_TH3jEyRY0TIH2ULolzaOxXkP4sOSTa",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T16:33:45",
     "timeZone": "+02:00",
@@ -3577,6 +4063,9 @@
   {
     "name": "DSC04793.JPG",
     "googleDriveId": "1aKln4IOL08RMx9dWD133QBaOZq5b4584",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T14:54:51",
     "timeZone": "+02:00",
@@ -3595,6 +4084,9 @@
   {
     "name": "DSC04745.JPG",
     "googleDriveId": "1tv1d-nkm7HjHvDg6vohrawQox9fPta4G",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T14:44:28",
     "timeZone": "+02:00",
@@ -3613,6 +4105,9 @@
   {
     "name": "DSC04725.JPG",
     "googleDriveId": "1-KWRPVn6xsBq7hLtuo8kmU4pv8sENyKF",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T14:43:40",
     "timeZone": "+02:00",
@@ -3631,6 +4126,9 @@
   {
     "name": "DSC04639.JPG",
     "googleDriveId": "14URjqrI4uCDb_JvdmzAVJB5oYop8fHnZ",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T14:26:03",
     "timeZone": "+02:00",
@@ -3649,6 +4147,9 @@
   {
     "name": "DSC04611.JPG",
     "googleDriveId": "186_E0Dv7EZmAGpmAnriiQHzoMKZUvevL",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T13:23:49",
     "timeZone": "+02:00",
@@ -3667,6 +4168,9 @@
   {
     "name": "DSC04578.JPG",
     "googleDriveId": "1dIBTkYUKRVXKPc2tCPLUP2DmfIo3OPdw",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T13:17:39",
     "timeZone": "+02:00",
@@ -3685,6 +4189,9 @@
   {
     "name": "DSC04526.JPG",
     "googleDriveId": "16IKgTiLvZus9XQ0m9U8nEIRNw-VDiPXR",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T13:15:31",
     "timeZone": "+02:00",
@@ -3703,6 +4210,9 @@
   {
     "name": "DSC04470.JPG",
     "googleDriveId": "1EyBwQsfptpfJ3QbE9Zzk7BsFxkbbidBC",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T11:20:22",
     "timeZone": "+02:00",
@@ -3721,6 +4231,9 @@
   {
     "name": "DSC04409.JPG",
     "googleDriveId": "1RqohRjSNYQXfXtEKfrmpSnYt-WpnGGT4",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T11:11:59",
     "timeZone": "+02:00",
@@ -3739,6 +4252,9 @@
   {
     "name": "DSC04363.JPG",
     "googleDriveId": "1ES1NiDUzma5VwuFJvIBvsnzvt6S5yu9n",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T11:10:34",
     "timeZone": "+02:00",
@@ -3757,6 +4273,9 @@
   {
     "name": "DSC04299BIS.JPG",
     "googleDriveId": "1Ce2gfDBaw9axp4WWG1mMoe21IJ--4kAW",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T11:03:07",
     "timeZone": "+02:00",
@@ -3775,6 +4294,9 @@
   {
     "name": "DSC04251.JPG",
     "googleDriveId": "1N91LIKHXHLBd89N7wKNrpXKnF8zxa1ju",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T10:56:34",
     "timeZone": "+02:00",
@@ -3793,6 +4315,9 @@
   {
     "name": "DSC04191.JPG",
     "googleDriveId": "1QIhmNrVAunjfVRT36o5YaQP-JkTUDkfO",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T10:12:47",
     "timeZone": "+02:00",
@@ -3811,6 +4336,9 @@
   {
     "name": "DSC04163.JPG",
     "googleDriveId": "1L7rRCOfPNoXy8j5TQbsZuSqZAt4ElfGV",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T10:12:08",
     "timeZone": "+02:00",
@@ -3829,6 +4357,9 @@
   {
     "name": "DSC04129.JPG",
     "googleDriveId": "1b3qX04n2RG9w_VbA3rynZ74kONl0QCjh",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T10:09:24",
     "timeZone": "+02:00",
@@ -3847,6 +4378,9 @@
   {
     "name": "DSC04126.JPG",
     "googleDriveId": "1RGrc8UtTPi3t4UhoXcAdyghTZh-HjF4r",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T10:09:21",
     "timeZone": "+02:00",
@@ -3865,6 +4399,9 @@
   {
     "name": "DSC04116.JPG",
     "googleDriveId": "1lTr6qD6aY7eRbpr_cveYwCdnzOFlPgTD",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T10:03:12",
     "timeZone": "+02:00",
@@ -3883,6 +4420,9 @@
   {
     "name": "DSC03918.JPG",
     "googleDriveId": "1qVzbWw5-CaH93dyyBkr7NDiNa0FEyBR3",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T09:31:32",
     "timeZone": "+02:00",
@@ -3901,6 +4441,9 @@
   {
     "name": "DSC03907.JPG",
     "googleDriveId": "1Q4eA0zTtRNj3H2K529RLO2En_aL22pgt",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T09:16:44",
     "timeZone": "+02:00",
@@ -3919,6 +4462,9 @@
   {
     "name": "DSC03886.JPG",
     "googleDriveId": "1o_fazB56ez6Z1i07AgD1VtJAzOjp9crp",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T09:16:20",
     "timeZone": "+02:00",
@@ -3937,6 +4483,9 @@
   {
     "name": "DSC03860.JPG",
     "googleDriveId": "1CCEXQ0HL9fBycAvC7gr0bhD1JG5qCXo8",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T09:14:52",
     "timeZone": "+02:00",
@@ -3955,6 +4504,9 @@
   {
     "name": "DSC03707.JPG",
     "googleDriveId": "1R4TYlG6RaCMldsVDDnzZJy2B9FCZA8Gh",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T08:48:13",
     "timeZone": "+02:00",
@@ -3973,6 +4525,9 @@
   {
     "name": "DSC03602.JPG",
     "googleDriveId": "1g4BNN0Ywgkmh4xN2aHI-sYfUNZFAVLHw",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T08:46:12",
     "timeZone": "+02:00",
@@ -3991,6 +4546,9 @@
   {
     "name": "DSC03573.JPG",
     "googleDriveId": "1f5LcedRM4yV_hVdmyKF6vG93DI75eoND",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T08:43:48",
     "timeZone": "+02:00",
@@ -4041,6 +4599,9 @@
   {
     "name": "DSC03327.JPG",
     "googleDriveId": "1Fq-Z8BlfdKexeoW5OUIFyPAzuJ51p5yP",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T06:02:22",
     "timeZone": "+02:00",
@@ -4059,6 +4620,9 @@
   {
     "name": "DSC03174BIS.JPG",
     "googleDriveId": "11mYRI2OM2ZfMFsA1Dr2HAzJ5gDW3fToU",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T05:33:32",
     "timeZone": "+02:00",
@@ -4077,6 +4641,9 @@
   {
     "name": "DSC02692.JPG",
     "googleDriveId": "1m_D2OuwkWkxSd-Cs236w1fcAYrATXYgs",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T16:12:43",
     "timeZone": "+02:00",
@@ -4095,6 +4662,9 @@
   {
     "name": "DSC02623.JPG",
     "googleDriveId": "1K2zxWCFhfd2gfKn_r9klpRrVI_h-ajYx",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T16:07:33",
     "timeZone": "+02:00",
@@ -4113,6 +4683,9 @@
   {
     "name": "DSC02614.JPG",
     "googleDriveId": "1HVxesqYDkLUENvpNhM-F21of3-m6ZAbn",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T16:07:02",
     "timeZone": "+02:00",
@@ -4131,6 +4704,9 @@
   {
     "name": "DSC02425.JPG",
     "googleDriveId": "1xxYOj5ACjudbW8EHeLeYYI4kR471HSqm",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T15:03:26",
     "timeZone": "+02:00",
@@ -4149,6 +4725,9 @@
   {
     "name": "DSC02342.JPG",
     "googleDriveId": "1ND3eEIQmZtCVpBcYW7KJk4AnQY5GO2xX",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T14:40:42",
     "timeZone": "+02:00",
@@ -4167,6 +4746,9 @@
   {
     "name": "DSC02284.JPG",
     "googleDriveId": "1riij8wZN84syZ4mRck5E1LvDyBO_8dKW",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T14:29:16",
     "timeZone": "+02:00",
@@ -4185,6 +4767,9 @@
   {
     "name": "DSC02262.JPG",
     "googleDriveId": "1P3hW-oshLjALSDzojtsa7jn6QZZ7ctDo",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T14:28:52",
     "timeZone": "+02:00",
@@ -4203,6 +4788,9 @@
   {
     "name": "DSC02257.JPG",
     "googleDriveId": "1NfrBR-SQsmrqB8HYr1sJ8ShDPKI3Xr2j",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T14:28:17",
     "timeZone": "+02:00",
@@ -4221,6 +4809,9 @@
   {
     "name": "DSC02214.JPG",
     "googleDriveId": "1X2UsS1lSqRJ3DHW04JBUNXiP1qSE7xsQ",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T14:27:22",
     "timeZone": "+02:00",
@@ -4258,6 +4849,9 @@
   {
     "name": "DSC02102.JPG",
     "googleDriveId": "1L2YqQYaVmrO_H2miXElXJ7tmLyNYrhfH",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T10:11:03",
     "timeZone": "+02:00",
@@ -4276,6 +4870,9 @@
   {
     "name": "DSC02079.JPG",
     "googleDriveId": "1Hb684pbJbWuEotQf_DC_o78O9kxrPUq9",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T09:51:54",
     "timeZone": "+02:00",
@@ -4294,6 +4891,9 @@
   {
     "name": "DSC02033.JPG",
     "googleDriveId": "1Aaehu_g6xq3qyPYFX6vs5FJiwLsiyt7S",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T09:51:04",
     "timeZone": "+02:00",
@@ -4312,6 +4912,9 @@
   {
     "name": "DSC02023.JPG",
     "googleDriveId": "1GLWZp6TDOBd9RNlmgTJ5bUdksJpFw0TJ",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T09:50:30",
     "timeZone": "+02:00",
@@ -4330,6 +4933,9 @@
   {
     "name": "DSC02003.JPG",
     "googleDriveId": "1er-Yf9YB0bIKSR-0USPJ65FZ8ZWOc4wc",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T09:50:06",
     "timeZone": "+02:00",
@@ -4348,6 +4954,9 @@
   {
     "name": "DSC01990.JPG",
     "googleDriveId": "1KHd3lzJYIw2E87jCLXdTAi5KJ46JZfZR",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T09:50:02",
     "timeZone": "+02:00",
@@ -4366,6 +4975,9 @@
   {
     "name": "DSC01967.JPG",
     "googleDriveId": "10K4c-ga9A9c4T7ExM-nS4gQ5jbRer-7j",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T09:49:03",
     "timeZone": "+02:00",
@@ -4384,6 +4996,9 @@
   {
     "name": "DSC01842.JPG",
     "googleDriveId": "1Edeh5zkMNIreG_Fdpf-8uG5sLunX6M11",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T09:34:17",
     "timeZone": "+02:00",
@@ -4402,6 +5017,9 @@
   {
     "name": "DSC01781BIS.JPG",
     "googleDriveId": "1oUdBG74dpbf5YBlRI8Uzwqv9Nc-uxtry",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T09:33:05",
     "timeZone": "+02:00",
@@ -4420,6 +5038,9 @@
   {
     "name": "DSC01752.JPG",
     "googleDriveId": "1VvRjnHMcCFPn3AnuoOtLfYmeXbTkBezA",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T09:31:24",
     "timeZone": "+02:00",
@@ -4438,6 +5059,9 @@
   {
     "name": "DSC01741.JPG",
     "googleDriveId": "1qQEqsI1z8BkU9MLpby0AECc-bX6wRXP9",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T09:28:45",
     "timeZone": "+02:00",
@@ -4456,6 +5080,9 @@
   {
     "name": "DSC01721.JPG",
     "googleDriveId": "1Ka_1Sq9lAKg0TMK2ToQZQkEDrkPdwkBP",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T09:27:42",
     "timeZone": "+02:00",
@@ -4474,6 +5101,9 @@
   {
     "name": "DSC01684.JPG",
     "googleDriveId": "1K_jXwg7wx_khxOr_x0FBBZ1ENMhwuuEg",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T09:26:17",
     "timeZone": "+02:00",
@@ -4492,6 +5122,9 @@
   {
     "name": "DSC01351.JPG",
     "googleDriveId": "1_zIXWauikOTGyGSTeNLnmcm75WPbFmLT",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T08:14:12",
     "timeZone": "+02:00",
@@ -4510,6 +5143,9 @@
   {
     "name": "DSC01333.JPG",
     "googleDriveId": "1feLJL_W5D1hAeeGXxkSNeangSPvg0JLi",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T08:12:36",
     "timeZone": "+02:00",
@@ -4528,6 +5164,9 @@
   {
     "name": "DSC01060.JPG",
     "googleDriveId": "1Yg7hMn39mkQwBYx05rxez2Xb_mgg2FMr",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T07:32:26",
     "timeZone": "+02:00",
@@ -4546,6 +5185,9 @@
   {
     "name": "DSC01043.JPG",
     "googleDriveId": "194SYBmHj6tOdlec1_Rt97QORzDcEr6jQ",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T07:28:10",
     "timeZone": "+02:00",
@@ -4564,6 +5206,9 @@
   {
     "name": "DSC01040.JPG",
     "googleDriveId": "1UHdV2fuoT4qtIAIhkoq0jNoxA9K9jzyZ",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T07:28:06",
     "timeZone": "+02:00",
@@ -4582,6 +5227,9 @@
   {
     "name": "DSC00997.JPG",
     "googleDriveId": "199QiV9mhGnZ8deHuvOAvipaJifsAXMaz",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T07:19:50",
     "timeZone": "+02:00",
@@ -4600,6 +5248,9 @@
   {
     "name": "DSC00986.JPG",
     "googleDriveId": "1a2LwGRopbLmBm_NraowSXki9bhxB3Q7r",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T07:18:27",
     "timeZone": "+02:00",
@@ -4618,6 +5269,9 @@
   {
     "name": "DSC00955.JPG",
     "googleDriveId": "1lXPop8Ac08gDgbZvGE2_jrPQuUaE1pqf",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T05:55:54",
     "timeZone": "+02:00",
@@ -4636,6 +5290,9 @@
   {
     "name": "DSC00926.JPG",
     "googleDriveId": "1t5hoDUHfY4At2Fr2Y70Fotf52hVUnZaO",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-07T05:53:10",
     "timeZone": "+02:00",
@@ -4730,6 +5387,9 @@
   {
     "name": "DSC00839BIS.JPG",
     "googleDriveId": "1LUjwYWgwA80PeoEQ7wVWt6xonmN7dbll",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-06T17:03:22",
     "timeZone": "+02:00",
@@ -4862,6 +5522,9 @@
   {
     "name": "DSC00251.JPG",
     "googleDriveId": "1nxKXuxVHBQ5_-0ozpGw_yesBPx7A4r4R",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-06T10:35:55",
     "timeZone": "+02:00",
@@ -4880,6 +5543,9 @@
   {
     "name": "DSC00243.JPG",
     "googleDriveId": "1u44matb6ZRyNKC1DXEKvLi_AoF4hyDC1",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-06T10:33:46",
     "timeZone": "+02:00",
@@ -4898,6 +5564,9 @@
   {
     "name": "DSC00228.JPG",
     "googleDriveId": "1UGOqvWCHbQtGqUtY2md8WXMScO76-W7d",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-06T10:30:50",
     "timeZone": "+02:00",
@@ -4916,6 +5585,9 @@
   {
     "name": "DSC00131.JPG",
     "googleDriveId": "1wpqVwTB6iaFRjfTKFGBYKupHqCgfyp_5",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-06T09:55:30",
     "timeZone": "+02:00",
@@ -4934,6 +5606,9 @@
   {
     "name": "DSC00036.JPG",
     "googleDriveId": "1tr1nWwWgXyyVBhoyh2EBX8JXzOfTOENK",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-06T09:20:57",
     "timeZone": "+02:00",
@@ -4952,6 +5627,9 @@
   {
     "name": "DSC00020.JPG",
     "googleDriveId": "1c3dyh07Alr5fkneBF0PXmgWSUPQZVLOQ",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-06T09:18:48",
     "timeZone": "+02:00",
@@ -4970,6 +5648,9 @@
   {
     "name": "DSC09979.JPG",
     "googleDriveId": "1M09oyt9zUDZgCEQC1Ye40rp6ErLDrUoT",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-06T09:11:08",
     "timeZone": "+02:00",
@@ -4988,6 +5669,9 @@
   {
     "name": "DSC09956.JPG",
     "googleDriveId": "1onQNve0KQWBtI4WVlhfa5XRkKtwrglaH",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-06T09:01:03",
     "timeZone": "+02:00",
@@ -5006,6 +5690,9 @@
   {
     "name": "DSC09897.JPG",
     "googleDriveId": "1osEgyT1o5FrGgvQ7kgWarFapP1Q_53Wq",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-06T08:51:04",
     "timeZone": "+02:00",
@@ -5024,6 +5711,9 @@
   {
     "name": "DSC09859.JPG",
     "googleDriveId": "12t-xOmJFabuYUUy31X_xQJb9g0YmG5_9",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-06T08:46:59",
     "timeZone": "+02:00",

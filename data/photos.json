@@ -1,5 +1,311 @@
 [
   {
+    "name": "DSC05363.JPG",
+    "googleDriveId": "13dHBxjaKrwTPNXkyrmTu2TOv61hOTmYu",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-22T15:55:35",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/320 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "220 mm",
+    "sizeBytes": 7666914,
+    "latitude": 48.70421824045479,
+    "longitude": 1.9896168820559978
+  },
+  {
+    "name": "DSC05336.JPG",
+    "googleDriveId": "1SSeEwTSMC1hA12GuuYrftbT7J0V7Inhg",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-22T15:55:23",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/400 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "220 mm",
+    "sizeBytes": 6876908,
+    "latitude": 48.704151436686516,
+    "longitude": 1.9895344879478216
+  },
+  {
+    "name": "DSC05324.JPG",
+    "googleDriveId": "1SgWJGKBNwVBBpahD8a35EryEdDCgzqLw",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-22T15:48:50",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.5",
+    "focalLength": "17.6 mm",
+    "sizeBytes": 7072313,
+    "latitude": 48.70310881175101,
+    "longitude": 1.9870037399232388
+  },
+  {
+    "name": "DSC05164.JPG",
+    "googleDriveId": "1ITcA6wWsZOpr4p2iD7Cd2fLVbIotdL9s",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-22T15:41:55",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/250 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "220 mm",
+    "sizeBytes": 7647783,
+    "latitude": 48.70124283246696,
+    "longitude": 1.9857150223106146
+  },
+  {
+    "name": "DSC04936.JPG",
+    "googleDriveId": "1Ht0nPt6Un054lYg2PAu-WviIlwwppZad",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-22T15:37:55",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/400 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "120.9 mm",
+    "sizeBytes": 8593255,
+    "latitude": 48.700176822021604,
+    "longitude": 1.9850500021129847
+  },
+  {
+    "name": "DSC04888.JPG",
+    "googleDriveId": "1T7iQA4P0S0-DBGe0aWZk_EOM671ndGxH",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-22T15:32:05",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/400 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "20.5 mm",
+    "sizeBytes": 10212124,
+    "latitude": 48.698091488331556,
+    "longitude": 1.9841217063367367
+  },
+  {
+    "name": "DSC04846.JPG",
+    "googleDriveId": "1Ll-0DD9Bmbz-r-4huP4YQZ0mu8_sFZSU",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-22T15:22:04",
+    "timeZone": "+02:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/160 sec",
+    "fNumber": "f/3.5",
+    "focalLength": "26.4 mm",
+    "sizeBytes": 8695200,
+    "latitude": 48.698368007317185,
+    "longitude": 1.9841707404702902
+  },
+  {
+    "name": "DSC04767.JPG",
+    "googleDriveId": "1B2-uIgSL8_yxuSGkkWvYTkD8M6XCdjH_",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-22T15:18:42",
+    "timeZone": "+02:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/250 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "90.5 mm",
+    "sizeBytes": 9232266,
+    "latitude": 48.69912397116423,
+    "longitude": 1.9845528714358807
+  },
+  {
+    "name": "DSC04743.JPG",
+    "googleDriveId": "1Ab6vsU2YSYH48bGF8blCm5Tm2oz9ODiz",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-22T15:18:23",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/250 sec",
+    "fNumber": "f/3.5",
+    "focalLength": "11 mm",
+    "sizeBytes": 10126940,
+    "latitude": 48.699217680841684,
+    "longitude": 1.9846449047327042
+  },
+  {
+    "name": "DSC04392.JPG",
+    "googleDriveId": "1qZpG3g9Xr5lMGihketO2RpBKvs0-LNo-",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-10-20T18:57:42",
+    "timeZone": "+02:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/8 sec",
+    "fNumber": "f/3.5",
+    "focalLength": "24.8 mm",
+    "sizeBytes": 7599037
+  },
+  {
+    "name": "DSC04356.JPG",
+    "googleDriveId": "1cgEtcARcPMGh6NIJTkbDRBe9uJy_HFgP",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-10-20T18:54:31",
+    "timeZone": "+02:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/15 sec",
+    "fNumber": "f/3.2",
+    "focalLength": "19.7 mm",
+    "sizeBytes": 6608337
+  },
+  {
+    "name": "DSC04349.JPG",
+    "googleDriveId": "1xBW1oDEx-QIizkyU4Tk0rFaJ72QfR5ab",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-10-20T16:18:53",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "0.05 sec",
+    "fNumber": "f/3.5",
+    "focalLength": "25.6 mm",
+    "sizeBytes": 7567786
+  },
+  {
+    "name": "DSC04340.JPG",
+    "googleDriveId": "1XnagzWjN_C4CT38rXA_JQgD4o9CHdVRC",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-10-20T16:18:27",
+    "timeZone": "+02:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/30 sec",
+    "fNumber": "f/2.5",
+    "focalLength": "8.8 mm",
+    "sizeBytes": 7851270
+  },
+  {
+    "name": "DSC04305BIS.JPG",
+    "googleDriveId": "1j_I9MV9eRvALG7Ujpb7avhXTjDLaivhC",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-10-20T16:17:28",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/13 sec",
+    "fNumber": "f/3.5",
+    "focalLength": "28.1 mm",
+    "sizeBytes": 6756192
+  },
+  {
+    "name": "DSC04257.JPG",
+    "googleDriveId": "1Cc77JLVOmu3UupUCSNuM8uTl63YxDhlZ",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-10-20T14:07:57",
+    "timeZone": "+02:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/30 sec",
+    "fNumber": "f/3.2",
+    "focalLength": "13.3 mm",
+    "sizeBytes": 6520895
+  },
+  {
+    "name": "DSC04236.JPG",
+    "googleDriveId": "1pHTFSGctaAP6YgjLcbfYGImy24meuagj",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2024-10-20T14:06:45",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/30 sec",
+    "fNumber": "f/2.4",
+    "focalLength": "8.8 mm",
+    "sizeBytes": 6311572
+  },
+  {
     "name": "DSC04078.JPG",
     "googleDriveId": "1h_TuDzPj1Z_aYSd9fKz5w68pXlm1i-Vz",
     "tags": [

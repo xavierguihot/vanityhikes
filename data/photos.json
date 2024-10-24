@@ -4883,6 +4883,9 @@
   {
     "name": "P2TZ8631.JPG",
     "googleDriveId": "1F-2MLpIgPLR-wk4L0jHQM8LUcP8y5ltt",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T07:05:02",
     "timeZone": "+01:00",
@@ -4894,11 +4897,16 @@
     "fNumber": "f/4.0",
     "focalLength": "16.2 mm",
     "sizeBytes": 9320960,
+    "latitude": 29.4661954510957,
+    "longitude": 35.48627411015332,
     "multiDayHike": "Jordan"
   },
   {
     "name": "P2TZ8625.JPG",
     "googleDriveId": "16cjMNXgC79gFQ76xj5h__f1vy3MVxo53",
+    "tags": [
+      "Jordan"
+    ],
     "description": "",
     "dateTime": "2024-10-08T07:04:52",
     "timeZone": "+01:00",
@@ -4910,6 +4918,8 @@
     "fNumber": "f/3.6",
     "focalLength": "11.5 mm",
     "sizeBytes": 9298432,
+    "latitude": 29.4661954510957,
+    "longitude": 35.48627411015332,
     "multiDayHike": "Jordan"
   },
   {
@@ -6098,7 +6108,9 @@
     "exposureTime": "1/400 sec",
     "fNumber": "f/5.8",
     "focalLength": "58.5 mm",
-    "sizeBytes": 8579584
+    "sizeBytes": 8579584,
+    "latitude": 48.84596,
+    "longitude": 2.21757
   },
   {
     "name": "PXL_20240927_040646544.jpg",

@@ -469,6 +469,8 @@
     "fNumber": "f/5.0",
     "focalLength": "26.4 mm",
     "sizeBytes": 8294846,
+    "latitude": 31.75889,
+    "longitude": 35.57497,
     "multiDayHike": "Jordan"
   },
   {
@@ -488,6 +490,8 @@
     "fNumber": "f/4.5",
     "focalLength": "220 mm",
     "sizeBytes": 4852149,
+    "latitude": 31.75872,
+    "longitude": 35.57520,
     "multiDayHike": "Jordan"
   },
   {
@@ -507,6 +511,8 @@
     "fNumber": "f/4.5",
     "focalLength": "64.8 mm",
     "sizeBytes": 4610949,
+    "latitude": 31.75872,
+    "longitude": 35.57520,
     "multiDayHike": "Jordan"
   },
   {
@@ -526,6 +532,8 @@
     "fNumber": "f/4.5",
     "focalLength": "90.5 mm",
     "sizeBytes": 5102893,
+    "latitude": 31.75872,
+    "longitude": 35.57520,
     "multiDayHike": "Jordan"
   },
   {
@@ -545,6 +553,8 @@
     "fNumber": "f/5.0",
     "focalLength": "52.8 mm",
     "sizeBytes": 5217183,
+    "latitude": 31.75872,
+    "longitude": 35.57520,
     "multiDayHike": "Jordan"
   },
   {
@@ -564,6 +574,8 @@
     "fNumber": "f/4.5",
     "focalLength": "64.8 mm",
     "sizeBytes": 5108921,
+    "latitude": 31.75872,
+    "longitude": 35.57520,
     "multiDayHike": "Jordan"
   },
   {
@@ -583,6 +595,8 @@
     "fNumber": "f/4.5",
     "focalLength": "39.4 mm",
     "sizeBytes": 5027743,
+    "latitude": 31.75872,
+    "longitude": 35.57520,
     "multiDayHike": "Jordan"
   },
   {
@@ -812,6 +826,8 @@
     "fNumber": "f/5.0",
     "focalLength": "56.4 mm",
     "sizeBytes": 6591419,
+    "latitude": 30.663951530708424,
+    "longitude": 35.6167286349176,
     "multiDayHike": "Jordan"
   },
   {
@@ -831,6 +847,8 @@
     "fNumber": "f/4.0",
     "focalLength": "15.2 mm",
     "sizeBytes": 6912878,
+    "latitude": 30.664004518002184,
+    "longitude": 35.61665543533011,
     "multiDayHike": "Jordan"
   },
   {
@@ -850,6 +868,8 @@
     "fNumber": "f/2.8",
     "focalLength": "11.8 mm",
     "sizeBytes": 5173322,
+    "latitude": 30.675699293195645,
+    "longitude": 35.60906159066176,
     "multiDayHike": "Jordan"
   },
   {
@@ -1205,6 +1225,8 @@
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
     "sizeBytes": 7460517,
+    "latitude": 30.368750057752578,
+    "longitude": 35.46246962827522,
     "multiDayHike": "Jordan"
   },
   {
@@ -1224,6 +1246,8 @@
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
     "sizeBytes": 2559134,
+    "latitude": 30.368750057752578,
+    "longitude": 35.46246962827522,
     "multiDayHike": "Jordan"
   },
   {
@@ -1684,6 +1708,8 @@
     "fNumber": "f/2.4",
     "focalLength": "8.8 mm",
     "sizeBytes": 4391357,
+    "latitude": 30.32685304833663,
+    "longitude": 35.473396571016735,
     "multiDayHike": "Jordan"
   },
   {
@@ -1703,6 +1729,8 @@
     "fNumber": "f/2.8",
     "focalLength": "10.2 mm",
     "sizeBytes": 7017907,
+    "latitude": 30.32685304833663,
+    "longitude": 35.473396571016735,
     "multiDayHike": "Jordan"
   },
   {
@@ -1722,6 +1750,8 @@
     "fNumber": "f/2.5",
     "focalLength": "8.8 mm",
     "sizeBytes": 7051127,
+    "latitude": 30.32685304833663,
+    "longitude": 35.473396571016735,
     "multiDayHike": "Jordan"
   },
   {
@@ -1741,6 +1771,8 @@
     "fNumber": "f/2.5",
     "focalLength": "8.8 mm",
     "sizeBytes": 5136646,
+    "latitude": 30.32685304833663,
+    "longitude": 35.473396571016735,
     "multiDayHike": "Jordan"
   },
   {
@@ -1760,6 +1792,8 @@
     "fNumber": "f/3.2",
     "focalLength": "8.8 mm",
     "sizeBytes": 5400457,
+    "latitude": 30.32685304833663,
+    "longitude": 35.473396571016735,
     "multiDayHike": "Jordan"
   },
   {
@@ -1821,6 +1855,8 @@
     "fNumber": "f/4.0",
     "focalLength": "67.5 mm",
     "sizeBytes": 8885005,
+    "latitude": 30.27754,
+    "longitude": 35.41357,
     "multiDayHike": "Jordan"
   },
   {
@@ -1840,6 +1876,8 @@
     "fNumber": "f/3.5",
     "focalLength": "20.5 mm",
     "sizeBytes": 9036699,
+    "latitude": 30.27754,
+    "longitude": 35.41357,
     "multiDayHike": "Jordan"
   },
   {
@@ -2951,6 +2989,8 @@
     "fNumber": "f/6.3",
     "focalLength": "33.4 mm",
     "sizeBytes": 10700288,
+    "latitude": 29.52075103170252,
+    "longitude": 34.99787239770953,
     "multiDayHike": "Jordan"
   },
   {
@@ -2970,6 +3010,8 @@
     "fNumber": "f/4.6",
     "focalLength": "25.2 mm",
     "sizeBytes": 9972736,
+    "latitude": 29.519928142787144,
+    "longitude": 35.00120224150243,
     "multiDayHike": "Jordan"
   },
   {
@@ -2989,6 +3031,8 @@
     "fNumber": "f/6.3",
     "focalLength": "75.2 mm",
     "sizeBytes": 9865216,
+    "latitude": 29.52142034599842,
+    "longitude": 35.00016603088302,
     "multiDayHike": "Jordan"
   },
   {
@@ -3008,6 +3052,8 @@
     "fNumber": "f/7.1",
     "focalLength": "8.8 mm",
     "sizeBytes": 6651392,
+    "latitude": 29.52143075599482,
+    "longitude": 35.00020191992756,
     "multiDayHike": "Jordan"
   },
   {
@@ -3027,6 +3073,8 @@
     "fNumber": "f/8.0",
     "focalLength": "8.8 mm",
     "sizeBytes": 6835712,
+    "latitude": 29.521751143215443,
+    "longitude": 35.001330413302895,
     "multiDayHike": "Jordan"
   },
   {
@@ -3067,6 +3115,8 @@
     "fNumber": "f/5.6",
     "focalLength": "19.7 mm",
     "sizeBytes": 8409596,
+    "latitude": 29.69920,
+    "longitude": 35.39720,
     "multiDayHike": "Jordan"
   },
   {
@@ -3086,6 +3136,8 @@
     "fNumber": "f/5.0",
     "focalLength": "44.9 mm",
     "sizeBytes": 9665632,
+    "latitude": 29.69935,
+    "longitude": 35.39696,
     "multiDayHike": "Jordan"
   },
   {
@@ -3105,6 +3157,8 @@
     "fNumber": "f/4.0",
     "focalLength": "8.8 mm",
     "sizeBytes": 8703447,
+    "latitude": 29.49943,
+    "longitude": 35.40711,
     "multiDayHike": "Jordan"
   },
   {
@@ -3124,6 +3178,8 @@
     "fNumber": "f/4.5",
     "focalLength": "32.4 mm",
     "sizeBytes": 7570707,
+    "latitude": 29.49943,
+    "longitude": 35.40711,
     "multiDayHike": "Jordan"
   },
   {
@@ -3332,6 +3388,8 @@
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
     "sizeBytes": 777699,
+    "latitude": 29.47424,
+    "longitude": 35.39420,
     "multiDayHike": "Jordan"
   },
   {
@@ -3351,6 +3409,8 @@
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
     "sizeBytes": 919833,
+    "latitude": 29.47424,
+    "longitude": 35.39420,
     "multiDayHike": "Jordan"
   },
   {
@@ -3370,6 +3430,8 @@
     "fNumber": "f/4.0",
     "focalLength": "14.7 mm",
     "sizeBytes": 5368297,
+    "latitude": 29.47535,
+    "longitude": 35.39436,
     "multiDayHike": "Jordan"
   },
   {
@@ -3389,6 +3451,8 @@
     "fNumber": "f/2.4",
     "focalLength": "8.8 mm",
     "sizeBytes": 6448409,
+    "latitude": 29.47535,
+    "longitude": 35.39436,
     "multiDayHike": "Jordan"
   },
   {
@@ -3597,6 +3661,8 @@
     "fNumber": "f/5.6",
     "focalLength": "135.9 mm",
     "sizeBytes": 5608665,
+    "latitude": 29.455291433259845,
+    "longitude": 35.36822020076215,
     "multiDayHike": "Jordan"
   },
   {
@@ -5651,6 +5717,8 @@
     "fNumber": "f/2.4",
     "focalLength": "8.8 mm",
     "sizeBytes": 5736078,
+    "latitude": 29.59818,
+    "longitude": 35.45669,
     "multiDayHike": "Jordan"
   },
   {
@@ -5670,6 +5738,8 @@
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
     "sizeBytes": 1091393,
+    "latitude": 29.61956,
+    "longitude": 35.47200,
     "multiDayHike": "Jordan"
   },
   {
@@ -5689,6 +5759,8 @@
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
     "sizeBytes": 2137218,
+    "latitude": 29.65903,
+    "longitude": 35.48275,
     "multiDayHike": "Jordan"
   },
   {
@@ -5708,6 +5780,8 @@
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
     "sizeBytes": 1462567,
+    "latitude": 29.673009125099703,
+    "longitude": 35.46810996107498,
     "multiDayHike": "Jordan"
   },
   {
@@ -5748,6 +5822,8 @@
     "fNumber": "f/4.0",
     "focalLength": "29.7 mm",
     "sizeBytes": 6582807,
+    "latitude": 29.639498384177674,
+    "longitude": 35.43554736060928,
     "multiDayHike": "Jordan"
   },
   {
@@ -5786,6 +5862,8 @@
     "fNumber": "f/4.0",
     "focalLength": "15.7 mm",
     "sizeBytes": 7797844,
+    "latitude": 30.026896673443257,
+    "longitude": 35.4622349906582,
     "multiDayHike": "Jordan"
   },
   {
@@ -5824,6 +5902,8 @@
     "fNumber": "f/8.0",
     "focalLength": "40.3 mm",
     "sizeBytes": 6769152,
+    "latitude": 31.318845142732552,
+    "longitude": 36.067551146093905,
     "multiDayHike": "Jordan"
   },
   {
@@ -5843,6 +5923,8 @@
     "fNumber": "f/4.0",
     "focalLength": "28.9 mm",
     "sizeBytes": 5848571,
+    "latitude": 31.95360709231949,
+    "longitude": 35.93899889927741,
     "multiDayHike": "Jordan"
   },
   {
@@ -6072,6 +6154,8 @@
     "fNumber": "f/4.0",
     "focalLength": "32.4 mm",
     "sizeBytes": 7504401,
+    "latitude": 31.722958702427047,
+    "longitude": 35.79435823634684,
     "multiDayHike": "Jordan"
   },
   {
@@ -6090,7 +6174,9 @@
     "exposureTime": "0.01 sec",
     "fNumber": "f/6.2",
     "focalLength": "83.1 mm",
-    "sizeBytes": 9193984
+    "sizeBytes": 9193984,
+    "latitude": 49.003504306627875,
+    "longitude": 2.5797145964043615
   },
   {
     "name": "P2TZ8371.JPG",

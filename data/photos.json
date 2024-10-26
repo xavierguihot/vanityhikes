@@ -1,5 +1,225 @@
 [
   {
+    "name": "DSC06227.JPG",
+    "googleDriveId": "15m1LHctLuSM_dA-ipiLDqE4Emb_ofK6j",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-24T15:55:24",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "195.6 mm",
+    "sizeBytes": 4654406,
+    "latitude": 48.75192786566913,
+    "longitude": 1.9661782309412956
+  },
+  {
+    "name": "DSC06202.JPG",
+    "googleDriveId": "1tOi2vDhCkK9J1l4g0QiD6wNej6vHrv2k",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-24T15:54:57",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "174.9 mm",
+    "sizeBytes": 8117102,
+    "latitude": 48.75171320512891,
+    "longitude": 1.9661343097686768
+  },
+  {
+    "name": "DSC06078.JPG",
+    "googleDriveId": "1fKXY1zMdV_bVre0Dl7J7EhVrI-Lt9TCA",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-24T15:04:40",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "44.9 mm",
+    "sizeBytes": 8188105,
+    "latitude": 48.75594480894506,
+    "longitude": 1.9588947761803865
+  },
+  {
+    "name": "DSC06017.JPG",
+    "googleDriveId": "1E7uVp9elhMaUcw3yXzLWxon-ED07NvLa",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-24T14:55:17",
+    "timeZone": "+02:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "34.7 mm",
+    "sizeBytes": 9709890,
+    "latitude": 48.75588512979448,
+    "longitude": 1.962498826906085
+  },
+  {
+    "name": "DSC05965.JPG",
+    "googleDriveId": "12nnMMJvyxUsXqxDOUrODTbYYMWKmz_iu",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-24T14:53:06",
+    "timeZone": "+02:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/320 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "90.5 mm",
+    "sizeBytes": 9344470,
+    "latitude": 48.75530485063791,
+    "longitude": 1.9633194990456104
+  },
+  {
+    "name": "DSC05925.JPG",
+    "googleDriveId": "1ARJc9ZHLxZPbfz6x1AXHJDFobNG6TPi0",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-24T14:49:38",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "35.7 mm",
+    "sizeBytes": 10044730,
+    "latitude": 48.7555506080389,
+    "longitude": 1.9635563716292381
+  },
+  {
+    "name": "DSC05920.JPG",
+    "googleDriveId": "1PBQUhIfRxW5dw0gnyXO5AMjbERT-NLs2",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-24T14:49:37",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "35.7 mm",
+    "sizeBytes": 9994407,
+    "latitude": 48.7555506080389,
+    "longitude": 1.9635563716292381
+  },
+  {
+    "name": "DSC05858.JPG",
+    "googleDriveId": "1vdlMe-4X7jRahmT4M8O27MFP6DJ7aIF_",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-24T14:47:15",
+    "timeZone": "+02:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "56.4 mm",
+    "sizeBytes": 7210086,
+    "latitude": 48.7556922622025,
+    "longitude": 1.9642805680632591
+  },
+  {
+    "name": "DSC05778.JPG",
+    "googleDriveId": "1YwyJf4tUz8B70oFkWR5S0A0O4ruzh_9T",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-24T14:44:31",
+    "timeZone": "+02:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/200 sec",
+    "fNumber": "f/3.5",
+    "focalLength": "27.2 mm",
+    "sizeBytes": 9333876,
+    "latitude": 48.75584322027862,
+    "longitude": 1.964750373736024
+  },
+  {
+    "name": "DSC05758.JPG",
+    "googleDriveId": "1s3S63Nxb4yDA1ql1gJOnBHlBZCmhacx-",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-24T14:44:14",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/500 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "47.9 mm",
+    "sizeBytes": 10016957,
+    "latitude": 48.75589342787862,
+    "longitude": 1.9648711569607258
+  },
+  {
+    "name": "DSC05530.JPG",
+    "googleDriveId": "1BsfnQ4iNSTBTonFEiGrhnpmg-rB88JCx",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-24T14:38:34",
+    "timeZone": "+02:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/2.8",
+    "focalLength": "8.8 mm",
+    "sizeBytes": 9172842,
+    "latitude": 48.756008092314005,
+    "longitude": 1.9656361732631922
+  },
+  {
     "name": "DSC05363.JPG",
     "googleDriveId": "13dHBxjaKrwTPNXkyrmTu2TOv61hOTmYu",
     "tags": [
@@ -178,6 +398,26 @@
     "sizeBytes": 10126940,
     "latitude": 48.699217680841684,
     "longitude": 1.9846449047327042
+  },
+  {
+    "name": "PXL_20241021_131305336.jpg",
+    "googleDriveId": "1VZfC-B5Z7vU6H6JjguBeZcOl5v8xIC03",
+    "tags": [
+      "Ile de France"
+    ],
+    "description": "",
+    "dateTime": "2024-10-21T15:13:05",
+    "timeZone": "+02:00",
+    "height": 4080,
+    "width": 3072,
+    "cameraMaker": "Google",
+    "cameraModel": "Pixel 8",
+    "exposureTime": "1083/1000000 sec",
+    "fNumber": "f/1.7",
+    "focalLength": "6.9 mm",
+    "sizeBytes": 6888988,
+    "latitude": 48.778247963637114,
+    "longitude": 2.054654499515891
   },
   {
     "name": "DSC04392.JPG",

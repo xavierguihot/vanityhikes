@@ -1,6 +1,42 @@
 [
   {
     "contiguousHikes": [
+      "2024-10-30T13:16:05",
+      "2024-10-30T09:21:20",
+      "2024-10-30T08:55:59",
+      "2024-10-29T09:40:46"
+    ],
+    "start": "2024-10-29T09:40:46",
+    "end": "2024-10-30T16:12:54",
+    "days": 2,
+    "walkingDays": 2,
+    "distance": 32.82150054488963,
+    "elevation": 505,
+    "durationInSeconds": 25271,
+    "idleTimeInSeconds": 1080,
+    "coordinates": {
+      "centerLatitude": 48.524395362474024,
+      "centerLongitude": -2.5929305562749505,
+      "widthInKm": 9,
+      "heightInKm": 12
+    },
+    "timeline": [
+      {
+        "date": "2024-10-29",
+        "distance": 14.013278691116897,
+        "elevation": 227
+      },
+      {
+        "date": "2024-10-30",
+        "distance": 18.808221853772736,
+        "elevation": 278
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "contiguousHikes": [
       "2024-10-10T08:44:48",
       "2024-10-10T05:18:30",
       "2024-10-09T14:13:11",

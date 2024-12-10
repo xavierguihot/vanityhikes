@@ -272,6 +272,73 @@
         "elevation": 610
       }
     ],
+    "locations": [
+      {
+        "type": "refuge",
+        "latitude": 27.68759,
+        "longitude": 86.72894
+      },
+      {
+        "type": "refuge",
+        "latitude": 27.74362,
+        "longitude": 86.71241
+      },
+      {
+        "type": "refuge",
+        "latitude": 27.80448,
+        "longitude": 86.70878
+      },
+      {
+        "type": "refuge",
+        "latitude": 27.83172,
+        "longitude": 86.64930
+      },
+      {
+        "type": "refuge",
+        "latitude": 27.90385,
+        "longitude": 86.63683
+      },
+      {
+        "type": "refuge",
+        "latitude": 27.95402,
+        "longitude": 86.69436
+      },
+      {
+        "type": "refuge",
+        "latitude": 27.94078,
+        "longitude": 86.72062
+      },
+      {
+        "type": "refuge",
+        "latitude": 27.93972,
+        "longitude": 86.77387
+      },
+      {
+        "type": "refuge",
+        "latitude": 27.98087,
+        "longitude": 86.82898
+      },
+      {
+        "type": "refuge",
+        "latitude": 27.94883,
+        "longitude": 86.81059
+      },
+      {
+        "type": "refuge",
+        "latitude": 27.90427,
+        "longitude": 86.87132
+      },
+      {
+        "type": "refuge",
+        "latitude": 27.82318,
+        "longitude": 86.73092
+      },
+      {
+        "type": "refuge",
+        "latitude": 27.77121,
+        "longitude": 86.72312
+      }
+    ],
     "descriptionFR": "Description: Work in Progress",
     "lighterPack": "https://lighterpack.com/r/47t8ov",
     "photo": "P2TZ6355.JPG",

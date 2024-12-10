@@ -100,7 +100,9 @@
     "exposureTime": "1/160 sec",
     "fNumber": "f/6,4",
     "focalLength": "114,5 mm",
-    "sizeBytes": 6535680
+    "sizeBytes": 6535680,
+    "latitude": 27.71552328863136,
+    "longitude": 85.30706002963448
   },
   {
     "name": "P2TZ7173.JPG",
@@ -118,7 +120,9 @@
     "exposureTime": "1/800 sec",
     "fNumber": "f/7,1",
     "focalLength": "114,5 mm",
-    "sizeBytes": 6043648
+    "sizeBytes": 6043648,
+    "latitude": 27.71552328863136,
+    "longitude": 85.30706002963448
   },
   {
     "name": "P2TZ7119.JPG",
@@ -136,7 +140,9 @@
     "exposureTime": "1/1000 sec",
     "fNumber": "f/4,0",
     "focalLength": "8,8 mm",
-    "sizeBytes": 9041408
+    "sizeBytes": 9041408,
+    "latitude": 27.68743,
+    "longitude": 86.73192
   },
   {
     "name": "P2TZ7102.JPG",
@@ -712,6 +718,8 @@
     "fNumber": "f/8,0",
     "focalLength": "127,3 mm",
     "sizeBytes": 10411008,
+    "latitude": 27.95385,
+    "longitude": 86.69427,
     "multiDayHike": "EBC - 3 Passes Trek (Everest Base Camp)"
   },
   {
@@ -1397,6 +1405,8 @@
     "fNumber": "f/2,2",
     "focalLength": "2,7 mm",
     "sizeBytes": 2183427,
+    "latitude": 27.699818334924693,
+    "longitude": 85.36332121366488,
     "multiDayHike": "EBC - 3 Passes Trek (Everest Base Camp)"
   },
   {

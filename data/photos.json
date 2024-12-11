@@ -59517,23 +59517,6 @@
     "longitude": -0.3562384285032749
   },
   {
-    "name": "PXL_20221022_062947350.jpg",
-    "googleDriveId": "1_a7FCyZWmNKU5bg_eBmYcuMIG_Xl91h0",
-    "description": "",
-    "dateTime": "2022-10-22T08:29:47",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "1833/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2850471,
-    "latitude": 49.183495715260506,
-    "longitude": -0.3558221831917763
-  },
-  {
     "name": "PXL_20221016_065324368.jpg",
     "googleDriveId": "1BqAUsOMpUxtbhytcYg8S-WB3ojsfg_hj",
     "tags": [
@@ -59555,27 +59538,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221016_064919519.jpg",
-    "googleDriveId": "1VGhu9UMsiZMivwFntIqbKi-OwLXjMog8",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-16T08:49:19",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "8127/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 1462308,
-    "latitude": 48.699835343286395,
-    "longitude": -4.058018289506435,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221016_064738860.jpg",
     "googleDriveId": "1B0TsxjIrFSQldfrb1eiikhojxpyI293G",
     "tags": [
@@ -59594,48 +59556,6 @@
     "sizeBytes": 1674368,
     "latitude": 48.70054420083761,
     "longitude": -4.0582627058029175,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221016_064458782.jpg",
-    "googleDriveId": "1XODRGy2nZ7BjR0vnjtE136-y-cqoOs9F",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-16T08:44:58",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "1943/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 1942746,
-    "latitude": 48.70156293734908,
-    "longitude": -4.058253318071365,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221016_064307199.jpg",
-    "googleDriveId": "1H7Gw89EHmZqY8LDYPss1axg2PQFlvfg_",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-16T08:43:07",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "493/200000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2847424,
-    "latitude": 48.70076120831072,
-    "longitude": -4.057817542925477,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -59702,27 +59622,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221015_125319332.jpg",
-    "googleDriveId": "1gamrkoiN4XBE4F-SRjsMjNNB_Ubc-1Ka",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-15T14:53:19",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "141/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3364361,
-    "latitude": 48.703745836392045,
-    "longitude": -4.063338115811348,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221015_124422905.jpg",
     "googleDriveId": "1f4Y5yKLdUnllWbkC3hUJ1SVZJQpHga2n",
     "tags": [
@@ -59741,69 +59640,6 @@
     "sizeBytes": 2548435,
     "latitude": 48.70151465758681,
     "longitude": -4.057181188836694,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221015_114943787.jpg",
-    "googleDriveId": "1T7SMviWHFHcom5mi6L7br8sMFcUWkkHQ",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-15T13:49:43",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "53/250000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4214324,
-    "latitude": 48.70610173791647,
-    "longitude": -4.053249238058925,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221015_100112061.jpg",
-    "googleDriveId": "1ji-540pA4BzIbI0-mQbHoYYQXO4w8G2r",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-15T12:01:12",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "1873/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3016200,
-    "latitude": 48.71581829153001,
-    "longitude": -4.0123615600168705,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221015_095105376.jpg",
-    "googleDriveId": "1b9cqGJG_ibWbHEG7TQVq8AuX9ISjPdfd",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-15T11:51:05",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "1431/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2460881,
-    "latitude": 48.72049966827035,
-    "longitude": -4.0098494198173285,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -59933,69 +59769,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221015_071220914.jpg",
-    "googleDriveId": "15VynQy2aS_kshoeYueRHX2_aeZ3ZHFfa",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-15T09:12:20",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "117/125000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3714631,
-    "latitude": 48.73366104226843,
-    "longitude": -3.986750607445698,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221015_071137777.jpg",
-    "googleDriveId": "1Llw7n6MPSlfieiM6q3cIc9-iAzakx7wK",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-15T09:11:37",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "53/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3644178,
-    "latitude": 48.73366104178415,
-    "longitude": -3.986729149716264,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221015_070949792.jpg",
-    "googleDriveId": "1JFrcLXJ9JCdM2OW8fx0tWD4fH7Bz-yKz",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-15T09:09:49",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "31/250000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3340345,
-    "latitude": 48.735864814248885,
-    "longitude": -3.9937950085368272,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221015_064150183.jpg",
     "googleDriveId": "14XQe5qZEuWiTpIhtSdcIMLX8v9UlWd52",
     "tags": [
@@ -60017,111 +59790,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221015_063350583.jpg",
-    "googleDriveId": "1GQWMbjKlPwgjrLpyxKJV3lqNq0p5crSA",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-15T08:33:50",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "1899/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3260601,
-    "latitude": 48.73990662395954,
-    "longitude": -4.021439077332616,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221012_064232790.jpg",
-    "googleDriveId": "1qeFxZx1DbS2SPU9MgFfNjTUeZhabns_j",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-12T08:42:32",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "601/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3263059,
-    "latitude": 48.750171437859535,
-    "longitude": -4.004420209676027,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221012_061552022.jpg",
-    "googleDriveId": "1gF0SDIB2OcrH-ivDsp3k4euvBv_nyG8N",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-12T08:15:52",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "159/25000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3065248,
-    "latitude": 48.74744354747236,
-    "longitude": -4.001857442781329,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221011_172052010.jpg",
-    "googleDriveId": "1WpBJpT3I6gp08IipuJNOa-qLDo5vsfA7",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-11T19:20:52",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "37/62500 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3444691,
-    "latitude": 48.74314145185053,
-    "longitude": -4.037310713902116,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221011_065344158.jpg",
-    "googleDriveId": "1UiirP-HQc13hJqbrP2teNL6KOJsfC_vl",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-11T08:53:44",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "1961/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2750025,
-    "latitude": 48.74036695808172,
-    "longitude": -4.019621377810836,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221011_065028588.jpg",
     "googleDriveId": "1BOkQEcw_AdWjpsOBJtLzcq4_AIamuFle",
     "tags": [
@@ -60140,90 +59808,6 @@
     "sizeBytes": 3350390,
     "latitude": 48.739321399480104,
     "longitude": -4.016669690608978,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221011_063952465.jpg",
-    "googleDriveId": "1NLKVp5vrPmJyEvgjsfgL2uGh7mHWS74c",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-11T08:39:52",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "159/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3400261,
-    "latitude": 48.73816561885178,
-    "longitude": -4.011685308068991,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221011_063934658.jpg",
-    "googleDriveId": "1DBLP6xgwfqwIXUGjTgwlSEJDg2yF7Xbq",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-11T08:39:34",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "327/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3422140,
-    "latitude": 48.73816561885178,
-    "longitude": -4.011685308068991,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221011_063934148.jpg",
-    "googleDriveId": "1QiRxgWwdH07n6TDX0JHiiL9d6I9XJXK_",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-11T08:39:34",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "327/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3431112,
-    "latitude": 48.73816561885178,
-    "longitude": -4.011685308068991,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221011_060241596.NIGHT.jpg",
-    "googleDriveId": "1t-J2-xkkHt5UFxODOzYACnfJNoJv07d9",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-11T08:02:41",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "5687/250000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2688403,
-    "latitude": 48.739444026723504,
-    "longitude": -4.017087109386921,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -60290,69 +59874,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221010_174346675.jpg",
-    "googleDriveId": "1hGoPmyirgS_2Ii1tpgfBKqiBbMIxb6tA",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-10T19:43:46",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "4691/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2559480,
-    "latitude": 48.73870583251119,
-    "longitude": -4.017642494291067,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221010_173443457.jpg",
-    "googleDriveId": "1wQb5xu3wOZSk2Y2Rs8oFJnqgOEz_s1Ks",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-10T19:34:43",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "433/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3267326,
-    "latitude": 48.738581696525216,
-    "longitude": -4.017459768801928,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221010_173043599.jpg",
-    "googleDriveId": "1dtIHIO9FoxSzY5gn9JfVBX1rg_yHMM2z",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-10T19:30:43",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "37/62500 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4180906,
-    "latitude": 48.738581696525216,
-    "longitude": -4.017459768801928,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221010_172351794.jpg",
     "googleDriveId": "1_MD4t-V9JVbrd1iSID0slPg74Zc-cN_9",
     "tags": [
@@ -60374,48 +59895,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221010_170914575.jpg",
-    "googleDriveId": "1y1Woz-RFj4uffuN7LbZ0W4DtZ78KyAGY",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-10T19:09:14",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "1/12500 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4138119,
-    "latitude": 48.73858580365777,
-    "longitude": -4.017465552315116,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221010_063321491.jpg",
-    "googleDriveId": "1q1Kn-KLnM4WD2lVCRn8e88rq-NlVonhF",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-10T08:33:21",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "10201/250000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4032179,
-    "latitude": 48.74613421037793,
-    "longitude": -4.000246105715632,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221010_061740192.jpg",
     "googleDriveId": "1pwnpOI6jwPcfQZljH4EpOVlvQL3c18ox",
     "tags": [
@@ -60434,27 +59913,6 @@
     "sizeBytes": 2015551,
     "latitude": 48.748397659510374,
     "longitude": -4.003624599426985,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221009_173827511.jpg",
-    "googleDriveId": "1vOThmRDMv1j-UaflHzP2IVDKiMNeSltC",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-09T19:38:27",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "22659/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 1293888,
-    "latitude": 48.73859351500869,
-    "longitude": -4.017461193725467,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -60500,69 +59958,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221009_093153892.jpg",
-    "googleDriveId": "1ZhcgjDZTfCB-DJxZ7nUo_355YIk_yvwB",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-09T11:31:53",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "53/200000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3253520,
-    "latitude": 48.7458217330277,
-    "longitude": -4.040657440200448,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221009_092412869.jpg",
-    "googleDriveId": "1BxajbShBbZICyXMCyVVCUZKmz-HR7Nuk",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-09T11:24:12",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "99/200000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3724456,
-    "latitude": 48.74459261074662,
-    "longitude": -4.037918820977211,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221009_091300811.jpg",
-    "googleDriveId": "1SvSDxRw1Uggvg7CpJ7tlgm_Duheq_oOS",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-09T11:13:00",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "1/12500 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3529041,
-    "latitude": 48.74124621972442,
-    "longitude": -4.0348714124411345,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221009_090224616.jpg",
     "googleDriveId": "1OX0vxeuOVzF_tonHBKxx1XL5G9L5aFEn",
     "tags": [
@@ -60581,48 +59976,6 @@
     "sizeBytes": 4174897,
     "latitude": 48.74005221761763,
     "longitude": -4.035043241456151,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221009_085417263.jpg",
-    "googleDriveId": "1aEQV-zec8zz4qb6GTS3Evv-6a75fRXI6",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-09T10:54:17",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "11/125000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3863562,
-    "latitude": 48.74088571406901,
-    "longitude": -4.033864326775074,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221009_083136900.jpg",
-    "googleDriveId": "1s-ZynIEs5C5kfwOKU3RpsgVGPpr8kGZw",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-09T10:31:36",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "97/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3719590,
-    "latitude": 48.74286459758878,
-    "longitude": -4.0317304618656635,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -60689,27 +60042,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221009_073120793.jpg",
-    "googleDriveId": "1H18ydhmOAeATuJeK25wxmk-z72WAiJMr",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-09T09:31:20",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "53/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3788186,
-    "latitude": 48.743595415726304,
-    "longitude": -4.014173727482557,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221009_071724257.jpg",
     "googleDriveId": "1B0Tw-twMHuHObgnavj1HsxXmDLUvlsBR",
     "tags": [
@@ -60752,27 +60084,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221009_071124492.jpg",
-    "googleDriveId": "1N9gH9W4slDfyJE22zZ0WI1p-jxjsAEAY",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-09T09:11:24",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "353/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2825085,
-    "latitude": 48.74130883254111,
-    "longitude": -4.002117533236742,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221009_064244761.jpg",
     "googleDriveId": "1TCN7CENhNtT9xro_Di7-zccQ1jstSYpl",
     "tags": [
@@ -60791,69 +60102,6 @@
     "sizeBytes": 3707530,
     "latitude": 48.73704579658806,
     "longitude": -3.9936300180852413,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221009_064239323.jpg",
-    "googleDriveId": "1AOQFB9E_TYYax8bmH3uXEkP4QIoyUj8V",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-09T08:42:39",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "53/62500 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3847606,
-    "latitude": 48.737056190147996,
-    "longitude": -3.9936179481446743,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221009_063930568.jpg",
-    "googleDriveId": "1OBrV80SA_71hEUH1XCFP5qi5rP4kXxUs",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-09T08:39:30",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "239/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3585220,
-    "latitude": 48.7372250854969,
-    "longitude": -3.9921162463724613,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221009_063444596.jpg",
-    "googleDriveId": "16Pb2L92vIcKhWe7mcEU87mDa1tfynt6Z",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-09T08:34:44",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "583/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2447131,
-    "latitude": 48.73833761550486,
-    "longitude": -3.990928279235959,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -60896,27 +60144,6 @@
     "sizeBytes": 3668571,
     "latitude": 48.74186832457781,
     "longitude": -4.007667610421777,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221008_120921217.jpg",
-    "googleDriveId": "1w2_pM85WosJ6xstMkHkLaOL68FSnaqNY",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-08T14:09:21",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "557/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2736121,
-    "latitude": 48.73036994598806,
-    "longitude": -3.9821432065218687,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -60983,48 +60210,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221008_112444533.jpg",
-    "googleDriveId": "1u-eGbw8ounDNKY0EvkszXPSuRXkJ-ZPz",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-08T13:24:44",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "181/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3177132,
-    "latitude": 48.71767823584378,
-    "longitude": -3.9660643693059683,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221008_100817866.jpg",
-    "googleDriveId": "1M3NLZkw932vIyzjaaOsFvmuH3STaXAKL",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-08T12:08:17",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "97/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4422802,
-    "latitude": 48.68841273710132,
-    "longitude": -3.9579267147928476,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221008_100815061.jpg",
     "googleDriveId": "1hrr2WKNV5PJI1pQTGQpgoyTOqB-QL4D5",
     "tags": [
@@ -61043,90 +60228,6 @@
     "sizeBytes": 4400019,
     "latitude": 48.68841424584389,
     "longitude": -3.957924786955118,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221008_092727826.jpg",
-    "googleDriveId": "10u70oL9Y0hY9Ya-H0Y7Z0SHEz26wbQ7f",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-08T11:27:27",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "73/250000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4808486,
-    "latitude": 48.68546507321298,
-    "longitude": -3.972872570157051,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221008_090700699.jpg",
-    "googleDriveId": "1OhgW96O44rlfT3B1uS2uBv2OfJXE0fBn",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-08T11:07:00",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "117/250000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4130312,
-    "latitude": 48.678581435233355,
-    "longitude": -3.969312524423003,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221008_082334795.jpg",
-    "googleDriveId": "1qe61ojOUbMy1aK97wMz7jZYDb2Awz2S6",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-08T10:23:34",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "11/125000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3662500,
-    "latitude": 48.67696632631123,
-    "longitude": -3.951694769784808,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221008_080215506.jpg",
-    "googleDriveId": "1YU5VTkPU0adY7tsNJZYvze3Hk_Jmw_G2",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-08T10:02:15",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "11/125000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4061483,
-    "latitude": 48.670886009931564,
-    "longitude": -3.95096386782825,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -61277,48 +60378,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221006_181019403.jpg",
-    "googleDriveId": "1goGOuEAIDxr7ngmysPFRMTVsLfd520yh",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T20:10:19",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "41997/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3442387,
-    "latitude": 48.66823405958712,
-    "longitude": -3.925252379849553,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221006_180817263.jpg",
-    "googleDriveId": "1-9MM8SEBXBK6zjZnjJwkqO-740zAFa5I",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T20:08:17",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "41997/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3594751,
-    "latitude": 48.66908088326454,
-    "longitude": -3.924302877858281,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221006_175458242.jpg",
     "googleDriveId": "1VCehM5JKiuI19WJwf1-PIANPO6dvMfXM",
     "tags": [
@@ -61358,27 +60417,6 @@
     "sizeBytes": 3047385,
     "latitude": 48.67618639022112,
     "longitude": -3.9222615491598845,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221006_175122451.jpg",
-    "googleDriveId": "1G2gytYD_FmvdxB1hiXqM4iAE7HpuWFZn",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T19:51:22",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "697/100000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2967720,
-    "latitude": 48.676051776856184,
-    "longitude": -3.921843711286783,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -61424,111 +60462,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221006_171950320.jpg",
-    "googleDriveId": "1VBRpo_Ezas5YRmHU_-vUHNCon8_JpI7M",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T19:19:50",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "93/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3663010,
-    "latitude": 48.6706820782274,
-    "longitude": -3.903840808197856,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221006_170555211.jpg",
-    "googleDriveId": "1mtcFM8zbrtXCS4UntaK6Bi9z12Om6lsz",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T19:05:55",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "31/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3735451,
-    "latitude": 48.673699060454965,
-    "longitude": -3.900225106626749,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221006_165323992.jpg",
-    "googleDriveId": "1vr3U58IPMeHY5kcSA814W2er7mtRjlEU",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T18:53:23",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "91/100000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3726518,
-    "latitude": 48.67198194377124,
-    "longitude": -3.8951264787465334,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221006_165307279.jpg",
-    "googleDriveId": "1Zknxo6Ov4-jiKBU84hz3hQfNEsg92wdu",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T18:53:07",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "1413/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3583318,
-    "latitude": 48.67197741754353,
-    "longitude": -3.8951172586530447,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221006_165009679.jpg",
-    "googleDriveId": "1zNwGViX-7dyD8F0CAIRcCujR1aX0FQ_u",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T18:50:09",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "919/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3381008,
-    "latitude": 48.67128163576126,
-    "longitude": -3.8929149974137545,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221006_164952223.jpg",
     "googleDriveId": "1PxxorKcH0wMUysxcNsKpfyaJaoBHP8Z5",
     "tags": [
@@ -61568,48 +60501,6 @@
     "sizeBytes": 3289433,
     "latitude": 48.67104551754892,
     "longitude": -3.890558173879981,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221006_163156710.jpg",
-    "googleDriveId": "1daa5cDVUTOMBeTxjxGe7Jg1wgIJrySKn",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T18:31:56",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "203/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4841235,
-    "latitude": 48.66693142801523,
-    "longitude": -3.891240796074271,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221006_160710825.jpg",
-    "googleDriveId": "1ILv1ZtHwLClj2NbW3o1aSZOPLxVhwJal",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T18:07:10",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "539/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2827651,
-    "latitude": 48.664720030501485,
-    "longitude": -3.9022049121558666,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -61655,111 +60546,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221006_062546412.jpg",
-    "googleDriveId": "1nex3zg1OlDnQTCbnXJ4KA19vKi5q7fU6",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T08:25:46",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "1899/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3113609,
-    "latitude": 48.676123693585396,
-    "longitude": -3.922071112319827,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221006_062302740.jpg",
-    "googleDriveId": "1dza7Q4FSFDd0oJc-HJHZqW67WWzZ0RQL",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T08:23:02",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "2977/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2847574,
-    "latitude": 48.67611556313932,
-    "longitude": -3.9220756385475397,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221006_061611805.jpg",
-    "googleDriveId": "1k7fSxhCXJV3vrtMO12RnWuxAVFSwzb0G",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T08:16:11",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "3591/250000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3462564,
-    "latitude": 48.676210194826126,
-    "longitude": -3.921151952818036,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221006_060859695.jpg",
-    "googleDriveId": "1WCiQQt1n0VdU0m2s_s_yXpcSBxd-2AKb",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T08:08:59",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "13781/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3159781,
-    "latitude": 48.676486210897565,
-    "longitude": -3.921386646106839,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221006_060743217.NIGHT.jpg",
-    "googleDriveId": "1uzf6Q2BrEsUqfa217ZGuglVS7ZqHZ387",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-06T08:07:43",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "911/50000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2246810,
-    "latitude": 48.67608589120209,
-    "longitude": -3.921723933890462,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221006_060053304.jpg",
     "googleDriveId": "1xoMqWlKXX2yXJKOM4wYI249ozaW6QRtn",
     "tags": [
@@ -61802,27 +60588,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221005_173909725.jpg",
-    "googleDriveId": "19olKmJsAj-pqyOHHbTslJwyJXm0jQ8Ch",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-05T19:39:09",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "663/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3195364,
-    "latitude": 48.67333335801959,
-    "longitude": -3.898981064558029,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221005_172531040.jpg",
     "googleDriveId": "1ZLNSJoEFFhC9meHrGbNOuGP-F_QpSZlm",
     "tags": [
@@ -61841,111 +60606,6 @@
     "sizeBytes": 3011266,
     "latitude": 48.67138557136059,
     "longitude": -3.8985466305166483,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221004_174157914.jpg",
-    "googleDriveId": "10-BI9UkMTvB3toFlFle9chp3mUCkczzf",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-04T19:41:57",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "8887/250000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3262679,
-    "latitude": 48.69914165697992,
-    "longitude": -3.925606096163392,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221004_173511884.jpg",
-    "googleDriveId": "1OQX4ODNKaaOY5RanbbiCTodRwUnH3gxH",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-04T19:35:11",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "25009/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2961196,
-    "latitude": 48.696885919198394,
-    "longitude": -3.9230404794216156,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221004_173255048.jpg",
-    "googleDriveId": "12lrUIpE2ajejeoGcZGZ9d5ynpW8ilW21",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-04T19:32:55",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "947/50000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2732023,
-    "latitude": 48.69711650535464,
-    "longitude": -3.9245761279016733,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221004_172452469.jpg",
-    "googleDriveId": "1g3SfdSbt3J-JyJrxHMoB79b8a1pg4Hi7",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-04T19:24:52",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "184/15625 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3933105,
-    "latitude": 48.6918069049716,
-    "longitude": -3.9245883654803038,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221004_172356222.jpg",
-    "googleDriveId": "182gW-2LA6BjV6P877nEFiD306JxrhcqT",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-04T19:23:56",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "11051/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4047290,
-    "latitude": 48.69147649034858,
-    "longitude": -3.925005029886961,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -61970,27 +60630,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221004_170846732.jpg",
-    "googleDriveId": "13IqrUVK407Duk4ESS8sxWGG09ZmCHZk0",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-04T19:08:46",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "6051/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3158964,
-    "latitude": 48.68617879226804,
-    "longitude": -3.9217437151819468,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221004_165242016.jpg",
     "googleDriveId": "1WJ5z5_QeUhXVNceewjoeUn91ZwUpnsa_",
     "tags": [
@@ -62009,27 +60648,6 @@
     "sizeBytes": 2722563,
     "latitude": 48.67740595713258,
     "longitude": -3.924323497340083,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221004_164444462.jpg",
-    "googleDriveId": "13qCA7giIjGDCANlSLdbgFu_OAGb7vD06",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-04T18:44:44",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "857/250000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4075603,
-    "latitude": 48.67506489157677,
-    "longitude": -3.9247059635818005,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -62117,69 +60735,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221001_132525362.jpg",
-    "googleDriveId": "1kCrEXyvwXkG5qGtIQkbFwIY5Vpy7muZq",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-01T15:25:25",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "53/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4717291,
-    "latitude": 48.58737048693001,
-    "longitude": -3.8368871714919806,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221001_105541558.jpg",
-    "googleDriveId": "1wJnv7fTKscvnm9x0YQqA_IDhuFpXvEQR",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-01T12:55:41",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "539/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4316426,
-    "latitude": 48.67096949368715,
-    "longitude": -3.864496909081936,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221001_095158382.jpg",
-    "googleDriveId": "1el5wXIjJKUPT1y-uIAvSi9MzjniAj3eD",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-01T11:51:58",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "141/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4365751,
-    "latitude": 48.67680346593261,
-    "longitude": -3.8501606695353985,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221001_093231798.jpg",
     "googleDriveId": "15TO9RP3vlyRS2Npab0TqAGvPYaPR1qMt",
     "tags": [
@@ -62222,48 +60777,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221001_092608331.jpg",
-    "googleDriveId": "1IUCUat6TME6gIsl2zJK6_dXB1zi3jGA2",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-01T11:26:08",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "663/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4299664,
-    "latitude": 48.68887013755739,
-    "longitude": -3.854503585025668,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221001_084701689.jpg",
-    "googleDriveId": "1E9Qk3eddiKf8nhOoqwKl31DPFrKbxMjE",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-01T10:47:01",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "243/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4111572,
-    "latitude": 48.70642368681729,
-    "longitude": -3.8411558233201504,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221001_084609063.jpg",
     "googleDriveId": "1q2FEVbfyPAKmGsb-QQGM4Rg33XRXQUH8",
     "tags": [
@@ -62303,27 +60816,6 @@
     "sizeBytes": 3730638,
     "latitude": 48.71066886931658,
     "longitude": -3.833701880648732,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221001_083031644.jpg",
-    "googleDriveId": "1PwcZ6_Veav7WUvcxmhpO-1f6yIlgxvoy",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-01T10:30:31",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "689/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3737279,
-    "latitude": 48.711103135719895,
-    "longitude": -3.8325912784785032,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -62453,48 +60945,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221001_080727314.jpg",
-    "googleDriveId": "1geZL2zmutp6pDtoRZsxx1eqzWqX540PK",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-01T10:07:27",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "137/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4155483,
-    "latitude": 48.7128764949739,
-    "longitude": -3.8249902334064245,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221001_080330943.jpg",
-    "googleDriveId": "1FkHs1IAsbziZBFL2c5n9qOyYU535S7uP",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-01T10:03:30",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "7/200000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3980668,
-    "latitude": 48.711763713508844,
-    "longitude": -3.8272426184266806,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221001_074148617.jpg",
     "googleDriveId": "1uYrN-tBFqhXrLy7dPKoR_OpUhj3vQAOK",
     "tags": [
@@ -62558,48 +61008,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20221001_070054071.jpg",
-    "googleDriveId": "1V2K8qGmKVdhLBhkXB-6jOtv-sQLG5-wd",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-01T09:00:54",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "371/200000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4050105,
-    "latitude": 48.71696242131293,
-    "longitude": -3.819814994931221,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221001_065959177.jpg",
-    "googleDriveId": "1zoEVCp-J1bjNNF2qSIilbWI9Pp8gvteP",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-01T08:59:59",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "647/250000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3860573,
-    "latitude": 48.71704984456301,
-    "longitude": -3.8198931980878115,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20221001_065808852.jpg",
     "googleDriveId": "1j6nuzi0Dc0YPeuMNJ9o4z2lS8MbQAoWq",
     "tags": [
@@ -62639,48 +61047,6 @@
     "sizeBytes": 3613422,
     "latitude": 48.7186458427459,
     "longitude": -3.8214917946606874,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221001_065311689.jpg",
-    "googleDriveId": "1U78oEOlTYRY-Jl2IjR5lTq5JgMBavSSf",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-01T08:53:11",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "2049/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3577641,
-    "latitude": 48.71877827681601,
-    "longitude": -3.8211168721318245,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20221001_064317818.jpg",
-    "googleDriveId": "1YCSiTPN5h8LzuvSowZkWT9ExihPREr5B",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-10-01T08:43:17",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "327/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3139695,
-    "latitude": 48.71608458459377,
-    "longitude": -3.816201975569129,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -62726,90 +61092,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20220930_173923887.jpg",
-    "googleDriveId": "1FZciHtrzMGxl63Y1UszUZo8qOEp_cevB",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-30T19:39:23",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "38331/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 1557743,
-    "latitude": 48.71227593161166,
-    "longitude": -3.8104150258004665,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220930_172940976.jpg",
-    "googleDriveId": "1weQUTbiEjqW92_hsGb4_-JfFqqPmpso5",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-30T19:29:40",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "17739/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3681457,
-    "latitude": 48.71301186271012,
-    "longitude": -3.8007742445915937,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220930_154526760.jpg",
-    "googleDriveId": "1zTDcMJzE-reTjC6UkCXSAuJQ-EjSUBYO",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-30T17:45:26",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "941/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2939462,
-    "latitude": 48.708359487354755,
-    "longitude": -3.7364202551543713,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220930_154418554.jpg",
-    "googleDriveId": "1HijtDaHwZ2n0kxXK_Tl4Kz6RXZg0Z7I9",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-30T17:44:18",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "1961/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2797871,
-    "latitude": 48.70805966667831,
-    "longitude": -3.7356652971357107,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20220930_151837619.jpg",
     "googleDriveId": "1H1AWkONBktSfHNDOMd98m8is0FzObqk6",
     "tags": [
@@ -62828,27 +61110,6 @@
     "sizeBytes": 3334774,
     "latitude": 48.7038950342685,
     "longitude": -3.719043480232358,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220930_150623165.jpg",
-    "googleDriveId": "1aUAbwTr0nruxsXrvF3kRORbF2ExvLEFI",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-30T17:06:23",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "1369/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2350721,
-    "latitude": 48.70132740586996,
-    "longitude": -3.7187793664634228,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -62873,27 +61134,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20220928_163537649.jpg",
-    "googleDriveId": "12BCg9IJfu4UMuVSTn1E1ZZsYWVl6leyF",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-28T18:35:37",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "247/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3008537,
-    "latitude": 48.690828904509544,
-    "longitude": -3.6455402243882418,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20220928_161518537.jpg",
     "googleDriveId": "1wGWDjLnFAPALxfueM6vP761m1JODVXwa",
     "tags": [
@@ -62912,27 +61152,6 @@
     "sizeBytes": 3249567,
     "latitude": 48.694033306092024,
     "longitude": -3.651049565523863,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220928_160829065.jpg",
-    "googleDriveId": "1vFwgBLMkSDT2qR3r-wur0V8xo2W4qGHC",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-28T18:08:29",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "3/20000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3671945,
-    "latitude": 48.695772383362055,
-    "longitude": -3.656259421259165,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -62999,48 +61218,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20220925_125354149.jpg",
-    "googleDriveId": "12sUfz-LIkZayJflX8F84v2wjAjTrWJxH",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-25T14:53:54",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "199/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3335668,
-    "latitude": 48.679412165656686,
-    "longitude": -3.6379602178931236,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220925_123824777.jpg",
-    "googleDriveId": "1i69_Ym2X7q0c-s2IYZIJH1W3rRQy3IV3",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-25T14:38:24",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "371/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2197785,
-    "latitude": 48.681892370805144,
-    "longitude": -3.631612602621317,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20220925_120539257.jpg",
     "googleDriveId": "1jjzhXirDN60S3DXIt9WOnbHTOH-cNdZP",
     "tags": [
@@ -63059,48 +61236,6 @@
     "sizeBytes": 6849316,
     "latitude": 48.68386429734528,
     "longitude": -3.6190913803875446,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220925_115553249.jpg",
-    "googleDriveId": "17aSlN7MQ8w753ct3g3ycgCrkghKZ6ML0",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-25T13:55:53",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "133/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4043496,
-    "latitude": 48.68386312387884,
-    "longitude": -3.613275932148099,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220925_111946314.jpg",
-    "googleDriveId": "1hGd9LZCTUjrt-_ltsDoY0kUUPFY3hOj0",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-25T13:19:46",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "83/200000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 5407068,
-    "latitude": 48.66947676055133,
-    "longitude": -3.6093761678785086,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -63146,48 +61281,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20220925_095712698.jpg",
-    "googleDriveId": "1fwUxGRF3kcpBxNuWYdZmUiOh1E8uC0OE",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-25T11:57:12",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "73/250000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2938963,
-    "latitude": 48.67549027316272,
-    "longitude": -3.5745237953960896,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220925_095242893.jpg",
-    "googleDriveId": "1w235z3LI9Sj-k2_BIh9BXa6XCbRkEMs-",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-25T11:52:42",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "371/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2225031,
-    "latitude": 48.67702893912792,
-    "longitude": -3.572295969352126,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20220925_094750134.jpg",
     "googleDriveId": "138oUsSFUOHTZ98DhQnZXIC201R4lT18m",
     "tags": [
@@ -63206,69 +61299,6 @@
     "sizeBytes": 2669400,
     "latitude": 48.67959497496486,
     "longitude": -3.5699813067913055,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220925_092644761.jpg",
-    "googleDriveId": "1tUo7u_s8AW8-ZWtXpL58oBo7CffILIZW",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-25T11:26:44",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "23/200000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4276915,
-    "latitude": 48.68726232089102,
-    "longitude": -3.573411600664258,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220925_091550077.jpg",
-    "googleDriveId": "1Epth_Yh_2XrgLb460iO6Dxs8SU015DFR",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-25T11:15:50",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "1/12500 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4386041,
-    "latitude": 48.68946332484484,
-    "longitude": -3.582188207656145,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220925_072910094.jpg",
-    "googleDriveId": "1aFgupKlly88heaJV_ai21vGNm7F4lnZA",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-25T09:29:10",
-    "timeZone": "+02:00",
-    "height": 255,
-    "width": 192,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "11369/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 6870854,
-    "latitude": 48.72825812548399,
-    "longitude": -3.563925800845027,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -63311,90 +61341,6 @@
     "sizeBytes": 6751811,
     "latitude": 48.729859152808785,
     "longitude": -3.5613993275910616,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220925_071227750.jpg",
-    "googleDriveId": "1JIWrnhgJfHYDdbOJwDSibtAE4ot8i8tK",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-25T09:12:27",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "97/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 5331059,
-    "latitude": 48.72980961576104,
-    "longitude": -3.561454564332962,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220925_063959848.jpg",
-    "googleDriveId": "14NZWv8-_hkKcPrhvBZyd1k4h2LLfx5PW",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-25T08:39:59",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "659/200000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4394814,
-    "latitude": 48.72817053459585,
-    "longitude": -3.5355545673519373,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220924_180029046.jpg",
-    "googleDriveId": "1Fsd6Mtd5MMVC4D8r3y-JTNML0akL85GJ",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-24T20:00:29",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "411/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2644400,
-    "latitude": 48.730387883260846,
-    "longitude": -3.5366609785705805,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220924_175550030.jpg",
-    "googleDriveId": "1Gal3WgkDMRzWcwbmL8zVysPVJcF4daLv",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-24T19:55:50",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "7509/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3891036,
-    "latitude": 48.73041462153196,
-    "longitude": -3.5366703663021326,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -63458,48 +61404,6 @@
     "sizeBytes": 5378322,
     "latitude": 48.73275845311582,
     "longitude": -3.517504893243313,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220924_093134465.jpg",
-    "googleDriveId": "1BUMZy93uGWfpuQNAmpXIRKjpv_JA8aKP",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-24T11:31:34",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "309/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4568555,
-    "latitude": 48.7350233271718,
-    "longitude": -3.511142022907734,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220924_092332369.jpg",
-    "googleDriveId": "14ZPDAZR0QqhE8OOhCYwCFZyxRQGi_3E6",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-24T11:23:32",
-    "timeZone": "+02:00",
-    "height": 192,
-    "width": 255,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "93/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 7452490,
-    "latitude": 48.73437138274312,
-    "longitude": -3.5190076008439064,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -63587,27 +61491,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20220924_071356615.jpg",
-    "googleDriveId": "1hM7XGG3agsUq5fcPSZ2-hJbIAZjaWrU9",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-24T09:13:56",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "8/15625 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2947721,
-    "latitude": 48.7589128408581,
-    "longitude": -3.5788024216890335,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20220924_065254935.jpg",
     "googleDriveId": "16jQ87EuZAG2fn8dHFtnziT46q5kvaWwO",
     "tags": [
@@ -63647,27 +61530,6 @@
     "sizeBytes": 3542071,
     "latitude": 48.76810871064663,
     "longitude": -3.585311807692051,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220924_061522506.jpg",
-    "googleDriveId": "1S2K6ReVfxwapnQwpRLfcaSdSn2JS-U5N",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-24T08:15:22",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "583/200000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3359948,
-    "latitude": 48.768868865445256,
-    "longitude": -3.5873464308679104,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -63713,27 +61575,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20220923_150435735.jpg",
-    "googleDriveId": "1m9cAiy-l2z02EIb3Oaxhlg6TeOE5SgCK",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-23T17:04:35",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "6789/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 7893247,
-    "latitude": 48.78416642546654,
-    "longitude": -3.561770897358656,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20220922_093436860.jpg",
     "googleDriveId": "1PMvLWGJ4v5IM8Eu09mJVik4vhhbv8gPJ",
     "tags": [
@@ -63755,48 +61596,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20220922_091725225.jpg",
-    "googleDriveId": "1ACZA5icfd-YXmaRSUfkLToqTkQ63KNlR",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-22T11:17:25",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "141/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3847821,
-    "latitude": 48.81245283409953,
-    "longitude": -3.5766317602247,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220922_090704394.jpg",
-    "googleDriveId": "1gsijXm6I42LmlfZOzw_OtEJMGM7sv3d6",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-22T11:07:04",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "159/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4136791,
-    "latitude": 48.81134985946119,
-    "longitude": -3.5745682194828987,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20220920_181216543.jpg",
     "googleDriveId": "1JGt5c68buQhUOK6BQTABvc-U9LMLy0ky",
     "tags": [
@@ -63815,27 +61614,6 @@
     "sizeBytes": 2923017,
     "latitude": 48.79471060819924,
     "longitude": -3.586566997691989,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220920_175223141.jpg",
-    "googleDriveId": "1CMwkN6n8QAtHnSL3lmMMSVvls12UzGYo",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-20T19:52:23",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "387/200000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3563602,
-    "latitude": 48.80045883357525,
-    "longitude": -3.588505145162344,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -63881,90 +61659,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20220920_172847700.jpg",
-    "googleDriveId": "1FqCCIU4z0VgVzVALpW1-DHrMx6t2IeDg",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-20T19:28:47",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "1/12500 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2853576,
-    "latitude": 48.805875554680824,
-    "longitude": -3.5864584520459175,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220920_172622495.jpg",
-    "googleDriveId": "17eO9F8WkXV2tdV7O33mUTW1toc0NEU6X",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-20T19:26:22",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "203/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3431829,
-    "latitude": 48.80589483305812,
-    "longitude": -3.5863874573260546,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220920_170653334.jpg",
-    "googleDriveId": "181SQGqoiTWEFG9ihLkKqc1bnO89Vw5_0",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-20T19:06:53",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "901/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3647413,
-    "latitude": 48.8058162946254,
-    "longitude": -3.574955463409424,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220920_165905289.jpg",
-    "googleDriveId": "13c_eLHm41jl_RCfN71DPFiWT_ajNLvKG",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-20T18:59:05",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "433/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3552232,
-    "latitude": 48.80745654925704,
-    "longitude": -3.5701626911759377,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20220920_164739020.jpg",
     "googleDriveId": "1AQ54OXARKTTay2jQlipYp-tdIm2nh4JU",
     "tags": [
@@ -64007,27 +61701,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20220919_184244380.jpg",
-    "googleDriveId": "1t7wmnGBU9U7H1n27-EHE4qm6ncz6n6Jd",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-19T20:42:44",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "35239/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3518331,
-    "latitude": 48.790084552019835,
-    "longitude": -3.5695754550397396,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20220919_184040410.jpg",
     "googleDriveId": "1eCBdvMCGICXlQaZyeyQidn9yA1_F7Oo4",
     "tags": [
@@ -64067,90 +61740,6 @@
     "sizeBytes": 3727092,
     "latitude": 48.78813819028437,
     "longitude": -3.5823061410337687,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220919_175301194.jpg",
-    "googleDriveId": "1BaTTafvYzhazZDq0hvD6JLPlvWH_J_4m",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-19T19:53:01",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "159/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4218418,
-    "latitude": 48.78726881928742,
-    "longitude": -3.581604240462184,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220919_175238984.jpg",
-    "googleDriveId": "1QsO7jCgAWKX4edXf9NOPTZyvd7hfTb-6",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-19T19:52:38",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "53/40000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4456960,
-    "latitude": 48.78722665831447,
-    "longitude": -3.581503741443157,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220918_115532988.jpg",
-    "googleDriveId": "1a4nxbom6OoGjyK1Ae9C1pmWw2ntHhRmm",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-18T13:55:32",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "21/125000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4064956,
-    "latitude": 48.812070451676846,
-    "longitude": -3.547819135710597,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220918_102939898.jpg",
-    "googleDriveId": "1M6WIr9aIevfckRz_5BmdGEizxNfs9RrF",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-18T12:29:39",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "53/125000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3914689,
-    "latitude": 48.8174485322088,
-    "longitude": -3.5395177826285362,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -64238,48 +61827,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20220918_080454670.jpg",
-    "googleDriveId": "18A0a8sQE2NW-XID3hAxSA6csW2EIc6c4",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-18T10:04:54",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "53/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3924108,
-    "latitude": 48.836217038333416,
-    "longitude": -3.5017841309309006,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220918_080036785.jpg",
-    "googleDriveId": "1MOyfMzvJ9mRJ2BeQfoYiVruNthkh7uU3",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-18T10:00:36",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "97/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4100548,
-    "latitude": 48.83390807546675,
-    "longitude": -3.5045428667217493,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20220918_075934301.jpg",
     "googleDriveId": "1sUqSbakfVRFaScr9z6RHbO7YKHbZELpO",
     "tags": [
@@ -64298,27 +61845,6 @@
     "sizeBytes": 3589614,
     "latitude": 48.83353726007044,
     "longitude": -3.5046697687357664,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220918_072259709.jpg",
-    "googleDriveId": "167GGC4qQ8PJr8SlXg-XwWh-cB9GTknmr",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-18T09:22:59",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "17/25000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3929204,
-    "latitude": 48.829437755048275,
-    "longitude": -3.498799419030547,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -64364,48 +61890,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20220918_055343402.jpg",
-    "googleDriveId": "1c-3l3-hk9Tp8HuFpY6RbFt02vFurBWol",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-18T07:53:43",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "12103/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3964125,
-    "latitude": 48.826123885810375,
-    "longitude": -3.485943004488945,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220917_184525319.jpg",
-    "googleDriveId": "1NuGmk1DTCwg1XKMFdJkt2-bLaP-bZewM",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-17T20:45:25",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "5053/200000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2262268,
-    "latitude": 48.836281495168805,
-    "longitude": -3.4837263263761997,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20220917_184208069.jpg",
     "googleDriveId": "1PjVdYTurRqNagxMjVhJ98L8geUbKTsW-",
     "tags": [
@@ -64427,27 +61911,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20220917_183612410.jpg",
-    "googleDriveId": "1iBF_52if9Quhs5iw8CQ-B_f8SueXw6LF",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-17T20:36:12",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "39479/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2699776,
-    "latitude": 48.837562669068575,
-    "longitude": -3.4832416847348213,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20220917_182742245.jpg",
     "googleDriveId": "15o-RTsXjLufcD--GVlGMXh4TnKKeeWXp",
     "tags": [
@@ -64466,27 +61929,6 @@
     "sizeBytes": 3051654,
     "latitude": 48.83634268306196,
     "longitude": -3.4839178528636694,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220917_181157756.jpg",
-    "googleDriveId": "1WK_9PsXlfRwFKd5H2A6T_wWER9gVtIdo",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-17T20:11:57",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "69/200000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3152021,
-    "latitude": 48.83566911332309,
-    "longitude": -3.4857378154993057,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -64574,27 +62016,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20220917_131413045.jpg",
-    "googleDriveId": "1wy0Nbm-EahSNURPoz8oQPt0Qb-X9y8Im",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-17T15:14:13",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "99/200000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4050943,
-    "latitude": 48.83641527034342,
-    "longitude": -3.480106433853507,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20220917_131221998.jpg",
     "googleDriveId": "1T6jcEXf-Gzzb_nZJUgDdP5GTo8UikCsn",
     "tags": [
@@ -64679,48 +62100,6 @@
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
-    "name": "PXL_20220917_124712044.jpg",
-    "googleDriveId": "1B1uNZo8izFTuhllTmhhNi4EMpi_lwFHH",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-17T14:47:12",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "243/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4352160,
-    "latitude": 48.834696812555194,
-    "longitude": -3.474998502060771,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220917_124448829.jpg",
-    "googleDriveId": "1uBs2M8GxrMSq5OCKHJ4CezW7IGbRhQgm",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-17T14:44:48",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "97/500000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 4013516,
-    "latitude": 48.83420865051448,
-    "longitude": -3.4752194490283728,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
     "name": "PXL_20220917_123617261.jpg",
     "googleDriveId": "1Is0qt94E1mm756Y-UKE-H2EIZILL6iCC",
     "tags": [
@@ -64739,48 +62118,6 @@
     "sizeBytes": 4425260,
     "latitude": 48.83336568251252,
     "longitude": -3.474822985008359,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220917_123503112.jpg",
-    "googleDriveId": "12IcubVTXgOrrFPl1Rhu6b6XcewlPsVA_",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-17T14:35:03",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "4/15625 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 5808783,
-    "latitude": 48.83332603611052,
-    "longitude": -3.4746694285422564,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220917_123152207.jpg",
-    "googleDriveId": "1CsC87LBK0SugjoR2-mW1-NfoJUM2DQOd",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-17T14:31:52",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "177/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 5208120,
-    "latitude": 48.83332804776728,
-    "longitude": -3.4748448617756367,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -64844,27 +62181,6 @@
     "sizeBytes": 3933188,
     "latitude": 48.819241002202034,
     "longitude": -3.4431335236877203,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220917_104452566.jpg",
-    "googleDriveId": "14V8R7WbOU9J6ag2ZDfQnxAeTvXiCENtf",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-17T12:44:52",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "137/250000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3817423,
-    "latitude": 48.81997458636761,
-    "longitude": -3.4352604020386934,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {
@@ -64991,27 +62307,6 @@
     "sizeBytes": 3835970,
     "latitude": 48.803855599835515,
     "longitude": -3.44305825419724,
-    "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
-  },
-  {
-    "name": "PXL_20220917_083202956.jpg",
-    "googleDriveId": "1nAB2dc07s73jcYkZuwZYz6zxHv_ewUua",
-    "tags": [
-      "Bretagne"
-    ],
-    "description": "",
-    "dateTime": "2022-09-17T10:32:02",
-    "timeZone": "+02:00",
-    "height": 384,
-    "width": 510,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "83/200000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 2412462,
-    "latitude": 48.802796797826886,
-    "longitude": -3.442907128483057,
     "multiDayHike": "GR34 - Sentier des Douaniers (Lannion => Roscoff)"
   },
   {

@@ -17,16 +17,20 @@ function drawWishListHikesDisplayButton(mapContainer, buttonsContainer, mapPageS
       if (mapPageState.displayWishList) {
         mapPageState.displayWishList = false;
         setOpacityOnWishListHikes(0);
-        newTooltipText = "Show hikes I plan on doing";
+        newTooltipText = "Hikes wishlist";
       } else {
         mapPageState.displayWishList = true;
         setOpacityOnWishListHikes(1);
-        newTooltipText = "Hide hikes I plan on doing";
+        newTooltipText = "Hide hikes wishlist";
       }
       drawWishListHikes5kmMarks(mapContainer, mapPageState.displayWishList, mapPageState.previousZoom >= constants.wishList5kmMarkersAndLocationsMinZoom, projection);
       drawWishlistHikesLocationsIcons(mapContainer, mapPageState.displayWishList, mapPageState.previousZoom >= constants.wishList5kmMarkersAndLocationsMinZoom, projection);
       transformWishlistHikes5kmMarkersAndLocationsIconsForZoomAndPosition(mapContainer, mapPageState.previousTransform, projection);
-      attachTooltipToButton("wishlist-switch", newTooltipText, -90, 38);
+      if (mapPageState.displayWishList) {
+        attachTooltipToButton("wishlist-switch", newTooltipText, -67, 38);
+      } else {
+        attachTooltipToButton("wishlist-switch", newTooltipText, -51, 38);
+      }
       clearTooltip();
     },
     "sandglass.png",
@@ -35,7 +39,7 @@ function drawWishListHikesDisplayButton(mapContainer, buttonsContainer, mapPageS
     false
   );
 
-  attachTooltipToButton("wishlist-switch", "Show hikes I plan on doing", -90, 38);
+  attachTooltipToButton("wishlist-switch", "Hikes wishlist", -51, 38);
 }
 
 function transformWishlistHikes5kmMarkersAndLocationsIconsForZoomAndPosition(mapContainer, transform, projection) {

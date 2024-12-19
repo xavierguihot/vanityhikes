@@ -56835,27 +56835,6 @@
     "longitude": 2.379667153581977
   },
   {
-    "name": "P1001104.JPG",
-    "googleDriveId": "1FKTNqIE6DpxlMFk17QWifmUjwMW0AYGD",
-    "tags": [
-      "Ile de France",
-      "Paris"
-    ],
-    "description": "",
-    "dateTime": "2022-12-10T11:40:36",
-    "timeZone": "+01:00",
-    "height": 3648,
-    "width": 5472,
-    "cameraMaker": "Panasonic",
-    "cameraModel": "DC-TZ200",
-    "exposureTime": "1/1000 sec",
-    "fNumber": "f/3.6",
-    "focalLength": "12 mm",
-    "sizeBytes": 9733120,
-    "latitude": 48.88469620607793,
-    "longitude": 2.372950315475464
-  },
-  {
     "name": "P1001093.JPG",
     "googleDriveId": "1iGCRHDbYo3-4EtdAsOmDoonQOZ6Athpc",
     "tags": [
@@ -57210,46 +57189,6 @@
     "longitude": 2.2497891448438168
   },
   {
-    "name": "P1000867.JPG",
-    "googleDriveId": "1EdbbgQL6iShktFkMv20ufK0JTggSO7bx",
-    "tags": [
-      "Ile de France"
-    ],
-    "description": "",
-    "dateTime": "2022-12-07T19:23:19",
-    "timeZone": "+01:00",
-    "height": 5472,
-    "width": 3648,
-    "cameraMaker": "Panasonic",
-    "cameraModel": "DC-TZ200",
-    "exposureTime": "1/30 sec",
-    "fNumber": "f/3.9",
-    "focalLength": "14.4 mm",
-    "sizeBytes": 9077248,
-    "latitude": 48.89122168533504,
-    "longitude": 2.2472386993467808
-  },
-  {
-    "name": "P1000861.JPG",
-    "googleDriveId": "1I5Cx_jmwF1loF4t7fulGyCB6vY5xzhTy",
-    "tags": [
-      "Ile de France"
-    ],
-    "description": "",
-    "dateTime": "2022-12-07T19:22:51",
-    "timeZone": "+01:00",
-    "height": 5472,
-    "width": 3648,
-    "cameraMaker": "Panasonic",
-    "cameraModel": "DC-TZ200",
-    "exposureTime": "0.1 sec",
-    "fNumber": "f/4.1",
-    "focalLength": "17.1 mm",
-    "sizeBytes": 8172032,
-    "latitude": 48.890873081982136,
-    "longitude": 2.246636124327779
-  },
-  {
     "name": "P1000853.JPG",
     "googleDriveId": "1FDjcQGczJM_EANeKnZqfdy6_wDLHguXl",
     "tags": [
@@ -57350,26 +57289,6 @@
     "longitude": 2.237909473478794
   },
   {
-    "name": "P1000765.JPG",
-    "googleDriveId": "1Vcikfpc5Xc5zvOPHvTvgQAusFR192ylN",
-    "tags": [
-      "Ile de France"
-    ],
-    "description": "",
-    "dateTime": "2022-12-07T18:42:36",
-    "timeZone": "+01:00",
-    "height": 5472,
-    "width": 3648,
-    "cameraMaker": "Panasonic",
-    "cameraModel": "DC-TZ200",
-    "exposureTime": "1/13 sec",
-    "fNumber": "f/3.3",
-    "focalLength": "8.8 mm",
-    "sizeBytes": 6851072,
-    "latitude": 48.89078884385526,
-    "longitude": 2.2342383675277233
-  },
-  {
     "name": "PXL_20221207_173820053.jpg",
     "googleDriveId": "1-HvW4ZSLPm3wXeYFhRsgJQ_j6NCQNLgh",
     "tags": [
@@ -57388,26 +57307,6 @@
     "sizeBytes": 3917357,
     "latitude": 48.89177539385855,
     "longitude": 2.2329100035130978
-  },
-  {
-    "name": "P1000749.JPG",
-    "googleDriveId": "1qKpCNwEnsHwkftjI3KbPkNwz3BQQ9mpf",
-    "tags": [
-      "Ile de France"
-    ],
-    "description": "",
-    "dateTime": "2022-12-07T18:37:44",
-    "timeZone": "+01:00",
-    "height": 5472,
-    "width": 3648,
-    "cameraMaker": "Panasonic",
-    "cameraModel": "DC-TZ200",
-    "exposureTime": "0.02 sec",
-    "fNumber": "f/3.3",
-    "focalLength": "8.8 mm",
-    "sizeBytes": 9252352,
-    "latitude": 48.89199659228325,
-    "longitude": 2.2327144537121058
   },
   {
     "name": "P1000741.JPG",
@@ -57951,27 +57850,6 @@
     "longitude": 2.358801495283842
   },
   {
-    "name": "P1000470.JPG",
-    "googleDriveId": "1Fx6c-AKw5qPQiFRMzbi0vY4yE--BPBxv",
-    "tags": [
-      "Ile de France",
-      "Paris"
-    ],
-    "description": "",
-    "dateTime": "2022-11-26T09:32:11",
-    "timeZone": "+01:00",
-    "height": 5472,
-    "width": 3648,
-    "cameraMaker": "Panasonic",
-    "cameraModel": "DC-TZ200",
-    "exposureTime": "1/1300 sec",
-    "fNumber": "f/8.0",
-    "focalLength": "45.4 mm",
-    "sizeBytes": 8151552,
-    "latitude": 48.84982103481889,
-    "longitude": 2.3586300015449524
-  },
-  {
     "name": "P1000467.JPG",
     "googleDriveId": "1FQHfmyKhQA0Et-kyP0lyC0RNrBdjqtSO",
     "tags": [
@@ -58179,26 +58057,6 @@
     "longitude": 1.9916985277086496
   },
   {
-    "name": "P1000396.JPG",
-    "googleDriveId": "1lYUXOfUT05EyEPeaSz4FQiUwOMXnT-Hg",
-    "tags": [
-      "Vosges"
-    ],
-    "description": "",
-    "dateTime": "2022-11-13T11:34:30",
-    "timeZone": "+01:00",
-    "height": 3648,
-    "width": 5472,
-    "cameraMaker": "Panasonic",
-    "cameraModel": "DC-TZ200",
-    "exposureTime": "1/640 sec",
-    "fNumber": "f/4.0",
-    "focalLength": "15.4 mm",
-    "sizeBytes": 8905216,
-    "latitude": 48.3085907343775,
-    "longitude": 7.425511423498392
-  },
-  {
     "name": "P1000391.JPG",
     "googleDriveId": "1L7g5Kxfy8sflXhQORH70tP4AnVNv2Xtv",
     "tags": [
@@ -58279,26 +58137,6 @@
     "longitude": 7.435637516900897
   },
   {
-    "name": "P1000373.JPG",
-    "googleDriveId": "1YqENb_Qe8tbdihsKmmHnpJ7ZLWdYolw5",
-    "tags": [
-      "Vosges"
-    ],
-    "description": "",
-    "dateTime": "2022-11-12T16:06:52",
-    "timeZone": "+01:00",
-    "height": 5472,
-    "width": 3648,
-    "cameraMaker": "Panasonic",
-    "cameraModel": "DC-TZ200",
-    "exposureTime": "1/60 sec",
-    "fNumber": "f/5.8",
-    "focalLength": "58.5 mm",
-    "sizeBytes": 10416128,
-    "latitude": 48.29098043963313,
-    "longitude": 7.404613997787237
-  },
-  {
     "name": "P1000364.JPG",
     "googleDriveId": "18BxRy11uEZsouC0jDcp4sU5Ha6X8qlzR",
     "tags": [
@@ -58319,46 +58157,6 @@
     "longitude": 7.388802794739604
   },
   {
-    "name": "P1000360.JPG",
-    "googleDriveId": "1xZ3r5LQ4L1DTJw1RdlwyXXdGTEwilqt9",
-    "tags": [
-      "Vosges"
-    ],
-    "description": "",
-    "dateTime": "2022-11-12T15:07:35",
-    "timeZone": "+01:00",
-    "height": 5472,
-    "width": 3648,
-    "cameraMaker": "Panasonic",
-    "cameraModel": "DC-TZ200",
-    "exposureTime": "1/800 sec",
-    "fNumber": "f/3.5",
-    "focalLength": "10.4 mm",
-    "sizeBytes": 6725120,
-    "latitude": 48.2962332945317,
-    "longitude": 7.3916001711040735
-  },
-  {
-    "name": "P1000350.JPG",
-    "googleDriveId": "1ksYrSy3KLnmlaxBUweFPohBLG6gq5wli",
-    "tags": [
-      "Vosges"
-    ],
-    "description": "",
-    "dateTime": "2022-11-12T14:59:11",
-    "timeZone": "+01:00",
-    "height": 5472,
-    "width": 3648,
-    "cameraMaker": "Panasonic",
-    "cameraModel": "DC-TZ200",
-    "exposureTime": "1/200 sec",
-    "fNumber": "f/4.6",
-    "focalLength": "25.2 mm",
-    "sizeBytes": 7788032,
-    "latitude": 48.29554899595678,
-    "longitude": 7.392230741679668
-  },
-  {
     "name": "P1000344.JPG",
     "googleDriveId": "1MZmzmgAK4GNCa0LwqDG3gbGb4Wjdo0cy",
     "tags": [
@@ -58377,26 +58175,6 @@
     "sizeBytes": 7655424,
     "latitude": 48.29882715828717,
     "longitude": 7.393841156736016
-  },
-  {
-    "name": "P1000338.JPG",
-    "googleDriveId": "1N4qpQH1Nf2fgwi5H2tT8xiasg5mZW5GA",
-    "tags": [
-      "Vosges"
-    ],
-    "description": "",
-    "dateTime": "2022-11-12T14:50:29",
-    "timeZone": "+01:00",
-    "height": 5472,
-    "width": 3648,
-    "cameraMaker": "Panasonic",
-    "cameraModel": "DC-TZ200",
-    "exposureTime": "1/80 sec",
-    "fNumber": "f/3.4",
-    "focalLength": "10.1 mm",
-    "sizeBytes": 10129920,
-    "latitude": 48.29891474917531,
-    "longitude": 7.393994713202119
   },
   {
     "name": "P1000325.JPG",
@@ -58494,23 +58272,6 @@
     "sizeBytes": 5991424,
     "latitude": 48.254897855222225,
     "longitude": 7.453100038692355
-  },
-  {
-    "name": "P1000275.JPG",
-    "googleDriveId": "1RFdGxUT8aVwY_SwihocSbmFQaoxBYcCC",
-    "description": "",
-    "dateTime": "2022-11-11T15:48:25",
-    "timeZone": "+01:00",
-    "height": 5472,
-    "width": 3648,
-    "cameraMaker": "Panasonic",
-    "cameraModel": "DC-TZ200",
-    "exposureTime": "1/320 sec",
-    "fNumber": "f/3.3",
-    "focalLength": "8.8 mm",
-    "sizeBytes": 10894336,
-    "latitude": 48.25529096648097,
-    "longitude": 7.451691376045346
   },
   {
     "name": "P1000274.JPG",
@@ -58734,23 +58495,6 @@
     "longitude": 7.756274230778217
   },
   {
-    "name": "P1000156.JPG",
-    "googleDriveId": "1ksNIZIl0LcP7mzolcnWu0WiqBOSgnrLC",
-    "description": "",
-    "dateTime": "2022-11-11T09:25:43",
-    "timeZone": "+01:00",
-    "height": 3648,
-    "width": 5472,
-    "cameraMaker": "Panasonic",
-    "cameraModel": "DC-TZ200",
-    "exposureTime": "1/320 sec",
-    "fNumber": "f/3.8",
-    "focalLength": "13.4 mm",
-    "sizeBytes": 7107584,
-    "latitude": 48.58209089376032,
-    "longitude": 7.75048459880054
-  },
-  {
     "name": "P1000125.JPG",
     "googleDriveId": "1UVTZ16MS3U14KU7Z9txiBuAL3cZi1XPb",
     "description": "",
@@ -58834,23 +58578,6 @@
     "sizeBytes": 5754880,
     "latitude": 48.58062481507659,
     "longitude": 7.741787116974592
-  },
-  {
-    "name": "P1000079.JPG",
-    "googleDriveId": "1eqlRly5fLXr9vHy-4p-2yqGGClSQwWIW",
-    "description": "",
-    "dateTime": "2022-11-11T08:38:28",
-    "timeZone": "+01:00",
-    "height": 5472,
-    "width": 3648,
-    "cameraMaker": "Panasonic",
-    "cameraModel": "DC-TZ200",
-    "exposureTime": "1/320 sec",
-    "fNumber": "f/4.1",
-    "focalLength": "17.1 mm",
-    "sizeBytes": 6043136,
-    "latitude": 48.580631939694285,
-    "longitude": 7.741787368431687
   },
   {
     "name": "P1000067.JPG",
@@ -59022,23 +58749,6 @@
     "fNumber": "f/1.9",
     "focalLength": "6.8 mm",
     "sizeBytes": 3536075
-  },
-  {
-    "name": "PXL_20221027_151259410.jpg",
-    "googleDriveId": "1GIeaSXgT8Y8kIiDI28ga6F-K5KG2bTR_",
-    "description": "",
-    "dateTime": "2022-10-27T17:12:59",
-    "timeZone": "+02:00",
-    "height": 510,
-    "width": 384,
-    "cameraMaker": "Google",
-    "cameraModel": "Pixel 6",
-    "exposureTime": "433/1000000 sec",
-    "fNumber": "f/1.9",
-    "focalLength": "6.8 mm",
-    "sizeBytes": 3368097,
-    "latitude": 49.18339001946151,
-    "longitude": -0.3452683612704277
   },
   {
     "name": "PXL_20221022_081750159.jpg",
@@ -62117,26 +61827,6 @@
     "multiDayHike": "Sud des Écrins"
   },
   {
-    "name": "IMG_20220904_085800_676.jpg",
-    "googleDriveId": "1PXh9XzfYer7yAeSQeMHyQXYqzNS0CecQ",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-04T08:58:00",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "1597/1000000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 5404391,
-    "latitude": 44.915420562028885,
-    "longitude": 6.511904429644346,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
     "name": "IMG_20220903_114841_410.jpg",
     "googleDriveId": "1cobKiX_5zKo17HdWKoB3Nvobin-lxxeH",
     "tags": [
@@ -62197,46 +61887,6 @@
     "multiDayHike": "Sud des Écrins"
   },
   {
-    "name": "IMG_20220903_111346_142.jpg",
-    "googleDriveId": "1yEQHmGoGWafBpj2HQTTeV1VcRgJoXoM4",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-03T11:13:45",
-    "height": 4096,
-    "width": 3072,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "13/15625 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 6987858,
-    "latitude": 44.91896736435592,
-    "longitude": 6.3855459820479155,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220903_110622_239.jpg",
-    "googleDriveId": "1vveSQnppuRDUJl7LKDTSBpaUHU3E4RwZ",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-03T11:06:22",
-    "height": 4096,
-    "width": 3072,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "457/1000000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 6084375,
-    "latitude": 44.91913349367678,
-    "longitude": 6.386225754395127,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
     "name": "IMG_20220903_110121_606.jpg",
     "googleDriveId": "1XPkYnhayDu52yB6LlWGFc2gn3J8Y142c",
     "tags": [
@@ -62257,26 +61907,6 @@
     "multiDayHike": "Sud des Écrins"
   },
   {
-    "name": "IMG_20220903_105014_663.jpg",
-    "googleDriveId": "1yY6dzqhMdNFPBXxwg3_injBWPkb-MJwE",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-03T10:50:14",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "2811/1000000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 6869745,
-    "latitude": 44.92127708159387,
-    "longitude": 6.392863299697638,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
     "name": "IMG_20220903_104503_167.jpg",
     "googleDriveId": "1Q0HOsE7aQ4Vgz_-FAZu2yo5HdHdLmQoV",
     "tags": [
@@ -62294,26 +61924,6 @@
     "sizeBytes": 5025915,
     "latitude": 44.921786952763796,
     "longitude": 6.394528783857822,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220903_104405_775.jpg",
-    "googleDriveId": "14lV-8YKxX3QSkjECRmI79KNv6myIk2PE",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-03T10:44:05",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "1229/500000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 4737665,
-    "latitude": 44.921898851171136,
-    "longitude": 6.394912842661142,
     "multiDayHike": "Sud des Écrins"
   },
   {
@@ -62437,26 +62047,6 @@
     "multiDayHike": "Sud des Écrins"
   },
   {
-    "name": "IMG_20220903_081749_368.jpg",
-    "googleDriveId": "1XsshLsX6y_g4lOxEQaJz99bNpEIMbvKs",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-03T08:17:49",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "2601/500000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 6459010,
-    "latitude": 44.94475948624313,
-    "longitude": 6.405845861881971,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
     "name": "IMG_20220903_081516_141.jpg",
     "googleDriveId": "16fKFqxgaeXJvF9Rle6q1Wu6VoXwGVQXP",
     "tags": [
@@ -62474,66 +62064,6 @@
     "sizeBytes": 6832712,
     "latitude": 44.944782201200724,
     "longitude": 6.40585164539516,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220903_081412_681.jpg",
-    "googleDriveId": "1tFjVREqtyrJ13Pplu4QOT1LsmF8A-rd7",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-03T08:14:12",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "9179/1000000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 5900911,
-    "latitude": 44.94477222673595,
-    "longitude": 6.405858350917697,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220903_073841_207.jpg",
-    "googleDriveId": "1ENYNoM41f9XvkKbPa1OimF-YYhQzdXW7",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-03T07:38:41",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "4999/250000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 6404528,
-    "latitude": 44.94784729555249,
-    "longitude": 6.399246621876955,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220903_072900_846.jpg",
-    "googleDriveId": "1oAJLXLllucvHoUL3EAVc2zogHc2-Raoj",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-03T07:29:00",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "4999/500000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 5445474,
-    "latitude": 44.947833800688386,
-    "longitude": 6.399217788130045,
     "multiDayHike": "Sud des Écrins"
   },
   {
@@ -62577,26 +62107,6 @@
     "multiDayHike": "Sud des Écrins"
   },
   {
-    "name": "IMG_20220903_072458_327.jpg",
-    "googleDriveId": "1bEihtmOhEzZXk7U_BNLlTtCOMDRq6_7p",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-03T07:24:58",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "4999/500000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 5185116,
-    "latitude": 44.947687201201916,
-    "longitude": 6.399509310722351,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
     "name": "IMG_20220903_072303_199.jpg",
     "googleDriveId": "1QJYlF5L4M2IM0kC1Bw4oXpKJARPWXMwP",
     "tags": [
@@ -62637,26 +62147,6 @@
     "multiDayHike": "Sud des Écrins"
   },
   {
-    "name": "IMG_20220903_071703_298.jpg",
-    "googleDriveId": "1bRjg7aNyqT5Y-6E83j_FPv1m0exju-lX",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-03T07:17:03",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "7501/250000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 4480686,
-    "latitude": 44.94724145159125,
-    "longitude": 6.4004257041960955,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
     "name": "IMG_20220903_071652_363.jpg",
     "googleDriveId": "1Rnu-kHBYXsQ9Y3noURsQMUYml7gfsXyy",
     "tags": [
@@ -62674,46 +62164,6 @@
     "sizeBytes": 5941479,
     "latitude": 44.94723642244935,
     "longitude": 6.400444647297263,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220903_071535_771.jpg",
-    "googleDriveId": "1i4FeIbpLml17VMe1QNdczl9ASkQNV_Oy",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-03T07:15:35",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "7501/250000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 4769250,
-    "latitude": 44.9471942614764,
-    "longitude": 6.4006798435002565,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220903_065922_603.jpg",
-    "googleDriveId": "15CZ7uqSzVrrY0GpO8Ddt9lzateMOceEW",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-03T06:59:22",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "40001/1000000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 3525597,
-    "latitude": 44.947000220417976,
-    "longitude": 6.403044294565916,
     "multiDayHike": "Sud des Écrins"
   },
   {
@@ -62814,26 +62264,6 @@
     "sizeBytes": 7165282,
     "latitude": 44.93192913942039,
     "longitude": 6.4108936954289675,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220902_105425_598.jpg",
-    "googleDriveId": "16ntjJdCO4Ri_et-P2XSKtMNBkg2KGf2R",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-02T10:54:25",
-    "height": 4096,
-    "width": 3072,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "139/200000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 5418302,
-    "latitude": 44.93192779831588,
-    "longitude": 6.41088355332613,
     "multiDayHike": "Sud des Écrins"
   },
   {
@@ -62974,26 +62404,6 @@
     "sizeBytes": 6220088,
     "latitude": 44.857600182294846,
     "longitude": 6.433671098202467,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220901_092034_743.jpg",
-    "googleDriveId": "10H1TfxThFswXFzSQUTziBGLUU3CqKdgT",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-09-01T09:20:34",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "227/500000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 5755548,
-    "latitude": 44.85768534243107,
-    "longitude": 6.433705715462565,
     "multiDayHike": "Sud des Écrins"
   },
   {
@@ -63297,46 +62707,6 @@
     "multiDayHike": "Sud des Écrins"
   },
   {
-    "name": "IMG_20220829_103323_729.jpg",
-    "googleDriveId": "1BupEZ-F-bpEBAHRj43tjPp87dFsTohwH",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-29T10:33:23",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "659/500000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 7721279,
-    "latitude": 44.719514613971114,
-    "longitude": 6.418355517089367,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220829_085240_091.jpg",
-    "googleDriveId": "1Ws7r9405SM2NtIU1UCt-d5WY8fP8619I",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-29T08:52:39",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "139/200000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 6166014,
-    "latitude": 44.723615711554885,
-    "longitude": 6.401079408824444,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
     "name": "IMG_20220829_081537_069.jpg",
     "googleDriveId": "1KiLqyskH_xR3pyXpq4RXso4ID3LVJiNP",
     "tags": [
@@ -63354,26 +62724,6 @@
     "sizeBytes": 6501854,
     "latitude": 44.7251829598099,
     "longitude": 6.408063042908907,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220829_072401_222.jpg",
-    "googleDriveId": "1LYxPvzWa5vbv8Sa-no1TiR3-vONlk5dG",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-29T07:24:01",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "931/250000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 7311112,
-    "latitude": 44.72444769926369,
-    "longitude": 6.418810151517391,
     "multiDayHike": "Sud des Écrins"
   },
   {
@@ -63514,26 +62864,6 @@
     "sizeBytes": 6107678,
     "latitude": 44.733379036188126,
     "longitude": 6.363078039139509,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220828_122041_982.jpg",
-    "googleDriveId": "192ElXBAk7_T32mR9uKquYeNz7BFgGFVd",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-28T12:20:41",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "571/1000000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 5848732,
-    "latitude": 44.73339387215674,
-    "longitude": 6.36309614405036,
     "multiDayHike": "Sud des Écrins"
   },
   {
@@ -63717,46 +63047,6 @@
     "multiDayHike": "Sud des Écrins"
   },
   {
-    "name": "IMG_20220827_101629_821.jpg",
-    "googleDriveId": "1bBnnYrFX6IdHcWwm_QUgWLKs_JZyXnlp",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-27T10:16:29",
-    "height": 4096,
-    "width": 3072,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "259/250000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 7325519,
-    "latitude": 44.735701996833086,
-    "longitude": 6.190288122743368,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220827_101436_561.jpg",
-    "googleDriveId": "1JeP683aAeu81E-txrr6fHYU7Ef2yPz63",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-27T10:14:36",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "1229/500000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 7687165,
-    "latitude": 44.735847590491176,
-    "longitude": 6.1899761483073235,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
     "name": "IMG_20220827_101155_754.jpg",
     "googleDriveId": "1XQBIxjiq8s0LDw2vYYujUBBxo2IdgjUo",
     "tags": [
@@ -63837,26 +63127,6 @@
     "multiDayHike": "Sud des Écrins"
   },
   {
-    "name": "IMG_20220827_085511_116.jpg",
-    "googleDriveId": "1zNliTEXvtfZuHlDYXYbCk63Hix1XQTPO",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-27T08:55:10",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "1583/1000000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 7596747,
-    "latitude": 44.726086780428886,
-    "longitude": 6.1938041634857655,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
     "name": "IMG_20220827_083813_235.jpg",
     "googleDriveId": "1i8rK57NRRpg4i4Pdl8waGxxKdeptqVBU",
     "tags": [
@@ -63934,26 +63204,6 @@
     "sizeBytes": 7531078,
     "latitude": 44.718278450891376,
     "longitude": 6.2031179666519165,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220827_072527_670.jpg",
-    "googleDriveId": "1TPtmXKRuhXSvMP64bDQlS68zjHJMFyOQ",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-27T07:25:27",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "5269/1000000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 6569036,
-    "latitude": 44.71491588279605,
-    "longitude": 6.204934576526284,
     "multiDayHike": "Sud des Écrins"
   },
   {
@@ -64557,46 +63807,6 @@
     "multiDayHike": "Sud des Écrins"
   },
   {
-    "name": "IMG_20220824_151738_211.jpg",
-    "googleDriveId": "1R28If1uDSlveKA_2s7gdO_M4EdGiAQy8",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-24T15:17:38",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "327/500000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 6512547,
-    "latitude": 44.80251984670758,
-    "longitude": 6.315316194668412,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220824_150241_012.jpg",
-    "googleDriveId": "17BZQ1-EqT4SEuOxXKoth-rM_XcZX19FN",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-24T15:02:40",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "571/1000000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 6773178,
-    "latitude": 44.8052938375622,
-    "longitude": 6.31531024351716,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
     "name": "IMG_20220824_150231_047.jpg",
     "googleDriveId": "1ZyWsVJbM8XLBJG-OAks53MmTmY5cKan9",
     "tags": [
@@ -64614,26 +63824,6 @@
     "sizeBytes": 6576527,
     "latitude": 44.805318815633655,
     "longitude": 6.315342681482434,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220824_150228_931.jpg",
-    "googleDriveId": "1AN8lJOtwFZA2ugAqgxtvGfJULp0HodgC",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-24T15:02:28",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "139/200000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 6747793,
-    "latitude": 44.80532560497522,
-    "longitude": 6.315347710624337,
     "multiDayHike": "Sud des Écrins"
   },
   {
@@ -64694,26 +63884,6 @@
     "sizeBytes": 7873754,
     "latitude": 44.81225023046136,
     "longitude": 6.317631779238582,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220824_122620_072.jpg",
-    "googleDriveId": "10fjmowFSzxseQeNt09wUHZGmKsn9Br10",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-24T12:26:19",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "139/200000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 7655082,
-    "latitude": 44.82971183024347,
-    "longitude": 6.308659957721829,
     "multiDayHike": "Sud des Écrins"
   },
   {
@@ -64794,26 +63964,6 @@
     "sizeBytes": 8749616,
     "latitude": 44.8448031116277,
     "longitude": 6.284652594476938,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220824_093522_437.jpg",
-    "googleDriveId": "1465TQ6ERk05Ucs3j6HkuPBkaBQxbk8mj",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-24T09:35:22",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "139/40000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 7428171,
-    "latitude": 44.84753410331905,
-    "longitude": 6.285667140036821,
     "multiDayHike": "Sud des Écrins"
   },
   {
@@ -64917,26 +64067,6 @@
     "multiDayHike": "Sud des Écrins"
   },
   {
-    "name": "IMG_20220823_160314_288.jpg",
-    "googleDriveId": "1asHA23DYpef7jlLIY8PiuCvimpaAPO6z",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-23T16:03:14",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "931/250000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 7693341,
-    "latitude": 44.85316305421293,
-    "longitude": 6.275812117382884,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
     "name": "IMG_20220823_160303_752.jpg",
     "googleDriveId": "1V3bAx4HOZHMZ_VR0FfyxloBdlCBx1a2N",
     "tags": [
@@ -65014,46 +64144,6 @@
     "sizeBytes": 7057399,
     "latitude": 44.83978000469506,
     "longitude": 6.280617043375969,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220823_134338_881.jpg",
-    "googleDriveId": "1pDkSBRi7xskSF-e-rjc2R-s780w5SL61",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-23T13:43:38",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "1041/1000000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 8882340,
-    "latitude": 44.831094928085804,
-    "longitude": 6.280325436964631,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220823_104359_357.jpg",
-    "googleDriveId": "1SQP9S_QR21gV-cv6bvb__vxoixMMLyv-",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-23T10:43:59",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "1283/500000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 8011840,
-    "latitude": 44.82067328877747,
-    "longitude": 6.202779756858945,
     "multiDayHike": "Sud des Écrins"
   },
   {
@@ -65317,26 +64407,6 @@
     "multiDayHike": "Sud des Écrins"
   },
   {
-    "name": "IMG_20220822_094615_067.jpg",
-    "googleDriveId": "12LO7rpXIzFc90GeelG0I358oFosPkBTf",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-22T09:46:14",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "153/250000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 6060294,
-    "latitude": 44.84314332716167,
-    "longitude": 6.162355933338404,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
     "name": "IMG_20220822_094608_988.jpg",
     "googleDriveId": "1lmGaQKtYpMEm95zHzR0syMXRkmtxfEIG",
     "tags": [
@@ -65397,26 +64467,6 @@
     "multiDayHike": "Sud des Écrins"
   },
   {
-    "name": "IMG_20220822_084703_909.jpg",
-    "googleDriveId": "1ny0W7oGjbx8ikjcn-pZi97zeCU2i04t4",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-22T08:47:03",
-    "height": 4096,
-    "width": 3072,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "1509/250000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 8545109,
-    "latitude": 44.84435174614191,
-    "longitude": 6.153353853151202,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
     "name": "IMG_20220821_153424_487.jpg",
     "googleDriveId": "1Vf3w4CUP_YpFHJBmJ_KgpbvB3FTWIXvg",
     "tags": [
@@ -65434,26 +64484,6 @@
     "sizeBytes": 6193613,
     "latitude": 44.84722539782524,
     "longitude": 6.143897725269198,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220821_152613_443.jpg",
-    "googleDriveId": "1YzfIXLsg5lMw6EarYj23_jwLAAPisded",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-21T15:26:13",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "327/500000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 5208105,
-    "latitude": 44.84909338876605,
-    "longitude": 6.139923110604286,
     "multiDayHike": "Sud des Écrins"
   },
   {
@@ -65514,26 +64544,6 @@
     "sizeBytes": 7314580,
     "latitude": 44.84406349249184,
     "longitude": 6.124066561460495,
-    "multiDayHike": "Sud des Écrins"
-  },
-  {
-    "name": "IMG_20220821_131906_584.jpg",
-    "googleDriveId": "1mXD8xWtBsxpfPAAUuiIPWA0ASXLeCemn",
-    "tags": [
-      "Alpes"
-    ],
-    "description": "",
-    "dateTime": "2022-08-21T13:19:06",
-    "height": 3072,
-    "width": 4096,
-    "cameraMaker": "Ulefone",
-    "cameraModel": "Armor X9 Pro",
-    "exposureTime": "427/500000 sec",
-    "fNumber": "f/2.0",
-    "focalLength": "3.3 mm",
-    "sizeBytes": 7010218,
-    "latitude": 44.84658091329038,
-    "longitude": 6.12508999183774,
     "multiDayHike": "Sud des Écrins"
   },
   {

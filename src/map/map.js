@@ -106,6 +106,7 @@ function displayMapAndTraces(svg, width, height) {
     ) {
       drawWishListHikes5kmMarks(mapContainer, mapPageState.displayWishList, true, projection);
       drawWishlistHikesLocationsIcons(mapContainer, mapPageState.displayWishList, true, projection);
+      drawWishListHikesNames(mapContainer, mapPageState.displayWishList, true, projection);
     }
     else if (
       transform.k < constants.wishList5kmMarkersAndLocationsMinZoom &&
@@ -113,6 +114,7 @@ function displayMapAndTraces(svg, width, height) {
     ) {
       drawWishListHikes5kmMarks(mapContainer, mapPageState.displayWishList, false, projection); // i.e. remove markers
       drawWishlistHikesLocationsIcons(mapContainer, mapPageState.displayWishList, false, projection);
+      drawWishListHikesNames(mapContainer, mapPageState.displayWishList, false, projection);
     }
 
     mapPageState.previousTransform = transform;

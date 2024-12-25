@@ -23,8 +23,10 @@ function drawWishListHikesDisplayButton(mapContainer, buttonsContainer, mapPageS
         setOpacityOnWishListHikes(1);
         newTooltipText = "Hide hikes wishlist";
       }
-      drawWishListHikes5kmMarks(mapContainer, mapPageState.displayWishList, mapPageState.previousZoom >= constants.wishList5kmMarkersAndLocationsMinZoom, projection);
-      drawWishlistHikesLocationsIcons(mapContainer, mapPageState.displayWishList, mapPageState.previousZoom >= constants.wishList5kmMarkersAndLocationsMinZoom, projection);
+      var isMapZoomedEnough = mapPageState.previousZoom >= constants.wishList5kmMarkersAndLocationsMinZoom;
+      drawWishListHikes5kmMarks(mapContainer, mapPageState.displayWishList, isMapZoomedEnough, projection);
+      drawWishListHikesNames(mapContainer, mapPageState.displayWishList, isMapZoomedEnough, projection);
+      drawWishlistHikesLocationsIcons(mapContainer, mapPageState.displayWishList, isMapZoomedEnough, projection);
       transformWishlistHikes5kmMarkersAndLocationsIconsForZoomAndPosition(mapContainer, mapPageState.previousTransform, projection);
       if (mapPageState.displayWishList) {
         attachTooltipToButton("wishlist-switch", newTooltipText, -67, 38);
@@ -44,13 +46,60 @@ function drawWishListHikesDisplayButton(mapContainer, buttonsContainer, mapPageS
 
 function transformWishlistHikes5kmMarkersAndLocationsIconsForZoomAndPosition(mapContainer, transform, projection) {
 
-  mapContainer
-    .selectAll("g.wishlist-5km-mark")
-    .attr("transform", transform)
-    .select("text")
-    .style("font-size", 12 / transform.k);
+  function adaptToTransform(selection) {
+    mapContainer
+      .selectAll(selection)
+      .attr("transform", transform)
+      .select("text")
+      .style("font-size", 12 / transform.k);
+  }
+
+  adaptToTransform("g.wishlist-5km-mark");
+  adaptToTransform("g.wishlist-names");
 
   transformMapIconsForZoom(mapContainer, projection, "wishlist-hikes-locations", transform, 20, 20);
+}
+
+function drawWishListHikesNames(mapContainer, displayWishList, isMapZoomedEnough, projection) {
+
+  var invisibleChar = String.fromCharCode(8287);
+
+  mapContainer
+    .selectAll("g.wishlist-names")
+    .data(displayWishList && isMapZoomedEnough ? data.wishlistHikes : [])
+    .join(
+      enter => {
+        var markerContainer =
+          enter
+            .append("g")
+            .attr("class", "wishlist-names")
+            .attr("id", hike => `hike-name--${hike.name}`)
+            .attr("pointer-events", "none");
+        markerContainer
+          .append("text")
+          // The fake white spaces are there to translate the hike name towards the right after the "0km" text:
+          .text(hike => `${invisibleChar.repeat(5)}${hike.name.replaceAll("--", "#").replaceAll("-", " ").replaceAll("#", " - ")}`)
+          .attr("x", hike => {
+            var startCoordinates = hike.tenMeterSlices[0];
+            return projection([startCoordinates.fromLongitude, startCoordinates.fromLatitude])[0];
+          })
+          .attr("y", hike => {
+            var startCoordinates = hike.tenMeterSlices[0];
+            return projection([startCoordinates.fromLongitude, startCoordinates.fromLatitude])[1];
+          })
+          .style("fill", "black")
+          .style("font-size", 12)
+          .style("font-family", "sans-serif")
+          .style("font-weight", "bold")
+          .style("text-anchor", "start")
+          .style("user-select", "none")
+          .style("alignment-baseline", "middle");
+      },
+      update =>
+        update,
+      exit =>
+        exit.remove()
+    );
 }
 
 function drawWishListHikes5kmMarks(mapContainer, displayWishList, isMapZoomedEnough, projection) {

@@ -95,6 +95,22 @@
         "elevation": 126
       }
     ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 48.38360853314527,
+        "longitude": -4.483899045876358
+      },
+      {
+        "type": "hotel",
+        "latitude": 48.458244513165575,
+        "longitude": -5.102003434193704
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/shddw4",
+    "photo": "DSC00697_OUESSANT.JPG",
+    "type": "Voyage",
     "hasGpxFile": false,
     "hide": false
   },

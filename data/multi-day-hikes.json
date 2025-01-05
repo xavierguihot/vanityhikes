@@ -2,6 +2,7 @@
   {
     "name": "Camargue",
     "contiguousHikes": [
+      "2025-01-05T07:57:01",
       "2025-01-04T16:42:42",
       "2025-01-04T15:57:21",
       "2025-01-04T09:29:56",
@@ -10,17 +11,17 @@
       "2025-01-03T14:48:42"
     ],
     "start": "2025-01-03T14:48:42",
-    "end": "2025-01-04T16:47:51",
-    "days": 2,
-    "walkingDays": 2,
-    "distance": 33.51389676313259,
-    "elevation": 161,
-    "durationInSeconds": 30040,
-    "idleTimeInSeconds": 2380,
+    "end": "2025-01-05T15:57:04",
+    "days": 3,
+    "walkingDays": 3,
+    "distance": 66.59118701978707,
+    "elevation": 244,
+    "durationInSeconds": 58843,
+    "idleTimeInSeconds": 5458,
     "coordinates": {
       "centerLatitude": 43.487532176077366,
-      "centerLongitude": 4.6890768595039845,
-      "widthInKm": 10,
+      "centerLongitude": 4.5926716877147555,
+      "widthInKm": 26,
       "heightInKm": 19
     },
     "timeline": [
@@ -33,6 +34,11 @@
         "date": "2025-01-04",
         "distance": 24.624378137504603,
         "elevation": 90
+      },
+      {
+        "date": "2025-01-05",
+        "distance": 33.077290256654486,
+        "elevation": 83
       }
     ],
     "descriptionFR": "Description: Work in Progress",

@@ -1,5 +1,54 @@
 [
   {
+    "name": "Les Calanques de Marseille",
+    "contiguousHikes": [
+      "2025-01-11T16:52:38",
+      "2025-01-11T15:36:44",
+      "2025-01-11T08:48:23",
+      "2025-01-10T19:47:58",
+      "2025-01-10T13:41:20",
+      "2025-01-10T08:40:30",
+      "2025-01-10T07:16:09",
+      "2025-01-09T23:06:29"
+    ],
+    "start": "2025-01-09T23:06:29",
+    "end": "2025-01-11T16:59:59",
+    "days": 3,
+    "walkingDays": 2,
+    "distance": 51.289891454690135,
+    "elevation": 1614,
+    "durationInSeconds": 48753,
+    "idleTimeInSeconds": 3152,
+    "coordinates": {
+      "centerLatitude": 43.33238168153912,
+      "centerLongitude": 5.200800555758178,
+      "widthInKm": 29,
+      "heightInKm": 7
+    },
+    "timeline": [
+      {
+        "date": "2025-01-09",
+        "distance": 0.6576368497804864,
+        "elevation": 10
+      },
+      {
+        "date": "2025-01-10",
+        "distance": 24.263123926770646,
+        "elevation": 354
+      },
+      {
+        "date": "2025-01-11",
+        "distance": 26.369130678139,
+        "elevation": 1248
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/5upzh3",
+    "type": "Itinérance",
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
     "name": "Camargue",
     "contiguousHikes": [
       "2025-01-09T12:46:53",

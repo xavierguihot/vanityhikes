@@ -2,6 +2,9 @@
   {
     "name": "Les Calanques de Marseille",
     "contiguousHikes": [
+      "2025-01-12T14:58:35",
+      "2025-01-12T09:09:53",
+      "2025-01-12T08:03:49",
       "2025-01-11T16:52:38",
       "2025-01-11T15:36:44",
       "2025-01-11T08:48:23",
@@ -12,18 +15,18 @@
       "2025-01-09T23:06:29"
     ],
     "start": "2025-01-09T23:06:29",
-    "end": "2025-01-11T16:59:59",
-    "days": 3,
-    "walkingDays": 2,
-    "distance": 51.289891454690135,
-    "elevation": 1614,
-    "durationInSeconds": 48753,
-    "idleTimeInSeconds": 3152,
+    "end": "2025-01-12T15:16:15",
+    "days": 4,
+    "walkingDays": 3,
+    "distance": 70.94880997723433,
+    "elevation": 2321,
+    "durationInSeconds": 69066,
+    "idleTimeInSeconds": 6208,
     "coordinates": {
-      "centerLatitude": 43.33238168153912,
+      "centerLatitude": 43.312398134730756,
       "centerLongitude": 5.200800555758178,
       "widthInKm": 29,
-      "heightInKm": 7
+      "heightInKm": 11
     },
     "timeline": [
       {
@@ -40,6 +43,11 @@
         "date": "2025-01-11",
         "distance": 26.369130678139,
         "elevation": 1248
+      },
+      {
+        "date": "2025-01-12",
+        "distance": 19.658918522544198,
+        "elevation": 705
       }
     ],
     "descriptionFR": "Description: Work in Progress",

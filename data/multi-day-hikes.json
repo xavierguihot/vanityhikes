@@ -85,6 +85,33 @@
         "elevation": 1058
       }
     ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 43.30113664825814,
+        "longitude": 5.380862465281218
+      },
+      {
+        "type": "hotel",
+        "latitude": 43.33274098146619,
+        "longitude": 5.15181660845876
+      },
+      {
+        "type": "hotel",
+        "latitude": 43.24780047514021,
+        "longitude": 5.3751159579290855
+      },
+      {
+        "type": "hotel",
+        "latitude": 43.24732033240251,
+        "longitude": 5.389944050356188
+      },
+      {
+        "type": "hotel",
+        "latitude": 43.21366140675703,
+        "longitude": 5.539531373716315
+      }
+    ],
     "descriptionFR": "Description: Work in Progress",
     "lighterPack": "https://lighterpack.com/r/5upzh3",
     "type": "Itinérance",
@@ -162,6 +189,23 @@
         "date": "2025-01-09",
         "distance": 25.364223503946754,
         "elevation": 90
+      }
+    ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 43.411745048294584,
+        "longitude": 4.7335454474754775
+      },
+      {
+        "type": "hotel",
+        "latitude": 43.451052904708774,
+        "longitude": 4.430878989659707
+      },
+      {
+        "type": "hotel",
+        "latitude": 43.56720424683884,
+        "longitude": 4.18949978071752
       }
     ],
     "descriptionFR": "Description: Work in Progress",

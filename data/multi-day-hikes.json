@@ -1,5 +1,53 @@
 [
   {
+    "name": "Côte d'Azur",
+    "contiguousHikes": [
+      "2025-01-20T16:47:25",
+      "2025-01-20T14:26:02",
+      "2025-01-20T13:10:35",
+      "2025-01-19T15:43:29",
+      "2025-01-19T08:18:38",
+      "2025-01-19T07:54",
+      "2025-01-18T17:05:46"
+    ],
+    "start": "2025-01-18T17:05:46",
+    "end": "2025-01-20T17:03:50",
+    "days": 3,
+    "walkingDays": 2,
+    "distance": 41.921290098776524,
+    "elevation": 386,
+    "durationInSeconds": 36034,
+    "idleTimeInSeconds": 3858,
+    "coordinates": {
+      "centerLatitude": 43.581952513195574,
+      "centerLongitude": 7.08124331664294,
+      "widthInKm": 11,
+      "heightInKm": 16
+    },
+    "timeline": [
+      {
+        "date": "2025-01-18",
+        "distance": 1.308721129054084,
+        "elevation": 38
+      },
+      {
+        "date": "2025-01-19",
+        "distance": 32.851184570685795,
+        "elevation": 283
+      },
+      {
+        "date": "2025-01-20",
+        "distance": 7.761384399036641,
+        "elevation": 64
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/5upzh3",
+    "type": "Itinérance",
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
     "name": "Les Calanques de Marseille",
     "contiguousHikes": [
       "2025-01-18T08:25:19",
@@ -25,13 +73,36 @@
       "2025-01-10T07:16:09",
       "2025-01-09T23:06:29"
     ],
-    "start": "2025-01-09T23:06:29",
+    "overridenHikes": [
+      "2025-01-18T08:25:19",
+      "2025-01-17T07:48:54",
+      "2025-01-16T08:06:09",
+      "2025-01-16T07:41:31",
+      "2025-01-15T19:43:26",
+      "2025-01-15T12:25:28",
+      "2025-01-14T19:10:26",
+      "2025-01-14T16:30:50",
+      "2025-01-14T08:10:20",
+      "2025-01-13T13:06:44",
+      "2025-01-13T09:05:12",
+      "2025-01-12T14:58:35",
+      "2025-01-12T09:09:53",
+      "2025-01-12T08:03:49",
+      "2025-01-11T16:52:38",
+      "2025-01-11T15:36:44",
+      "2025-01-11T08:48:23",
+      "2025-01-10T19:47:58",
+      "2025-01-10T13:41:20",
+      "2025-01-10T08:40:30",
+      "2025-01-10T07:16:09"
+    ],
+    "start": "2025-01-10T07:16:09",
     "end": "2025-01-18T14:38:41",
-    "days": 10,
+    "days": 9,
     "walkingDays": 8,
-    "distance": 198.9187330826868,
-    "elevation": 7559,
-    "durationInSeconds": 195012,
+    "distance": 198.2610962329063,
+    "elevation": 7549,
+    "durationInSeconds": 194409,
     "idleTimeInSeconds": 15497,
     "coordinates": {
       "centerLatitude": 43.263045031605,
@@ -40,11 +111,6 @@
       "heightInKm": 22
     },
     "timeline": [
-      {
-        "date": "2025-01-09",
-        "distance": 0.6576368497804864,
-        "elevation": 10
-      },
       {
         "date": "2025-01-10",
         "distance": 24.263123926770646,

@@ -2,6 +2,10 @@
   {
     "name": "Côte d'Azur",
     "contiguousHikes": [
+      "2025-01-21T15:30:41",
+      "2025-01-21T12:39:23",
+      "2025-01-21T09:19:56",
+      "2025-01-21T08:15:47",
       "2025-01-20T16:47:25",
       "2025-01-20T14:26:02",
       "2025-01-20T13:10:35",
@@ -11,17 +15,17 @@
       "2025-01-18T17:05:46"
     ],
     "start": "2025-01-18T17:05:46",
-    "end": "2025-01-20T17:03:50",
-    "days": 3,
-    "walkingDays": 2,
-    "distance": 41.921290098776524,
-    "elevation": 386,
-    "durationInSeconds": 36034,
-    "idleTimeInSeconds": 3858,
+    "end": "2025-01-21T16:17:55",
+    "days": 4,
+    "walkingDays": 3,
+    "distance": 66.91760187017945,
+    "elevation": 609,
+    "durationInSeconds": 58017,
+    "idleTimeInSeconds": 6056,
     "coordinates": {
       "centerLatitude": 43.581952513195574,
-      "centerLongitude": 7.08124331664294,
-      "widthInKm": 11,
+      "centerLongitude": 7.068616859614849,
+      "widthInKm": 13,
       "heightInKm": 16
     },
     "timeline": [
@@ -39,6 +43,11 @@
         "date": "2025-01-20",
         "distance": 7.761384399036641,
         "elevation": 64
+      },
+      {
+        "date": "2025-01-21",
+        "distance": 24.996311771402944,
+        "elevation": 221
       }
     ],
     "descriptionFR": "Description: Work in Progress",

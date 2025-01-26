@@ -133,6 +133,23 @@
         "elevation": 846
       }
     ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": 43.55185652396776,
+        "longitude": 7.008163752435537
+      },
+      {
+        "type": "hotel",
+        "latitude": 43.702827713783236,
+        "longitude": 7.259371381110196
+      },
+      {
+        "type": "hotel",
+        "latitude": 43.70086012388402,
+        "longitude": 7.261464084817099
+      }
+    ],
     "descriptionFR": "Description: Work in Progress",
     "lighterPack": "https://lighterpack.com/r/5upzh3",
     "type": "Itinérance",

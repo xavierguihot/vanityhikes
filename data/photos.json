@@ -812,9 +812,6 @@
   {
     "name": "DSC06478_CAMARGUE_2025.JPG",
     "googleDriveId": "1Dx3V3i1BRT8b64I3y1n-Y3dXjMnEXfff",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-04T16:53:29",
     "timeZone": "+02:00",
@@ -826,14 +823,13 @@
     "fNumber": "f/4.0",
     "focalLength": "219.3 mm",
     "sizeBytes": 4410731,
+    "latitude": 43.522718206766115,
+    "longitude": 4.6939289049415995,
     "multiDayHike": "Camargue"
   },
   {
     "name": "DSC06472_CAMARGUE_2025.JPG",
     "googleDriveId": "19bO7jR4vtYr3T9Vkde66henQl7aJ34iw",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-04T16:53:26",
     "timeZone": "+02:00",
@@ -845,14 +841,13 @@
     "fNumber": "f/4.0",
     "focalLength": "219.3 mm",
     "sizeBytes": 4425751,
+    "latitude": 43.522718206766115,
+    "longitude": 4.6939289049415995,
     "multiDayHike": "Camargue"
   },
   {
     "name": "DSC06437_CAMARGUE_2025.JPG",
     "googleDriveId": "1Q27D2aO30HQBRVcVFPtxNXCtxj_hcBCl",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-04T16:52:03",
     "timeZone": "+02:00",
@@ -864,14 +859,13 @@
     "fNumber": "f/4.0",
     "focalLength": "220 mm",
     "sizeBytes": 6455150,
+    "latitude": 43.522718206766115,
+    "longitude": 4.6939289049415995,
     "multiDayHike": "Camargue"
   },
   {
     "name": "DSC06381_CAMARGUE_2025.JPG",
     "googleDriveId": "1qqAVeFlZ5UREmKewtYfB269bLTo7RJTv",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-04T16:50:27",
     "timeZone": "+02:00",
@@ -883,14 +877,13 @@
     "fNumber": "f/4.0",
     "focalLength": "220 mm",
     "sizeBytes": 3854089,
+    "latitude": 43.522718206766115,
+    "longitude": 4.6939289049415995,
     "multiDayHike": "Camargue"
   },
   {
     "name": "DSC06317_CAMARGUE_2025.JPG",
     "googleDriveId": "1ulJCQx5_Blw-gQ-Z63jgnTmTCAv_pNUp",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-04T16:47:49",
     "timeZone": "+02:00",
@@ -902,14 +895,13 @@
     "fNumber": "f/4.0",
     "focalLength": "220 mm",
     "sizeBytes": 4373355,
+    "latitude": 43.522718206766115,
+    "longitude": 4.6939289049415995,
     "multiDayHike": "Camargue"
   },
   {
     "name": "DSC06242_CAMARGUE_2025.JPG",
     "googleDriveId": "1gkHk8MUYXW_BxQL8lhe4yNJ8masoAM9c",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-04T16:47:41",
     "timeZone": "+02:00",
@@ -921,14 +913,13 @@
     "fNumber": "f/4.0",
     "focalLength": "220 mm",
     "sizeBytes": 4279265,
+    "latitude": 43.522718206766115,
+    "longitude": 4.6939289049415995,
     "multiDayHike": "Camargue"
   },
   {
     "name": "DSC06174_CAMARGUE_2025.JPG",
     "googleDriveId": "1gwD9CL48qajXbUQ6sGIiAaW3VV4O4yDn",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-04T16:32:34",
     "timeZone": "+02:00",
@@ -940,14 +931,13 @@
     "fNumber": "f/4.0",
     "focalLength": "220 mm",
     "sizeBytes": 4552236,
+    "latitude": 43.522718206766115,
+    "longitude": 4.6939289049415995,
     "multiDayHike": "Camargue"
   },
   {
     "name": "DSC06000_CAMARGUE_2025.JPG",
     "googleDriveId": "1589nWk1qhGuCYVw75Pqeuq9NBJW556pZ",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-04T16:27:47",
     "timeZone": "+02:00",
@@ -959,14 +949,13 @@
     "fNumber": "f/4.0",
     "focalLength": "220 mm",
     "sizeBytes": 3682896,
+    "latitude": 43.522718206766115,
+    "longitude": 4.6939289049415995,
     "multiDayHike": "Camargue"
   },
   {
     "name": "DSC05959_CAMARGUE_2025.JPG",
     "googleDriveId": "131QMxnYVwkK-JcUNfrkG5_b_9DE7MP_m",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-04T16:20:47",
     "timeZone": "+02:00",
@@ -978,6 +967,8 @@
     "fNumber": "f/4.0",
     "focalLength": "87.1 mm",
     "sizeBytes": 3388945,
+    "latitude": 43.522718206766115,
+    "longitude": 4.6939289049415995,
     "multiDayHike": "Camargue"
   },
   {

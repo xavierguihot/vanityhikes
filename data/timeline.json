@@ -2,23 +2,25 @@
   "date": "2025-01-31",
   "daysAgo": 0,
   "distance": {
-    "distance": 0.0,
-    "totalCumulatedDistance": 11203.529874406739,
-    "last365DaysDistance": 4969.767789382812,
-    "last30DaysDistance": 624.8158284754948,
-    "last7DaysDistance": 109.11100063008874,
-    "yearToDateCumulatedDistance": 627.5478481187953,
+    "distance": 1.839618642755122,
+    "totalCumulatedDistance": 11205.369493049493,
+    "last365DaysDistance": 4971.607408025568,
+    "last30DaysDistance": 626.6554471182499,
+    "last7DaysDistance": 110.95061927284385,
+    "yearToDateCumulatedDistance": 629.3874667615504,
     "unit": "km"
   },
   "elevation": {
-    "elevation": 0.0,
-    "totalCumulatedElevation": 362071.99974836415,
-    "last365DaysElevation": 148876.19954706728,
-    "last30DaysElevation": 14506.600001546747,
-    "last7DaysElevation": 3127.6000064015398,
-    "yearToDateCumulatedElevation": 14532.600001546747,
+    "elevation": 32.19999694824219,
+    "totalCumulatedElevation": 362104.1997453124,
+    "last365DaysElevation": 148908.39954401553,
+    "last30DaysElevation": 14538.79999849499,
+    "last7DaysElevation": 3159.800003349782,
+    "yearToDateCumulatedElevation": 14564.79999849499,
     "unit": "m"
-  }
+  },
+  "maxAltitude": 171,
+  "maxHeartBeat": 105
 },{
   "date": "2025-01-30",
   "daysAgo": -1,

@@ -560,9 +560,6 @@
   {
     "name": "DSC07458_CALANQUES_2025.JPG",
     "googleDriveId": "1d8G52-oUgYfqoSdNN78T5T4rgFAIQ1Y8",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-12T10:02:21",
     "timeZone": "+02:00",
@@ -574,14 +571,13 @@
     "fNumber": "f/3.5",
     "focalLength": "23.1 mm",
     "sizeBytes": 6254872,
+    "latitude": 43.28078574500978,
+    "longitude": 5.322530055418611,
     "multiDayHike": "Les Calanques de Marseille"
   },
   {
     "name": "DSC07435_CALANQUES_2025.JPG",
     "googleDriveId": "1er_35t5J2IqeT4r63r_c6Lsl22hRUYIA",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-12T10:01:49",
     "timeZone": "+02:00",
@@ -593,14 +589,13 @@
     "fNumber": "f/4.0",
     "focalLength": "8.8 mm",
     "sizeBytes": 5548823,
+    "latitude": 43.28222273848951,
+    "longitude": 5.324323112145066,
     "multiDayHike": "Les Calanques de Marseille"
   },
   {
     "name": "DSC07314_CALANQUES_2025.JPG",
     "googleDriveId": "1tPQiDYYD2hhUtmyper_ajchT-SZs_KNW",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-12T09:56:01",
     "timeZone": "+02:00",
@@ -612,14 +607,13 @@
     "fNumber": "f/3.2",
     "focalLength": "8.8 mm",
     "sizeBytes": 5984892,
+    "latitude": 43.294569198042154,
+    "longitude": 5.347903668880463,
     "multiDayHike": "Les Calanques de Marseille"
   },
   {
     "name": "DSC07179_CALANQUES_2025.JPG",
     "googleDriveId": "11oWH1pVukshptG26y19CHD03IEJCOfIf",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-12T09:52:36",
     "timeZone": "+02:00",
@@ -631,14 +625,13 @@
     "fNumber": "f/3.2",
     "focalLength": "18.2 mm",
     "sizeBytes": 7280647,
+    "latitude": 43.29545642249286,
+    "longitude": 5.359725756570697,
     "multiDayHike": "Les Calanques de Marseille"
   },
   {
     "name": "DSC07132_CALANQUES_2025.JPG",
     "googleDriveId": "1q_EBaTjVgNZPp-xoEcxLUupeAU-jayrk",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-12T09:51:30",
     "timeZone": "+02:00",
@@ -650,14 +643,13 @@
     "fNumber": "f/2.8",
     "focalLength": "8.8 mm",
     "sizeBytes": 6289046,
+    "latitude": 43.29434682615101,
+    "longitude": 5.362400505691767,
     "multiDayHike": "Les Calanques de Marseille"
   },
   {
     "name": "DSC07098_CALANQUES_2025.JPG",
     "googleDriveId": "1AzSN7ZGEIz7SnK3EdkC6oRACigmmF1Nj",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-12T09:50:57",
     "timeZone": "+02:00",
@@ -669,14 +661,13 @@
     "fNumber": "f/4.0",
     "focalLength": "35.7 mm",
     "sizeBytes": 3764769,
+    "latitude": 43.29425152391195,
+    "longitude": 5.363753344863653,
     "multiDayHike": "Les Calanques de Marseille"
   },
   {
     "name": "DSC07082_CALANQUES_2025.JPG",
     "googleDriveId": "18aSO6qZfP-5Cd0S3XQB-iC4RPiDptIxk",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-12T09:50:08",
     "timeZone": "+02:00",
@@ -688,6 +679,8 @@
     "fNumber": "f/4.0",
     "focalLength": "60.3 mm",
     "sizeBytes": 6429694,
+    "latitude": 43.29417566768825,
+    "longitude": 5.365825267508626,
     "multiDayHike": "Les Calanques de Marseille"
   },
   {

@@ -560,9 +560,6 @@
   {
     "name": "DSC03061_AZURE_2025.JPG",
     "googleDriveId": "1xHKXfZ9MBLWaHToMDsY5k2Y5n5pAx5TP",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-21T10:15:11",
     "timeZone": "+02:00",
@@ -574,14 +571,13 @@
     "fNumber": "f/4.0",
     "focalLength": "159.7 mm",
     "sizeBytes": 8135524,
+    "latitude": 43.528564190492034,
+    "longitude": 7.034401260316372,
     "multiDayHike": "Côte d'Azur"
   },
   {
     "name": "DSC02959_AZURE_2025.JPG",
     "googleDriveId": "1kzH1zmgQwnG1fsRt2jQGmzetQoacwxqM",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-21T10:14:17",
     "timeZone": "+02:00",
@@ -593,6 +589,8 @@
     "fNumber": "f/4.0",
     "focalLength": "139.5 mm",
     "sizeBytes": 7655781,
+    "latitude": 43.53062345646322,
+    "longitude": 7.032380299642682,
     "multiDayHike": "Côte d'Azur"
   },
   {
@@ -706,9 +704,6 @@
   {
     "name": "DSC01924_AZURE_2025.JPG",
     "googleDriveId": "1IhWBl3mBuLVLq4Gznfung6iIJJVuDyzE",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-20T15:08:18",
     "timeZone": "+02:00",
@@ -720,6 +715,8 @@
     "fNumber": "f/4.0",
     "focalLength": "132.2 mm",
     "sizeBytes": 8128797,
+    "latitude": 43.540419302880764,
+    "longitude": 7.020715624094009,
     "multiDayHike": "Côte d'Azur"
   },
   {

@@ -16,8 +16,8 @@
     "fNumber": "f/6.4",
     "focalLength": "130.2 mm",
     "sizeBytes": 10397696,
-    "latitude": 48.805023953318596,
-    "longitude": 2.111385567113757
+    "latitude": 48.80532,
+    "longitude": 2.11039
   },
   {
     "name": "P2TZ8219_VERSAILLES_JAN_2025.JPG",
@@ -36,8 +36,8 @@
     "fNumber": "f/6.4",
     "focalLength": "126 mm",
     "sizeBytes": 10707968,
-    "latitude": 48.80518647842109,
-    "longitude": 2.1108297631144524
+    "latitude": 48.80532,
+    "longitude": 2.11039
   },
   {
     "name": "P2TZ8150_VERSAILLES_JAN_2025.JPG",
@@ -56,8 +56,8 @@
     "fNumber": "f/6.4",
     "focalLength": "124.6 mm",
     "sizeBytes": 10587136,
-    "latitude": 48.805409437045455,
-    "longitude": 2.1103055588901043
+    "latitude": 48.80532,
+    "longitude": 2.11039
   },
   {
     "name": "P2TZ8096_VERSAILLES_JAN_2025.JPG",
@@ -150,6 +150,8 @@
     "fNumber": "f/5.3",
     "focalLength": "38.9 mm",
     "sizeBytes": 7864832,
+    "latitude": 43.07524111912658,
+    "longitude": 6.153544026980249,
     "multiDayHike": "Porquerolles, Port-Cros & Presqu'île de Giens"
   },
   {
@@ -317,9 +319,6 @@
   {
     "name": "DSC06241_PORQUEROLLES_2025.JPG",
     "googleDriveId": "1fMHfTXDzVNtMcHLwmeSVOxRciCKBeJKy",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-26T10:36:23",
     "timeZone": "+02:00",
@@ -331,14 +330,13 @@
     "fNumber": "f/4.0",
     "focalLength": "200.7 mm",
     "sizeBytes": 4960666,
+    "latitude": 43.024975676089525,
+    "longitude": 6.366211613640189,
     "multiDayHike": "Porquerolles, Port-Cros & Presqu'île de Giens"
   },
   {
     "name": "DSC05958_PORQUEROLLES_2025.JPG",
     "googleDriveId": "1sv19q-m_8w_PuMnIW0YaVcabwaJE_dum",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-26T10:20:08",
     "timeZone": "+02:00",
@@ -350,14 +348,13 @@
     "fNumber": "f/4.0",
     "focalLength": "60.3 mm",
     "sizeBytes": 7380481,
+    "latitude": 43.051723670214415,
+    "longitude": 6.25868646427989,
     "multiDayHike": "Porquerolles, Port-Cros & Presqu'île de Giens"
   },
   {
     "name": "DSC05915_PORQUEROLLES_2025.JPG",
     "googleDriveId": "1yy7UotKbWYCDGVCcpB0wNAGE2tErMmJa",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-01-26T10:18:52",
     "timeZone": "+02:00",
@@ -369,6 +366,8 @@
     "fNumber": "f/4.0",
     "focalLength": "97.5 mm",
     "sizeBytes": 7028324,
+    "latitude": 43.05420069023967,
+    "longitude": 6.250615110620856,
     "multiDayHike": "Porquerolles, Port-Cros & Presqu'île de Giens"
   },
   {

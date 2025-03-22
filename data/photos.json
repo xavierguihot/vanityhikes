@@ -15944,6 +15944,118 @@
     "multiDayHike": "Madeira"
   },
   {
+    "name": "THESE_ALICE_2024_7.JPG",
+    "googleDriveId": "1UFvROSpyXtKFc0b3jGltifKEJ7ggb5zf",
+    "tags": [
+      "Caen",
+      "Thèse Alice"
+    ],
+    "description": "",
+    "dateTime": "2024-09-13T23:56:58",
+    "timeZone": "+02:00",
+    "height": 1600,
+    "width": 1200,
+    "sizeBytes": 288042,
+    "latitude": 49.20923927351573,
+    "longitude": -0.3547735049791311
+  },
+  {
+    "name": "THESE_ALICE_2024_6.JPG",
+    "googleDriveId": "1zeJZu4mMvyGro0aKf1j6B1Wzd1lZwgyO",
+    "tags": [
+      "Caen",
+      "Thèse Alice"
+    ],
+    "description": "",
+    "dateTime": "2024-09-13T23:55:06",
+    "timeZone": "+02:00",
+    "height": 1200,
+    "width": 1600,
+    "sizeBytes": 216828,
+    "latitude": 49.20923927351573,
+    "longitude": -0.3547735049791311
+  },
+  {
+    "name": "THESE_ALICE_2024_5.JPG",
+    "googleDriveId": "1kSZiEusWuZrZaOyvdeJcwVQC9F5Mrib8",
+    "tags": [
+      "Caen",
+      "Thèse Alice"
+    ],
+    "description": "",
+    "dateTime": "2024-09-13T23:30:54",
+    "timeZone": "+02:00",
+    "height": 1600,
+    "width": 1200,
+    "sizeBytes": 211812,
+    "latitude": 49.20923927351573,
+    "longitude": -0.3547735049791311
+  },
+  {
+    "name": "THESE_ALICE_2024_4.JPG",
+    "googleDriveId": "1E-xtdBEirPZv5-gjUP38-uMCB9mZBbXJ",
+    "tags": [
+      "Caen",
+      "Thèse Alice"
+    ],
+    "description": "",
+    "dateTime": "2024-09-13T23:30:53",
+    "timeZone": "+02:00",
+    "height": 1200,
+    "width": 1600,
+    "sizeBytes": 194597,
+    "latitude": 49.20923927351573,
+    "longitude": -0.3547735049791311
+  },
+  {
+    "name": "THESE_ALICE_2024_3.JPG",
+    "googleDriveId": "1Wnr433pqBlqUK_BVWpS3EetcWZMqARzH",
+    "tags": [
+      "Caen",
+      "Thèse Alice"
+    ],
+    "description": "",
+    "dateTime": "2024-09-13T23:30:53",
+    "timeZone": "+02:00",
+    "height": 1200,
+    "width": 1600,
+    "sizeBytes": 218136,
+    "latitude": 49.20923927351573,
+    "longitude": -0.3547735049791311
+  },
+  {
+    "name": "THESE_ALICE_2024_2.JPG",
+    "googleDriveId": "17T921JY_vQ4pjTbNXpAU6AA-U5WX5X_Q",
+    "tags": [
+      "Caen",
+      "Thèse Alice"
+    ],
+    "description": "",
+    "dateTime": "2024-09-13T22:14:12",
+    "timeZone": "+02:00",
+    "height": 1600,
+    "width": 1201,
+    "sizeBytes": 258633,
+    "latitude": 49.20923927351573,
+    "longitude": -0.3547735049791311
+  },
+  {
+    "name": "THESE_ALICE_2024_1.JPG",
+    "googleDriveId": "1PV4Ezv3JzfruAxr51rcgqTSBTpDh_-vJ",
+    "tags": [
+      "Caen",
+      "Thèse Alice"
+    ],
+    "description": "",
+    "dateTime": "2024-09-13T22:14:12",
+    "timeZone": "+02:00",
+    "height": 1600,
+    "width": 1200,
+    "sizeBytes": 246067,
+    "latitude": 49.20923927351573,
+    "longitude": -0.3547735049791311
+  },
+  {
     "name": "P2TZ7762.JPG",
     "googleDriveId": "1qvJ_e6axfelishZoQDu1TdEqEThtV8bk",
     "tags": [
@@ -28082,6 +28194,9 @@
   {
     "name": "P1192887.JPG",
     "googleDriveId": "1_o4bDXvUie66Z6FWpzRD8-4aMyTHInmd",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2024-05-20T14:30:48",
     "timeZone": "+01:00",
@@ -50288,6 +50403,9 @@
   {
     "name": "P1016864.JPG",
     "googleDriveId": "1SYzsPmXqQdRP0H2Tv_IMEM8msLzGiSwL",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2023-05-20T13:43:41",
     "timeZone": "+01:00",
@@ -50305,6 +50423,9 @@
   {
     "name": "P1016850.JPG",
     "googleDriveId": "1L-PfFFQyauO_B5YatAi4KciUZKJhgCms",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2023-05-20T13:43:04",
     "timeZone": "+01:00",
@@ -50322,6 +50443,9 @@
   {
     "name": "P1016845.JPG",
     "googleDriveId": "17v_-IDaOjexnBA6ssceoaGFDiH6A6Fxb",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2023-05-20T13:42:38",
     "timeZone": "+01:00",
@@ -50339,6 +50463,9 @@
   {
     "name": "P1016837.JPG",
     "googleDriveId": "1NoH8AB0SzCLgy4dFeTXtLjk-x4Ix2Fhw",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2023-05-20T13:06:02",
     "timeZone": "+01:00",
@@ -57654,6 +57781,9 @@
   {
     "name": "PXL_20221030_163031377.jpg",
     "googleDriveId": "1asXf2pf2hgGPFqL6byZQ8bE4VKLKHFYR",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2022-10-30T17:30:31",
     "timeZone": "+01:00",
@@ -57671,6 +57801,9 @@
   {
     "name": "PXL_20221030_162309747.jpg",
     "googleDriveId": "1C07r9kM3KX6DSZ7P_vnIO800yvKheTfZ",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2022-10-30T17:23:09",
     "timeZone": "+01:00",
@@ -57688,6 +57821,9 @@
   {
     "name": "PXL_20221029_094914938.jpg",
     "googleDriveId": "1GPmWKDyCr9o83IFnRZgPJphQJij8ZcZY",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2022-10-29T11:49:14",
     "timeZone": "+02:00",
@@ -57723,6 +57859,9 @@
   {
     "name": "PXL_20221022_081750159.jpg",
     "googleDriveId": "1G_i65-rZyaEgvOLojLQc-30ptvLZyX5B",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2022-10-22T10:17:50",
     "timeZone": "+02:00",
@@ -57740,6 +57879,9 @@
   {
     "name": "PXL_20221022_065951913.jpg",
     "googleDriveId": "1JPOOSnC8jkiDkY5S-fpHwoBznW2gD5EH",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2022-10-22T08:59:51",
     "timeZone": "+02:00",
@@ -57757,6 +57899,9 @@
   {
     "name": "PXL_20221022_065132147.jpg",
     "googleDriveId": "1ceIKhK5k9ek1fndw1AXB5cNj8EN2WwVK",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2022-10-22T08:51:32",
     "timeZone": "+02:00",
@@ -57774,6 +57919,9 @@
   {
     "name": "PXL_20221022_064738896.jpg",
     "googleDriveId": "1t2VuhhuIKQxaSfaB0i-97u0BRG1J8xOQ",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2022-10-22T08:47:38",
     "timeZone": "+02:00",
@@ -57791,6 +57939,9 @@
   {
     "name": "PXL_20221022_064711092.jpg",
     "googleDriveId": "1DCaC_9EXv1kTaa2WUsPu2FNWbsqXwACx",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2022-10-22T08:47:11",
     "timeZone": "+02:00",
@@ -57808,6 +57959,9 @@
   {
     "name": "PXL_20221022_064432341.jpg",
     "googleDriveId": "1778vrZJAE1drYS9E2bsCMWSL0YKkijWG",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2022-10-22T08:44:32",
     "timeZone": "+02:00",
@@ -57825,6 +57979,9 @@
   {
     "name": "PXL_20221022_063042740.jpg",
     "googleDriveId": "1-YlVpAGSOOzPqBzogOIlp_ChwRiN7TvH",
+    "tags": [
+      "Caen"
+    ],
     "description": "",
     "dateTime": "2022-10-22T08:30:42",
     "timeZone": "+02:00",

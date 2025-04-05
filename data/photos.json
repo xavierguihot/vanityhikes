@@ -1,5 +1,1524 @@
 [
   {
+    "name": "P2TZ9113_2025_03.JPG",
+    "googleDriveId": "1_FS1jMiV165NM0W9TdRE1xefj9-_DCQO",
+    "tags": [
+      "Ile de France",
+      "Paris"
+    ],
+    "description": "",
+    "dateTime": "2025-03-20T19:10:20",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/80 sec",
+    "fNumber": "f/4.6",
+    "focalLength": "24.7 mm",
+    "sizeBytes": 8860160,
+    "latitude": 48.85930591262877,
+    "longitude": 2.3330430686473846
+  },
+  {
+    "name": "P2TZ9026_2025_03.JPG",
+    "googleDriveId": "19najL1h1c25E7GMPShAVzeCfZWNL7EZE",
+    "tags": [
+      "Ile de France",
+      "Paris"
+    ],
+    "description": "",
+    "dateTime": "2025-03-20T19:07:17",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/80 sec",
+    "fNumber": "f/5.5",
+    "focalLength": "43.9 mm",
+    "sizeBytes": 8053248,
+    "latitude": 48.86111631989479,
+    "longitude": 2.3346537351608276
+  },
+  {
+    "name": "P2TZ8941_2025_03.JPG",
+    "googleDriveId": "1mZmyexDont1Jf8o3c16cEN3BvRBrQLLG",
+    "tags": [
+      "Ile de France",
+      "Paris"
+    ],
+    "description": "",
+    "dateTime": "2025-03-13T18:44:15",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "0.01 sec",
+    "fNumber": "f/6.1",
+    "focalLength": "75.2 mm",
+    "sizeBytes": 8877568,
+    "latitude": 48.882062025368214,
+    "longitude": 2.33693721704185
+  },
+  {
+    "name": "PXL_20250308_223511772_2025_03.jpg",
+    "googleDriveId": "1b6AJqozifYel8a290L0vfskx7afdw3zq",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T22:35:11",
+    "timeZone": "+00:00",
+    "height": 2720,
+    "width": 4080,
+    "cameraMaker": "Google",
+    "cameraModel": "Pixel 8",
+    "exposureTime": "17419/50000 sec",
+    "fNumber": "f/1.7",
+    "focalLength": "6.9 mm",
+    "sizeBytes": 541656,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "PXL_20250308_222028950_2025_03.jpg",
+    "googleDriveId": "1cM_agpdPqqhBwqig7YjWHRnVYu8IABQO",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T22:20:28",
+    "timeZone": "+00:00",
+    "height": 4080,
+    "width": 2718,
+    "cameraMaker": "Google",
+    "cameraModel": "Pixel 8",
+    "exposureTime": "17419/50000 sec",
+    "fNumber": "f/1.7",
+    "focalLength": "6.9 mm",
+    "sizeBytes": 756449,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "IMG_6779-EDIT_2025_03.jpg",
+    "googleDriveId": "1DhbumLxD5CaifRwELsp8POqhtYMNlJCP",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T22:20:01",
+    "height": 4032,
+    "width": 3024,
+    "cameraMaker": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": "0.2 sec",
+    "fNumber": "f/1.6",
+    "focalLength": "6 mm",
+    "sizeBytes": 1015868,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC09840_2025_03.JPG",
+    "googleDriveId": "1hkTzBpq3Xk831AWO87N6g05z4Qp9hHwN",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T21:04:59",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "67.5 mm",
+    "sizeBytes": 4677880,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "PXL_20250308_205333829_2025_03.jpg",
+    "googleDriveId": "1U5j__5REF4jNQkWknbf-TzVdhN891N2j",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T20:53:33",
+    "timeZone": "+00:00",
+    "height": 2720,
+    "width": 4080,
+    "cameraMaker": "Google",
+    "cameraModel": "Pixel 8",
+    "exposureTime": "17419/50000 sec",
+    "fNumber": "f/1.7",
+    "focalLength": "6.9 mm",
+    "sizeBytes": 490868,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "PXL_20250308_205241680_2025_03.jpg",
+    "googleDriveId": "14FixLPhYZ6QURTYACd4-oJEGvecgo5Fd",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T20:52:41",
+    "timeZone": "+00:00",
+    "height": 4080,
+    "width": 2718,
+    "cameraMaker": "Google",
+    "cameraModel": "Pixel 8",
+    "exposureTime": "17419/50000 sec",
+    "fNumber": "f/1.7",
+    "focalLength": "6.9 mm",
+    "sizeBytes": 754844,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "PXL_20250308_205214050_2025_03.jpg",
+    "googleDriveId": "1K7HIHcXpfgrK1pTyVxhFzqa8YxhnXQYG",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T20:52:14",
+    "timeZone": "+00:00",
+    "height": 4080,
+    "width": 2718,
+    "cameraMaker": "Google",
+    "cameraModel": "Pixel 8",
+    "exposureTime": "17419/50000 sec",
+    "fNumber": "f/1.7",
+    "focalLength": "6.9 mm",
+    "sizeBytes": 975141,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "PXL_20250308_205147024_2025_03.jpg",
+    "googleDriveId": "17CKpuIIU-bERKfkM8t1moYosHTVyVflF",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T20:51:47",
+    "timeZone": "+00:00",
+    "height": 4080,
+    "width": 2718,
+    "cameraMaker": "Google",
+    "cameraModel": "Pixel 8",
+    "exposureTime": "17419/50000 sec",
+    "fNumber": "f/1.7",
+    "focalLength": "6.9 mm",
+    "sizeBytes": 512381,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "IMG_6755_2025_03.jpg",
+    "googleDriveId": "1hhRzUKPTE5aG2yfwpH6a_AOJUVGIqyL7",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T18:46:02",
+    "timeZone": "Z",
+    "height": 2687,
+    "width": 4032,
+    "cameraMaker": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": "1/792 sec",
+    "fNumber": "f/1.6",
+    "focalLength": "6 mm",
+    "sizeBytes": 653579,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "IMG_6754_2025_03.jpg",
+    "googleDriveId": "188TgOSGwrdvhY5Hzj7CqwyO5QSpvxX9G",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T18:45:00",
+    "timeZone": "Z",
+    "height": 2687,
+    "width": 4032,
+    "cameraMaker": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": "1/654 sec",
+    "fNumber": "f/1.6",
+    "focalLength": "6 mm",
+    "sizeBytes": 607443,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "IMG_6752_2025_03.jpg",
+    "googleDriveId": "1URGK1cnPb1hmuq8uc_lnJB_JwFR5VjTF",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T18:42:50",
+    "timeZone": "Z",
+    "height": 2687,
+    "width": 4032,
+    "cameraMaker": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": "1/693 sec",
+    "fNumber": "f/1.6",
+    "focalLength": "6 mm",
+    "sizeBytes": 734869,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "IMG_6751_2025_03.jpg",
+    "googleDriveId": "18H_5CsHAOW5sYFRBlHUot3iQOx_V5CEP",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T18:39:54",
+    "timeZone": "Z",
+    "height": 2687,
+    "width": 4032,
+    "cameraMaker": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": "1/927 sec",
+    "fNumber": "f/1.6",
+    "focalLength": "6 mm",
+    "sizeBytes": 613756,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC09687_2025_03.JPG",
+    "googleDriveId": "1y2gXmB7KyxH2zhxAy64b3RNG3TtOr2xg",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T18:29:56",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/5.0",
+    "focalLength": "210.2 mm",
+    "sizeBytes": 6283735,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC09059_2025_03.JPG",
+    "googleDriveId": "1C75N5xMWipnNHUQLXnRHysbLi0neESeu",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T18:17:38",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "220 mm",
+    "sizeBytes": 7642540,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC07535_2025_03.JPG",
+    "googleDriveId": "1NRUCLK0img577nntW73RzEsyIH8TLjuy",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T17:45:38",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.5",
+    "focalLength": "135.9 mm",
+    "sizeBytes": 6843561,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC07328_2025_03.JPG",
+    "googleDriveId": "1Cpmv_x0HV1MQTYHrm9GZAoPvdxRi5jrH",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T17:08:02",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/5.6",
+    "focalLength": "40.7 mm",
+    "sizeBytes": 7203515,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC06962_2025_03.JPG",
+    "googleDriveId": "16aPLUYOtoxFkFCfjnWeRZT44DtLfY66k",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T14:27:05",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "16.9 mm",
+    "sizeBytes": 9584953,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC06944_2025_03.JPG",
+    "googleDriveId": "1N8SROOJcnb8WJ9pdjHDs5ctQC59U_Mab",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T14:26:58",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/7.1",
+    "focalLength": "8.8 mm",
+    "sizeBytes": 6912328,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC06936_2025_03.JPG",
+    "googleDriveId": "1kIxaUcrCST4ECODKpnWrq0mnKpPN0gb1",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T14:26:54",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/5.6",
+    "focalLength": "8.8 mm",
+    "sizeBytes": 9415658,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC06509_2025_03.JPG",
+    "googleDriveId": "1aZOCV7uv2SiomGbP8wStplOjFJATnIlq",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T13:39:58",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "83.9 mm",
+    "sizeBytes": 8141907,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC06027_2025_03.JPG",
+    "googleDriveId": "1FLDiwp5qsVsbV5ZeKs7L0XCAiUQNhMe_",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T13:35:12",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "90.5 mm",
+    "sizeBytes": 9782811,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC05422_2025_03.JPG",
+    "googleDriveId": "1cudyFmKov3At7R84eWQ2D441oSzW6zBp",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T13:25:56",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "58.3 mm",
+    "sizeBytes": 7990438,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC05235_2025_03.JPG",
+    "googleDriveId": "1GIhwELFH1OBm2OFthD03ZQI4buMsCbLn",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T13:25:16",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "49.5 mm",
+    "sizeBytes": 8937275,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC04922_2025_03.JPG",
+    "googleDriveId": "1LCHNM_KJw1RUyYhKrZWIGqO48xDKdpLn",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T13:06:25",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "220 mm",
+    "sizeBytes": 6260801,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC04375_2025_03.JPG",
+    "googleDriveId": "1iNhty1JgGiz1-jV6ITQTh6VTx11Vo_YL",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T12:59:13",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "192.7 mm",
+    "sizeBytes": 8264590,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC03261_2025_03.JPG",
+    "googleDriveId": "1sQ8j6_GPHwg597zHukSBbBwspecKVNLW",
+    "tags": [
+      "Iceland"
+    ],
+    "description": "",
+    "dateTime": "2025-03-08T11:27:51",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/6.3",
+    "focalLength": "13 mm",
+    "sizeBytes": 5930368,
+    "latitude": 64.89775517955422,
+    "longitude": -23.70584389194846,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC02538_2025_03.JPG",
+    "googleDriveId": "1zn2W74cjzsVB9RV9HtJEvjKxu7fU7CS9",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T17:29:53",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "120.9 mm",
+    "sizeBytes": 7637439,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC02406_2025_03.JPG",
+    "googleDriveId": "1-gI2DcNgW0th28uFAHxuFEraIlTQIrel",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T17:19:34",
+    "timeZone": "+02:00",
+    "height": 3587,
+    "width": 5381,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "146.8 mm",
+    "sizeBytes": 2517071,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC01190_2025_03.JPG",
+    "googleDriveId": "18cghFTskmfmieePui4VlOI57RJJrGpHW",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T16:52:53",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "67.5 mm",
+    "sizeBytes": 7552722,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC01046_2025_03.JPG",
+    "googleDriveId": "1iwNDxFRYOgJ_lComZdI6mqTUAAOkVfQn",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T16:49:48",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "83.9 mm",
+    "sizeBytes": 8270579,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC00905_2025_03.JPG",
+    "googleDriveId": "1LE3E2rwg2wfG6Gx5nryq9BHSXqSfDuI8",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T16:48:57",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "143.2 mm",
+    "sizeBytes": 8196074,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC00613_2025_03.JPG",
+    "googleDriveId": "1tRG4Qmt5b8fkcKe0hqEEuAvMtEzHWX5f",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T16:44:24",
+    "timeZone": "+02:00",
+    "height": 3550,
+    "width": 5325,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "81.1 mm",
+    "sizeBytes": 3122056,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC09084_2025_03.JPG",
+    "googleDriveId": "1D0NG_c478jM8y6g4jU84Ulgvh-IVR8p1",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T13:48:46",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "8.8 mm",
+    "sizeBytes": 4431992,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC09069_2025_03.JPG",
+    "googleDriveId": "10XcxZN3Wz43R_04BlFJkjYCvZAe3hHMX",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T13:48:43",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/500 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "8.8 mm",
+    "sizeBytes": 4944607,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC08993_2025_03.JPG",
+    "googleDriveId": "1HcklZJhXpcxrPoaWh-rSJSGbn0B9OmSa",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T13:46:03",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "110.1 mm",
+    "sizeBytes": 5792972,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC08646_2025_03.JPG",
+    "googleDriveId": "1FvIjjV1L90TPlxiQSl96aFzyYVQKSnPk",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T13:43:35",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1250 sec",
+    "fNumber": "f/4.5",
+    "focalLength": "11.3 mm",
+    "sizeBytes": 6002049,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC07857_2025_03.JPG",
+    "googleDriveId": "1zZaGD0PdT1kQcQEWh-XO3kngOVLU9k0M",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T13:29:42",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/500 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "218.3 mm",
+    "sizeBytes": 5521860,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC07853_2025_03.JPG",
+    "googleDriveId": "1lF_Wg-nlWCf7ZXVhj3vvamVwyNBw3Izp",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T13:29:41",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/500 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "218.3 mm",
+    "sizeBytes": 5577601,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC07378_2025_03.JPG",
+    "googleDriveId": "1QSdQH11hjn3ikYRQjZmd6jKVZgSNDJFE",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T13:24:27",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/500 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "220 mm",
+    "sizeBytes": 4033097,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC07257_2025_03.JPG",
+    "googleDriveId": "1ZIl5TpFt4tQ-HRbjHzeQbzst4sz5B5zH",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T13:23:45",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/400 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "219.8 mm",
+    "sizeBytes": 3974699,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC06960_2025_03.JPG",
+    "googleDriveId": "1puiheJmsAiL_MQnpGnDuDkYGNmL-0GM3",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T13:15:21",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/500 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "44.9 mm",
+    "sizeBytes": 8460720,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC06941_2025_03.JPG",
+    "googleDriveId": "1PzcPCel17EM9IkjuQshBkbgxn6ik2Ev8",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T13:15:19",
+    "timeZone": "+02:00",
+    "height": 3323,
+    "width": 4983,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/500 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "44.9 mm",
+    "sizeBytes": 2203136,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC03956_2025_03.JPG",
+    "googleDriveId": "1tMnyIzsxMHpByG-ER8pZmwBDrUMG8z69",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-07T12:32:13",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/400 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "186.6 mm",
+    "sizeBytes": 5950138,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC02280_2025_03.JPG",
+    "googleDriveId": "1JctMxKN-FOBgsHtte_haWV2kdm3JSuxp",
+    "tags": [
+      "Iceland"
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T19:24:40",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "29.7 mm",
+    "sizeBytes": 6944298,
+    "latitude": 64.89438490010798,
+    "longitude": -23.703045677393675,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC02201_2025_03.JPG",
+    "googleDriveId": "1rL-RhK-f4EU6GpCMWUUYr0PZeRi35e0p",
+    "tags": [
+      "Iceland"
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T19:23:31",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "22.2 mm",
+    "sizeBytes": 4981509,
+    "latitude": 64.89435581490397,
+    "longitude": -23.703250531107187,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC01731_2025_03.JPG",
+    "googleDriveId": "1mTm7NHp1B-lJauZNp_ovlKsiR9gMvA3Q",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T18:22:34",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/5.6",
+    "focalLength": "22.2 mm",
+    "sizeBytes": 6598169,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "IMG_6645_2025_03.jpg",
+    "googleDriveId": "1ItHWEKT-6gfHvHa5eA75OdS6_vXqFz9O",
+    "tags": [
+      "Iceland"
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T17:29:14",
+    "timeZone": "Z",
+    "height": 2688,
+    "width": 4032,
+    "cameraMaker": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": "1/1876 sec",
+    "fNumber": "f/1.6",
+    "focalLength": "6 mm",
+    "sizeBytes": 1197178,
+    "latitude": 64.89415707997978,
+    "longitude": -23.700797399505973,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "IMG_6642_2025_03.jpg",
+    "googleDriveId": "1rKb1EYQ9rau6Nrw8R0MDkzzEPKDVOE8O",
+    "tags": [
+      "Iceland"
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T17:28:59",
+    "timeZone": "Z",
+    "height": 5712,
+    "width": 3809,
+    "cameraMaker": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": "1/2342 sec",
+    "fNumber": "f/1.6",
+    "focalLength": "6 mm",
+    "sizeBytes": 1833971,
+    "latitude": 64.8941526375711,
+    "longitude": -23.700796477496624,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC01217_2025_03.JPG",
+    "googleDriveId": "17msepuMrsW8I9nxk5PBwzO9WJa6WRfo5",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T17:16:46",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/400 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "22.2 mm",
+    "sizeBytes": 5501962,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC00297_2025_03.JPG",
+    "googleDriveId": "1WUwIX_BqM0It36iEO8nXeaHP3vaxdeAn",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T17:06:57",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/5.0",
+    "focalLength": "75.8 mm",
+    "sizeBytes": 9338212,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC09352_2025_03.JPG",
+    "googleDriveId": "1aNaWVh8ZwY-EHMiR5rEvuRTs6UzetVQT",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T14:07:04",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "219.8 mm",
+    "sizeBytes": 7202726,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC08443_2025_03.JPG",
+    "googleDriveId": "1Rf7W1pwtp1xYIu27GT1x1aTi5VxTSChw",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T13:29:17",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/250 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "128.6 mm",
+    "sizeBytes": 4888714,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC08295_2025_03.JPG",
+    "googleDriveId": "1Wn_Yri8k2AlIHkEplNtAWOCkbaxx_FaH",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T13:28:54",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/250 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "128.6 mm",
+    "sizeBytes": 5209460,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC08294_2025_03.JPG",
+    "googleDriveId": "1fwrzugyVm9NGBJKHQ8cXBbjqmNLSnQko",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T13:28:54",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/250 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "128.6 mm",
+    "sizeBytes": 5312351,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC08257_2025_03.JPG",
+    "googleDriveId": "1mQnFqc5ThUTib4_xuaKLRefsptEyqF1C",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T13:28:51",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/250 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "128.6 mm",
+    "sizeBytes": 5421197,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC07080_2025_03.JPG",
+    "googleDriveId": "1LycpF-s01ugsYJA9-gDpdKBdIoXTfg8r",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T13:19:15",
+    "timeZone": "+02:00",
+    "height": 3631,
+    "width": 5447,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/320 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "60.3 mm",
+    "sizeBytes": 757915,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC06878_2025_03.JPG",
+    "googleDriveId": "1hhbZw059N7S_MTnSeNaDlqvjxSJgSL2W",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T13:17:42",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/320 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "75.8 mm",
+    "sizeBytes": 4245907,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC06418_2025_03.JPG",
+    "googleDriveId": "15PzIj5ZzNAi6jRHqv3XiJglzcpyiMrga",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T13:14:36",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/320 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "159.7 mm",
+    "sizeBytes": 3914301,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC06091_2025_03.JPG",
+    "googleDriveId": "1CC7M-r_2HRalppwlBNrGv6XiF-wib4YI",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T13:04:56",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/160 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "44.9 mm",
+    "sizeBytes": 5686177,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC06060_2025_03.JPG",
+    "googleDriveId": "1gCz6G5KbnsoTMeUBmn6oYOE5bJzQKpj-",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T13:04:45",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/250 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "78.4 mm",
+    "sizeBytes": 6823392,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC06045_2025_03.JPG",
+    "googleDriveId": "1sQC3kP7lRAMnQU7IzCg7DDr6YpqPH1ZJ",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T13:04:43",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/250 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "78.4 mm",
+    "sizeBytes": 6450319,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC04800_2025_03.JPG",
+    "googleDriveId": "1ESA7Kyy9BWR4A3tUsbl_4xif_cL2mhg4",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-05T17:48:40",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/8.0",
+    "focalLength": "220 mm",
+    "sizeBytes": 5854082,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC04185_2025_03.JPG",
+    "googleDriveId": "13rhKynOplieoore6nJ0kI2YXYJ1EvJpp",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-05T17:32:22",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/400 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "67.5 mm",
+    "sizeBytes": 8566934,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC03990_2025_03.JPG",
+    "googleDriveId": "1YX4xQij3MunlDQi45xQhZ2ypnIHael7r",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-05T17:28:58",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "62.4 mm",
+    "sizeBytes": 7924915,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC03842_2025_03.JPG",
+    "googleDriveId": "1hMRBRpSOyDSxsS9KIfcMM-hwidrH-wO2",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-05T17:28:08",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "120.9 mm",
+    "sizeBytes": 7217992,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC01917_2025_03.JPG",
+    "googleDriveId": "11CgYHnWZpT_eb8YNJO3x7DtJPhbRZLwA",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-05T16:42:32",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/5.0",
+    "focalLength": "70.3 mm",
+    "sizeBytes": 6930718,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC01733_2025_03.JPG",
+    "googleDriveId": "15Tsy1GepoI1jfhIUdB4RogaaxyttG23S",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-05T16:27:06",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.5",
+    "focalLength": "51.1 mm",
+    "sizeBytes": 7941413,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC01640_2025_03.JPG",
+    "googleDriveId": "1QNokyc83xX8XJbxscFTDy7lxPJvQDpTd",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-05T16:24:57",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "64.8 mm",
+    "sizeBytes": 7858215,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC01581_2025_03.JPG",
+    "googleDriveId": "1MolFLwdtxX-ZF8Ky_zb5rG0pdI_qSCWN",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-05T16:21:04",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "128.6 mm",
+    "sizeBytes": 7356643,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC09818_2025_03.JPG",
+    "googleDriveId": "18bhP_YIt4QTuzjVoy5Ar8brtSp5CFNBI",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-05T13:15:33",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "49.5 mm",
+    "sizeBytes": 7145727,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC09700_2025_03.JPG",
+    "googleDriveId": "1sVdKv_Eu8LO13O3NXV9SyarbqVlVgvai",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-05T13:14:49",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.5",
+    "focalLength": "83.9 mm",
+    "sizeBytes": 5745830,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC09143_2025_03.JPG",
+    "googleDriveId": "117Fe1b9f_oUryOQQ8a1SsngGMdVKL2ga",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-04T13:37:32",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "30.5 mm",
+    "sizeBytes": 5835933,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "IMG_6502-EDIT_2025_03.jpg",
+    "googleDriveId": "1KBueonsXFc7-YhjNjTqxTbhCS39uB89Q",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-04T11:50:16",
+    "height": 3024,
+    "width": 4032,
+    "cameraMaker": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": "1/1027 sec",
+    "fNumber": "f/1.6",
+    "focalLength": "6 mm",
+    "sizeBytes": 615915,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC09120_2025_03.JPG",
+    "googleDriveId": "1DXBeFkoNGSngjE-1XpwTedo4KfUeg_sa",
+    "tags": [
+      "Iceland"
+    ],
+    "description": "",
+    "dateTime": "2025-03-03T12:47:43",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "20.5 mm",
+    "sizeBytes": 6731671,
+    "latitude": 64.89538251422346,
+    "longitude": -23.718886049464345,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC09016_2025_03.JPG",
+    "googleDriveId": "15EMW4K-HoIBHwD4_EjMC10P9nBUmWHN7",
+    "tags": [
+      "Iceland"
+    ],
+    "description": "",
+    "dateTime": "2025-03-03T12:26:25",
+    "timeZone": "+02:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "17.6 mm",
+    "sizeBytes": 6128041,
+    "latitude": 64.89262352697551,
+    "longitude": -23.719778638333082,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
+    "name": "DSC08602_2025_03.JPG",
+    "googleDriveId": "1xOBsZ4yCv7cKV0jeRw0RonFW6yx73vIK",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-03T11:56:13",
+    "timeZone": "+02:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/320 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "67.5 mm",
+    "sizeBytes": 8074829,
+    "multiDayHike": "Iceland Winter 2025"
+  },
+  {
     "name": "P2TZ8847_20250216.JPG",
     "googleDriveId": "1HlZesBHfQDKFxZwuaVHElJppxGj1JwjY",
     "tags": [
@@ -68142,5 +69661,57 @@
     "latitude": 45.399250918999314,
     "longitude": 6.777957938611507,
     "multiDayHike": "Tour de la Grande Casse & Mont Thabor"
+  },
+  {
+    "name": "IMG_6570-EDIT_2025_03.jpg",
+    "googleDriveId": "1xZHnr7lr1_GPF6BOGCaJwAg6YbHoxD5b",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-06T10:12:00",
+    "timeZone": "+00:00",
+    "height": 4192,
+    "width": 2795,
+    "sizeBytes": 1323320
+  },
+  {
+    "name": "IMG_6491-EDIT_2025_03.jpg",
+    "googleDriveId": "1npUAHu6dA-3--PU-q0yHdP4tzcoRwx38",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-04T11:47:00",
+    "timeZone": "+00:00",
+    "height": 2718,
+    "width": 4077,
+    "sizeBytes": 860244
+  },
+  {
+    "name": "IMG_6437-EDIT_2025_03.jpg",
+    "googleDriveId": "1xp-CQuc36ih7STS9QPISMviMtMlihsxA",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-02T13:00:00",
+    "timeZone": "+00:00",
+    "height": 4192,
+    "width": 2795,
+    "sizeBytes": 642425
+  },
+  {
+    "name": "IMG_6436-EDIT_2025_03.jpg",
+    "googleDriveId": "1Pf-qHeDKoQVXAoU7se7d1fEHjkWxAW4b",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2025-03-02T12:59:00",
+    "timeZone": "+00:00",
+    "height": 4192,
+    "width": 2795,
+    "sizeBytes": 1157014
   }
 ]

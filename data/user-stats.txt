@@ -1,107 +1,107 @@
 Distance                        
-  Total:                           11845km             
-  Year to date:                    1269km              
-  Most distance in 1h:             8.14km                 8.1 km/h      2022-09-11 17:19 - 2022-09-11 18:19                                            
-  Most distance in 2h:             14.49km                7.2 km/h      2024-05-15 10:22 - 2024-05-15 12:22                                            
-  Most distance in 3h:             21.18km                7.1 km/h      2024-05-15 09:24 - 2024-05-15 12:24                                            
-  Most distance in 6h:             33.72km                5.9 km/h      2022-02-27 07:06 - 2022-02-27 12:49                                            
-  Most distance in 12h:            50.79km                4.8 km/h      2022-11-19 07:06 - 2022-11-19 17:40                                            
-  Most distance in 24h:            53.00km                2.2 km/h      2022-09-30 15:42 - 2022-10-01 15:42                                            
-  Most distance in 2 days:         91.87km                45.9 km/day   2024-06-03 21:12 - 2024-06-05 17:44            current: 25.51km                
-  Most distance in 3 days:         130.92km               43.6 km/day   2024-06-04 15:28 - 2024-06-07 15:23            current: 25.77km                
-  Most distance in 4 days:         168.17km               42.0 km/day   2024-06-03 21:12 - 2024-06-07 15:23            current: 35.58km                
-  Most distance in 5 days:         186.72km               37.3 km/day   2024-03-20 12:09 - 2024-03-25 12:04            current: 48.72km                
-  Most distance in 7 days:         253.07km               36.2 km/day   2024-03-20 11:46 - 2024-03-27 11:37            current: 53.73km                
-  Most distance in 10 days:        319.61km               32.0 km/day   2024-03-17 17:27 - 2024-03-27 17:24            current: 66.89km                
-  Most distance in 14 days:        429.35km               30.7 km/day   2024-04-03 08:22 - 2024-04-16 16:20            current: 102.02km               
-  Most distance in 30 days:        821.97km               27.4 km/day   2024-03-17 16:09 - 2024-04-16 16:20            current: 129.78km               
-  Most distance in 61 days:        1320.02km              21.6 km/day   2024-03-17 17:18 - 2024-05-17 17:45            current: 304.69km               
-  Most distance in 92 days:        1801.55km              19.6 km/day   2024-03-17 16:09 - 2024-06-17 16:55            current: 428.06km               
-  Most distance in 183 days:       3125.84km              17.2 km/day   2024-03-05 11:14 - 2024-09-03 14:49            current: 1428.38km              
-  Most distance in 1 year:         5010.81km              13.7 km/day   2024-02-20 11:06 - 2025-02-19 09:00            current: 3781.85km              
-  Fastest 5km:                     34m 35s                8.7 km/h      2023-10-02 11:39 - 2023-10-02 12:13            current: 3h 18m 22s             
-  Fastest 10km:                    1h 14m 16s             8.1 km/h      2022-09-11 16:51 - 2022-09-11 18:06            current: 4h 12m 24s             
-  Fastest 15km:                    2h 5m 22s              7.2 km/h      2024-05-15 10:18 - 2024-05-15 12:24            current: 1d 2h 35m 8s           
-  Fastest 20km:                    2h 46m 51s             7.2 km/h      2024-05-15 09:37 - 2024-05-15 12:24            current: 1d 3h 32m 6s           
-  Fastest 25km:                    3h 45m 13s             6.7 km/h      2024-05-15 08:39 - 2024-05-15 12:24            current: 1d 4h 25m 44s          
-  Fastest 30km:                    4h 55m 52s             6.1 km/h      2022-02-27 07:06 - 2022-02-27 12:02            current: 3d 1h 1m 54s           
-  Fastest 40km:                    7h 45m 48s             5.2 km/h      2025-02-15 08:48 - 2025-02-15 16:34            current: 4d 1h 37m 13s          
-  Fastest 42.2km:                  8h 42m 22s             4.8 km/h      2022-11-19 07:06 - 2022-11-19 15:49            current: 4d 11h 19m 29s         
-  Fastest 50km:                    10h 24m 32s            4.8 km/h      2022-11-19 07:06 - 2022-11-19 17:31            current: 5d 15m 3s              
-  Fastest 75km:                    1d 6h 35m 11s          2.5 km/h      2024-06-04 08:00 - 2024-06-05 14:35            current: 10d 2h 12m 38s         
-  Fastest 100km:                   2d 2h 27m 39s          47.6 km/day   2024-06-04 08:12 - 2024-06-06 10:39            current: 12d 4m 14s             
-  Fastest 161km:                   3d 6h 19m 48s          49.3 km/day   2024-06-04 08:12 - 2024-06-07 14:31            current: 1m 3d 13m 53s          
-  Fastest 200km:                   5d 3h 7m 40s           39.0 km/day   2024-03-20 12:21 - 2024-03-25 15:28            current: 1m 13d 4h 43m 6s       
-  Fastest 250km:                   6d 23h 10m 11s         35.9 km/day   2024-03-20 11:46 - 2024-03-27 10:56            current: 1m 19d 5h 45m 57s      
-  Fastest 500km:                   17d 5h 30m 36s         29.0 km/day   2024-08-17 08:18 - 2024-09-03 13:48            current: 3m 10d 2h 55m 24s      
-  Fastest 1000km:                  1m 11d 3h 4m 33s       23.8 km/day   2024-03-18 08:27 - 2024-04-29 11:31            current: 4m 11d 7h 6m 15s       
-  Fastest 2000km:                  3m 20d 7h 3m 48s       17.8 km/day   2024-03-18 08:27 - 2024-07-08 15:31            current: 8m 1d 9h 1m 14s        
-  Fastest 3000km:                  5m 13d 22h 34m 36s     18.0 km/day   2024-03-20 11:46 - 2024-09-03 10:20            current: 9m 27d 1h 1m 44s       
-  Fastest 4000km:                  8m 26d 23h 47m 41s     14.8 km/day   2024-02-10 10:44 - 2024-11-06 10:32            current: 1y 18d 9h 55m 21s      
-  Fastest 5000km:                  11m 27d 21h 5m 50s     13.8 km/day   2024-02-19 17:04 - 2025-02-16 14:10            current: 1y 2m 1d 8h 53m 15s    
-  Fastest 10000km:                 2y 6m 14d 3h 36m 54s   10.8 km/day   2022-08-13 08:45 - 2025-02-27 12:22            current: 2y 8m 7d 23h 49m 14s   
-  Day streak at more than 5km:     30                                   2024-08-05       - 2024-09-03                  current: 1                   
-  Day streak at more than 10km:    30                                   2024-08-05       - 2024-09-03                  current: 1                   
-  Day streak at more than 15km:    30                                   2024-08-05       - 2024-09-03                  current: 0                   
-  Day streak at more than 20km:    22                                   2024-08-05       - 2024-08-26                  current: 0                   
-  Day streak at more than 25km:    8                                    2024-03-20       - 2024-03-27                  current: 0                   
-  Day streak at more than 30km:    8                                    2024-03-20       - 2024-03-27                  current: 0                   
-  Day streak at more than 35km:    4                                    2024-06-04       - 2024-06-07                  current: 0                   
-  Day streak at more than 40km:    2                                    2022-07-23       - 2022-07-24                  current: 0                   
-  Day streak at more than 50km:    1                                    2022-11-19       - 2022-11-19                  current: 0                   
+  Total:                           11904km             
+  Year to date:                    1328km              
+  Most distance in 1h:             8.14km                 8.1 km/h      2022-09-11 17:19 - 2022-09-11 18:19                                           
+  Most distance in 2h:             14.49km                7.2 km/h      2024-05-15 10:22 - 2024-05-15 12:22                                           
+  Most distance in 3h:             21.18km                7.1 km/h      2024-05-15 09:24 - 2024-05-15 12:24                                           
+  Most distance in 6h:             33.72km                5.9 km/h      2022-02-27 07:06 - 2022-02-27 12:49                                           
+  Most distance in 12h:            50.79km                4.8 km/h      2022-11-19 07:06 - 2022-11-19 17:40                                           
+  Most distance in 24h:            53.00km                2.2 km/h      2022-09-30 15:42 - 2022-10-01 15:42                                           
+  Most distance in 2 days:         91.87km                45.9 km/day   2024-06-03 21:12 - 2024-06-05 17:44           current: 21.54km                
+  Most distance in 3 days:         130.92km               43.6 km/day   2024-06-04 15:28 - 2024-06-07 15:23           current: 36.20km                
+  Most distance in 4 days:         168.17km               42.0 km/day   2024-06-03 21:12 - 2024-06-07 15:23           current: 52.69km                
+  Most distance in 5 days:         186.72km               37.3 km/day   2024-03-20 12:09 - 2024-03-25 12:04           current: 59.07km                
+  Most distance in 7 days:         253.07km               36.2 km/day   2024-03-20 11:46 - 2024-03-27 11:37           current: 73.20km                
+  Most distance in 10 days:        319.61km               32.0 km/day   2024-03-17 17:27 - 2024-03-27 17:24           current: 94.65km                
+  Most distance in 14 days:        429.35km               30.7 km/day   2024-04-03 08:22 - 2024-04-16 16:20           current: 125.96km               
+  Most distance in 30 days:        821.97km               27.4 km/day   2024-03-17 16:09 - 2024-04-16 16:20           current: 175.66km               
+  Most distance in 61 days:        1320.02km              21.6 km/day   2024-03-17 17:18 - 2024-05-17 17:45           current: 332.72km               
+  Most distance in 92 days:        1801.55km              19.6 km/day   2024-03-17 16:09 - 2024-06-17 16:55           current: 463.96km               
+  Most distance in 183 days:       3125.84km              17.2 km/day   2024-03-05 11:14 - 2024-09-03 14:49           current: 1478.22km              
+  Most distance in 1 year:         5010.81km              13.7 km/day   2024-02-20 11:06 - 2025-02-19 09:00           current: 3733.87km              
+  Fastest 5km:                     34m 35s                8.7 km/h      2023-10-02 11:39 - 2023-10-02 12:13           current: 3h 30m 12s             
+  Fastest 10km:                    1h 14m 16s             8.1 km/h      2022-09-11 16:51 - 2022-09-11 18:06           current: 4h 25m 50s             
+  Fastest 15km:                    2h 5m 22s              7.2 km/h      2024-05-15 10:18 - 2024-05-15 12:24           current: 1d 3h 19m 23s          
+  Fastest 20km:                    2h 46m 51s             7.2 km/h      2024-05-15 09:37 - 2024-05-15 12:24           current: 1d 4h 13m 28s          
+  Fastest 25km:                    3h 45m 13s             6.7 km/h      2024-05-15 08:39 - 2024-05-15 12:24           current: 2d 5h 22m 37s          
+  Fastest 30km:                    4h 55m 52s             6.1 km/h      2022-02-27 07:06 - 2022-02-27 12:02           current: 2d 6h 21m 31s          
+  Fastest 40km:                    7h 45m 48s             5.2 km/h      2025-02-15 08:48 - 2025-02-15 16:34           current: 3d 1h 59m 50s          
+  Fastest 42.2km:                  8h 42m 22s             4.8 km/h      2022-11-19 07:06 - 2022-11-19 15:49           current: 3d 2h 59m 35s          
+  Fastest 50km:                    10h 24m 32s            4.8 km/h      2022-11-19 07:06 - 2022-11-19 17:31           current: 3d 12h 49m 9s          
+  Fastest 75km:                    1d 6h 35m 11s          2.5 km/h      2024-06-04 08:00 - 2024-06-05 14:35           current: 7d 4h 9m 51s           
+  Fastest 100km:                   2d 2h 27m 39s          47.6 km/day   2024-06-04 08:12 - 2024-06-06 10:39           current: 10d 12h 32m 27s        
+  Fastest 161km:                   3d 6h 19m 48s          49.3 km/day   2024-06-04 08:12 - 2024-06-07 14:31           current: 18d 1h 43m 52s         
+  Fastest 200km:                   5d 3h 7m 40s           39.0 km/day   2024-03-20 12:21 - 2024-03-25 15:28           current: 1m 7d 2h 44m 1s        
+  Fastest 250km:                   6d 23h 10m 11s         35.9 km/day   2024-03-20 11:46 - 2024-03-27 10:56           current: 1m 16d 12h 38m 45s     
+  Fastest 500km:                   17d 5h 30m 36s         29.0 km/day   2024-08-17 08:18 - 2024-09-03 13:48           current: 3m 10d 23h 42m 32s     
+  Fastest 1000km:                  1m 11d 3h 4m 33s       23.8 km/day   2024-03-18 08:27 - 2024-04-29 11:31           current: 4m 14d 7h 10m 9s       
+  Fastest 2000km:                  3m 20d 7h 3m 48s       17.8 km/day   2024-03-18 08:27 - 2024-07-08 15:31           current: 7m 25d 11h 1m 47s      
+  Fastest 3000km:                  5m 13d 22h 34m 36s     18.0 km/day   2024-03-20 11:46 - 2024-09-03 10:20           current: 9m 26d 11h 46m 23s     
+  Fastest 4000km:                  8m 26d 23h 47m 41s     14.8 km/day   2024-02-10 10:44 - 2024-11-06 10:32           current: 1y 23d 7h 30m 44s      
+  Fastest 5000km:                  11m 27d 21h 5m 50s     13.8 km/day   2024-02-19 17:04 - 2025-02-16 14:10           current: 1y 2m 5d 10h 57m 47s   
+  Fastest 10000km:                 2y 6m 14d 3h 36m 54s   10.8 km/day   2022-08-13 08:45 - 2025-02-27 12:22           current: 2y 8m 11d 33m 25s      
+  Day streak at more than 5km:     30                                   2024-08-05       - 2024-09-03                 current: 4                   
+  Day streak at more than 10km:    30                                   2024-08-05       - 2024-09-03                 current: 4                   
+  Day streak at more than 15km:    30                                   2024-08-05       - 2024-09-03                 current: 0                   
+  Day streak at more than 20km:    22                                   2024-08-05       - 2024-08-26                 current: 0                   
+  Day streak at more than 25km:    8                                    2024-03-20       - 2024-03-27                 current: 0                   
+  Day streak at more than 30km:    8                                    2024-03-20       - 2024-03-27                 current: 0                   
+  Day streak at more than 35km:    4                                    2024-06-04       - 2024-06-07                 current: 0                   
+  Day streak at more than 40km:    2                                    2022-07-23       - 2022-07-24                 current: 0                   
+  Day streak at more than 50km:    1                                    2022-11-19       - 2022-11-19                 current: 0                   
 Elevation:                      
-  Total:                           366760m             
-  Year to date:                    19221m              
-  Most elevation in 1h:            672m                   672 m/h       2022-09-01 07:20 - 2022-09-01 08:20                                            
-  Most elevation in 2h:            1266m                  633 m/h       2022-09-01 07:14 - 2022-09-01 09:14                                            
-  Most elevation in 3h:            1769m                  597 m/h       2022-09-01 06:19 - 2022-09-01 09:17                                            
-  Most elevation in 6h:            2180m                  363 m/h       2023-07-08 07:15 - 2023-07-08 13:15                                            
-  Most elevation in 12h:           3033m                  298 m/h       2023-07-08 07:15 - 2023-07-08 17:24                                            
-  Most elevation in 24h:           3060m                  139 m/h       2023-07-07 19:32 - 2023-07-08 17:24                                            
-  Most elevation in 2 days:        5111m                  2555 m/day    2022-05-21 06:31 - 2022-05-22 15:07            current: 106m                   
-  Most elevation in 3 days:        6785m                  2261 m/day    2022-07-03 05:23 - 2022-07-05 19:21            current: 112m                   
-  Most elevation in 4 days:        8353m                  2088 m/day    2022-08-28 09:19 - 2022-09-01 09:17            current: 200m                   
-  Most elevation in 5 days:        10095m                 2019 m/day    2022-07-02 16:40 - 2022-07-07 16:31            current: 303m                   
-  Most elevation in 7 days:        13225m                 1889 m/day    2022-07-02 16:10 - 2022-07-09 15:27            current: 333m                   
-  Most elevation in 10 days:       17587m                 1758 m/day    2024-08-12 08:41 - 2024-08-22 08:18            current: 375m                   
-  Most elevation in 14 days:       23842m                 1703 m/day    2024-08-12 09:40 - 2024-08-26 09:31            current: 618m                   
-  Most elevation in 30 days:       47792m                 1593 m/day    2024-08-04 19:53 - 2024-09-03 14:48            current: 762m                   
-  Most elevation in 61 days:       55725m                 913 m/day     2024-07-04 13:19 - 2024-09-03 13:02            current: 2054m                  
-  Most elevation in 92 days:       69928m                 762 m/day     2024-06-03 21:12 - 2024-09-03 14:48            current: 3196m                  
-  Most elevation in 183 days:      100568m                555 m/day     2024-05-27 09:15 - 2024-11-24 09:51            current: 21021m                 
-  Most elevation in 1 year:        149602m                409 m/day     2024-01-30 15:33 - 2025-01-29 15:12            current: 121443m                
-  Fastest 300m:                    21m 19s                844 m/h       2024-06-18 12:19 - 2024-06-18 12:40            current: 4d 12h 4s              
-  Fastest 500m:                    43m 23s                691 m/h       2024-08-22 06:52 - 2024-08-22 07:36            current: 11d 2h 1m              
-  Fastest 1000m:                   1h 31m 1s              659 m/h       2022-09-01 07:14 - 2022-09-01 08:45            current: 1m 7d 7h 49m 16s       
-  Fastest 1500m:                   2h 24m 54s             621 m/h       2022-09-01 06:31 - 2022-09-01 08:55            current: 1m 16d 2h 6m           
-  Fastest 1609m:                   2h 37m 45s             611 m/h       2022-09-01 06:28 - 2022-09-01 09:06            current: 1m 19d 4h 26m 48s      
-  Fastest 2000m:                   4h 36m 47s             433 m/h       2024-08-21 07:44 - 2024-08-21 12:20            current: 1m 29d 24m 10s         
-  Fastest 2500m:                   7h 56m 40s             314 m/h       2023-07-08 07:15 - 2023-07-08 15:12            current: 2m 12d 23h 43m 3s      
-  Fastest 3000m:                   10h 9m 28s             295 m/h       2023-07-08 07:15 - 2023-07-08 17:24            current: 2m 23d 4h 49m 13s      
-  Fastest 4000m:                   1d 4h 14m 14s          3399 m/day    2022-08-31 05:02 - 2022-09-01 09:17            current: 3m 12d 10h 38m 23s     
-  Fastest 5000m:                   1d 12h 54m 35s         3251 m/day    2022-07-03 05:23 - 2022-07-04 18:17            current: 3m 26d 7h 57m 6s       
-  Fastest 10000m:                  4d 9h 31m 44s          2274 m/day    2022-08-28 05:20 - 2022-09-01 14:52            current: 4m 3d 7h 14m 36s       
-  Fastest 25000m:                  14d 4h 47m 5s          1760 m/day    2024-08-18 07:48 - 2024-09-01 12:35            current: 6m 12d 13h 4m 37s      
-  Fastest 50000m:                  1m 15d 22h 36m 10s     1065 m/day    2024-08-05 09:55 - 2024-09-21 08:31            current: 8m 24d 13h 24m 35s     
-  Fastest 100000m:                 5m 23d 18m 44s         568 m/day     2024-05-28 06:24 - 2024-11-20 06:43            current: 10m 19d 7h 30m 11s     
-  Fastest 250000m:                 2y 7d 6h 5m 44s        338 m/day     2023-01-21 08:17 - 2025-01-28 14:22            current: 2y 3m 13d 5h 24m 38s   
-  Day streak at more than 300m:    30                                   2024-08-05       - 2024-09-03                  current: 0                   
-  Day streak at more than 500m:    30                                   2024-08-05       - 2024-09-03                  current: 0                   
-  Day streak at more than 1000m:   19                                   2024-08-05       - 2024-08-23                  current: 0                   
-  Day streak at more than 1500m:   6                                    2024-08-18       - 2024-08-23                  current: 0                   
-  Day streak at more than 2000m:   2                                    2022-07-03       - 2022-07-04                  current: 0                   
-  Day streak at more than 2500m:   1                                    2022-07-04       - 2022-07-04                  current: 0                   
-  Day streak at more than 3000m:   1                                    2023-07-08       - 2023-07-08                  current: 0                   
-  Max altitude:                    5591m                                2024-11-14                                                                     
+  Total:                           367182m             
+  Year to date:                    19643m              
+  Most elevation in 1h:            672m                   672 m/h       2022-09-01 07:20 - 2022-09-01 08:20                                           
+  Most elevation in 2h:            1266m                  633 m/h       2022-09-01 07:14 - 2022-09-01 09:14                                           
+  Most elevation in 3h:            1769m                  597 m/h       2022-09-01 06:19 - 2022-09-01 09:17                                           
+  Most elevation in 6h:            2180m                  363 m/h       2023-07-08 07:15 - 2023-07-08 13:15                                           
+  Most elevation in 12h:           3033m                  298 m/h       2023-07-08 07:15 - 2023-07-08 17:24                                           
+  Most elevation in 24h:           3060m                  139 m/h       2023-07-07 19:32 - 2023-07-08 17:24                                           
+  Most elevation in 2 days:        5111m                  2555 m/day    2022-05-21 06:31 - 2022-05-22 15:07           current: 91m                    
+  Most elevation in 3 days:        6785m                  2261 m/day    2022-07-03 05:23 - 2022-07-05 19:21           current: 290m                   
+  Most elevation in 4 days:        8353m                  2088 m/day    2022-08-28 09:19 - 2022-09-01 09:17           current: 404m                   
+  Most elevation in 5 days:        10095m                 2019 m/day    2022-07-02 16:40 - 2022-07-07 16:31           current: 422m                   
+  Most elevation in 7 days:        13225m                 1889 m/day    2022-07-02 16:10 - 2022-07-09 15:27           current: 500m                   
+  Most elevation in 10 days:       17587m                 1758 m/day    2024-08-12 08:41 - 2024-08-22 08:18           current: 622m                   
+  Most elevation in 14 days:       23842m                 1703 m/day    2024-08-12 09:40 - 2024-08-26 09:31           current: 797m                   
+  Most elevation in 30 days:       47792m                 1593 m/day    2024-08-04 19:53 - 2024-09-03 14:48           current: 1120m                  
+  Most elevation in 61 days:       55725m                 913 m/day     2024-07-04 13:19 - 2024-09-03 13:02           current: 2272m                  
+  Most elevation in 92 days:       69928m                 762 m/day     2024-06-03 21:12 - 2024-09-03 14:48           current: 3451m                  
+  Most elevation in 183 days:      100568m                555 m/day     2024-05-27 09:15 - 2024-11-24 09:51           current: 21279m                 
+  Most elevation in 1 year:        149602m                409 m/day     2024-01-30 15:33 - 2025-01-29 15:12           current: 115421m                
+  Fastest 300m:                    21m 19s                844 m/h       2024-06-18 12:19 - 2024-06-18 12:40           current: 3d 1h 45m 34s          
+  Fastest 500m:                    43m 23s                691 m/h       2024-08-22 06:52 - 2024-08-22 07:36           current: 6d 10h 47m 43s         
+  Fastest 1000m:                   1h 31m 1s              659 m/h       2022-09-01 07:14 - 2022-09-01 08:45           current: 17d 13h 14m 33s        
+  Fastest 1500m:                   2h 24m 54s             621 m/h       2022-09-01 06:31 - 2022-09-01 08:55           current: 1m 14d 13h 12m 16s     
+  Fastest 1609m:                   2h 37m 45s             611 m/h       2022-09-01 06:28 - 2022-09-01 09:06           current: 1m 15d 13h 6m 3s       
+  Fastest 2000m:                   4h 36m 47s             433 m/h       2024-08-21 07:44 - 2024-08-21 12:20           current: 1m 23d 3h 44m 5s       
+  Fastest 2500m:                   7h 56m 40s             314 m/h       2023-07-08 07:15 - 2023-07-08 15:12           current: 2m 9d 1h 28m 49s       
+  Fastest 3000m:                   10h 9m 28s             295 m/h       2023-07-08 07:15 - 2023-07-08 17:24           current: 2m 19d 12h 1m 32s      
+  Fastest 4000m:                   1d 4h 14m 14s          3399 m/day    2022-08-31 05:02 - 2022-09-01 09:17           current: 3m 15d 9h 45m 28s      
+  Fastest 5000m:                   1d 12h 54m 35s         3251 m/day    2022-07-03 05:23 - 2022-07-04 18:17           current: 3m 30d 4h 44m 52s      
+  Fastest 10000m:                  4d 9h 31m 44s          2274 m/day    2022-08-28 05:20 - 2022-09-01 14:52           current: 4m 8d 11h 52m 13s      
+  Fastest 25000m:                  14d 4h 47m 5s          1760 m/day    2024-08-18 07:48 - 2024-09-01 12:35           current: 6m 17d 16h 42m 29s     
+  Fastest 50000m:                  1m 15d 22h 36m 10s     1065 m/day    2024-08-05 09:55 - 2024-09-21 08:31           current: 8m 30d 13h 22m 25s     
+  Fastest 100000m:                 5m 23d 18m 44s         568 m/day     2024-05-28 06:24 - 2024-11-20 06:43           current: 10m 25d 6h 49m 52s     
+  Fastest 250000m:                 2y 7d 6h 5m 44s        338 m/day     2023-01-21 08:17 - 2025-01-28 14:22           current: 2y 3m 16d 13h 7m 16s   
+  Day streak at more than 300m:    30                                   2024-08-05       - 2024-09-03                 current: 0                   
+  Day streak at more than 500m:    30                                   2024-08-05       - 2024-09-03                 current: 0                   
+  Day streak at more than 1000m:   19                                   2024-08-05       - 2024-08-23                 current: 0                   
+  Day streak at more than 1500m:   6                                    2024-08-18       - 2024-08-23                 current: 0                   
+  Day streak at more than 2000m:   2                                    2022-07-03       - 2022-07-04                 current: 0                   
+  Day streak at more than 2500m:   1                                    2022-07-04       - 2022-07-04                 current: 0                   
+  Day streak at more than 3000m:   1                                    2023-07-08       - 2023-07-08                 current: 0                   
+  Max altitude:                    5591m                                2024-11-14                                                                    
 Heart beats                     
-  Max heart beat:                  181hb/min                            2023-12-02                                                                     
+  Max heart beat:                  181hb/min                            2023-12-02                                                                    
 Time spent walking              
-  Total:                           3239h 35m 30s                        (moving: 2824h 44m 58s - idle: 414h 50m 32s)
-  Year to date:                    289h 46m 8s                          (moving: 266h 19m 49s - idle: 23h 26m 19s)  
-  Past 7 days:                     12h 13m 50s                          (moving: 12h 7m 24s - idle: 6m 26s)         
-  Past 14 days:                    18h 43m 48s                          (moving: 18h 28m 44s - idle: 15m 4s)        
-  Past 30 days:                    25h 28m 19s                          (moving: 24h 43m 19s - idle: 45m)           
-  Past 61 days:                    59h 13s                              (moving: 55h 40m 29s - idle: 3h 19m 44s)    
-  Past 92 days:                    87h 29m 12s                          (moving: 79h 52m 3s - idle: 7h 37m 9s)      
-  Past 183 days:                   332h 7m 37s                          (moving: 301h 54m 32s - idle: 30h 13m 5s)   
-  Past 1 year:                     1064h 36m 37s                        (moving: 913h 59m 32s - idle: 150h 37m 5s)  
+  Total:                           3251h 43s                            (moving: 2835h 54m 13s - idle: 415h 6m 30s)
+  Year to date:                    301h 11m 21s                         (moving: 277h 29m 4s - idle: 23h 42m 17s)  
+  Past 7 days:                     16h 7m 11s                           (moving: 15h 46m 17s - idle: 20m 54s)      
+  Past 14 days:                    23h 39m 3s                           (moving: 23h 16m 39s - idle: 22m 24s)      
+  Past 30 days:                    33h 2m 10s                           (moving: 32h 23m - idle: 39m 10s)          
+  Past 61 days:                    64h 2m 26s                           (moving: 60h 54m 15s - idle: 3h 8m 11s)    
+  Past 92 days:                    94h 3m 40s                           (moving: 86h 52m 35s - idle: 7h 11m 5s)    
+  Past 183 days:                   340h 2m 11s                          (moving: 310h 58m 47s - idle: 29h 3m 24s)  
+  Past 1 year:                     1049h 23m 39s                        (moving: 900h 41m 17s - idle: 148h 42m 22s)

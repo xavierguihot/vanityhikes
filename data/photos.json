@@ -1,5 +1,89 @@
 [
   {
+    "name": "P2TZ0051_Paris_August_2025.JPG",
+    "googleDriveId": "1Jj-3DyVP5kjQNXosumITjQTDCPe1LjhC",
+    "tags": [
+      "Ile de France",
+      "Paris"
+    ],
+    "description": "",
+    "dateTime": "2025-08-20T16:55:27",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/320 sec",
+    "fNumber": "f/4.4",
+    "focalLength": "20.4 mm",
+    "sizeBytes": 9730560,
+    "latitude": 48.889113469049335,
+    "longitude": 2.3333084397017956
+  },
+  {
+    "name": "P2TZ0036_Paris_August_2025.JPG",
+    "googleDriveId": "1Htb7veBxyKwGKB02VjbRMm2F5obhklnx",
+    "tags": [
+      "Ile de France",
+      "Paris"
+    ],
+    "description": "",
+    "dateTime": "2025-08-20T16:54:00",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/500 sec",
+    "fNumber": "f/3.7",
+    "focalLength": "13.1 mm",
+    "sizeBytes": 9479168,
+    "latitude": 48.8882327824831,
+    "longitude": 2.3328263964504004
+  },
+  {
+    "name": "P2TZ0028_Paris_August_2025.JPG",
+    "googleDriveId": "1oMlX5nedEhIwRnWtxHiZpTVmsfNB7RDI",
+    "tags": [
+      "Ile de France",
+      "Paris"
+    ],
+    "description": "",
+    "dateTime": "2025-08-13T16:32:19",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/250 sec",
+    "fNumber": "f/6.3",
+    "focalLength": "98.9 mm",
+    "sizeBytes": 8707584,
+    "latitude": 48.885682839900255,
+    "longitude": 2.3379463981837034
+  },
+  {
+    "name": "P2TZ0010_Paris_August_2025.JPG",
+    "googleDriveId": "1GjuiGjq4IEbOiNphbEj3gUKtCH3uOHQ0",
+    "tags": [
+      "Ile de France",
+      "Paris"
+    ],
+    "description": "",
+    "dateTime": "2025-08-13T16:32:11",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/400 sec",
+    "fNumber": "f/5.9",
+    "focalLength": "62.9 mm",
+    "sizeBytes": 7861760,
+    "latitude": 48.88568460009992,
+    "longitude": 2.3379813507199287
+  },
+  {
     "name": "P2TZ9940_2025.JPG",
     "googleDriveId": "11Q-xbaasN1DTfhdXPnn2H3YhL_tb4qfz",
     "tags": [

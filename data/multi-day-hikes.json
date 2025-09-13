@@ -189,6 +189,48 @@
         "elevation": 875
       }
     ],
+    "locations": [
+      {
+        "type": "hotel",
+        "latitude": -21.03911982094857,
+        "longitude": 55.464012785485025
+      },
+      {
+        "type": "hotel",
+        "latitude": -21.04234,
+        "longitude": 55.39314
+      },
+      {
+        "type": "hotel",
+        "latitude": -21.07604,
+        "longitude": 55.42185
+      },
+      {
+        "type": "hotel",
+        "latitude": -21.06447,
+        "longitude": 55.52289
+      },
+      {
+        "type": "refuge",
+        "latitude": -21.10980,
+        "longitude": 55.49630
+      },
+      {
+        "type": "hotel",
+        "latitude": -21.19491,
+        "longitude": 55.57817
+      },
+      {
+        "type": "hotel",
+        "latitude": -21.21766,
+        "longitude": 55.68740
+      },
+      {
+        "type": "refuge",
+        "latitude": -20.98774,
+        "longitude": 55.44406
+      }
+    ],
     "type": "Voyage",
     "descriptionFR": "Description: Work in Progress",
     "hasGpxFile": false,

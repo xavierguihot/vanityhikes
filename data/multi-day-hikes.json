@@ -371,6 +371,36 @@
         "type": "refuge",
         "latitude": -20.98774,
         "longitude": 55.44406
+      },
+      {
+        "type": "hotel",
+        "latitude": -21.220921336853294,
+        "longitude": 55.40785484891908
+      },
+      {
+        "type": "hotel",
+        "latitude": -21.141663685836637,
+        "longitude": 55.49087452791524
+      },
+      {
+        "type": "refuge",
+        "latitude": -21.182620087546905,
+        "longitude": 55.49093238785186
+      },
+      {
+        "type": "hotel",
+        "latitude": -21.182329465967843,
+        "longitude": 55.53364664688597
+      },
+      {
+        "type": "hotel",
+        "latitude": -21.378139274533503,
+        "longitude": 55.66404415144531
+      },
+      {
+        "type": "hotel",
+        "latitude": -21.32575518411811,
+        "longitude": 55.800117954393514
       }
     ],
     "descriptionFR": "Description: Work in Progress",

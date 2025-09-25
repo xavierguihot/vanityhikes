@@ -182,9 +182,6 @@
   {
     "name": "P2TZ3804_LaReunion_2025.JPG",
     "googleDriveId": "1RlhyL_51J3vCYHiD2V3ACpLUzFCQSj7O",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-09-19T07:37:47",
     "timeZone": "+01:00",
@@ -1806,9 +1803,6 @@
   {
     "name": "P2TZ3716_LaReunion_2025.JPG",
     "googleDriveId": "1ffhaELz90qzwRvcWci9l7zPelu6CqW2O",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-09-13T15:14:05",
     "timeZone": "+01:00",
@@ -1821,15 +1815,12 @@
     "focalLength": "132 mm",
     "sizeBytes": 10181120,
     "latitude": -21.07653,
-    "longitude": 55.22090,
+    "longitude": 55.2209,
     "multiDayHike": "La Réunion"
   },
   {
     "name": "P2TZ3704_LaReunion_2025.JPG",
     "googleDriveId": "16LiAhDMJXCOyHklJtuFV_jIsxjoLZHQp",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-09-13T15:13:07",
     "timeZone": "+01:00",
@@ -1842,15 +1833,12 @@
     "focalLength": "64.5 mm",
     "sizeBytes": 9070592,
     "latitude": -21.07653,
-    "longitude": 55.22090,
+    "longitude": 55.2209,
     "multiDayHike": "La Réunion"
   },
   {
     "name": "P2TZ3656_LaReunion_2025.JPG",
     "googleDriveId": "1ZLBgV5Wb-3MGRIFjtWUkXHe9eKkUXwEL",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-09-13T15:11:31",
     "timeZone": "+01:00",
@@ -1863,15 +1851,12 @@
     "focalLength": "52.4 mm",
     "sizeBytes": 9977344,
     "latitude": -21.07653,
-    "longitude": 55.22090,
+    "longitude": 55.2209,
     "multiDayHike": "La Réunion"
   },
   {
     "name": "P2TZ3511_LaReunion_2025.JPG",
     "googleDriveId": "1FBkNvaEeJJjlT_gHynBFT2IduACa_TRw",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-09-13T14:56:37",
     "timeZone": "+01:00",
@@ -1884,15 +1869,12 @@
     "focalLength": "16.2 mm",
     "sizeBytes": 6031872,
     "latitude": -21.07653,
-    "longitude": 55.22090,
+    "longitude": 55.2209,
     "multiDayHike": "La Réunion"
   },
   {
     "name": "P2TZ3417_LaReunion_2025.JPG",
     "googleDriveId": "1SE3doR7SCr95VPF_WHM0Cu1BYavw-wH5",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-09-13T14:49:30",
     "timeZone": "+01:00",
@@ -1905,7 +1887,7 @@
     "focalLength": "37 mm",
     "sizeBytes": 8579584,
     "latitude": -21.07653,
-    "longitude": 55.22090,
+    "longitude": 55.2209,
     "multiDayHike": "La Réunion"
   },
   {
@@ -2469,9 +2451,6 @@
   {
     "name": "P2TZ2163_LaReunion_2025.JPG",
     "googleDriveId": "1QUOGmf-kArhLVjhkjtyi54PiIpqrRb0d",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2025-09-07T18:23:07",
     "timeZone": "+01:00",
@@ -3168,7 +3147,8 @@
     "focalLength": "58.3 mm",
     "sizeBytes": 7431962,
     "latitude": -21.033255457878113,
-    "longitude": 55.215996941551566
+    "longitude": 55.215996941551566,
+    "multiDayHike": "La Réunion"
   },
   {
     "name": "DSC03988_LaReunion_2025.JPG",
@@ -3185,7 +3165,8 @@
     "focalLength": "183.4 mm",
     "sizeBytes": 5863504,
     "latitude": -21.030792351812124,
-    "longitude": 55.21909992210567
+    "longitude": 55.21909992210567,
+    "multiDayHike": "La Réunion"
   },
   {
     "name": "DSC03799_LaReunion_2025.JPG",
@@ -3202,7 +3183,8 @@
     "focalLength": "174.9 mm",
     "sizeBytes": 8102311,
     "latitude": -21.014802614226937,
-    "longitude": 55.25264924392104
+    "longitude": 55.25264924392104,
+    "multiDayHike": "La Réunion"
   },
   {
     "name": "DSC03584_LaReunion_2025.JPG",
@@ -3219,7 +3201,8 @@
     "focalLength": "220 mm",
     "sizeBytes": 7595740,
     "latitude": -21.014067186042666,
-    "longitude": 55.25207977741957
+    "longitude": 55.25207977741957,
+    "multiDayHike": "La Réunion"
   },
   {
     "name": "DSC03453_LaReunion_2025.JPG",
@@ -3236,7 +3219,8 @@
     "focalLength": "168 mm",
     "sizeBytes": 8649109,
     "latitude": -21.013975236564875,
-    "longitude": 55.25193326175213
+    "longitude": 55.25193326175213,
+    "multiDayHike": "La Réunion"
   },
   {
     "name": "DSC03157_LaReunion_2025.JPG",
@@ -3253,7 +3237,8 @@
     "focalLength": "205.6 mm",
     "sizeBytes": 5933709,
     "latitude": -21.045735692605376,
-    "longitude": 55.20015497691929
+    "longitude": 55.20015497691929,
+    "multiDayHike": "La Réunion"
   },
   {
     "name": "DSC03070_LaReunion_2025.JPG",

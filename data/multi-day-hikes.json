@@ -1,5 +1,81 @@
 [
   {
+    "name": "GR2 - Le Havre => Rouen",
+    "contiguousHikes": [
+      "2025-12-23T09:32:27",
+      "2025-12-23T06:57:09",
+      "2025-12-22T06:27:11",
+      "2025-12-21T06:35:05",
+      "2025-12-20T07:27:30",
+      "2025-12-19T17:24:13"
+    ],
+    "overridenHikes": [
+      "2025-12-23T09:32:27",
+      "2025-12-23T06:57:09",
+      "2025-12-22T06:27:11",
+      "2025-12-21T06:35:05",
+      "2025-12-20T07:27:30"
+    ],
+    "start": "2025-12-20T07:27:30",
+    "end": "2025-12-23T11:59:56",
+    "days": 4,
+    "walkingDays": 4,
+    "distance": 142.91743011769637,
+    "elevation": 2589,
+    "durationInSeconds": 119240,
+    "idleTimeInSeconds": 5502,
+    "coordinates": {
+      "centerLatitude": 49.41563855856657,
+      "centerLongitude": 0.5666877748444676,
+      "widthInKm": 64,
+      "heightInKm": 25
+    },
+    "timeline": [
+      {
+        "date": "2025-12-20",
+        "distance": 41.598961008464485,
+        "elevation": 699
+      },
+      {
+        "date": "2025-12-21",
+        "distance": 40.801617138914885,
+        "elevation": 864
+      },
+      {
+        "date": "2025-12-22",
+        "distance": 38.725230847817,
+        "elevation": 748
+      },
+      {
+        "date": "2025-12-23",
+        "distance": 21.791621122500008,
+        "elevation": 276
+      }
+    ],
+    "locations": [
+      {
+        "type": "bivouac",
+        "latitude": 49.51416,
+        "longitude": 0.46599
+      },
+      {
+        "type": "bivouac",
+        "latitude": 49.51827,
+        "longitude": 0.78231
+      },
+      {
+        "type": "bivouac",
+        "latitude": 49.40057,
+        "longitude": 0.95531
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/3plycx",
+    "type": "Itinérance en bivouac",
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
     "contiguousHikes": [
       "2025-11-30T16:52:24",
       "2025-11-30T10:40:33",

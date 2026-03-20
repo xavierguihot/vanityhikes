@@ -86,7 +86,7 @@ function displayPhotos(svg, width, height, photosTagFilter) {
   drawSelector(
     photosContainer,
     "photo-tags",
-    ["All photos", "Most beautiful photos"].concat(getPhotoTags()),
+    ["All photos", /*"Most beautiful photos"*/].concat(getPhotoTags()),
     photosTagFilter,
     selectedTag => {
       cleanPhotosPage(svg);

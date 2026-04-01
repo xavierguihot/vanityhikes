@@ -150,6 +150,33 @@
         "elevation": 239
       }
     ],
+    "locations": [
+      {
+        "type": "bivouac",
+        "latitude": 29.81573,
+        "longitude": -5.76862
+      },
+      {
+        "type": "bivouac",
+        "latitude": 29.75465,
+        "longitude": -5.94146
+      },
+      {
+        "type": "bivouac",
+        "latitude": 29.68503,
+        "longitude": -6.00763
+      },
+      {
+        "type": "bivouac",
+        "latitude": 29.75512,
+        "longitude": -6.10102
+      },
+      {
+        "type": "bivouac",
+        "latitude": 29.81492,
+        "longitude": -6.0284
+      }
+    ],
     "descriptionFR": "Description: Work in Progress",
     "lighterPack": "https://lighterpack.com/r/rru7h8",
     "type": "Itinérance en bivouac",

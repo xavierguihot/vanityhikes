@@ -1,5 +1,162 @@
 [
   {
+    "contiguousHikes": [
+      "2026-03-31T12:58:44",
+      "2026-03-30T15:07:58",
+      "2026-03-30T13:50:12",
+      "2026-03-30T10:33:48",
+      "2026-03-29T18:55:04",
+      "2026-03-29T17:24:06",
+      "2026-03-29T13:52:39",
+      "2026-03-29T10:43:12",
+      "2026-03-28T17:04:10"
+    ],
+    "start": "2026-03-28T17:04:10",
+    "end": "2026-03-31T13:12:02",
+    "days": 4,
+    "walkingDays": 1,
+    "distance": 13.603339284622798,
+    "elevation": 50,
+    "durationInSeconds": 12647,
+    "idleTimeInSeconds": 1447,
+    "coordinates": {
+      "centerLatitude": 31.629492742940784,
+      "centerLongitude": -7.990276934579015,
+      "widthInKm": 1,
+      "heightInKm": 1
+    },
+    "timeline": [
+      {
+        "date": "2026-03-28",
+        "distance": 0.9747684251808353,
+        "elevation": 6
+      },
+      {
+        "date": "2026-03-29",
+        "distance": 6.973144630959023,
+        "elevation": 24
+      },
+      {
+        "date": "2026-03-30",
+        "distance": 4.910170860603518,
+        "elevation": 20
+      },
+      {
+        "date": "2026-03-31",
+        "distance": 0.7452553678794215,
+        "elevation": 0
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "contiguousHikes": [
+      "2026-03-28T11:00:15",
+      "2026-03-28T10:05:48",
+      "2026-03-27T22:14:53",
+      "2026-03-27T19:29:07"
+    ],
+    "start": "2026-03-27T19:29:07",
+    "end": "2026-03-28T11:15:51",
+    "days": 2,
+    "walkingDays": 0,
+    "distance": 6.616945170565493,
+    "elevation": 84,
+    "durationInSeconds": 7465,
+    "idleTimeInSeconds": 1574,
+    "coordinates": {
+      "centerLatitude": 30.921354820020497,
+      "centerLongitude": -6.906538512557745,
+      "widthInKm": 1,
+      "heightInKm": 0
+    },
+    "timeline": [
+      {
+        "date": "2026-03-27",
+        "distance": 2.777149939490731,
+        "elevation": 40
+      },
+      {
+        "date": "2026-03-28",
+        "distance": 3.8397952310747616,
+        "elevation": 44
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "name": "Morocco desert",
+    "contiguousHikes": [
+      "2026-03-26T18:08:47",
+      "2026-03-26T15:29:57",
+      "2026-03-26T14:54:28",
+      "2026-03-26T08:29:32",
+      "2026-03-26T07:21:17",
+      "2026-03-25T17:09:30",
+      "2026-03-25T15:25:06",
+      "2026-03-25T13:01:44",
+      "2026-03-25T08:21:27",
+      "2026-03-24T21:34:09",
+      "2026-03-24T19:33:50",
+      "2026-03-24T18:27:04",
+      "2026-03-24T08:16:56",
+      "2026-03-24T07:27:15",
+      "2026-03-24T06:58:19",
+      "2026-03-23T18:07:29",
+      "2026-03-23T14:47:17",
+      "2026-03-23T07:48:38",
+      "2026-03-22T16:09:24"
+    ],
+    "start": "2026-03-22T16:09:24",
+    "end": "2026-03-26T18:57:27",
+    "days": 5,
+    "walkingDays": 5,
+    "distance": 75.59541309562753,
+    "elevation": 1171,
+    "durationInSeconds": 114065,
+    "idleTimeInSeconds": 40977,
+    "coordinates": {
+      "centerLatitude": 29.756163745187223,
+      "centerLongitude": -5.914476024918258,
+      "widthInKm": 36,
+      "heightInKm": 17
+    },
+    "timeline": [
+      {
+        "date": "2026-03-22",
+        "distance": 5.830939282473379,
+        "elevation": 30
+      },
+      {
+        "date": "2026-03-23",
+        "distance": 21.258838515446893,
+        "elevation": 207
+      },
+      {
+        "date": "2026-03-24",
+        "distance": 14.737496784774242,
+        "elevation": 308
+      },
+      {
+        "date": "2026-03-25",
+        "distance": 17.60671492467167,
+        "elevation": 382
+      },
+      {
+        "date": "2026-03-26",
+        "distance": 16.161423588261354,
+        "elevation": 239
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/rru7h8",
+    "type": "Itinérance en bivouac",
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
     "name": "GR2 - Le Havre => Rouen",
     "contiguousHikes": [
       "2025-12-23T09:32:27",

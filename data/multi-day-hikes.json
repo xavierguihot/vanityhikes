@@ -1,6 +1,43 @@
 [
   {
     "contiguousHikes": [
+      "2026-04-05T20:19:50",
+      "2026-04-05T18:52:06",
+      "2026-04-04T20:18:16",
+      "2026-04-04T15:21:14",
+      "2026-04-04T11:59"
+    ],
+    "start": "2026-04-04T11:59",
+    "end": "2026-04-05T20:58:43",
+    "days": 2,
+    "walkingDays": 1,
+    "distance": 7.643539661411846,
+    "elevation": 167,
+    "durationInSeconds": 10089,
+    "idleTimeInSeconds": 2383,
+    "coordinates": {
+      "centerLatitude": 48.57104237191379,
+      "centerLongitude": -2.5798440165817738,
+      "widthInKm": 3,
+      "heightInKm": 4
+    },
+    "timeline": [
+      {
+        "date": "2026-04-04",
+        "distance": 5.61517452055363,
+        "elevation": 152
+      },
+      {
+        "date": "2026-04-05",
+        "distance": 2.0283651408582153,
+        "elevation": 14
+      }
+    ],
+    "hasGpxFile": false,
+    "hide": true
+  },
+  {
+    "contiguousHikes": [
       "2026-03-31T12:58:44",
       "2026-03-30T15:07:58",
       "2026-03-30T13:50:12",

@@ -31,7 +31,9 @@
     "exposureTime": "453/1000000 sec",
     "fNumber": "f/1.7",
     "focalLength": "6.9 mm",
-    "sizeBytes": 2913813
+    "sizeBytes": 2913813,
+    "latitude": 29.88322,
+    "longitude": -5.71446
   },
   {
     "name": "DSC06549_Morocco_2026.JPG",
@@ -65,7 +67,9 @@
     "exposureTime": "1/320 sec",
     "fNumber": "f/8.0",
     "focalLength": "18.2 mm",
-    "sizeBytes": 6390863
+    "sizeBytes": 6390863,
+    "latitude": 29.87009,
+    "longitude": -5.71101
   },
   {
     "name": "DSC06386_Morocco_2026.JPG",
@@ -130,7 +134,9 @@
     "exposureTime": "1/320 sec",
     "fNumber": "f/4.0",
     "focalLength": "220 mm",
-    "sizeBytes": 5019132
+    "sizeBytes": 5019132,
+    "latitude": 29.87870025448501,
+    "longitude": -5.8444487024098635
   },
   {
     "name": "DSC06018_Morocco_2026.JPG",
@@ -147,7 +153,9 @@
     "exposureTime": "1/250 sec",
     "fNumber": "f/4.0",
     "focalLength": "212.8 mm",
-    "sizeBytes": 5665369
+    "sizeBytes": 5665369,
+    "latitude": 29.86119,
+    "longitude": -5.88870
   },
   {
     "name": "DSC05927_Morocco_2026.JPG",
@@ -181,7 +189,9 @@
     "exposureTime": "1/200 sec",
     "fNumber": "f/3.2",
     "focalLength": "13.3 mm",
-    "sizeBytes": 4792698
+    "sizeBytes": 4792698,
+    "latitude": 29.81485,
+    "longitude": -6.02848
   },
   {
     "name": "P2TZ5028_Morocco_2026.JPG",
@@ -199,7 +209,9 @@
     "fNumber": "f/3.7",
     "focalLength": "13.1 mm",
     "sizeBytes": 7408128,
-    "multiDayHike": "Morocco desert"
+    "multiDayHike": "Morocco desert",
+    "latitude": 29.81425,
+    "longitude": -6.02831
   },
   {
     "name": "DSC05891_Morocco_2026.JPG",
@@ -302,7 +314,9 @@
     "fNumber": "f/4.0",
     "focalLength": "8.8 mm",
     "sizeBytes": 8188459,
-    "multiDayHike": "Morocco desert"
+    "multiDayHike": "Morocco desert",
+    "latitude": 29.83193,
+    "longitude": -6.05604
   },
   {
     "name": "DSC05324_Morocco_2026.JPG",
@@ -320,7 +334,9 @@
     "fNumber": "f/8.0",
     "focalLength": "13.7 mm",
     "sizeBytes": 8420466,
-    "multiDayHike": "Morocco desert"
+    "multiDayHike": "Morocco desert",
+    "latitude": 29.83193,
+    "longitude": -6.05604
   },
   {
     "name": "DSC05300_Morocco_2026.JPG",
@@ -338,7 +354,9 @@
     "fNumber": "f/6.3",
     "focalLength": "8.8 mm",
     "sizeBytes": 5785122,
-    "multiDayHike": "Morocco desert"
+    "multiDayHike": "Morocco desert",
+    "latitude": 29.83245,
+    "longitude": -6.05611
   },
   {
     "name": "DSC05258_Morocco_2026.JPG",
@@ -356,7 +374,9 @@
     "fNumber": "f/5.0",
     "focalLength": "8.9 mm",
     "sizeBytes": 6859693,
-    "multiDayHike": "Morocco desert"
+    "multiDayHike": "Morocco desert",
+    "latitude": 29.83193,
+    "longitude": -6.05604
   },
   {
     "name": "DSC05232_Morocco_2026.JPG",
@@ -374,7 +394,9 @@
     "fNumber": "f/5.0",
     "focalLength": "11.3 mm",
     "sizeBytes": 7161504,
-    "multiDayHike": "Morocco desert"
+    "multiDayHike": "Morocco desert",
+    "latitude": 29.83245,
+    "longitude": -6.05611
   },
   {
     "name": "DSC05158_Morocco_2026.JPG",

@@ -70,9 +70,6 @@
   {
     "name": "DSC06386_Morocco_2026.JPG",
     "googleDriveId": "19V_WedFW4vcl1fvH9F5R7yl5a1qCAlrT",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2026-03-27T08:51:49",
     "height": 5472,
@@ -82,14 +79,13 @@
     "exposureTime": "1/250 sec",
     "fNumber": "f/4.0",
     "focalLength": "163.8 mm",
-    "sizeBytes": 5965981
+    "sizeBytes": 5965981,
+    "latitude": 29.87864937633276,
+    "longitude": -5.844418695196509
   },
   {
     "name": "DSC06334_Morocco_2026.JPG",
     "googleDriveId": "1_uKhICX29v6w7DIVcM_49WcWhGdSvGni",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2026-03-27T08:51:36",
     "height": 5472,
@@ -99,14 +95,13 @@
     "exposureTime": "1/320 sec",
     "fNumber": "f/4.0",
     "focalLength": "90.5 mm",
-    "sizeBytes": 6932248
+    "sizeBytes": 6932248,
+    "latitude": 29.878647364676,
+    "longitude": -5.844422047957778
   },
   {
     "name": "DSC06282_Morocco_2026.JPG",
     "googleDriveId": "19PH8-bkG89GW7WvSr1gf9cNY9f4GLxvF",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2026-03-27T08:51:11",
     "height": 5472,
@@ -116,7 +111,9 @@
     "exposureTime": "1/250 sec",
     "fNumber": "f/4.0",
     "focalLength": "124.9 mm",
-    "sizeBytes": 6136343
+    "sizeBytes": 6136343,
+    "latitude": 29.87870025448501,
+    "longitude": -5.8444487024098635
   },
   {
     "name": "DSC06143_Morocco_2026.JPG",

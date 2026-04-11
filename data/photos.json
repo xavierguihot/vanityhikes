@@ -1,5 +1,214 @@
 [
   {
+    "name": "DSC08782_Cotentin_Avril_2026.JPG",
+    "googleDriveId": "1p3p67eJjL3XXLes_-GyZm1IjWcLgsBqX",
+    "tags": [
+      "Bretagne",
+      "La Cotentin"
+    ],
+    "description": "",
+    "dateTime": "2026-04-05T19:21:52",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/250 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "186.6 mm",
+    "sizeBytes": 6972454,
+    "latitude": 48.58926437795162,
+    "longitude": -2.5556121859699488
+  },
+  {
+    "name": "DSC08762_Cotentin_Avril_2026.JPG",
+    "googleDriveId": "1M2TapsJYre-yYNzE5byAVgj3q3GVg6lN",
+    "tags": [
+      "Bretagne",
+      "La Cotentin"
+    ],
+    "description": "",
+    "dateTime": "2026-04-04T14:50:07",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/320 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "220 mm",
+    "sizeBytes": 8442039,
+    "latitude": 48.55519034899771,
+    "longitude": -2.604816220700741
+  },
+  {
+    "name": "DSC08715_Cotentin_Avril_2026.JPG",
+    "googleDriveId": "1m5YESrRry7EkuRory6oU_rtdroagdKIT",
+    "tags": [
+      "Bretagne",
+      "La Cotentin"
+    ],
+    "description": "",
+    "dateTime": "2026-04-04T14:38:46",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.5",
+    "focalLength": "220 mm",
+    "sizeBytes": 5875590,
+    "latitude": 48.558646123856306,
+    "longitude": -2.6024461537599564
+  },
+  {
+    "name": "DSC08703_Cotentin_Avril_2026.JPG",
+    "googleDriveId": "10cIXSv_gwZnZK7HEfxySk1oSde-UJBVH",
+    "tags": [
+      "Bretagne",
+      "La Cotentin"
+    ],
+    "description": "",
+    "dateTime": "2026-04-04T14:36:15",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/400 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "183.4 mm",
+    "sizeBytes": 5485547,
+    "latitude": 48.557337541133165,
+    "longitude": -2.601183168590069
+  },
+  {
+    "name": "DSC08683_Cotentin_Avril_2026.JPG",
+    "googleDriveId": "1T_yQTdY28kLSc3EXUvBphMZeWsPvMhLV",
+    "tags": [
+      "Bretagne",
+      "La Cotentin"
+    ],
+    "description": "",
+    "dateTime": "2026-04-04T14:34:24",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/400 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "159.7 mm",
+    "sizeBytes": 5034419,
+    "latitude": 48.55749947950244,
+    "longitude": -2.6001400407403708
+  },
+  {
+    "name": "DSC08603_Cotentin_Avril_2026.JPG",
+    "googleDriveId": "18sCRo4bjhGXuTuhd_N4I3dsxi2kBeh0I",
+    "tags": [
+      "Bretagne",
+      "La Cotentin"
+    ],
+    "description": "",
+    "dateTime": "2026-04-04T14:29:53",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/400 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "78.4 mm",
+    "sizeBytes": 7727642,
+    "latitude": 48.55725430883467,
+    "longitude": -2.5990842562168837
+  },
+  {
+    "name": "DSC08561_Cotentin_Avril_2026.JPG",
+    "googleDriveId": "1J0luIC4HVAdZaPvgKeH3uG1HyLgYBi0b",
+    "tags": [
+      "Bretagne",
+      "La Cotentin"
+    ],
+    "description": "",
+    "dateTime": "2026-04-04T14:28:34",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/4.5",
+    "focalLength": "24.8 mm",
+    "sizeBytes": 6567244,
+    "latitude": 48.55717342346907,
+    "longitude": -2.5985385943204165
+  },
+  {
+    "name": "DSC08541_Cotentin_Avril_2026.JPG",
+    "googleDriveId": "1BTj5XNONblupD8OiZdZSjt0mYkTI_Nv5",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "dateTime": "2026-04-04T14:28:25",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/640 sec",
+    "fNumber": "f/4.0",
+    "focalLength": "90.5 mm",
+    "sizeBytes": 5104286,
+    "latitude": 48.55725097152439,
+    "longitude": -2.598833486485299
+  },
+  {
+    "name": "DSC08529_Cotentin_Avril_2026.JPG",
+    "googleDriveId": "13u0NUNxJpSsLY6rDVEn_gJ5dJRu-ZvU3",
+    "tags": [
+      "Bretagne",
+      "La Cotentin"
+    ],
+    "description": "",
+    "dateTime": "2026-04-04T11:24:58",
+    "timeZone": "+01:00",
+    "height": 5408,
+    "width": 3605,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/5.0",
+    "focalLength": "29.7 mm",
+    "sizeBytes": 2058372,
+    "latitude": 48.590493919327855,
+    "longitude": -2.554272338747978
+  },
+  {
+    "name": "DSC08518_Cotentin_Avril_2026.JPG",
+    "googleDriveId": "1dq7vQlMJSP3jA5IddYCMLsrZa1Zq45rA",
+    "tags": [
+      "Bretagne",
+      "La Cotentin"
+    ],
+    "description": "",
+    "dateTime": "2026-04-04T11:06:48",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "SONY",
+    "cameraModel": "DSC-RX10M4",
+    "exposureTime": "1/250 sec",
+    "fNumber": "f/5.6",
+    "focalLength": "60.3 mm",
+    "sizeBytes": 5158895,
+    "latitude": 48.59116472303867,
+    "longitude": -2.554208217188716
+  },
+  {
     "name": "DSC08221_Marrakech_2026.JPG",
     "googleDriveId": "1GbL6R3QsMIxbkSHBWyoZ9GiicAnyEQf9",
     "description": "",
@@ -130,9 +339,6 @@
   {
     "name": "PXL_20260330_162008834_Marrakech_2026.jpg",
     "googleDriveId": "1PvmbuYcvfJ4NksrEMithlBpC6yz6-2zP",
-    "tags": [
-      ""
-    ],
     "description": "",
     "dateTime": "2026-03-30T17:20:08",
     "timeZone": "+01:00",

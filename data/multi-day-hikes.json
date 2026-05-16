@@ -1,5 +1,61 @@
 [
   {
+    "name": "GR 223 - Ouistreham => Carentan",
+    "overridenHikes": [
+      "2026-05-16T07:34:16",
+      "2026-05-15T07:23:01",
+      "2026-05-14T08:42:41"
+    ],
+    "start": "2026-05-14T08:42:41",
+    "end": "2026-05-16T16:13:07",
+    "days": 3,
+    "walkingDays": 3,
+    "distance": 113.42209858101594,
+    "elevation": 1000,
+    "durationInSeconds": 93657,
+    "idleTimeInSeconds": 5070,
+    "coordinates": {
+      "centerLatitude": 49.339591856114566,
+      "centerLongitude": -0.7481592893600464,
+      "widthInKm": 71,
+      "heightInKm": 12
+    },
+    "timeline": [
+      {
+        "date": "2026-05-14",
+        "distance": 38.19634078694921,
+        "elevation": 417
+      },
+      {
+        "date": "2026-05-15",
+        "distance": 39.55248464463464,
+        "elevation": 464
+      },
+      {
+        "date": "2026-05-16",
+        "distance": 35.673273149432106,
+        "elevation": 119
+      }
+    ],
+    "locations": [
+      {
+        "type": "bivouac",
+        "latitude": 49.33546,
+        "longitude": -0.63405
+      },
+      {
+        "type": "bivouac",
+        "latitude": 49.39139,
+        "longitude": -1.02033
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/xbv5ki",
+    "type": "Itinérance en bivouac",
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
     "contiguousHikes": [
       "2026-04-05T20:19:50",
       "2026-04-05T18:52:06",

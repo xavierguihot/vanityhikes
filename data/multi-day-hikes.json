@@ -1,5 +1,6 @@
 [
   {
+    "name": "GR 5 - St Gingolph => St Etienne de Tinée",
     "contiguousHikes": [
       "2026-07-24T07:22:16",
       "2026-07-23T19:02:14",
@@ -114,6 +115,87 @@
         "elevation": 1308
       }
     ],
+    "locations": [
+      {
+        "type": "bivouac",
+        "latitude": 46.32991,
+        "longitude": 6.76386
+      },
+      {
+        "type": "bivouac",
+        "latitude": 46.14854,
+        "longitude": 6.79137
+      },
+      {
+        "type": "bivouac",
+        "latitude": 46.01026,
+        "longitude": 6.78318
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.89818,
+        "longitude": 6.80044
+      },
+      {
+        "type": "bivouac",
+        "latitude": 45.72038,
+        "longitude": 6.71589
+      },
+      {
+        "type": "bivouac",
+        "latitude": 45.56924,
+        "longitude": 6.73974
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.45509,
+        "longitude": 6.89911
+      },
+      {
+        "type": "refuge",
+        "latitude": 45.31923,
+        "longitude": 6.79319
+      },
+      {
+        "type": "hotel",
+        "latitude": 45.19489,
+        "longitude": 6.66040
+      },
+      {
+        "type": "bivouac",
+        "latitude": 45.01663,
+        "longitude": 6.64270
+      },
+      {
+        "type": "bivouac",
+        "latitude": 44.85273,
+        "longitude": 6.65559
+      },
+      {
+        "type": "refuge",
+        "latitude": 44.66628,
+        "longitude": 6.77543
+      },
+      {
+        "type": "refuge",
+        "latitude": 44.52519,
+        "longitude": 6.79851
+      },
+      {
+        "type": "bivouac",
+        "latitude": 44.37793,
+        "longitude": 6.87313
+      },
+      {
+        "type": "hotel",
+        "latitude": 44.25457,
+        "longitude": 6.92670
+      }
+    ],
+    "descriptionFR": "Marmotte: https://youtube.com/shorts/ToXM3KvUhTk",
+    "lighterPack": "https://lighterpack.com/r/fahl8k",
+    "photo": "P2TZ7431_GTA_2026.JPG",
+    "type": "Itinérance en bivouac",
     "hasGpxFile": false,
     "hide": false
   },

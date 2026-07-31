@@ -159,12 +159,12 @@
       {
         "type": "hotel",
         "latitude": 45.19489,
-        "longitude": 6.66040
+        "longitude": 6.6604
       },
       {
         "type": "bivouac",
         "latitude": 45.01663,
-        "longitude": 6.64270
+        "longitude": 6.6427
       },
       {
         "type": "bivouac",
@@ -189,7 +189,7 @@
       {
         "type": "hotel",
         "latitude": 44.25457,
-        "longitude": 6.92670
+        "longitude": 6.9267
       }
     ],
     "descriptionFR": "Marmotte: https://youtube.com/shorts/ToXM3KvUhTk",

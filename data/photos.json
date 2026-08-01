@@ -814,6 +814,8 @@
     "fNumber": "f/5.6",
     "focalLength": "9.1 mm",
     "sizeBytes": 10603520,
+    "latitude": 45.72005,
+    "longitude": 6.71615,
     "multiDayHike": "GR 5 - St Gingolph => St Etienne de Tinée"
   },
   {
@@ -1106,6 +1108,8 @@
     "fNumber": "f/3.3",
     "focalLength": "8.8 mm",
     "sizeBytes": 9481728,
+    "latitude": 46.14854,
+    "longitude": 6.79137,
     "multiDayHike": "GR 5 - St Gingolph => St Etienne de Tinée"
   },
   {

@@ -1,6 +1,6 @@
 [
   {
-    "name": "GR 5 - St Gingolph => St Etienne de Tinée",
+    "name": "GR5 - St Gingolph => St Etienne de Tinée",
     "contiguousHikes": [
       "2026-07-24T07:22:16",
       "2026-07-23T19:02:14",
@@ -240,7 +240,7 @@
     "hide": true
   },
   {
-    "name": "GR 223 - Ouistreham => Carentan",
+    "name": "GR223 - Ouistreham => Carentan",
     "overridenHikes": [
       "2026-05-16T07:34:16",
       "2026-05-15T07:23:01",

@@ -1,5 +1,79 @@
 [
   {
+    "name": "Balade dans le Queyras",
+    "contiguousHikes": [
+      "2026-08-12T09:46:58",
+      "2026-08-11T13:45:30",
+      "2026-08-11T08:33:57",
+      "2026-08-10T08:04:15",
+      "2026-08-09T17:15:33",
+      "2026-08-09T15:36:55",
+      "2026-08-09T10:11:43",
+      "2026-08-08T18:21:58"
+    ],
+    "overridenHikes": [
+      "2026-08-11T13:45:30",
+      "2026-08-11T08:33:57",
+      "2026-08-10T08:04:15",
+      "2026-08-09T17:15:33",
+      "2026-08-09T15:36:55",
+      "2026-08-09T10:11:43"
+    ],
+    "start": "2026-08-09T10:11:43",
+    "end": "2026-08-11T13:48:16",
+    "days": 3,
+    "walkingDays": 3,
+    "distance": 37.566716129291876,
+    "elevation": 1799,
+    "durationInSeconds": 59677,
+    "idleTimeInSeconds": 14142,
+    "coordinates": {
+      "centerLatitude": 44.73445267416537,
+      "centerLongitude": 6.929198359139264,
+      "widthInKm": 9,
+      "heightInKm": 13
+    },
+    "timeline": [
+      {
+        "date": "2026-08-09",
+        "distance": 15.92674873046267,
+        "elevation": 1352
+      },
+      {
+        "date": "2026-08-10",
+        "distance": 14.29318202754772,
+        "elevation": 384
+      },
+      {
+        "date": "2026-08-11",
+        "distance": 7.346785371281486,
+        "elevation": 62
+      }
+    ],
+    "locations": [
+      {
+        "type": "bivouac",
+        "latitude": 44.70628,
+        "longitude": 6.97269
+      },
+      {
+        "type": "refuge",
+        "latitude": 44.76651,
+        "longitude": 6.98378
+      },
+      {
+        "type": "hotel",
+        "latitude": 44.795026165575585,
+        "longitude": 6.926188072056087
+      }
+    ],
+    "descriptionFR": "Description: Work in Progress",
+    "lighterPack": "https://lighterpack.com/r/zmciie",
+    "type": "Itinérance en bivouac",
+    "hasGpxFile": false,
+    "hide": false
+  },
+  {
     "name": "GR5 - St Gingolph => St Etienne de Tinée",
     "contiguousHikes": [
       "2026-07-24T07:22:16",

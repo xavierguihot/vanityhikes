@@ -1,5 +1,361 @@
 [
   {
+    "name": "P2TZ9168_Queyras_2026.JPG",
+    "googleDriveId": "1mbuhs56Pc9BgEuhfwRlCB3XwRVnyQ24A",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-12T09:24:53",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/6.3",
+    "focalLength": "27.4 mm",
+    "sizeBytes": 10162688,
+    "latitude": 44.66928966343403,
+    "longitude": 6.620726343244314
+  },
+  {
+    "name": "PXL_20260811_090620519_Queyras_2026.MP.jpg",
+    "googleDriveId": "1_qBNFz4pOsXOCKunCRdo2LkY-bDzd7a4",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-11T10:06:20",
+    "timeZone": "+02:00",
+    "height": 4080,
+    "width": 3072,
+    "cameraMaker": "Google",
+    "cameraModel": "Pixel 8",
+    "exposureTime": "1493/1000000 sec",
+    "fNumber": "f/1.7",
+    "focalLength": "6.9 mm",
+    "sizeBytes": 7447236,
+    "latitude": 44.77415816858411,
+    "longitude": 6.949696512892842,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ9140_Queyras_2026.JPG",
+    "googleDriveId": "1uKmncql7dxLEYzrt1jIYBCtYgbvQo72I",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-10T11:12:10",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/7.1",
+    "focalLength": "12.2 mm",
+    "sizeBytes": 10965504,
+    "latitude": 44.71329188905656,
+    "longitude": 6.979730129241943,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ9117_Queyras_2026.JPG",
+    "googleDriveId": "1sEhEnNfKdVpA0aNYdDiDwaLwWt2d4gn5",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-10T09:59:57",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/5.0",
+    "focalLength": "14 mm",
+    "sizeBytes": 10779648,
+    "latitude": 44.70743344165385,
+    "longitude": 6.983326133340597,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ9105_Queyras_2026.JPG",
+    "googleDriveId": "1xai1WbGFhWsE1ENXk35vL9lMbrvz9rZK",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-10T09:14:45",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/6.3",
+    "focalLength": "8.8 mm",
+    "sizeBytes": 10812416,
+    "latitude": 44.69242815859616,
+    "longitude": 6.99018957093358,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ9081_Queyras_2026.JPG",
+    "googleDriveId": "1Jv1hYxH97urdCS7l0_GE0OSPNGUZKlnc",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-10T09:01:42",
+    "timeZone": "+01:00",
+    "height": 5472,
+    "width": 3648,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/5.6",
+    "focalLength": "10.9 mm",
+    "sizeBytes": 10789888,
+    "latitude": 44.69169147312641,
+    "longitude": 6.990691479295492,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ9057_Queyras_2026.JPG",
+    "googleDriveId": "1AGUPKUOP0EYsOjtq9XEmnenRWkT3NFSK",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-10T09:00:11",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/6.4",
+    "focalLength": "114.5 mm",
+    "sizeBytes": 10447360,
+    "latitude": 44.69168602488935,
+    "longitude": 6.99068745598197,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ8994_Queyras_2026.JPG",
+    "googleDriveId": "1tR_I3LBhIQHS4mIzq5aikcuxlKUs9Rfn",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-10T08:59:37",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/6.4",
+    "focalLength": "103.9 mm",
+    "sizeBytes": 10390016,
+    "latitude": 44.69168267212808,
+    "longitude": 6.990687623620033,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ8993_Queyras_2026.JPG",
+    "googleDriveId": "1GICe5-i3oMHvMGNjrmQcuIjPD_m5PY4B",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-10T08:59:37",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/6.4",
+    "focalLength": "103.9 mm",
+    "sizeBytes": 10408448,
+    "latitude": 44.69168267212808,
+    "longitude": 6.990687623620033,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ8964_Queyras_2026.JPG",
+    "googleDriveId": "1RijyPF46Hl4yaBAnKPCTGKFGi4pGW1CM",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-10T08:59:24",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/6.4",
+    "focalLength": "128.4 mm",
+    "sizeBytes": 10353152,
+    "latitude": 44.691684767603874,
+    "longitude": 6.9906834326684475,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ8838_Queyras_2026.JPG",
+    "googleDriveId": "1E6NIxtdBeVlUqXiY_1nHSe4FDzi1dEZh",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-10T08:45:58",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/8.0",
+    "focalLength": "43.1 mm",
+    "sizeBytes": 7771136,
+    "latitude": 44.68999380245805,
+    "longitude": 6.9920160714536905,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ8819_Queyras_2026.JPG",
+    "googleDriveId": "1fAwmuD7I7uRmxWSS-9l_uaChKhGdssJG",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-10T08:45:44",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/6.3",
+    "focalLength": "8.8 mm",
+    "sizeBytes": 10279936,
+    "latitude": 44.689992628991604,
+    "longitude": 6.992011796683073,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ8771_Queyras_2026.JPG",
+    "googleDriveId": "1-KB6C-Xc1CdJjxEMBIH3P_zjwORmFmr5",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-09T15:27:27",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/6.3",
+    "focalLength": "8.8 mm",
+    "sizeBytes": 10617344,
+    "latitude": 44.69980909489095,
+    "longitude": 6.973890541121364,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ8756_Queyras_2026.JPG",
+    "googleDriveId": "1djtgUL-EkjTuUe8sL6mFORlXuVwbgsLo",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-09T13:58:41",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/6.3",
+    "focalLength": "73.3 mm",
+    "sizeBytes": 7608832,
+    "latitude": 44.68918050639331,
+    "longitude": 6.973817115649581,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ8728_Queyras_2026.JPG",
+    "googleDriveId": "1jkLGU2boMlr7_o6TWVG_bkYQGVlL3TI5",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-09T13:10:17",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/1000 sec",
+    "fNumber": "f/8.0",
+    "focalLength": "13.1 mm",
+    "sizeBytes": 10608128,
+    "latitude": 44.68140830285847,
+    "longitude": 6.96024932898581,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ8719_Queyras_2026.JPG",
+    "googleDriveId": "1Zd-IrG_x7XFj4Tb3WokzGubGw5AEIL7R",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-09T13:06:29",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/8.0",
+    "focalLength": "8.8 mm",
+    "sizeBytes": 10629632,
+    "latitude": 44.68149991706014,
+    "longitude": 6.958990786224604,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
+    "name": "P2TZ8715_Queyras_2026.JPG",
+    "googleDriveId": "1YpjB-6umgIOPxNqoLg9uAPybDxUWjQgO",
+    "tags": [
+      "Alpes"
+    ],
+    "description": "",
+    "dateTime": "2026-08-09T13:00:20",
+    "timeZone": "+01:00",
+    "height": 3648,
+    "width": 5472,
+    "cameraMaker": "Panasonic",
+    "cameraModel": "DC-TZ200D",
+    "exposureTime": "1/800 sec",
+    "fNumber": "f/8.0",
+    "focalLength": "73.3 mm",
+    "sizeBytes": 8634368,
+    "latitude": 44.68096020631492,
+    "longitude": 6.957137295976281,
+    "multiDayHike": "Balade dans le Queyras"
+  },
+  {
     "name": "P2TZ8682_GTA_2026.JPG",
     "googleDriveId": "1WSIaf_tEaPSUnFnc_Svi6M-Jy-oKmcNt",
     "tags": [
